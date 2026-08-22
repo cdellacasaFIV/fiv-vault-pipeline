@@ -1,0 +1,39 @@
+# Generazione Vespucci: bilancio FIV di un progetto nazionale
+
+Stato fonte: **ufficiale FIV / Federvela**.
+Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia editoriale. Per classifiche sportive usare comunque il dato finale quando disponibile.
+
+## Fonte
+
+- Data Federvela: 1 Dicembre 2025
+- Link: https://federvela.it/2025/12/01/generazione-vespucci-bilancio-fiv-di-un-progetto-nazionale/
+- Categorie: condivisa, Nazionale
+- Archiviato: 2026-08-22
+
+## Perche' tenerla
+
+- Filoni: risultati, giovanile, parasailing/inclusione, istituzionale, formazione/scuola, media/comunicazione
+- Valore: fonte federale primaria per ricostruire decisioni, eventi, risultati, territori, progetti e comunicazione FIV.
+
+## Sintesi operativa
+
+- Temi operativi: risultati, giovanile, parasailing/inclusione, istituzionale, formazione/scuola, media/comunicazione.
+- Angoli memoria: risultato/storico sportivo ufficiale da collegare a classifiche finali quando disponibili, sviluppo giovanile e vivaio FIV, inclusione, parasailing e valore istituzionale, atto, accordo, governance o policy federale.
+- Classi/discipline citate: 470.
+- Nomi, circoli o luoghi da valutare: Generazione Vespucci, Data, Sono, Tour Vespucci, Federazione Italiana Vela, Penisola, Amerigo Vespucci, Ministero, Difesa, Marina Militare Italiana, Difesa Servizi Spa, Vespucci, Genova, Tour Mondiale Vespucci.
+- Numeri/date utili: 01, 2025, 150, 470, 40, 2023, 22, 10, 250, 2026.
+- Testo fonte ufficiale disponibile online: usare il link per verifica puntuale, senza duplicare integralmente l'articolo nel vault.
+
+## Collegamenti utili
+
+- [[Istituzionale FIV/00-Overview|Istituzionale FIV]]
+- [[World Sailing - Mappa Atleti e Classifiche]]
+- [[World Sailing Youth Para Results/02-Indice-Classifiche-Finali|Youth & Para Results]]
+- [[Modelli/Modello-News-Istituzionale|Modello news istituzionale]]
+- [[Modelli/Modello-News-Evento|Modello news evento]]
+
+## Uso editoriale
+
+- Se riguarda risultati: usarla come fonte ufficiale FIV e collegare eventuale classifica finale World Sailing quando presente.
+- Se riguarda governance, accordi o progetti: collegarla alla memoria istituzionale.
+- Se riguarda zone/circoli: collegarla a territorio, circoli e comunicati sportivi.

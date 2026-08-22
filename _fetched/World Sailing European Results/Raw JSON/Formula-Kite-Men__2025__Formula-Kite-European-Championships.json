@@ -1,0 +1,2908 @@
+{
+  "meta": {
+    "event_label": "Formula Kite Men",
+    "regatta_name": "Formula Kite European Championships",
+    "world_sailing_id": "ESP202403HKR",
+    "start_date": "2025-05-11",
+    "end_date": "2025-05-19",
+    "year": "2025",
+    "venue": "Urla, Türkiye, Türkiye",
+    "source_url": "https://sailing.org/regatta/formula-kite-european-championships?ref=ESP202403HKR",
+    "event_api_url": "https://datafeed.sailing.org/stats/api/event/58beb87e-5d32-4ad9-97f5-beebae9cad41?include=crews.country%2Ccrews.sailors.crewRole%2Craces.raceResults.crew.country%2Craces.raceResults.crew.sailors%2Craces.raceResults.crewCompetingStatus%2Craces.status",
+    "regatta_query_url": "https://datafeed.sailing.org/stats/api/regatta?filter%5Blevel.id%5D=b5bca920-933a-4845-9063-5e9f0952020e&filter%5Bevents.boatClass.id%5D=4e1f06bf-915e-404c-8d1a-aa6b83ae5d60&filter%5Bname%5D=European&filterOptions%5Bname%5D=subString&include=venue.country%2Clevel%2Cseason%2Cevents%2Cevents.boatClass%2Cevents.grade&sort%5BstartDate%5D=desc&paginate=50",
+    "event_id": "58beb87e-5d32-4ad9-97f5-beebae9cad41"
+  },
+  "event": {
+    "_admin_name": "IKA - Formula Kite - Men",
+    "_name": "IKA - Formula Kite Men",
+    "boatClass": {
+      "beamLength": null,
+      "boatWeight": null,
+      "classCode": "FK",
+      "classDesigner": "Various",
+      "createdAt": "2021-02-10T09:52:02.000000Z",
+      "deletedAt": null,
+      "headsailArea": null,
+      "hullLength": null,
+      "id": "4e1f06bf-915e-404c-8d1a-aa6b83ae5d60",
+      "mainsailArea": null,
+      "name": "IKA - Formula Kite",
+      "nationalOrigins": null,
+      "numberOfCrew": "1",
+      "numberOfTrapeze": null,
+      "optimalCrewWeight": null,
+      "rsc": "FORMKITE----------",
+      "spinnakerArea": null,
+      "suppliersMessage": null,
+      "updatedAt": "2024-06-28T08:33:22.000000Z",
+      "yearDesigned": null,
+      "yearOfStatus": null
+    },
+    "bonus": null,
+    "competitors": null,
+    "createdAt": "2025-02-11T11:01:59.000000Z",
+    "crews": [
+      {
+        "_admin_name": "(2)  | Pianosi",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ITA",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+          "name": "Italy",
+          "phoneRegionCode": "39 0",
+          "updatedAt": "2023-11-03T15:03:19.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "02409da0-c300-433e-a921-1d0018764083",
+        "invitation": null,
+        "name": null,
+        "netPoints": 2,
+        "percentWon": null,
+        "points": 2,
+        "pointsOverride": null,
+        "position": "2",
+        "sailNumber": "ITA 45",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T13:04:56.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "46214fd2-1db1-4596-8b18-2b1d1dbcb827",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Riccardo",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "4860361b-5d98-41ae-9ecc-a0101d8f9cd3",
+            "knownAs": null,
+            "lastName": "Pianosi",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Riccardo Pianosi",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Pesaro",
+            "primaryCountryId": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+            "salesForceId": null,
+            "secondaryCountryId": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+            "title": null,
+            "updatedAt": "2021-02-11T13:04:56.000000Z",
+            "userId": "4598e0d5-e7c6-453e-a60d-32ced12ba1f1",
+            "weight": null,
+            "worldSailingId": "ITARP80"
+          }
+        ],
+        "totalPoints": 36,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(29)  | Coguiec",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "FRA",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+          "name": "France",
+          "phoneRegionCode": "33",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "04435584-750b-432f-855f-b6640a8a0a15",
+        "invitation": null,
+        "name": null,
+        "netPoints": 145,
+        "percentWon": null,
+        "points": 145,
+        "pointsOverride": null,
+        "position": "29",
+        "sailNumber": "FRA 47",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": "Decision",
+            "categorizationExpiryDate": "2024-03-17",
+            "categorizationGroup": "3",
+            "categorizationId": "a023z000014ebqcAAA",
+            "categorizationStatus": "Complete",
+            "createdAt": "2022-03-22T15:20:56.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "7715d040-fc94-43bc-8730-fc47fb4bc844",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": "2004-07-19",
+            "deletedAt": null,
+            "firstName": "Matheo",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "e839d0b2-3330-422d-b981-b14244c0d1ae",
+            "knownAs": null,
+            "lastName": "Coguiec",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Matheo Coguiec",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "France",
+            "primaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "salesForceId": "0033z0000399j1WAAQ",
+            "secondaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "title": "Mr",
+            "updatedAt": "2022-05-15T08:33:14.000000Z",
+            "userId": "e4bf67cf-7050-497a-bc74-95f49737d5f1",
+            "weight": null,
+            "worldSailingId": "FRAMC94"
+          }
+        ],
+        "totalPoints": 197,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(1)  | Maeder",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "SGP",
+          "createdAt": "2021-02-10T09:52:00.000000Z",
+          "deletedAt": null,
+          "id": "74956587-ebc5-43ad-9bd2-f094dbeedd50",
+          "name": "Singapore",
+          "phoneRegionCode": "65",
+          "updatedAt": "2021-02-10T09:52:00.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "050395d1-b684-4331-9cfd-2e4bef1cba31",
+        "invitation": null,
+        "name": null,
+        "netPoints": 1,
+        "percentWon": null,
+        "points": 1,
+        "pointsOverride": null,
+        "position": "1",
+        "sailNumber": "SGP 35",
+        "sailors": [
+          {
+            "biography": "Max (2006) has a Singaporean mother and a Swiss Father and is as at home on tropical islands as he is in the snowy mountains and in the cities of Asia.  He is committed to rise to the top of the kite racing sport and has built his life and his education around it. Max is fluent in Chinese, English and German, he loves science and philosophy. He is a “foil native”: his first kite with 6 years was a FLYSURFER foil kite and by the age of 11 he already competed in his first hydrofoil pro race. He regards the professional support and innovative drive of the FLYSURFER team the basis of his success.\n\nHe also Identifies very deeply with a wonderful quote from Sir Jackie Stewart the famous F1 Racer:\n“It is only those who have won with integrity and care, over an extended period of time, who have become universally regarded as successful.”",
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": null,
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T07:44:06.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "e4dc3477-ce1f-49a2-b87d-9be923265e5a",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": "2006-09-12",
+            "deletedAt": null,
+            "firstName": "Maximilian",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "b423fe8a-2bb5-43a3-b8d3-d2afa1c06e25",
+            "knownAs": null,
+            "lastName": "Maeder",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Maximilian Maeder",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Singapore",
+            "primaryCountryId": "74956587-ebc5-43ad-9bd2-f094dbeedd50",
+            "salesForceId": "0033z0000399hqMAAQ",
+            "secondaryCountryId": "330518d3-8dfe-4e53-9c39-37c41948a0ed",
+            "title": null,
+            "updatedAt": "2022-11-05T07:18:51.000000Z",
+            "userId": "7f2e5ecb-28ed-455a-aacb-a35037b897cc",
+            "weight": null,
+            "worldSailingId": "SGPMM1"
+          }
+        ],
+        "totalPoints": 89,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(30)  | Maini",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "GBR",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "84951443-e0da-46ce-95e5-7a172baa9f32",
+          "name": "Great Britain",
+          "phoneRegionCode": "44",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "1583e3ac-2257-4144-ac80-7be5466cf81f",
+        "invitation": null,
+        "name": null,
+        "netPoints": 149,
+        "percentWon": null,
+        "points": 149,
+        "pointsOverride": null,
+        "position": "30",
+        "sailNumber": "GBR 59",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-09-07T11:17:28.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "78dc6d02-7830-4982-a8db-6d2d8d74a17d",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Mattia",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "ce95d930-6ff8-4f25-81a1-651a4c21cff3",
+            "knownAs": null,
+            "lastName": "Maini",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Mattia Maini",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "",
+            "primaryCountryId": "84951443-e0da-46ce-95e5-7a172baa9f32",
+            "salesForceId": null,
+            "secondaryCountryId": "84951443-e0da-46ce-95e5-7a172baa9f32",
+            "title": null,
+            "updatedAt": "2021-09-07T11:17:28.000000Z",
+            "userId": "dca2285f-0391-4948-b658-19acc4c9b994",
+            "weight": null,
+            "worldSailingId": "GBRMM119"
+          }
+        ],
+        "totalPoints": 207,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(13)  | Voster",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "GER",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "ddfdfac6-cbeb-4c1e-b631-d5131933c74e",
+          "name": "Germany",
+          "phoneRegionCode": "49",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "21933970-6420-4151-af5e-bf76d09d20c0",
+        "invitation": null,
+        "name": null,
+        "netPoints": 99,
+        "percentWon": null,
+        "points": 99,
+        "pointsOverride": null,
+        "position": "13",
+        "sailNumber": "GER 63",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T12:41:03.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "679d8f79-c22c-4a33-96ab-5136ed00ac00",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Jan",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "ab2542b6-f55e-4f41-a82c-5937efc1c9ed",
+            "knownAs": null,
+            "lastName": "Voster",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Jan Voster",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Müllheim, Germany",
+            "primaryCountryId": "ddfdfac6-cbeb-4c1e-b631-d5131933c74e",
+            "salesForceId": null,
+            "secondaryCountryId": "ddfdfac6-cbeb-4c1e-b631-d5131933c74e",
+            "title": null,
+            "updatedAt": "2021-02-11T12:41:03.000000Z",
+            "userId": "d33d9a85-d881-4177-9a3a-c8a0a0cd0d66",
+            "weight": null,
+            "worldSailingId": "GERJV21"
+          }
+        ],
+        "totalPoints": 159,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(15)  | Runciman",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "USA",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "257b418e-3f42-4a21-b0af-a695bbbb7f05",
+          "name": "United States of America",
+          "phoneRegionCode": "1",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "21bb304d-1035-4890-a550-15048f8973e7",
+        "invitation": null,
+        "name": null,
+        "netPoints": 103,
+        "percentWon": null,
+        "points": 103,
+        "pointsOverride": null,
+        "position": "15",
+        "sailNumber": "USA 34",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T12:16:23.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "85f42bd9-6a8b-45c5-9d20-f8014d26a088",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Noah",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "67318e83-b7af-41dc-b255-43ce621fca3c",
+            "knownAs": null,
+            "lastName": "Runciman",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Noah Runciman",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "USA",
+            "primaryCountryId": "257b418e-3f42-4a21-b0af-a695bbbb7f05",
+            "salesForceId": null,
+            "secondaryCountryId": "257b418e-3f42-4a21-b0af-a695bbbb7f05",
+            "title": null,
+            "updatedAt": "2021-02-11T12:16:23.000000Z",
+            "userId": "c792d24a-7764-4a6d-accc-2ae6e19b78d7",
+            "weight": null,
+            "worldSailingId": "USANR23"
+          }
+        ],
+        "totalPoints": 150,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(17)  | ",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "NED",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "54a7ea44-40d4-4c36-8837-df3660bb72e1",
+          "name": "Netherlands",
+          "phoneRegionCode": "31",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "25536b7c-98bb-4427-a19f-e6845bf4d963",
+        "invitation": null,
+        "name": null,
+        "netPoints": 119,
+        "percentWon": null,
+        "points": 119,
+        "pointsOverride": null,
+        "position": "17",
+        "sailNumber": "NED 66",
+        "sailors": [],
+        "totalPoints": 176,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(3)  | Stragiotti",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "SUI",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "330518d3-8dfe-4e53-9c39-37c41948a0ed",
+          "name": "Switzerland",
+          "phoneRegionCode": "41",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "2c9bdf8f-cf6b-4a09-9b81-3e58f6daa5b7",
+        "invitation": null,
+        "name": null,
+        "netPoints": 3,
+        "percentWon": null,
+        "points": 3,
+        "pointsOverride": null,
+        "position": "3",
+        "sailNumber": "SUI 37",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T13:08:40.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "a84379f7-0ee1-4df9-bd98-8a8b6f5c50bc",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Gian Andrea",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "288b0ce0-aa78-4f1b-96c4-9cc1f58d84c6",
+            "knownAs": null,
+            "lastName": "Stragiotti",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Gian Andrea Stragiotti",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": null,
+            "primaryCountryId": "330518d3-8dfe-4e53-9c39-37c41948a0ed",
+            "salesForceId": null,
+            "secondaryCountryId": "330518d3-8dfe-4e53-9c39-37c41948a0ed",
+            "title": null,
+            "updatedAt": "2021-02-11T13:08:40.000000Z",
+            "userId": "347c22cc-1f29-495b-b4d0-b6d7c5a699ca",
+            "weight": null,
+            "worldSailingId": "SUIGS6"
+          }
+        ],
+        "totalPoints": 111,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(9)  | Boschetti",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ITA",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+          "name": "Italy",
+          "phoneRegionCode": "39 0",
+          "updatedAt": "2023-11-03T15:03:19.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "45484fe9-f780-4c13-a3ca-97afcfb81cfe",
+        "invitation": null,
+        "name": null,
+        "netPoints": 88,
+        "percentWon": null,
+        "points": 88,
+        "pointsOverride": null,
+        "position": "9",
+        "sailNumber": "ITA 57",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": "0000-00-00",
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T12:40:49.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "962ccd9d-27f3-44a5-96fd-04712df52f20",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Lorenzo",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "18424f43-7c93-406e-9bd8-10b82a89ba3d",
+            "knownAs": null,
+            "lastName": "Boschetti",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Lorenzo Boschetti",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "cesena",
+            "primaryCountryId": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+            "salesForceId": null,
+            "secondaryCountryId": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+            "title": null,
+            "updatedAt": "2021-02-11T12:40:49.000000Z",
+            "userId": "de9f0d15-8380-49aa-8d87-5e82c61dd9e6",
+            "weight": null,
+            "worldSailingId": "ITALB113"
+          }
+        ],
+        "totalPoints": 138,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(8)  | Lobo",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "BRA",
+          "createdAt": "2021-02-10T09:51:53.000000Z",
+          "deletedAt": null,
+          "id": "59bf3ea8-c0a3-43ed-8d60-a920e18e92a0",
+          "name": "Brazil",
+          "phoneRegionCode": "55",
+          "updatedAt": "2021-02-10T09:51:53.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "4f387a2c-425e-4504-8161-460f3d22670a",
+        "invitation": null,
+        "name": null,
+        "netPoints": 8,
+        "percentWon": null,
+        "points": 8,
+        "pointsOverride": null,
+        "position": "8",
+        "sailNumber": "BRA 46",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T07:13:35.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "6c0ad4ef-0475-4cdb-b511-eb42d60cf256",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Bruno",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "405e00d1-29b0-4a4f-a83a-ae86733b9460",
+            "knownAs": null,
+            "lastName": "Lobo",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Bruno Lobo",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "São Luís-Maranhão",
+            "primaryCountryId": "59bf3ea8-c0a3-43ed-8d60-a920e18e92a0",
+            "salesForceId": null,
+            "secondaryCountryId": "59bf3ea8-c0a3-43ed-8d60-a920e18e92a0",
+            "title": null,
+            "updatedAt": "2021-02-11T07:13:35.000000Z",
+            "userId": "ed88a307-141b-4e1c-b271-db9bd1f09145",
+            "weight": null,
+            "worldSailingId": "BRABL11"
+          }
+        ],
+        "totalPoints": 109,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(25)  | Paolillo",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ITA",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+          "name": "Italy",
+          "phoneRegionCode": "39 0",
+          "updatedAt": "2023-11-03T15:03:19.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "528b7b7b-db3b-4b74-8dd1-4b2ac6ab17b0",
+        "invitation": null,
+        "name": null,
+        "netPoints": 107,
+        "percentWon": null,
+        "points": 107,
+        "pointsOverride": null,
+        "position": "25",
+        "sailNumber": "ITA 43",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T10:05:31.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "731ebd0e-04db-4d1f-8b57-62aa4a3cfcdc",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Giuseppe",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "892fee31-fe55-4519-ad88-454bae59ed3f",
+            "knownAs": null,
+            "lastName": "Paolillo",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Giuseppe Paolillo",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Barletta",
+            "primaryCountryId": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+            "salesForceId": null,
+            "secondaryCountryId": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+            "title": null,
+            "updatedAt": "2021-02-11T10:05:31.000000Z",
+            "userId": "8eeacde3-db3f-4211-8257-e99073faf680",
+            "weight": null,
+            "worldSailingId": "ITAGP178"
+          }
+        ],
+        "totalPoints": 157,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(18)  | Pes Fonseca",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "BRA",
+          "createdAt": "2021-02-10T09:51:53.000000Z",
+          "deletedAt": null,
+          "id": "59bf3ea8-c0a3-43ed-8d60-a920e18e92a0",
+          "name": "Brazil",
+          "phoneRegionCode": "55",
+          "updatedAt": "2021-02-10T09:51:53.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "5a46876c-555a-4248-b00e-8fcb1c85c026",
+        "invitation": null,
+        "name": null,
+        "netPoints": 128,
+        "percentWon": null,
+        "points": 128,
+        "pointsOverride": null,
+        "position": "18",
+        "sailNumber": "BRA 42",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2022-04-19T11:28:37.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "c602a0d5-c1b2-4d8e-8058-0dcbe5749cfc",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Lucas",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "cdb1da75-81f4-4559-8676-d9cd32703a8d",
+            "knownAs": null,
+            "lastName": "Pes Fonseca",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Lucas Pes Fonseca",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "",
+            "primaryCountryId": "59bf3ea8-c0a3-43ed-8d60-a920e18e92a0",
+            "salesForceId": null,
+            "secondaryCountryId": "59bf3ea8-c0a3-43ed-8d60-a920e18e92a0",
+            "title": null,
+            "updatedAt": "2022-04-19T11:28:37.000000Z",
+            "userId": "725c8c6d-f0a6-40b7-a717-4c382471a4c0",
+            "weight": null,
+            "worldSailingId": "BRALP27"
+          }
+        ],
+        "totalPoints": 186,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(11)  | Dolenc",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "CRO",
+          "createdAt": "2021-02-10T09:51:57.000000Z",
+          "deletedAt": null,
+          "id": "10636bf9-b0ba-4db5-84a1-28f72d70ccbe",
+          "name": "Croatia",
+          "phoneRegionCode": "385",
+          "updatedAt": "2021-02-10T09:51:57.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "638bc9e7-f237-4402-a65c-75b52d5e7f2f",
+        "invitation": null,
+        "name": null,
+        "netPoints": 95,
+        "percentWon": null,
+        "points": 95,
+        "pointsOverride": null,
+        "position": "11",
+        "sailNumber": "CRO 50",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T01:09:38.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "09bc610e-6c76-43ae-b9f2-d1da3b817105",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Martin",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "dc2cd84c-2bf8-4330-b698-5e6e58073b24",
+            "knownAs": null,
+            "lastName": "Dolenc",
+            "marital_status": "single",
+            "middleName": null,
+            "name": "Martin Dolenc",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Split",
+            "primaryCountryId": "10636bf9-b0ba-4db5-84a1-28f72d70ccbe",
+            "salesForceId": null,
+            "secondaryCountryId": "10636bf9-b0ba-4db5-84a1-28f72d70ccbe",
+            "title": null,
+            "updatedAt": "2021-02-11T01:09:38.000000Z",
+            "userId": "3b7a531a-d2f2-445b-903c-8b1f50fd78dc",
+            "weight": null,
+            "worldSailingId": "CROMD5"
+          }
+        ],
+        "totalPoints": 130,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(34)  | Naismith",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "NZL",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "065c1a55-ba33-4078-aeca-c93a7a42b3fe",
+          "name": "New Zealand",
+          "phoneRegionCode": "64",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "772846e4-9113-4267-89e1-7d8c566c4bd8",
+        "invitation": null,
+        "name": null,
+        "netPoints": 167.3,
+        "percentWon": null,
+        "points": 167.3,
+        "pointsOverride": null,
+        "position": "34",
+        "sailNumber": "NZL 62",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": null,
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2022-08-16T21:53:42.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "a252dc69-2e7d-418d-8bcf-fc6bbd42f72a",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": "2002-10-17",
+            "deletedAt": null,
+            "firstName": "Lochy",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "fbbeeda6-18b0-43eb-9a40-a40a30b661ea",
+            "knownAs": "Lochy",
+            "lastName": "Naismith",
+            "marital_status": null,
+            "middleName": "Robert",
+            "name": "Lochy Naismith",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "New Zealand",
+            "primaryCountryId": "065c1a55-ba33-4078-aeca-c93a7a42b3fe",
+            "salesForceId": "0033z00003CfOGqAAN",
+            "secondaryCountryId": "065c1a55-ba33-4078-aeca-c93a7a42b3fe",
+            "title": null,
+            "updatedAt": "2022-08-16T22:04:13.000000Z",
+            "userId": "a1321f96-dec5-490d-880c-5b68177fca22",
+            "weight": null,
+            "worldSailingId": "NZLLN2"
+          }
+        ],
+        "totalPoints": 222.3,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(28)  | Marx",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ITA",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+          "name": "Italy",
+          "phoneRegionCode": "39 0",
+          "updatedAt": "2023-11-03T15:03:19.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "79f88bd7-7e9b-4d3b-8906-d5cfb4d1e818",
+        "invitation": null,
+        "name": null,
+        "netPoints": 129,
+        "percentWon": null,
+        "points": 129,
+        "pointsOverride": null,
+        "position": "28",
+        "sailNumber": "ITA 44",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-09-23T10:05:24.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "2847bb75-32e8-4752-a368-c4937483d882",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Flavio",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "c480c396-438e-4c50-b01a-a74eb31e213c",
+            "knownAs": null,
+            "lastName": "Marx",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Flavio Marx",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "",
+            "primaryCountryId": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+            "salesForceId": null,
+            "secondaryCountryId": "b1e3eb38-a9d4-4894-a874-b24c5e76d2b4",
+            "title": null,
+            "updatedAt": "2021-09-23T10:05:24.000000Z",
+            "userId": "b4276dda-593b-4f69-a4bb-674d4a397dff",
+            "weight": null,
+            "worldSailingId": "ITAFM170"
+          }
+        ],
+        "totalPoints": 174,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(14)  | Walton- Keim",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "NZL",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "065c1a55-ba33-4078-aeca-c93a7a42b3fe",
+          "name": "New Zealand",
+          "phoneRegionCode": "64",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "7dae28d1-3bb2-4485-89dc-046620b8e29b",
+        "invitation": null,
+        "name": null,
+        "netPoints": 100,
+        "percentWon": null,
+        "points": 100,
+        "pointsOverride": null,
+        "position": "14",
+        "sailNumber": "NZL 61",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T11:40:24.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "3d4da42d-6cb8-4676-9fda-6a3016a32857",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": "0000-00-00",
+            "deletedAt": null,
+            "firstName": "Lukas",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "6ae28f76-25fd-41fe-b83b-d384beeaf39e",
+            "knownAs": null,
+            "lastName": "Walton- Keim",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Lukas Walton- Keim",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "New Zealand",
+            "primaryCountryId": "065c1a55-ba33-4078-aeca-c93a7a42b3fe",
+            "salesForceId": null,
+            "secondaryCountryId": "065c1a55-ba33-4078-aeca-c93a7a42b3fe",
+            "title": null,
+            "updatedAt": "2021-02-11T11:40:24.000000Z",
+            "userId": "297f3ded-b781-447b-95db-954c94c13352",
+            "weight": null,
+            "worldSailingId": "NZLLW3"
+          }
+        ],
+        "totalPoints": 152,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(4)  | Maramenidis",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "GRE",
+          "createdAt": "2021-02-10T09:51:54.000000Z",
+          "deletedAt": null,
+          "id": "496e3217-1797-4f33-870f-2b3769abdbb8",
+          "name": "Greece",
+          "phoneRegionCode": "30",
+          "updatedAt": "2021-02-10T09:51:54.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "8284ebe1-4061-4c2f-8acc-d221987500c7",
+        "invitation": null,
+        "name": null,
+        "netPoints": 4,
+        "percentWon": null,
+        "points": 4,
+        "pointsOverride": null,
+        "position": "4",
+        "sailNumber": "GRE 38",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": "0001-01-01",
+            "categorizationGroup": null,
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T08:47:00.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "4f0fa97b-ca24-4c8c-bd90-692e6b522f45",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": "2002-06-04",
+            "deletedAt": null,
+            "firstName": "Kameron Alexandros",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "4675c3e6-6a4d-4631-8ea5-de92def3019f",
+            "knownAs": null,
+            "lastName": "Maramenidis",
+            "marital_status": null,
+            "middleName": "Alexandre",
+            "name": "Kameron Alexandros Maramenidis",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "USA NC outer banks nags head",
+            "primaryCountryId": "496e3217-1797-4f33-870f-2b3769abdbb8",
+            "salesForceId": null,
+            "secondaryCountryId": "257b418e-3f42-4a21-b0af-a695bbbb7f05",
+            "title": null,
+            "updatedAt": "2022-08-25T13:44:48.000000Z",
+            "userId": "044ca663-4185-4975-9d5a-f5b233298d04",
+            "weight": null,
+            "worldSailingId": "GRECM13"
+          }
+        ],
+        "totalPoints": 89,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(20)  | Pires de Lima",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "POR",
+          "createdAt": "2021-02-10T09:51:54.000000Z",
+          "deletedAt": null,
+          "id": "f4724c9a-aab2-4614-b51d-5699107c6b9f",
+          "name": "Portugal",
+          "phoneRegionCode": "3521",
+          "updatedAt": "2021-02-10T09:51:54.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "8e584384-897b-41c7-9fb7-41fbbb177c46",
+        "invitation": null,
+        "name": null,
+        "netPoints": 70,
+        "percentWon": null,
+        "points": 70,
+        "pointsOverride": null,
+        "position": "20",
+        "sailNumber": "POR 31",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": "Decision",
+            "categorizationExpiryDate": "2025-06-07",
+            "categorizationGroup": "3",
+            "categorizationId": "a023z000015zcdJAAQ",
+            "categorizationStatus": "Complete",
+            "createdAt": "2021-02-11T07:42:16.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "902f1c30-b2e0-4365-946f-f82df180d232",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": "2000-07-23",
+            "deletedAt": null,
+            "firstName": "Tomas",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "d60d2e4e-25b9-485d-bdb6-87df43dcd664",
+            "knownAs": "Tomás",
+            "lastName": "Pires de Lima",
+            "marital_status": "Single",
+            "middleName": null,
+            "name": "Tomas Pires de Lima",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "PORTO,PORTUGAL",
+            "primaryCountryId": "f4724c9a-aab2-4614-b51d-5699107c6b9f",
+            "salesForceId": "0033z00003NIfxlAAD",
+            "secondaryCountryId": "f4724c9a-aab2-4614-b51d-5699107c6b9f",
+            "title": null,
+            "updatedAt": "2023-06-07T11:34:31.000000Z",
+            "userId": "483b8a26-7e6d-4098-8014-301bf6469a09",
+            "weight": null,
+            "worldSailingId": "PORTP2"
+          }
+        ],
+        "totalPoints": 122,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(33)  | Cairo",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ESP",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+          "name": "Spain",
+          "phoneRegionCode": "349",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "910b9b93-5978-4891-9e4b-59b0c7bcd41e",
+        "invitation": null,
+        "name": null,
+        "netPoints": 158,
+        "percentWon": null,
+        "points": 158,
+        "pointsOverride": null,
+        "position": "33",
+        "sailNumber": "ESP 54",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T06:39:26.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "842da4ae-08b6-414f-8a48-e2b3292fe065",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Marcelo",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "81d6fe22-9fea-4d12-89d5-701c0110ad23",
+            "knownAs": null,
+            "lastName": "Cairo",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Marcelo Cairo",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Reus",
+            "primaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "salesForceId": null,
+            "secondaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "title": null,
+            "updatedAt": "2021-02-11T06:39:26.000000Z",
+            "userId": "0b7f359c-6920-4639-be08-d6294d5281d6",
+            "weight": null,
+            "worldSailingId": "ESPMC42"
+          }
+        ],
+        "totalPoints": 209,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(5)  | Marciniak",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "POL",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "e48d1e16-3759-496f-9936-aee38e77a189",
+          "name": "Poland",
+          "phoneRegionCode": "48",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "92ecea2e-e784-4f7e-b83c-154c47bfe300",
+        "invitation": null,
+        "name": null,
+        "netPoints": 5,
+        "percentWon": null,
+        "points": 5,
+        "pointsOverride": null,
+        "position": "5",
+        "sailNumber": "POL 65",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T07:03:01.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "90ececa2-4bee-4efd-b6f9-0ba9fec55231",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Jan",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "8223bec0-9404-4c57-8fc3-be81855a1617",
+            "knownAs": null,
+            "lastName": "Marciniak",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Jan Marciniak",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Włocławek",
+            "primaryCountryId": "e48d1e16-3759-496f-9936-aee38e77a189",
+            "salesForceId": null,
+            "secondaryCountryId": "e48d1e16-3759-496f-9936-aee38e77a189",
+            "title": null,
+            "updatedAt": "2021-02-11T07:03:01.000000Z",
+            "userId": "d1b0c918-071b-47bb-99a6-1818cb7d2e1a",
+            "weight": null,
+            "worldSailingId": "POLJM20"
+          }
+        ],
+        "totalPoints": 138,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(27)  | Espi Vano",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ESP",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+          "name": "Spain",
+          "phoneRegionCode": "349",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "987a5687-3d2f-4e43-ad86-3155bd0d890b",
+        "invitation": null,
+        "name": null,
+        "netPoints": 129,
+        "percentWon": null,
+        "points": 129,
+        "pointsOverride": null,
+        "position": "27",
+        "sailNumber": "ESP 51",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-09-23T10:05:56.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "dd5438d7-7816-4c7a-b68c-12a12eee16be",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Jacobo",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "99d853e9-ecd4-4e22-8167-e3b51a4128fe",
+            "knownAs": null,
+            "lastName": "Espi Vano",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Jacobo Espi Vano",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "",
+            "primaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "salesForceId": null,
+            "secondaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "title": null,
+            "updatedAt": "2021-09-23T10:05:56.000000Z",
+            "userId": "f391c763-d0c6-4eb3-b519-812575cad597",
+            "weight": null,
+            "worldSailingId": "ESPJE28"
+          }
+        ],
+        "totalPoints": 188,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(36)  | GKARIPIS",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "GRE",
+          "createdAt": "2021-02-10T09:51:54.000000Z",
+          "deletedAt": null,
+          "id": "496e3217-1797-4f33-870f-2b3769abdbb8",
+          "name": "Greece",
+          "phoneRegionCode": "30",
+          "updatedAt": "2021-02-10T09:51:54.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "a52894db-db04-4fb6-9695-c0f0c5c5bd44",
+        "invitation": null,
+        "name": null,
+        "netPoints": 199,
+        "percentWon": null,
+        "points": 199,
+        "pointsOverride": null,
+        "position": "36",
+        "sailNumber": "GRE 33",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": "Complete",
+            "categorizationExpiryDate": "2017-07-20",
+            "categorizationGroup": "1",
+            "categorizationId": null,
+            "categorizationStatus": "Complete",
+            "createdAt": "2021-02-11T11:48:31.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "72099e02-f0b4-4a46-b167-11bfef889e50",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "ANASTASIOS",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "aea448ea-b63c-4bf2-a02b-fe5d9be06eeb",
+            "knownAs": null,
+            "lastName": "GKARIPIS",
+            "marital_status": null,
+            "middleName": null,
+            "name": "ANASTASIOS GKARIPIS",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": null,
+            "primaryCountryId": "496e3217-1797-4f33-870f-2b3769abdbb8",
+            "salesForceId": null,
+            "secondaryCountryId": "496e3217-1797-4f33-870f-2b3769abdbb8",
+            "title": null,
+            "updatedAt": "2021-02-11T11:48:31.000000Z",
+            "userId": "6b837ce6-01da-4a48-9e14-33cda5adfe0a",
+            "weight": null,
+            "worldSailingId": "GREAG11"
+          }
+        ],
+        "totalPoints": 258,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(7)  | Koska",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "CZE",
+          "createdAt": "2021-02-10T09:51:53.000000Z",
+          "deletedAt": null,
+          "id": "e5e08be7-ea31-4527-b810-7f7e8629fe36",
+          "name": "Czechia",
+          "phoneRegionCode": "42",
+          "updatedAt": "2024-02-27T11:56:00.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "b4a77354-2861-40d3-a0e1-45742ab9303f",
+        "invitation": null,
+        "name": null,
+        "netPoints": 7,
+        "percentWon": null,
+        "points": 7,
+        "pointsOverride": null,
+        "position": "7",
+        "sailNumber": "CZE 32",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": null,
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-09-23T10:05:31.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "9f6ecef5-741f-497d-868b-e9a421771449",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": "2005-03-31",
+            "deletedAt": null,
+            "firstName": "Vojtech",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "e35ad2bc-e088-4d1c-992d-a7c2d4615c18",
+            "knownAs": null,
+            "lastName": "Koska",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Vojta Koska",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Prag",
+            "primaryCountryId": "e5e08be7-ea31-4527-b810-7f7e8629fe36",
+            "salesForceId": null,
+            "secondaryCountryId": "e5e08be7-ea31-4527-b810-7f7e8629fe36",
+            "title": null,
+            "updatedAt": "2026-04-15T10:01:36.000000Z",
+            "userId": "6896ce25-fae4-4b15-bd74-cc9815bed013",
+            "weight": null,
+            "worldSailingId": "CZEVK3"
+          }
+        ],
+        "totalPoints": 134,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(23)  | Climent",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ESP",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+          "name": "Spain",
+          "phoneRegionCode": "349",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "b55e401b-a143-4bf1-b4b1-bd887d661597",
+        "invitation": null,
+        "name": null,
+        "netPoints": 88,
+        "percentWon": null,
+        "points": 88,
+        "pointsOverride": null,
+        "position": "23",
+        "sailNumber": "ESP 53",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T01:08:35.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "7097c9fc-06ee-40ab-8a42-2d32cb90a26b",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Alejandro",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "b3df1eeb-fc13-4b76-8315-b049321a7a9a",
+            "knownAs": null,
+            "lastName": "Climent",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Alejandro Climent",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": null,
+            "primaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "salesForceId": null,
+            "secondaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "title": null,
+            "updatedAt": "2021-02-11T01:08:35.000000Z",
+            "userId": "9fee9a09-35b2-4720-bbf5-fd90b4d4e19e",
+            "weight": null,
+            "worldSailingId": "ESPAC60"
+          }
+        ],
+        "totalPoints": 133,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(10)  | Mazella",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "FRA",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+          "name": "France",
+          "phoneRegionCode": "33",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "ba481993-c25b-4252-90e1-fb60c8eafaa0",
+        "invitation": null,
+        "name": null,
+        "netPoints": 95,
+        "percentWon": null,
+        "points": 95,
+        "pointsOverride": null,
+        "position": "10",
+        "sailNumber": "FRA 30",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T05:09:56.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "994c183d-72d1-40a5-b6a9-270ba37e1f30",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Axel",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "f6344a00-c746-4515-843a-b9fd6eec9fba",
+            "knownAs": null,
+            "lastName": "Mazella",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Axel Mazella",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Toulon",
+            "primaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "salesForceId": null,
+            "secondaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "title": null,
+            "updatedAt": "2021-02-11T05:09:56.000000Z",
+            "userId": "c84818b1-62d5-4859-8bb5-d8f28fc6a871",
+            "weight": null,
+            "worldSailingId": "FRAAM47"
+          }
+        ],
+        "totalPoints": 136,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(22)  | Labordère",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "FRA",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+          "name": "France",
+          "phoneRegionCode": "33",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "bd1d00a0-d914-4bad-bff1-9d545b5a3796",
+        "invitation": null,
+        "name": null,
+        "netPoints": 87,
+        "percentWon": null,
+        "points": 87,
+        "pointsOverride": null,
+        "position": "22",
+        "sailNumber": "FRA 48",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2022-02-11T21:42:39.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "2130c3b0-c195-40cb-a115-d48cdbd655ef",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Paul",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "3a7ed94a-863f-43e6-ac70-c78ec656089c",
+            "knownAs": null,
+            "lastName": "Labordère",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Paul Labordère",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "",
+            "primaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "salesForceId": null,
+            "secondaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "title": null,
+            "updatedAt": "2022-02-11T21:42:39.000000Z",
+            "userId": "03d31483-cd1f-4a72-8a0e-f7c1940e7ed8",
+            "weight": null,
+            "worldSailingId": "FRAPL91"
+          }
+        ],
+        "totalPoints": 137,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(32)  | Collado",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ESP",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+          "name": "Spain",
+          "phoneRegionCode": "349",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "bdef475e-6c14-4cf3-92ad-72e724eb8f35",
+        "invitation": null,
+        "name": null,
+        "netPoints": 154,
+        "percentWon": null,
+        "points": 154,
+        "pointsOverride": null,
+        "position": "32",
+        "sailNumber": "ESP 52",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T10:59:35.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "faadee59-fc5a-459b-8fc6-54cc397de29c",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Leo",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "a00eb106-7e0c-4666-8e3e-a6b99239b1c2",
+            "knownAs": null,
+            "lastName": "Collado",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Leo Collado",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Denia",
+            "primaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "salesForceId": null,
+            "secondaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "title": null,
+            "updatedAt": "2021-02-11T10:59:35.000000Z",
+            "userId": "536d1f73-34b4-4261-a49d-c55cfe956f39",
+            "weight": null,
+            "worldSailingId": "ESPLC27"
+          }
+        ],
+        "totalPoints": 210,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(21)  | Maeder",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "SUI",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "330518d3-8dfe-4e53-9c39-37c41948a0ed",
+          "name": "Switzerland",
+          "phoneRegionCode": "41",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "c742079d-b4ff-42d0-9127-22c05a01d581",
+        "invitation": null,
+        "name": null,
+        "netPoints": 86,
+        "percentWon": null,
+        "points": 86,
+        "pointsOverride": null,
+        "position": "21",
+        "sailNumber": "SUI 36",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-09-07T11:17:46.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "9653dc4d-b3ff-497a-bbf3-dc975e6dd9d2",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Karl",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "5b20e4b3-a3a1-4020-87b6-3d6df1318e7f",
+            "knownAs": null,
+            "lastName": "Maeder",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Karl Maeder",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Switzerland",
+            "primaryCountryId": "330518d3-8dfe-4e53-9c39-37c41948a0ed",
+            "salesForceId": null,
+            "secondaryCountryId": "330518d3-8dfe-4e53-9c39-37c41948a0ed",
+            "title": null,
+            "updatedAt": "2021-09-07T11:17:46.000000Z",
+            "userId": "8b382d30-5202-492f-b621-d159428d3cd6",
+            "weight": null,
+            "worldSailingId": "SUIKM1"
+          }
+        ],
+        "totalPoints": 138,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(19)  | Ehlen",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "MON",
+          "createdAt": "2021-02-10T09:52:06.000000Z",
+          "deletedAt": null,
+          "id": "234488a6-1dc9-41f5-9dbd-c4a95945df51",
+          "name": "Monaco",
+          "phoneRegionCode": "377",
+          "updatedAt": "2021-02-10T09:52:06.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "c96d3eb3-e94e-4e02-a4d0-a4f96768d33f",
+        "invitation": null,
+        "name": null,
+        "netPoints": 140,
+        "percentWon": null,
+        "points": 140,
+        "pointsOverride": null,
+        "position": "19",
+        "sailNumber": "MON 55",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T13:04:45.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "0748d4b4-612f-484c-bb5f-ba4673edc840",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Alexander",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "93347800-bc7b-4616-8c90-6acfdffbea53",
+            "knownAs": null,
+            "lastName": "Ehlen",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Alexander Ehlen",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "MONACO",
+            "primaryCountryId": "234488a6-1dc9-41f5-9dbd-c4a95945df51",
+            "salesForceId": null,
+            "secondaryCountryId": "234488a6-1dc9-41f5-9dbd-c4a95945df51",
+            "title": null,
+            "updatedAt": "2021-02-11T13:04:45.000000Z",
+            "userId": "e4724182-65bf-4dd2-8e59-263b6693792a",
+            "weight": null,
+            "worldSailingId": "MONAE2"
+          }
+        ],
+        "totalPoints": 191,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(37)  | Garcia",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "ESP",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+          "name": "Spain",
+          "phoneRegionCode": "349",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "cdf6cfdb-8176-48bf-8f8f-9e2260e6be37",
+        "invitation": null,
+        "name": null,
+        "netPoints": 212,
+        "percentWon": null,
+        "points": 212,
+        "pointsOverride": null,
+        "position": "37",
+        "sailNumber": "ESP 41",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": "0000-00-00",
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T05:26:05.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "ecd0ef4a-7ca3-4577-8db1-7444fcedacc5",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Oscar",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "1491ed7c-3c54-480e-a6fc-b514cb1ac3fb",
+            "knownAs": null,
+            "lastName": "Garcia",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Oscar Garcia",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Santa Cruz de Tenerife",
+            "primaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "salesForceId": null,
+            "secondaryCountryId": "5ac296b1-a784-4200-9f45-a22ec04109cd",
+            "title": null,
+            "updatedAt": "2021-02-11T05:26:05.000000Z",
+            "userId": "d2e721c7-e863-4007-867f-8bd3b29f3f56",
+            "weight": null,
+            "worldSailingId": "ESPOG11"
+          }
+        ],
+        "totalPoints": 271,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(35)  | Balewicz",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "POL",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "e48d1e16-3759-496f-9936-aee38e77a189",
+          "name": "Poland",
+          "phoneRegionCode": "48",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "d1dfe8ea-5a4e-4385-bb5f-897b5976040f",
+        "invitation": null,
+        "name": null,
+        "netPoints": 170,
+        "percentWon": null,
+        "points": 170,
+        "pointsOverride": null,
+        "position": "35",
+        "sailNumber": "POL 60",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T13:08:38.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "1bb62f0c-fabc-4ff6-a1fa-49ba9072eb26",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Jakub",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "3986c65a-fe4a-42f8-afc3-66c554125f68",
+            "knownAs": null,
+            "lastName": "Balewicz",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Jakub Balewicz",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Poland Gdansk",
+            "primaryCountryId": "e48d1e16-3759-496f-9936-aee38e77a189",
+            "salesForceId": null,
+            "secondaryCountryId": "e48d1e16-3759-496f-9936-aee38e77a189",
+            "title": null,
+            "updatedAt": "2021-02-11T13:08:38.000000Z",
+            "userId": "ebc10c59-659a-4abe-9ba6-91af2935c78e",
+            "weight": null,
+            "worldSailingId": "POLJB13"
+          }
+        ],
+        "totalPoints": 221,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(26)  | QUERNEC",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "FRA",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+          "name": "France",
+          "phoneRegionCode": "33",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "d65ce538-40cb-455f-9763-f4afecd66a81",
+        "invitation": null,
+        "name": null,
+        "netPoints": 114,
+        "percentWon": null,
+        "points": 114,
+        "pointsOverride": null,
+        "position": "26",
+        "sailNumber": "FRA 49",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T07:43:57.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "83e267a6-19c8-4409-a15e-c0651ee7ca7c",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Malo",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "f8b1899e-820c-4a87-b3c6-2839ae9c3362",
+            "knownAs": null,
+            "lastName": "QUERNEC",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Malo QUERNEC",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Vannes",
+            "primaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "salesForceId": null,
+            "secondaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "title": null,
+            "updatedAt": "2021-02-11T07:43:57.000000Z",
+            "userId": "7634b3f9-430b-4999-bb32-117f24d6cdda",
+            "weight": null,
+            "worldSailingId": "FRAMQ5"
+          }
+        ],
+        "totalPoints": 159,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(6)  | Gomez",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "FRA",
+          "createdAt": "2021-02-10T09:51:52.000000Z",
+          "deletedAt": null,
+          "id": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+          "name": "France",
+          "phoneRegionCode": "33",
+          "updatedAt": "2021-02-10T09:51:52.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "deae3a43-5f6f-4022-8ac2-00049a70c0be",
+        "invitation": null,
+        "name": null,
+        "netPoints": 6,
+        "percentWon": null,
+        "points": 6,
+        "pointsOverride": null,
+        "position": "6",
+        "sailNumber": "FRA 39",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T08:47:02.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "b5eb0fc9-c104-436d-83c4-4b55101d7ed9",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Benoit",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "d1dd440b-996a-4a1a-a9df-058340a88c72",
+            "knownAs": null,
+            "lastName": "Gomez",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Benoit Gomez",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "bron",
+            "primaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "salesForceId": null,
+            "secondaryCountryId": "b484585e-58d2-4377-bb6a-4b7c062b08d4",
+            "title": null,
+            "updatedAt": "2021-02-11T08:47:02.000000Z",
+            "userId": "be7ef011-b5f1-487b-b0a7-c4a3c383dbc1",
+            "weight": null,
+            "worldSailingId": "FRABG40"
+          }
+        ],
+        "totalPoints": 83,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(12)  | Maus",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "GER",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "ddfdfac6-cbeb-4c1e-b631-d5131933c74e",
+          "name": "Germany",
+          "phoneRegionCode": "49",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "ef29e431-1375-4682-8cf1-c187130ea877",
+        "invitation": null,
+        "name": null,
+        "netPoints": 98.5,
+        "percentWon": null,
+        "points": 98.5,
+        "pointsOverride": null,
+        "position": "12",
+        "sailNumber": "GER 64",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T01:08:34.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "f7d613a6-8023-4ffd-a9c3-a15b2aeee9de",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Jannis",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "a6130e28-da39-417f-9c06-6453afbd0bc0",
+            "knownAs": null,
+            "lastName": "Maus",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Jannis Maus",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Oldenburg",
+            "primaryCountryId": "ddfdfac6-cbeb-4c1e-b631-d5131933c74e",
+            "salesForceId": null,
+            "secondaryCountryId": "ddfdfac6-cbeb-4c1e-b631-d5131933c74e",
+            "title": null,
+            "updatedAt": "2021-02-11T01:08:34.000000Z",
+            "userId": "fa4ae810-0330-44e3-870c-650260f147d4",
+            "weight": null,
+            "worldSailingId": "GERJM49"
+          }
+        ],
+        "totalPoints": 150.5,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(31)  | Keaton",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "USA",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "257b418e-3f42-4a21-b0af-a695bbbb7f05",
+          "name": "United States of America",
+          "phoneRegionCode": "1",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "f1a02f1a-d184-475b-b7ba-58bc7ff9ff6f",
+        "invitation": null,
+        "name": null,
+        "netPoints": 151,
+        "percentWon": null,
+        "points": 151,
+        "pointsOverride": null,
+        "position": "31",
+        "sailNumber": "USA 40",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": null,
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2022-05-25T19:45:04.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "426760b2-858c-4e6e-95a7-c0ea9c485ca8",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": "1992-01-25",
+            "deletedAt": null,
+            "firstName": "Adam",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "5eb236ba-f609-4a9f-81ec-13df6b14691a",
+            "knownAs": null,
+            "lastName": "Keaton",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Adam Keaton",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": null,
+            "primaryCountryId": "257b418e-3f42-4a21-b0af-a695bbbb7f05",
+            "salesForceId": null,
+            "secondaryCountryId": null,
+            "title": null,
+            "updatedAt": "2022-05-25T19:45:04.000000Z",
+            "userId": "db24ddd4-e045-43fe-829e-ba67ce78e7aa",
+            "weight": null,
+            "worldSailingId": "USAAK133"
+          }
+        ],
+        "totalPoints": 209,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(16)  | Dickinson",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "GBR",
+          "createdAt": "2021-02-10T09:51:51.000000Z",
+          "deletedAt": null,
+          "id": "84951443-e0da-46ce-95e5-7a172baa9f32",
+          "name": "Great Britain",
+          "phoneRegionCode": "44",
+          "updatedAt": "2021-02-10T09:51:51.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "f799cf39-f457-4c46-b678-1efa42c8b1f9",
+        "invitation": null,
+        "name": null,
+        "netPoints": 108.8,
+        "percentWon": null,
+        "points": 108.8,
+        "pointsOverride": null,
+        "position": "16",
+        "sailNumber": "GBR 58",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-02-11T11:04:00.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "a95bdcba-4d34-4517-b810-b53e4860f329",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Sam",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "ceacef44-cc5a-43ae-b58c-2f309662b17a",
+            "knownAs": null,
+            "lastName": "Dickinson",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Sam Dickinson",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Chichester",
+            "primaryCountryId": "84951443-e0da-46ce-95e5-7a172baa9f32",
+            "salesForceId": null,
+            "secondaryCountryId": "84951443-e0da-46ce-95e5-7a172baa9f32",
+            "title": null,
+            "updatedAt": "2021-02-11T11:04:00.000000Z",
+            "userId": "be93bbc7-bd08-4f69-96da-07b58bf5c92e",
+            "weight": null,
+            "worldSailingId": "GBRSD77"
+          }
+        ],
+        "totalPoints": 164.8,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      },
+      {
+        "_admin_name": "(24)  | Corniel",
+        "bonus": null,
+        "country": {
+          "active": 1,
+          "countryCode": "DOM",
+          "createdAt": "2021-02-10T09:52:04.000000Z",
+          "deletedAt": null,
+          "id": "c1f3f45e-c17d-4bef-af73-cc991f14aff1",
+          "name": "Dominican Republic",
+          "phoneRegionCode": "1 809",
+          "updatedAt": "2021-02-10T09:52:04.000000Z"
+        },
+        "createdAt": "2025-05-28T11:17:31.000000Z",
+        "deletedAt": null,
+        "id": "fc73c1c7-4f84-4e09-a0c9-799f76c732f4",
+        "invitation": null,
+        "name": null,
+        "netPoints": 94,
+        "percentWon": null,
+        "points": 94,
+        "pointsOverride": null,
+        "position": "24",
+        "sailNumber": "DOM 56",
+        "sailors": [
+          {
+            "biography": null,
+            "categorizationAction": null,
+            "categorizationExpiryDate": null,
+            "categorizationGroup": "",
+            "categorizationId": null,
+            "categorizationStatus": null,
+            "createdAt": "2021-08-25T13:57:25.000000Z",
+            "crewRole": {
+              "id": "692e69f7-c844-400b-a872-df4addb494e5",
+              "name": "skipper"
+            },
+            "crewSailor": {
+              "createdAt": "2025-05-28T11:17:31.000000Z",
+              "crewRole": {
+                "id": "692e69f7-c844-400b-a872-df4addb494e5",
+                "name": "skipper"
+              },
+              "deletedAt": null,
+              "id": "e17a3501-f55f-4f61-9fa3-953051309e64",
+              "updatedAt": "2025-05-28T11:17:31.000000Z"
+            },
+            "dateOfBirth": null,
+            "deletedAt": null,
+            "firstName": "Deury",
+            "formerLastName": null,
+            "gender": {
+              "id": "1b1bd3dc-4c7b-47ef-a622-f28f3a9a8ae6",
+              "name": "Male"
+            },
+            "height": null,
+            "id": "1ed086c0-4fed-4f61-89ce-6e028a6e5410",
+            "knownAs": null,
+            "lastName": "Corniel",
+            "marital_status": null,
+            "middleName": null,
+            "name": "Deury Corniel",
+            "nickname": null,
+            "nonMember": 0,
+            "placeOfBirth": "Puerto Plata",
+            "primaryCountryId": "c1f3f45e-c17d-4bef-af73-cc991f14aff1",
+            "salesForceId": null,
+            "secondaryCountryId": "c1f3f45e-c17d-4bef-af73-cc991f14aff1",
+            "title": null,
+            "updatedAt": "2021-08-25T13:57:25.000000Z",
+            "userId": "bd0192ed-ef9f-4fc0-866d-0332a51e297e",
+            "weight": null,
+            "worldSailingId": "DOMDC1"
+          }
+        ],
+        "totalPoints": 136,
+        "updatedAt": "2025-05-28T11:17:31.000000Z"
+      }
+    ],
+    "deletedAt": null,
+    "discipline": {
+      "createdAt": "2021-02-10T09:52:17.000000Z",
+      "deletedAt": null,
+      "id": "79fb181a-7864-4b57-8047-178d808ac58c",
+      "name": "Fleet racing",
+      "updatedAt": "2021-02-10T09:52:17.000000Z"
+    },
+    "id": "58beb87e-5d32-4ad9-97f5-beebae9cad41",
+    "multiplier": null,
+    "nationsCompetedEstimate": null,
+    "odfDisplayName": null,
+    "odfOrder": null,
+    "races": [],
+    "rank": 100,
+    "rsc": null,
+    "totalCompetedEstimate": null,
+    "type": {
+      "createdAt": "2021-02-10T09:52:28.000000Z",
+      "deletedAt": null,
+      "id": "c483892d-e53b-4ad8-9692-4a52b50d14dd",
+      "name": "Men",
+      "updatedAt": "2021-02-10T09:52:28.000000Z"
+    },
+    "updatedAt": "2025-06-02T11:32:27.000000Z"
+  }
+}

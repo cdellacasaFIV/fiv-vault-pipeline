@@ -1,0 +1,38 @@
+# Sicurezza in mare: torna l’esercitazione realistica di simulazione naufragio. La FIV conferma il suo impegno con la seconda edizione del progetto
+
+Stato fonte: **ufficiale FIV / Federvela**.
+Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia editoriale. Per classifiche sportive usare comunque il dato finale quando disponibile.
+
+## Fonte
+
+- Data Federvela: 10 Aprile 2025
+- Link: https://federvela.it/2025/04/10/sicurezza-in-mare-torna-lesercitazione-realistica-di-simulazione-naufragio-la-fiv-conferma-il-suo-impegno-con-la-seconda-edizione-del-progetto/
+- Categorie: condivisa, Nazionale
+- Archiviato: 2026-08-22
+
+## Perche' tenerla
+
+- Filoni: risultati, istituzionale, formazione/scuola, media/comunicazione
+- Valore: fonte federale primaria per ricostruire decisioni, eventi, risultati, territori, progetti e comunicazione FIV.
+
+## Sintesi operativa
+
+- Temi operativi: risultati, istituzionale, formazione/scuola, media/comunicazione.
+- Angoli memoria: risultato/storico sportivo ufficiale da collegare a classifiche finali quando disponibili, atto, accordo, governance o policy federale.
+- Classi/discipline citate: non isolate automaticamente.
+- Nomi, circoli o luoghi da valutare: Sicurezza, La FIV, Data, Federazione Italiana Vela, Guardia Costiera, L’esercitazione, L’obiettivo, May Day, Corsi OSR, Offshore Special Regulations, World Sailing e.
+- Numeri/date utili: 10, 2025, 30, 1, 2, 04, 08.
+- Testo fonte ufficiale disponibile online: usare il link per verifica puntuale, senza duplicare integralmente l'articolo nel vault.
+
+## Collegamenti utili
+
+- [[Istituzionale FIV/00-Overview|Istituzionale FIV]]
+- [[World Sailing - Mappa Atleti e Classifiche]]
+- [[Modelli/Modello-News-Istituzionale|Modello news istituzionale]]
+- [[Modelli/Modello-News-Evento|Modello news evento]]
+
+## Uso editoriale
+
+- Se riguarda risultati: usarla come fonte ufficiale FIV e collegare eventuale classifica finale World Sailing quando presente.
+- Se riguarda governance, accordi o progetti: collegarla alla memoria istituzionale.
+- Se riguarda zone/circoli: collegarla a territorio, circoli e comunicati sportivi.
