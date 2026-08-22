@@ -58,24 +58,12 @@ jobs:
           # vero branch locale "main" prima di committare/pushare.
           git checkout -B main
 
-          echo "=== DEBUG: pwd e contenuto workspace ==="
-          pwd
-          ls -la
-          echo "=== DEBUG: conteggio file in _fetched ==="
-          find _fetched -type f 2>&1 | wc -l
-          echo "=== DEBUG: .gitignore attivo ==="
-          cat .gitignore
-          echo "=== DEBUG: git check-ignore su un file campione ==="
-          SAMPLE=$(find _fetched -type f | head -1)
-          echo "Sample file: $SAMPLE"
-          git check-ignore -v "$SAMPLE" || echo "(non ignorato)"
-          echo "=== DEBUG: git status (prime 20 righe) ==="
-          git status --porcelain | head -20
-          echo "=== DEBUG: git add con output verboso ==="
-          git add -v _fetched _fetch_errors.log 2>&1 | head -20
-          echo "=== DEBUG: git status dopo add ==="
-          git status --porcelain | head -20
-          echo "=== fine debug ==="
+          # IMPORTANTE: mai passare a "git add" piu' pathspec in un colpo solo
+          # se uno di questi potrebbe non esistere - "git add a b" fallisce in
+          # blocco (e non aggiunge NEMMENO "a") se "b" non esiste. Percio' li
+          # aggiungiamo separatamente, ciascuno solo se presente.
+          [ -d _fetched ] && git add _fetched
+          [ -f _fetch_errors.log ] && git add _fetch_errors.log
 
           if git diff --cached --quiet; then
             echo "Nessuna modifica da committare."
