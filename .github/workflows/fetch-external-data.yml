@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -50,10 +53,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # actions/checkout puo' lasciare il repo in stato detached HEAD anche
+          # quando si specifica ref: main; ci assicuriamo qui di essere su un
+          # vero branch locale "main" prima di committare/pushare.
+          git checkout -B main
           git add _fetched _fetch_errors.log 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Nessuna modifica da committare."
           else
             git commit -m "Auto-fetch dati esterni $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push
+            git push origin HEAD:main
           fi
