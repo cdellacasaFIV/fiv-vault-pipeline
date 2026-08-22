@@ -1,0 +1,59 @@
+name: Fetch FIV external data
+
+on:
+  schedule:
+    # 03:30 UTC ~= 05:30 Europe/Rome (CET) o 05:30/06:30 a seconda dell'ora legale.
+    # Gira circa 45-90 minuti prima della routine cloud Claude (6:20 locale),
+    # cosi' i dati sono gia' pronti nel repo quando lei li legge.
+    - cron: "30 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch World Sailing / Federvela / SportVela data
+        env:
+          FIV_VAULT_ROOT: ${{ github.workspace }}/_fetched
+        run: |
+          set -e
+          mkdir -p "$FIV_VAULT_ROOT"
+          rm -f _fetch_errors.log
+          run_step () {
+            echo "==> $1"
+            if ! python3 "$1"; then
+              echo "FAIL: $1" >> _fetch_errors.log
+            fi
+          }
+          run_step extract_world_sailing_results.py
+          run_step extract_world_sailing_european_results.py
+          run_step extract_world_sailing_major_regattas.py
+          run_step extract_world_sailing_youth_para_results.py
+          run_step build_federvela_news_archive.py
+          run_step build_sportvela_news_archive.py
+          echo "--- errors (se presenti) ---"
+          cat _fetch_errors.log 2>/dev/null || echo "nessun errore"
+
+      - name: Commit fetched data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _fetched _fetch_errors.log 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da committare."
+          else
+            git commit -m "Auto-fetch dati esterni $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
