@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Ottobre 2025
 - Link: https://federvela.it/2025/10/27/studente-atleta-alto-livello-2025-26-la-fiv-supporta-le-scuole-e-i-velisti/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

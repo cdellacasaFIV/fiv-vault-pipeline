@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Dicembre 2021
 - Link: https://federvela.it/2021/12/23/conclusa-la-45-christmas-race-di-palamos-buone-indicazioni-dal-470-mixed/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

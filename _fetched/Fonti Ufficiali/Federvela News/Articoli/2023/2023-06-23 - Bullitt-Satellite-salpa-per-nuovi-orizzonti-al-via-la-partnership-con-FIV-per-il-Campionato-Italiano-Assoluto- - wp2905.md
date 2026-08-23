@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Giugno 2023
 - Link: https://federvela.it/2023/06/23/bullitt-satellite-salpa-per-nuovi-orizzonti-al-via-la-partnership-con-fiv-per-il-campionato-italiano-assoluto-di-vela-daltura-edison-next-2023/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

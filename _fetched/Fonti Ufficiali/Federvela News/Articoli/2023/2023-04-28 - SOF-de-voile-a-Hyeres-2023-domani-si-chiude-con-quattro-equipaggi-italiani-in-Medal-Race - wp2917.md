@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Aprile 2023
 - Link: https://federvela.it/2023/04/28/sof-de-voile-a-hyeres-2023-domani-si-chiude-con-quattro-equipaggi-italiani-in-medal-race/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

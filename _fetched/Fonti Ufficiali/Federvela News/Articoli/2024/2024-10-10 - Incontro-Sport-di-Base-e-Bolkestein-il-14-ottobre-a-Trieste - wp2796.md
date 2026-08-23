@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Ottobre 2024
 - Link: https://federvela.it/2024/10/10/incontro-sport-di-base-e-bolkestein-il-14-ottobre-a-trieste/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Marzo 2026
 - Link: https://federvela.it/2026/03/17/al-via-la-stagione-2026-fiv-foil-academy-powered-by-luna-rossa/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

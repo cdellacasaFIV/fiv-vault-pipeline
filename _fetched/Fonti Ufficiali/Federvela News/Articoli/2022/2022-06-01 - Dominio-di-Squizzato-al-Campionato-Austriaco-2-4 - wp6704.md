@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Giugno 2022
 - Link: https://federvela.it/2022/06/01/dominio-di-squizzato-al-campionato-austriaco-2-4/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

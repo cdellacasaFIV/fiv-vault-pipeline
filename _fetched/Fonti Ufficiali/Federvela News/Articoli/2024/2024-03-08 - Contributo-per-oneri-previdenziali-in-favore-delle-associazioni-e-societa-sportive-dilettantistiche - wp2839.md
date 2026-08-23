@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Marzo 2024
 - Link: https://federvela.it/2024/03/08/contributo-per-oneri-previdenziali-in-favore-delle-associazioni-e-societa-sportive-dilettantistiche/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

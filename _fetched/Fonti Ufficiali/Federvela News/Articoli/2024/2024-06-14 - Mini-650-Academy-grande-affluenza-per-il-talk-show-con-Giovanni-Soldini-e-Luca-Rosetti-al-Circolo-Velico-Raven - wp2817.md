@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 14 Giugno 2024
 - Link: https://federvela.it/2024/06/14/mini-650-academy-grande-affluenza-per-il-talk-show-con-giovanni-soldini-e-luca-rosetti-al-circolo-velico-ravennate/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

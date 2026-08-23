@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Luglio 2026
 - Link: https://federvela.it/2026/07/16/il-coni-assegna-il-collare-doro-al-presidente-francesco-ettorre/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 31 Marzo 2021
 - Link: https://federvela.it/2021/03/31/nuovo-regolamento-per-partecipare-alle-regate-e-sailing-entro-il-15-di-aprile/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

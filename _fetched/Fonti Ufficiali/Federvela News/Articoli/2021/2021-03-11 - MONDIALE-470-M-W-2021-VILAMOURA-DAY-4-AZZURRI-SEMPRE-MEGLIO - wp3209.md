@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Marzo 2021
 - Link: https://federvela.it/2021/03/11/mondiale-470-m-w-2021-vilamoura-day-4-azzurri-sempre-meglio/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Luglio 2021
 - Link: https://federvela.it/2021/07/28/concluso-il-campionato-mondiale-rs-venture-open/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

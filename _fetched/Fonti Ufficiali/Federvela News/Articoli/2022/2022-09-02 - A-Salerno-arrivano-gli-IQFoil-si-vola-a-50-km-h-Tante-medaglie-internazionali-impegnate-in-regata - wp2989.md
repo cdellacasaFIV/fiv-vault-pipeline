@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 2 Settembre 2022
 - Link: https://federvela.it/2022/09/02/a-salerno-arrivano-gli-iqfoil-si-vola-a-50-km-h-tante-medaglie-internazionali-impegnate-in-regata/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

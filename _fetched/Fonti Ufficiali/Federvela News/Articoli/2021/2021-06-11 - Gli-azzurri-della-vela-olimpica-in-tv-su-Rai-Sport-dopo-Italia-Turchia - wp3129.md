@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Giugno 2021
 - Link: https://federvela.it/2021/06/11/gli-azzurri-della-vela-olimpica-in-tv-su-rai-sport-dopo-italia-turchia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

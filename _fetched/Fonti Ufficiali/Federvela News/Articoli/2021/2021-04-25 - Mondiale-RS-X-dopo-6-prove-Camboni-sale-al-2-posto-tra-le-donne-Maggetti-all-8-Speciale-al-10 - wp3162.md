@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Aprile 2021
 - Link: https://federvela.it/2021/04/25/mondiale-rsx-dopo-6-prove-camboni-sale-al-2-posto-tra-le-donne-maggetti-all8-speciale-al-10/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

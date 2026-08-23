@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Marzo 2021
 - Link: https://federvela.it/2021/03/07/vela-olimpica-mondiale-470-maschile-e-femminile-ed-europeo-windsurf-rsx-a-vilamoura-por/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

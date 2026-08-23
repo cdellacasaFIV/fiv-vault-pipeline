@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Maggio 2022
 - Link: https://federvela.it/2022/05/24/campionato-europeo-2-4mr-a-quiberon-francia/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

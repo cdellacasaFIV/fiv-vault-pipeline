@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Dicembre 2020
 - Link: https://federvela.it/2020/12/12/sabato-lassemblea-nazionale-elettiva-fiv-da-seguire-in-diretta-social/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

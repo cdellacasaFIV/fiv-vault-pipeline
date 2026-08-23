@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Maggio 2025
 - Link: https://federvela.it/2025/05/08/prorogato-il-piano-sviluppo-territorio-para-sailing-2025-oltre-175-000-euro-di-contributi-per-linclusione/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Giugno 2025
 - Link: https://federvela.it/2025/06/25/formazione-del-progetto-velando-due-giornate-di-confronto-sulla-vela-come-strumento-di-inclusione/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

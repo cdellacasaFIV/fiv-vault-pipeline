@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Dicembre 2025
 - Link: https://federvela.it/2025/12/09/lunedi-15-dicembre-alle-ore-18-00-il-webinar-di-aggiornamento-fiscale-novita-iva-dal-1-gennaio-2026-e-recenti-chiarimenti-agenzia-delle-entrate-in-merito-al-lavoro-sporti/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

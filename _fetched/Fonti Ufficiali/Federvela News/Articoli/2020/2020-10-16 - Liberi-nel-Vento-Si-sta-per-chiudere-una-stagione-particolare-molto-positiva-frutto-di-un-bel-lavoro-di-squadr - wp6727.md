@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Ottobre 2020
 - Link: https://federvela.it/2020/10/16/liberi-nel-vento-si-sta-per-chiudere-una-stagione-particolare-molto-positiva-frutto-di-un-bel-lavoro-di-squadra/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

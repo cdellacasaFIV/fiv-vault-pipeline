@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Agosto 2022
 - Link: https://federvela.it/2022/08/22/ritorna-il-campionato-italiano-esailing-alla-4-edizione-con-la-finale-per-i-migliori-12-in-presenza-al-salone-nautico-di-genova-il-24-settembre/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

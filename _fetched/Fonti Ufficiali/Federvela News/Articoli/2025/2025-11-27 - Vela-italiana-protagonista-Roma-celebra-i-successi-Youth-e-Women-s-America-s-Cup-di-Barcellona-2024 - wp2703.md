@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Novembre 2025
 - Link: https://federvela.it/2025/11/27/vela-italiana-protagonista-roma-celebra-i-successi-youth-e-womens-americas-cup-di-barcellona-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

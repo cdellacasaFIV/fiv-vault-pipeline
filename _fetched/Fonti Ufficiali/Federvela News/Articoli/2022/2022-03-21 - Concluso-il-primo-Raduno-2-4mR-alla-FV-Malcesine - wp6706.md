@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Marzo 2022
 - Link: https://federvela.it/2022/03/21/concluso-il-primo-raduno-2-4mr-alla-fv-malcesine/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Giugno 2022
 - Link: https://federvela.it/2022/06/07/celebrata-a-roma-la-28-edizione-degli-oscar-della-vela-italiana/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

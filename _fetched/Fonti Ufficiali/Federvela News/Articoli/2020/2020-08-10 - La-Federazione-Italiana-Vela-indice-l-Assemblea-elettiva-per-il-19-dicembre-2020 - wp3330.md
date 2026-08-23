@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Agosto 2020
 - Link: https://federvela.it/2020/08/10/la-federazione-italiana-vela-indice-lassemblea-elettiva-per-il-19-dicembre-2020/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

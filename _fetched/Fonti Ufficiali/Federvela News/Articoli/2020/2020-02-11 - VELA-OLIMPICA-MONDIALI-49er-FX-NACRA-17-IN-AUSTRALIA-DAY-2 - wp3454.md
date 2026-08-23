@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Febbraio 2020
 - Link: https://federvela.it/2020/02/11/vela-olimpica-mondiali-49er-fx-nacra-17-in-australia-day-2/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

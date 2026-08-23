@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Settembre 2022
 - Link: https://federvela.it/2022/09/07/opportunita-di-incontro-con-listituto-per-il-credito-sportivo-al-62-salone-nautico-di-genova/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

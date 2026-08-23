@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Marzo 2021
 - Link: https://federvela.it/2021/03/10/europeo-windsurf-rsx-vilamoura-day-2-in-evidenza-camboni-ciabatti-bene-speciale-e-maggetti/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

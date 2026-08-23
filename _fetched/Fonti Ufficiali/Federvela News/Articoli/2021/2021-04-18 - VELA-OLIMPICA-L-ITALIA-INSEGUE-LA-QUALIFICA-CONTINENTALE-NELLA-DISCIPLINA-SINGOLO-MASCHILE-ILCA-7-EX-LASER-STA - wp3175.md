@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Aprile 2021
 - Link: https://federvela.it/2021/04/18/vela-olimpica-litalia-insegue-la-qualifica-continentale-nella-disciplina-singolo-maschile-ilca-7-ex-laser-standard/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

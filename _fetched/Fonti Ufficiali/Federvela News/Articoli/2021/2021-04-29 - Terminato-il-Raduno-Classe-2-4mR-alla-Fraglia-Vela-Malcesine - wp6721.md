@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Aprile 2021
 - Link: https://federvela.it/2021/04/29/terminato-il-raduno-classe-2-4mr-alla-fraglia-vela-malcesine/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

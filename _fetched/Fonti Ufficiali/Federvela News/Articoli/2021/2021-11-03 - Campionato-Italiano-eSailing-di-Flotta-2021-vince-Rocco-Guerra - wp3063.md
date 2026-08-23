@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 3 Novembre 2021
 - Link: https://federvela.it/2021/11/03/campionato-italiano-esailing-di-flotta-2021-vince-rocco-guerra/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

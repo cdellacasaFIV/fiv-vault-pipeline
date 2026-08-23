@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Giugno 2026
 - Link: https://federvela.it/2026/06/23/la-cerimonia-di-apertura-del-campionato-italiano-assoluto-di-vela-daltura-edison-next-a-gaeta/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

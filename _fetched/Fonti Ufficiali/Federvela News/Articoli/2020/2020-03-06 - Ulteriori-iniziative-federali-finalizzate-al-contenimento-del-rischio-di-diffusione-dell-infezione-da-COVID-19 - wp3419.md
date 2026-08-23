@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Marzo 2020
 - Link: https://federvela.it/2020/03/06/ulteriori-iniziative-federali-finalizzate-al-contenimento-del-rischio-di-diffusione-dellinfezione-da-covid-19-nelle-attivita-formative-allenamenti-ancora-consentite/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Ottobre 2021
 - Link: https://federvela.it/2021/10/09/vela-a-palermo-conclusi-i-mondiali-della-classe-paralimpica-hansa-il-polacco-cichocki-campione-del-mondo/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

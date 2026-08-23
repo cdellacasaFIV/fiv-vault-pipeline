@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Ottobre 2024
 - Link: https://federvela.it/2024/10/11/corso-di-specializzazione-istruttori-foil-successo-a-bari-per-la-seconda-edizione/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

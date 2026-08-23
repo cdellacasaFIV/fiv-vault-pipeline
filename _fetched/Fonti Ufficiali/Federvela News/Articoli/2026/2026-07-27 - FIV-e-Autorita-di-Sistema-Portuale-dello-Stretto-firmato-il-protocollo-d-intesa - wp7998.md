@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Luglio 2026
 - Link: https://federvela.it/2026/07/27/fiv-e-autorita-di-sistema-portuale-dello-stretto-firmato-il-protocollo-dintesa/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

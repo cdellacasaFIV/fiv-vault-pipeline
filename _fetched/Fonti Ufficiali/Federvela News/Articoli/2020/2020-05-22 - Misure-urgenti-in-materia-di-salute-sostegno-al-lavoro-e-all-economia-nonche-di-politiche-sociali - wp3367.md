@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Maggio 2020
 - Link: https://federvela.it/2020/05/22/misure-urgenti-in-materia-di-salute-sostegno-al-lavoro-e-alleconomia-nonche-di-politiche-sociali/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

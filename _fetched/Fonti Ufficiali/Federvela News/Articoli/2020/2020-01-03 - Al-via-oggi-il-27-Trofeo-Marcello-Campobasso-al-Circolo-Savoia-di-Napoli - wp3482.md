@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 3 Gennaio 2020
 - Link: https://federvela.it/2020/01/03/al-via-oggi-il-27-trofeo-marcello-campobasso-al-circolo-savoia-di-napoli/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

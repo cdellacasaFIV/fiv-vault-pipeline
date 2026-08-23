@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Gennaio 2026
 - Link: https://federvela.it/2026/01/22/americas-cup-la-fiv-a-fianco-di-luna-rossa-al-via-la-rotta-verso-napoli-2027/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

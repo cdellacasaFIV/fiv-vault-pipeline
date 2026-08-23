@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Settembre 2021
 - Link: https://federvela.it/2021/09/21/yamaha-marine-e-la-federazione-italiana-vela-confermano-la-loro-collaborazione-fino-a-parigi-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

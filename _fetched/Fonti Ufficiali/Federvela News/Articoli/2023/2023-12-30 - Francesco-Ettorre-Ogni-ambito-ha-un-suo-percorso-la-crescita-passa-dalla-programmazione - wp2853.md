@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Dicembre 2023
 - Link: https://federvela.it/2023/12/30/francesco-ettorre-ogni-ambito-ha-un-suo-percorso-la-crescita-passa-dalla-programmazione/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

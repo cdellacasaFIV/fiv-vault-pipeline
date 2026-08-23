@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Ottobre 2020
 - Link: https://federvela.it/2020/10/20/enation-cup-finale-tra-nazioni-per-la-vela-virtuale-come-seguire-litalia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

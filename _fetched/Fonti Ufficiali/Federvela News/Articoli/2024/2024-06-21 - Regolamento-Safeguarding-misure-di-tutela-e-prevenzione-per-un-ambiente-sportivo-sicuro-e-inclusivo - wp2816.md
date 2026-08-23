@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Giugno 2024
 - Link: https://federvela.it/2024/06/21/regolamento-safeguarding-misure-di-tutela-e-prevenzione-per-un-ambiente-sportivo-sicuro-e-inclusivo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

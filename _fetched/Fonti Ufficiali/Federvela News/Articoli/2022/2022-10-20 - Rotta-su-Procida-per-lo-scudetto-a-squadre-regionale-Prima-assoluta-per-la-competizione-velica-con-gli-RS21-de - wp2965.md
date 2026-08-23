@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Ottobre 2022
 - Link: https://federvela.it/2022/10/20/rotta-su-procida-per-lo-scudetto-a-squadre-regionale-prima-assoluta-per-la-competizione-velica-con-gli-rs21-delle-universiadi/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

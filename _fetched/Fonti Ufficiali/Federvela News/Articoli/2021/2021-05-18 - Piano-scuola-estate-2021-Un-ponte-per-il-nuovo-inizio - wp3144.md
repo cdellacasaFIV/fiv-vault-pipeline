@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Maggio 2021
 - Link: https://federvela.it/2021/05/18/piano-scuola-estate-2021-un-ponte-per-il-nuovo-inizio/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Gennaio 2020
 - Link: https://federvela.it/2020/01/08/per-la-vela-olimpica-azzurra-primo-raduno-di-allenamento-del-2020-nel-nuovo-centro-federale-di-cagliari/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

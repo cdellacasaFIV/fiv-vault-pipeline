@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Luglio 2023
 - Link: https://federvela.it/2023/07/20/firmato-il-protocollo-di-intesa-tra-il-ministero-per-la-protezione-civile-e-le-politiche-del-mare-la-federazione-italiana-vela-e-il-comitato-olimpico-italiano/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

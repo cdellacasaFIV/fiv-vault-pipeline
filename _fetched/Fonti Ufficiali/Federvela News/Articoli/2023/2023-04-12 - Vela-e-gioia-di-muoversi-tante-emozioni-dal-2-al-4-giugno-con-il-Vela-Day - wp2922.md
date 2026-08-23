@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Aprile 2023
 - Link: https://federvela.it/2023/04/12/vela-e-gioia-di-muoversi-tante-emozioni-dal-2-al-4-giugno-con-il-vela-day/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

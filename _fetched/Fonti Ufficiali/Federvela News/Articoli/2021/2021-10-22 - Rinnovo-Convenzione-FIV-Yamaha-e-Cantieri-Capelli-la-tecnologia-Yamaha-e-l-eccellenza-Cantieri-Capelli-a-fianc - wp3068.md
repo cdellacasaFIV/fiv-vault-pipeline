@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Ottobre 2021
 - Link: https://federvela.it/2021/10/22/rinnovo-convenzione-fiv-yamaha-e-cantieri-capelli-la-tecnologia-yamaha-e-leccellenza-cantieri-capelli-a-fianco-della-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

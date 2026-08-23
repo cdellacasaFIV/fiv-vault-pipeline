@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Marzo 2022
 - Link: https://federvela.it/2022/03/12/assemblea-generale-e-incontro-annuale-eurosaf-2023-in-programma-a-roma/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

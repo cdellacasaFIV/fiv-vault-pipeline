@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Gennaio 2021
 - Link: https://federvela.it/2021/01/20/il-consiglio-ratifica-le-cariche-zonali-e-le-commissioni/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Ottobre 2024
 - Link: https://federvela.it/2024/10/18/la-fiv-continua-il-dibattito-su-sport-di-base-e-bolkestein-con-un-nuovo-incontro-a-roma/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

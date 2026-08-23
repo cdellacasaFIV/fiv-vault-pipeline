@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Maggio 2022
 - Link: https://federvela.it/2022/05/17/il-6-giugno-la-28-edizione-de-il-velista-dellanno-fiv-a-villa-miani/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

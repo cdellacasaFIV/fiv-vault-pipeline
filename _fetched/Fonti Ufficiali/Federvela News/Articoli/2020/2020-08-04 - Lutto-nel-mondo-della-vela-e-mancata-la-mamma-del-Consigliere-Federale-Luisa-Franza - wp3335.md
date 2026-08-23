@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Agosto 2020
 - Link: https://federvela.it/2020/08/04/lutto-nel-mondo-della-vela-e-mancata-la-mamma-del-consigliere-federale-luisa-franza/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

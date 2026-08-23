@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Settembre 2022
 - Link: https://federvela.it/2022/09/08/a-viareggio-le-avverse-condizioni-meteo-non-hanno-fermato-i-622-giovani-timonieri-nella-seconda-giornata-di-regate/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

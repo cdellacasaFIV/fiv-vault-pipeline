@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Giugno 2025
 - Link: https://federvela.it/2025/06/17/convenzioni-fiv-nuove-opportunita-per-circoli-e-tesserati/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

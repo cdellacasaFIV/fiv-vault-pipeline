@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Giugno 2023
 - Link: https://federvela.it/2023/06/28/ci-vela-daltura-edison-next-2023-due-le-prove-disputate-a-marina-di-carrara/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

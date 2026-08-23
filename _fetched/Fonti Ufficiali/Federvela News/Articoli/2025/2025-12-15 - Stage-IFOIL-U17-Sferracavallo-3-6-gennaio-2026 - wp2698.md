@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 15 Dicembre 2025
 - Link: https://federvela.it/2025/12/15/stage-ifoil-u17-sferracavallo-3-6-gennaio-2026/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

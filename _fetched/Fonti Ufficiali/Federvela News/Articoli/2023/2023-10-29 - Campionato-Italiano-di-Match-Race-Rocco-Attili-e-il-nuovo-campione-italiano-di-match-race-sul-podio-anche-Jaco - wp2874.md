@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Ottobre 2023
 - Link: https://federvela.it/2023/10/29/campionato-italiano-di-match-race-rocco-attili-e-il-nuovo-campione-italiano-di-match-race-sul-podio-anche-jacopo-pasini-e-michele-ivaldi/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Luglio 2021
 - Link: https://federvela.it/2021/07/26/attivazione-procedura-di-gara-per-individuazione-fornitore-abbigliamento-tecnico-sportivo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

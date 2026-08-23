@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Novembre 2025
 - Link: https://federvela.it/2025/11/24/progetti-speciali-fiv-2025-prime-settimane-di-lavoro-per-imparare-navigando-2-0/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

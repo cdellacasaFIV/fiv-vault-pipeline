@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 15 Maggio 2020
 - Link: https://federvela.it/2020/05/15/proroga-di-tutti-i-termini-di-giustizia-federale-a-tutto-il-14-giugno-2020/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

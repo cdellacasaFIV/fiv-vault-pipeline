@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Giugno 2023
 - Link: https://federvela.it/2023/06/29/ci-vela-daltura-edison-next-2023-altre-due-regate-con-vento-leggero/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

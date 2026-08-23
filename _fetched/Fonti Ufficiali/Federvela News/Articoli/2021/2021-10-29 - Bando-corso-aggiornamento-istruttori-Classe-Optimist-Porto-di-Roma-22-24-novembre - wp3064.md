@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Ottobre 2021
 - Link: https://federvela.it/2021/10/29/bando-corso-aggiornamento-istruttori-classe-optimist-porto-di-roma-22-24-novembre/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

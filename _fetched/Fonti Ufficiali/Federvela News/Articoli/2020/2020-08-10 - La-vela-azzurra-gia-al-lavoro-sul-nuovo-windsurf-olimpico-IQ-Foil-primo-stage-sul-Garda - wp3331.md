@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Agosto 2020
 - Link: https://federvela.it/2020/08/10/la-vela-azzurra-gia-al-lavoro-sul-nuovo-windsurf-olimpico-iq-foil-primo-stage-sul-garda/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Giugno 2020
 - Link: https://federvela.it/2020/06/07/mercoledi-10-giugno-la-diretta-social-del-dt-michele-marchesini/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

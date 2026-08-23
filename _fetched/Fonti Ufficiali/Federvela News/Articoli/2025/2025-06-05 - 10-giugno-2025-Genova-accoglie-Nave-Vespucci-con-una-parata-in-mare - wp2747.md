@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Giugno 2025
 - Link: https://federvela.it/2025/06/05/10-giugno-2025-genova-accoglie-nave-vespucci-con-una-parata-in-mare/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

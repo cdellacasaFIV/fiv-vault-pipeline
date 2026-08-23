@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Settembre 2024
 - Link: https://federvela.it/2024/09/23/salone-nautico-one-ocean-foundation-ha-presentato-la-campagna-ocean-foresting-supportata-della-federvela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

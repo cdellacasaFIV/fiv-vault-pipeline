@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Febbraio 2020
 - Link: https://federvela.it/2020/02/11/rinnovate-per-il-2020-le-convenzioni-per-i-tesserati-fiv-con-le-compagnie-di-navigazione/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

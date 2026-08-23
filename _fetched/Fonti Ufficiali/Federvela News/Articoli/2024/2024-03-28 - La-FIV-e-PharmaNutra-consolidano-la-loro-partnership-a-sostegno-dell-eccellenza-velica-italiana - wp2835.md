@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Marzo 2024
 - Link: https://federvela.it/2024/03/28/la-fiv-e-pharmanutra-consolidano-la-loro-partnership-a-sostegno-delleccellenza-velica-italiana/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Giugno 2026
 - Link: https://federvela.it/2026/06/04/49er-fx-la-fiv-avvia-un-progetto-di-scouting-per-nuovi-equipaggi/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Giugno 2026
 - Link: https://federvela.it/2026/06/09/concorso-filippo-mondelli-aees-2025-pubblicato-il-bando-per-gli-atleti-laureati/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

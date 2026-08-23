@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Luglio 2025
 - Link: https://federvela.it/2025/07/30/nasce-il-fondo-dote-per-la-famiglia-unopportunita-per-ampliare-laccesso-allo-sport/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

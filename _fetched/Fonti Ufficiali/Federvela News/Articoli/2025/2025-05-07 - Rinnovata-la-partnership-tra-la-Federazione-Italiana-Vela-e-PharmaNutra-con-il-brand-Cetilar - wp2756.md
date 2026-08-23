@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Maggio 2025
 - Link: https://federvela.it/2025/05/07/rinnovata-la-partnership-tra-la-federazione-italiana-vela-e-pharmanutra-con-il-brand-cetilar/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

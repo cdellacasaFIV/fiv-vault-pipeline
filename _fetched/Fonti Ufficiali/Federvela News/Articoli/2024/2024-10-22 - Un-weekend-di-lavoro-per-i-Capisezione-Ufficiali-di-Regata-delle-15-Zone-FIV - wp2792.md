@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Ottobre 2024
 - Link: https://federvela.it/2024/10/22/un-weekend-di-lavoro-per-i-capisezione-ufficiali-di-regata-delle-15-zone-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 14 Gennaio 2022
 - Link: https://federvela.it/2022/01/14/il-circolo-della-vela-bari-vince-il-primo-campionato-italiano-a-squadre-di-esailing/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

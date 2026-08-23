@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 14 Ottobre 2020
 - Link: https://federvela.it/2020/10/14/leducazione-finanziaria-in-campo-con-lo-sport-il-29-ottobre-webinar-di-presentazione-del-corso/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

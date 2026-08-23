@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 15 Maggio 2025
 - Link: https://federvela.it/2025/05/15/litalia-ospitera-la-38a-americas-cup-louis-vuitton-nella-citta-di-napoli-nel-2027/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

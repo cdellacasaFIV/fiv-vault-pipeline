@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Luglio 2026
 - Link: https://federvela.it/2026/07/20/presentati-i-campionati-italiani-giovanili-in-singolo-kinder-joy-of-moving-di-ravenna-2026/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

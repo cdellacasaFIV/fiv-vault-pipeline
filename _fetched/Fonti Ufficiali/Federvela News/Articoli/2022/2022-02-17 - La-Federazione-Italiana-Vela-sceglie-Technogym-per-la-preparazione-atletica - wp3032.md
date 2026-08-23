@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Febbraio 2022
 - Link: https://federvela.it/2022/02/17/la-federazione-italiana-vela-sceglie-technogym-per-la-preparazione-atletica/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Luglio 2025
 - Link: https://federvela.it/2025/07/30/la-federazione-italiana-vela-accoglie-con-favore-la-nascita-dellintergruppo-parlamentare-nautica-subacquea-e-turismo-marino-presentato-ieri-alla-camera-dei-deputati/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

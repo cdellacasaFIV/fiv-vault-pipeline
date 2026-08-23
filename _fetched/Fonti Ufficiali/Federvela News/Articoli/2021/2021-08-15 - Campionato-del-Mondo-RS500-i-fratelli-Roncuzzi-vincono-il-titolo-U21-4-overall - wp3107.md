@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 15 Agosto 2021
 - Link: https://federvela.it/2021/08/15/campionato-del-mondo-rs500-i-fratelli-roncuzzi-vincono-il-titolo-u21-4-overall/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

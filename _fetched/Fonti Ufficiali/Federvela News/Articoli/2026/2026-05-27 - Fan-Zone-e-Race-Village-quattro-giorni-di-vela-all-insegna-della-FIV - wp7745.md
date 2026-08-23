@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Maggio 2026
 - Link: https://federvela.it/2026/05/27/fan-zone-e-race-village-quattro-giorni-di-vela-allinsegna-della-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

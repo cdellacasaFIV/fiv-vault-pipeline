@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Giugno 2021
 - Link: https://federvela.it/2021/06/11/ripresa-del-calendario-zonale-nelle-regioni-bianche-e-gialle/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

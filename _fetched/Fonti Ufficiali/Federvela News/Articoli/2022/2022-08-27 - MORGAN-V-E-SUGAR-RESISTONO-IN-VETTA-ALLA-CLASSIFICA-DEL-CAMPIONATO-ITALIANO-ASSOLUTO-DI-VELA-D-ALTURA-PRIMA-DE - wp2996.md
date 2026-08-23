@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Agosto 2022
 - Link: https://federvela.it/2022/08/27/morgan-v-e-sugar-resistono-in-vetta-alla-classifica-del-campionato-italiano-assoluto-di-vela-daltura-prima-dellultima-giornata/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

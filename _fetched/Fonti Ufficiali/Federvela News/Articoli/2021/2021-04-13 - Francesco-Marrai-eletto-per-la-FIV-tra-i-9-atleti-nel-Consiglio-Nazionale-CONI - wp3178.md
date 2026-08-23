@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Aprile 2021
 - Link: https://federvela.it/2021/04/13/francesco-marrai-eletto-per-la-fiv-tra-i-9-atleti-nel-consiglio-nazionale-coni/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

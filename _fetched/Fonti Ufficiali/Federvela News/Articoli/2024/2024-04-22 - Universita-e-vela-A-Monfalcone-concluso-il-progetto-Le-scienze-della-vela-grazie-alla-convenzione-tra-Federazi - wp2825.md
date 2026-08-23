@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Aprile 2024
 - Link: https://federvela.it/2024/04/22/universita-e-vela-a-monfalcone-concluso-il-progetto-le-scienze-della-vela-grazie-alla-convenzione-tra-federazione-italiana-vela-e-universita-di-udine/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

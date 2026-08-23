@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Febbraio 2022
 - Link: https://federvela.it/2022/02/28/concluso-nel-weekend-il-primo-raduno-para-sailing-2022-organizzato-dalla-fiv/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

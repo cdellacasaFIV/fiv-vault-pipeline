@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Giugno 2023
 - Link: https://federvela.it/2023/06/07/la-fiv-a-palermo-allevento-restore-our-ocean-and-waters-by-2030/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

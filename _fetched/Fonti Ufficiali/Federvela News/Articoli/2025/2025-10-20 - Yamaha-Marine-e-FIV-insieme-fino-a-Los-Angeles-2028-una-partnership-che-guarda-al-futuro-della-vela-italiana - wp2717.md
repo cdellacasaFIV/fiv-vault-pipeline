@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Ottobre 2025
 - Link: https://federvela.it/2025/10/20/yamaha-marine-e-fiv-insieme-fino-a-los-angeles-2028-una-partnership-che-guarda-al-futuro-della-vela-italiana/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

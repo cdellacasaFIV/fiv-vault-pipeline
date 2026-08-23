@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Ottobre 2020
 - Link: https://federvela.it/2020/10/26/lattivita-di-sviluppou21-23-fiv-parte-con-un-raduno-a-formia-gaeta/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

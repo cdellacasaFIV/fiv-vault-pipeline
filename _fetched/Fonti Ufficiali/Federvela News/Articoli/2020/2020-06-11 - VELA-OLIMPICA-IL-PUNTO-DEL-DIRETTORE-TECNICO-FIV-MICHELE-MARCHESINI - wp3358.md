@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Giugno 2020
 - Link: https://federvela.it/2020/06/11/vela-olimpica-il-punto-del-direttore-tecnico-fiv-michele-marchesini/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

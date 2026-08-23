@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Gennaio 2026
 - Link: https://federvela.it/2026/01/19/v-zona-fiv-eletto-il-nuovo-comitato-si-chiude-il-commissariamento/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Marzo 2021
 - Link: https://federvela.it/2021/03/08/vilamoura-day-1-buon-inizio-per-berta-caruso-3-e-marchesini-festo-4/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Marzo 2024
 - Link: https://federvela.it/2024/03/06/piano-sviluppo-territorio-2023-tutte-le-richieste-accettate-per-il-contributo-ultima-presentazione-dei-documenti-entro-il-10-marzo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

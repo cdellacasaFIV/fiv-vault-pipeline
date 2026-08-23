@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Settembre 2022
 - Link: https://federvela.it/2022/09/25/assegnato-il-titolo-italiano-esailing-il-campione-e-amos-di-benedetto/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

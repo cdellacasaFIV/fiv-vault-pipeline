@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Dicembre 2020
 - Link: https://federvela.it/2020/12/28/beni-confiscati-e-destinati-a-impiantistica-sportiva-accordo-anbsc-istituto-per-il-credito-sportivo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

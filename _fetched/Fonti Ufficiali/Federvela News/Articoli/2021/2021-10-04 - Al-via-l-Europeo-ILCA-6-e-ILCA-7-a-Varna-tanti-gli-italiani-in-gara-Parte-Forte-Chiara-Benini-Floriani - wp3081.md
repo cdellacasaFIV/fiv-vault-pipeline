@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Ottobre 2021
 - Link: https://federvela.it/2021/10/04/al-via-leuropeo-ilca-6-e-ilca-7-a-varna-tanti-gli-italiani-in-gara-parte-forte-chiara-benini-floriani/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

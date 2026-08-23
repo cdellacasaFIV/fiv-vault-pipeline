@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Agosto 2023
 - Link: https://federvela.it/2023/08/11/resolfin-srl-e-federazione-italiana-vela-uniscono-le-forze-per-una-comunicazione-visiva-sostenibile/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Giugno 2026
 - Link: https://federvela.it/2026/06/08/fondo-ausili-sportivi-2026-aggiornamento-elenco-per-la-disciplina-parasailing/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Febbraio 2021
 - Link: https://federvela.it/2021/02/21/comunicazione-direzione-tecnica-stage-sviluppo-under-catamarano-misto-foil-nacra-17-cagliari-18-21-febbraio-2021-05-09-marzo-2021-18/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

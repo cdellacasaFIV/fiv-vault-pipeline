@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Novembre 2020
 - Link: https://federvela.it/2020/11/27/lunedi-il-primo-appuntamento-del-ciclo-di-webinar-di-liberi-nel-vento/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

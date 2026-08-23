@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Luglio 2022
 - Link: https://federvela.it/2022/07/01/concluso-con-successo-a-porto-cervo-il-mondiale-orc-di-vela-daltura/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

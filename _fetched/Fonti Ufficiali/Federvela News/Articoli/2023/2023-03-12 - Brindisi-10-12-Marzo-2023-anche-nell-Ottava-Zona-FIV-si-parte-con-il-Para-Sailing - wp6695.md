@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Marzo 2023
 - Link: https://federvela.it/2023/03/12/brindisi-10-12-marzo-2023-anche-nellottava-zona-fiv-si-parte-con-il-para-sailing/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

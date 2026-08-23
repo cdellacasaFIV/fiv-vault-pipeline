@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Gennaio 2023
 - Link: https://federvela.it/2023/01/30/la-vela-non-rientra-nel-programma-delle-paralimpiadi-di-los-angeles2028/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

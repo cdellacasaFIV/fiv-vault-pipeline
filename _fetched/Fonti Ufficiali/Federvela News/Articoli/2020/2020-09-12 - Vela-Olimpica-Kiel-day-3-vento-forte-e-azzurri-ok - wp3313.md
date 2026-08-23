@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Settembre 2020
 - Link: https://federvela.it/2020/09/12/vela-olimpica-kiel-day-3-vento-forte-e-azzurri-ok/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

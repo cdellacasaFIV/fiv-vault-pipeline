@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Settembre 2024
 - Link: https://federvela.it/2024/09/09/al-via-oggi-i-lavori-per-la-casa-vela-dal-2025-ospitera-il-centro-federale-fiv-sul-waterfront-di-levante/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

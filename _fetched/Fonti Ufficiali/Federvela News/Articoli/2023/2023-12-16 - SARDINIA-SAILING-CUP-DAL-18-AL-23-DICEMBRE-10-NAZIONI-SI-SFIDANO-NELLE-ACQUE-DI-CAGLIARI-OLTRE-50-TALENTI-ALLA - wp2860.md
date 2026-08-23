@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Dicembre 2023
 - Link: https://federvela.it/2023/12/16/sardinia-sailing-cup-dal-18-al-23-dicembre-10-nazioni-si-sfidano-nelle-acque-di-cagliari-oltre-50-talenti-alla-foil-academy-international-trophy/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

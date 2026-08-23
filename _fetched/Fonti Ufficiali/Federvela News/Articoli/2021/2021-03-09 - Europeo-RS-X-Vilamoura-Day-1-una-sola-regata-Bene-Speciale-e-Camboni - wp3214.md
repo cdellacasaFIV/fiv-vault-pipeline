@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Marzo 2021
 - Link: https://federvela.it/2021/03/09/europeo-rsx-vilamoura-day-1-una-sola-regata-bene-speciale-e-camboni/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Agosto 2023
 - Link: https://federvela.it/2023/08/07/aggiornamento-convenzione-fiv-e-yamaha-capelli-oltre-ai-battelli-della-linea-tempest-sara-possibile-acquistare-il-benaco-595/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Maggio 2021
 - Link: https://federvela.it/2021/05/19/vela-day-e-gia-record-di-circoli-aderenti-ce-tempo-fino-al-26-maggio/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

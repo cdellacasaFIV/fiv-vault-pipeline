@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Luglio 2022
 - Link: https://federvela.it/2022/07/01/in-programma-dall8-al-10-luglio-alla-fv-riva-il-raduno-primo-match-del-settore-match-race-e-team-race/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Febbraio 2025
 - Link: https://federvela.it/2025/02/17/la-federazione-italiana-vela-rinnova-le-convenzioni-con-le-compagnie-marittime-e-sicily-by-car/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

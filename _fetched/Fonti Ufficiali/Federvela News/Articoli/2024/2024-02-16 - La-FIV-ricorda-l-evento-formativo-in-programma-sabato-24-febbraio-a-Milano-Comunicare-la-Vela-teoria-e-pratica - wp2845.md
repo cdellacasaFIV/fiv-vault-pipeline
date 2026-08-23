@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Febbraio 2024
 - Link: https://federvela.it/2024/02/16/la-fiv-ricorda-levento-formativo-in-programma-sabato-24-febbraio-a-milano-comunicare-la-vela-teoria-e-pratica-della-comunicazione-sullo-sport-piu-bello/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

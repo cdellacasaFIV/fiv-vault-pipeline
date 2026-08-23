@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Luglio 2021
 - Link: https://federvela.it/2021/07/13/il-campione-paralimpico-antonio-squizzato-vince-il-trofeo-rotary-di-fermo-ed-il-trofeo-sandro-ricci-davanti-a-giancarlo-mariani-e-davide-di-maria/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

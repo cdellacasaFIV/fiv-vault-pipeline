@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Novembre 2020
 - Link: https://federvela.it/2020/11/05/italiano-assoluto-e-u17-u19-fiv-per-i-kitefoil-a-gallipoli/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Giugno 2025
 - Link: https://federvela.it/2025/06/20/velando-al-via-la-formazione-del-progetto-di-velaterapia-promosso-dal-ministro-per-le-disabilita-con-la-collaborazione-della-federazione-italiana-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

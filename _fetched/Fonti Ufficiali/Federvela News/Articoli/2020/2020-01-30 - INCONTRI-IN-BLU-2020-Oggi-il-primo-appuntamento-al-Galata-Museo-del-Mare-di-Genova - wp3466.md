@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Gennaio 2020
 - Link: https://federvela.it/2020/01/30/incontri-in-blu-2020-oggi-il-primo-appuntamento-al-galata-museo-del-mare-di-genova/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

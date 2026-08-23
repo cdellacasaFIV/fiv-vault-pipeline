@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Giugno 2025
 - Link: https://federvela.it/2025/06/16/simulazione-di-naufragio-e-recupero-equipaggi-conclusa-con-successo-la-seconda-edizione-del-progetto-fiv-per-la-sicurezza-in-mare/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

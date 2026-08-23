@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Aprile 2021
 - Link: https://federvela.it/2021/04/23/vela-olimpica-campionato-del-mondo-windsurf-rsx-a-cadice-day-1/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Dicembre 2025
 - Link: https://federvela.it/2025/12/05/la-squadra-italiana-incontra-le-istituzioni-ai-mondiali-inclusivi-2025-di-world-sailing/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

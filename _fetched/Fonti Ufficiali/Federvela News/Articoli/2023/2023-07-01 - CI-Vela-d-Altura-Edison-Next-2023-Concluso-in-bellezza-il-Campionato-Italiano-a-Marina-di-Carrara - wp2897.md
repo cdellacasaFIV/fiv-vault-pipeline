@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Luglio 2023
 - Link: https://federvela.it/2023/07/01/ci-vela-daltura-edison-next-2023-concluso-in-bellezza-il-campionato-italiano-a-marina-di-carrara/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

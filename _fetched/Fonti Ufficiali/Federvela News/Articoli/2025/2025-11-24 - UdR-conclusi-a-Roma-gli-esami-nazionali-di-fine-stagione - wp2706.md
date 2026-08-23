@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Novembre 2025
 - Link: https://federvela.it/2025/11/24/udr-conclusi-a-roma-gli-esami-nazionali-di-fine-stagione/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

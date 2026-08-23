@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Febbraio 2026
 - Link: https://federvela.it/2026/02/16/visita-istituzionale-dellaccademia-navale-di-livorno-collaborazione-rafforzata-verso-la-settimana-velica-internazionale-accademia-navale-e-citta-di-livorno/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

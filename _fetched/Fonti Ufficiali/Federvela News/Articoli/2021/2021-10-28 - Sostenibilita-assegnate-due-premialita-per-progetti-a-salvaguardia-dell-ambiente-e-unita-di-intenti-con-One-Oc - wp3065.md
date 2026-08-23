@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Ottobre 2021
 - Link: https://federvela.it/2021/10/28/sostenibilita-assegnate-due-premialita-per-progetti-a-salvaguardia-dellambiente-e-unita-di-intenti-con-one-ocean-foundation/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

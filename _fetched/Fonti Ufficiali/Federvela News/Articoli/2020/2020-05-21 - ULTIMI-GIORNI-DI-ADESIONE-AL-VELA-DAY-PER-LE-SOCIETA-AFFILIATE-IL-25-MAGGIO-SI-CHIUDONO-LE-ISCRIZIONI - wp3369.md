@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Maggio 2020
 - Link: https://federvela.it/2020/05/21/ultimi-giorni-di-adesione-al-vela-day-per-le-societa-affiliate-il-25-maggio-si-chiudono-le-iscrizioni/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

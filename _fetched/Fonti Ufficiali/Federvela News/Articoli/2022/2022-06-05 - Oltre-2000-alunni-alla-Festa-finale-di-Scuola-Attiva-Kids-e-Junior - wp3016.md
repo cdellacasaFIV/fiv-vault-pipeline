@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Giugno 2022
 - Link: https://federvela.it/2022/06/05/oltre-2000-alunni-alla-festa-finale-di-scuola-attiva-kids-e-junior/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

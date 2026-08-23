@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Ottobre 2020
 - Link: https://federvela.it/2020/10/04/ruggero-e-caterina-campioni-europei-nacra-17-vittorio-e-maelle-bronzo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

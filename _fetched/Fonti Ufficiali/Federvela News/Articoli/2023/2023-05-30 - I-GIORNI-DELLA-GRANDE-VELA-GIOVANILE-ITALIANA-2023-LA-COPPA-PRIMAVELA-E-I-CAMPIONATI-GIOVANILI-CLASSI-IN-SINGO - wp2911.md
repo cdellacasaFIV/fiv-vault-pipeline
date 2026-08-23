@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Maggio 2023
 - Link: https://federvela.it/2023/05/30/i-giorni-della-grande-vela-giovanile-italiana-2023-la-coppa-primavela-e-i-campionati-giovanili-classi-in-singolo-fiv-presentati-a-ravenna/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Dicembre 2023
 - Link: https://federvela.it/2023/12/22/foil-international-academy-trophy-si-chiude-con-grande-successo-la-sardinia-sailing-cup-2023-waszp-vince-lo-svedese-hanno-serifert-podio-italiano-per-il-wingfoil/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Ottobre 2025
 - Link: https://federvela.it/2025/10/17/la-federazione-italiana-vela-lancia-il-concorso-per-il-logo-del-centenario/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

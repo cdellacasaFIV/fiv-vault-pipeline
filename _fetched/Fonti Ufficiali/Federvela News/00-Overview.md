@@ -22,7 +22,7 @@ Archivio operativo delle news ufficiali pubblicate su federvela.it.
 - Categoria API: categorie ufficiali Federvela escluse `Senza categoria` (5 categorie).
 - Articoli archiviati: 896
 - Intervallo effettivo trovato: 2020-01-02 - 2026-07-28
-- Data estrazione: 2026-08-22
+- Data estrazione: 2026-08-23
 
 ## Indici per anno
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 3 Novembre 2022
 - Link: https://federvela.it/2022/11/03/yamaha-marine-cantieri-capelli-e-federazione-italiana-vela-svelano-il-595-benaco-empowered-by-yamaha/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

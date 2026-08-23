@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Giugno 2023
 - Link: https://federvela.it/2023/06/12/la-federazione-italiana-vela-rafforza-la-collaborazione-con-il-medical-partner-pharmanutra-allinterno-della-next-generation-foil-academy-powered-by-luna-rossa/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

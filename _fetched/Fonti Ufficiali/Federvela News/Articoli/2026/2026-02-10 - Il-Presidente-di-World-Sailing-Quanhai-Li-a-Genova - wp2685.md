@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Febbraio 2026
 - Link: https://federvela.it/2026/02/10/la-visita-a-genova-del-presidente-di-world-sailing-quanhai-li-lincontro-con-la-sindaca-silvia-salis-e-con-il-presidente-fiv-francesco-ettorre/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Giugno 2023
 - Link: https://federvela.it/2023/06/26/conclusa-a-genova-la-quinta-edizione-del-campionati-italiano-esailing-di-flotta/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 3 Settembre 2022
 - Link: https://federvela.it/2022/09/03/salerno-rush-finale-per-i-giovanili-domani-i-titoli-italiani-il-presidente-ettorre-apporto-indispensabile-per-il-successo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

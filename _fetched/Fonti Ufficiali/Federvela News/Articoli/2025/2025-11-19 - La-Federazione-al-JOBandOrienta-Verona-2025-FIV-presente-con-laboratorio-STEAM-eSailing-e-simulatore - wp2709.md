@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Novembre 2025
 - Link: https://federvela.it/2025/11/19/la-federazione-al-joborienta-verona-2025-fiv-presente-con-laboratorio-steam-esailing-e-simulatore/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

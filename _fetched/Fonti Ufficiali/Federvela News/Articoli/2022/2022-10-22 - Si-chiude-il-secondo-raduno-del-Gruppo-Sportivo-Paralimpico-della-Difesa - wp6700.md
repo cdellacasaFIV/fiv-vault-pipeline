@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Ottobre 2022
 - Link: https://federvela.it/2022/10/22/si-chiude-il-secondo-raduno-del-gruppo-sportivo-paralimpico-della-difesa/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

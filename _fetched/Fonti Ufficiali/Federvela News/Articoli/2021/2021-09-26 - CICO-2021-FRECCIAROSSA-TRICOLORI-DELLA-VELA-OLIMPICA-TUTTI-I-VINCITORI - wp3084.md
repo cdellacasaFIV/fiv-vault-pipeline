@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Settembre 2021
 - Link: https://federvela.it/2021/09/26/cico-2021-frecciarossa-tricolori-della-vela-olimpica-tutti-i-vincitori/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 14 Agosto 2023
 - Link: https://federvela.it/2023/08/14/sailing-world-championships-di-den-haag-day-4-tutte-le-classi-hanno-cominciato-il-mondiale/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

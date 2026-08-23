@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Aprile 2021
 - Link: https://federvela.it/2021/04/27/mattia-camboni-vice-campione-del-mondo-rsx-maggetti-e-speciale-1-e-3-nella-medal/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

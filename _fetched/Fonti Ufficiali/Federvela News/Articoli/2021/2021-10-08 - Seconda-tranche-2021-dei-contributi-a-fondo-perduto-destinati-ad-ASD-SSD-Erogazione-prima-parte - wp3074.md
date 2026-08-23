@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Ottobre 2021
 - Link: https://federvela.it/2021/10/08/seconda-tranche-2021-dei-contributi-a-fondo-perduto-destinati-ad-asd-ssd-erogazione-prima-parte/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

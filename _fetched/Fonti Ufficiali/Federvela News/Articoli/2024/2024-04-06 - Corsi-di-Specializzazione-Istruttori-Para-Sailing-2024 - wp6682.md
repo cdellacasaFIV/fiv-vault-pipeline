@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Aprile 2024
 - Link: https://federvela.it/2024/04/06/corsi-di-specializzazione-istruttori-para-sailing-2024-date-sedi-e-informazioni-essenziali/
 - Categorie: parasailing
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

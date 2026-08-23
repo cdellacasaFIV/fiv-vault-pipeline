@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Maggio 2024
 - Link: https://federvela.it/2024/05/28/velista-dellannno-fiv-assegnati-a-genova-gli-oscar-della-vela-italiana/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

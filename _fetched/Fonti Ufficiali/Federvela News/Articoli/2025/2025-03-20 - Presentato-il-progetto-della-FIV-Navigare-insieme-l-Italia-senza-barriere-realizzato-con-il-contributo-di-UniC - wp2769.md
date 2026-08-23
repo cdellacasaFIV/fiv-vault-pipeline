@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Marzo 2025
 - Link: https://federvela.it/2025/03/20/presentato-il-progetto-della-fiv-navigare-insieme-litalia-senza-barriere-realizzato-con-il-contributo-di-unicredit/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Settembre 2025
 - Link: https://federvela.it/2025/09/21/americas-cup-2027-accordo-tra-confindustria-nautica-e-americas-cup-event/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

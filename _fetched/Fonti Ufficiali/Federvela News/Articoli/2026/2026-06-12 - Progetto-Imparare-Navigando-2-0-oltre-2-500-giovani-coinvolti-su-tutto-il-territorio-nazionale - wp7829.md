@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Giugno 2026
 - Link: https://federvela.it/2026/06/12/progetto-imparare-navigando-2-0-oltre-2-500-giovani-coinvolti-su-tutto-il-territorio-nazionale/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

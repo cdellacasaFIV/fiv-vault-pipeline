@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Maggio 2020
 - Link: https://federvela.it/2020/05/26/velista-dellanno-fiv-2019-xxvi-edizione-premiazione-online-giovedi-28-maggio-dalle-18-15/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

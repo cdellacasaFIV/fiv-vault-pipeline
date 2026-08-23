@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Giugno 2021
 - Link: https://federvela.it/2021/06/28/nasce-fiv-foil-academy-il-programma-di-sviluppo-della-vela-foiling/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

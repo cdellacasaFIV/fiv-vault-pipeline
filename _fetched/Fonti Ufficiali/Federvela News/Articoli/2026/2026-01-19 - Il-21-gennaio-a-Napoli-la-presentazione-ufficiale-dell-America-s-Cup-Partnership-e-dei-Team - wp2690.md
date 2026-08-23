@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Gennaio 2026
 - Link: https://federvela.it/2026/01/19/il-21-gennaio-a-napoli-la-presentazione-ufficiale-dellamericas-cup-partnership-e-dei-team/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

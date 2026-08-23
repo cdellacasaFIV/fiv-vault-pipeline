@@ -8,7 +8,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Ottobre 2022
 - Link: https://federvela.it/2022/10/21/corso-di-aggiornamento-per-istruttori-di-vela-della-classe-ilca/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-22
+- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 
