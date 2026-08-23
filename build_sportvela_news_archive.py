@@ -5,7 +5,6 @@ import unicodedata
 from collections import defaultdict
 from datetime import date, datetime
 from pathlib import Path
-import shutil
 
 import requests
 from bs4 import BeautifulSoup
@@ -258,15 +257,13 @@ def obsidian_links(theme_list):
 
 
 def reset_generated_dirs():
-    backup_root = OUT / "_backup"
-    backup_root.mkdir(parents=True, exist_ok=True)
+    # NOTA (2026-08-23): rimosso il backup locale su _backup/<cartella>-<data> che veniva
+    # rifatto ad ogni run: la cronologia git del repository e' gia' il backup reale (ogni
+    # commit "Auto-fetch dati esterni" conserva lo stato precedente), quindi copiare tutto
+    # in una sottocartella datata ogni notte produceva solo un raddoppio del repository
+    # e un delta falso enorme per la pipeline di sync a valle. Non serve piu' ricrearlo.
     for directory in [ARTICLE_DIR, YEAR_INDEX_DIR, THEME_INDEX_DIR]:
         if directory.exists():
-            stamp = date.today().isoformat()
-            backup_dir = backup_root / f"{directory.name}-{stamp}"
-            if backup_dir.exists():
-                shutil.rmtree(backup_dir)
-            shutil.copytree(directory, backup_dir)
             for path in sorted(directory.rglob("*.md")):
                 path.unlink()
         directory.mkdir(parents=True, exist_ok=True)
@@ -291,7 +288,6 @@ def article_note(post, cat_names):
         f"- Data SportVela: {label}",
         f"- Link: {post.get('link', '')}",
         f"- Categorie: {', '.join(cat_names) or '-'}",
-        f"- Archiviato: {TODAY}",
         "",
         "## Perche' tenerla",
         "",
@@ -418,7 +414,6 @@ def write_indices(records, category_ids):
         f"- Categoria API: News + sottocategorie ({len(category_ids)} categorie).",
         f"- Articoli utili archiviati: {len(records)}",
         f"- Intervallo effettivo trovato: {min(dates) if dates else '-'} - {max(dates) if dates else '-'}",
-        f"- Data estrazione: {TODAY}",
         "",
         "## Indici per anno",
         "",
