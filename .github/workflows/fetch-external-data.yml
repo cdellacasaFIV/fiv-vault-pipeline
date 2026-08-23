@@ -49,6 +49,19 @@ jobs:
           echo "--- errors (se presenti) ---"
           cat _fetch_errors.log 2>/dev/null || echo "nessun errore"
 
+      - name: Archivio mensile su Drive (solo il giorno 1 del mese)
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          set -e
+          DAY=$(date -u +%d)
+          if [ "$DAY" = "01" ] || [ "${FORCE_MONTHLY_ARCHIVE:-}" = "1" ]; then
+            echo "==> Giorno 1 del mese (o forzato): eseguo archivio mensile"
+            python3 sync_monthly_archive_to_drive.py
+          else
+            echo "Non e' il giorno 1 del mese (oggi: $DAY), salto l'archivio mensile."
+          fi
+
       - name: Commit fetched data
         run: |
           git config user.name "github-actions[bot]"
