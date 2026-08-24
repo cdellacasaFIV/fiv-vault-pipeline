@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Febbraio 2026
 - Link: https://federvela.it/2026/02/12/federazione-italiana-vela-e-blue-marina-awards-siglato-un-accordo-per-promuovere-sostenibilita-inclusione-cultura-del-mare-e-sport-nei-porti-virtuosi/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

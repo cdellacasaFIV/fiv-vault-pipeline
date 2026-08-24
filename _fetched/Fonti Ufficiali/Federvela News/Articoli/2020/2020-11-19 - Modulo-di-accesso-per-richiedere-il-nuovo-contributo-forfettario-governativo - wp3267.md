@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Novembre 2020
 - Link: https://federvela.it/2020/11/19/modulo-di-accesso-per-richiedere-il-nuovo-contributo-forfettario-governativo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

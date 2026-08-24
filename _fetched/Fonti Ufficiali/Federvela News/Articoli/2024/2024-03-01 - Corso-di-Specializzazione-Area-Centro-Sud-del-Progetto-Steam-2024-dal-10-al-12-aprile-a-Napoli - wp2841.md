@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Marzo 2024
 - Link: https://federvela.it/2024/03/01/corso-di-specializzazione-area-centro-sud-del-progetto-steam-2024-dal-10-al-12-aprile-a-napoli/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

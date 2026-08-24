@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Ottobre 2021
 - Link: https://federvela.it/2021/10/12/mondiale-formula-kite-a-torregrande-oristano-anno-zero-e-primo-vero-mondiale-con-obiettivo-parigi-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

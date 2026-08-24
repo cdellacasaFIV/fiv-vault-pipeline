@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Gennaio 2024
 - Link: https://federvela.it/2024/01/22/continua-la-partnership-tra-federazione-italiana-vela-e-edison-next/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

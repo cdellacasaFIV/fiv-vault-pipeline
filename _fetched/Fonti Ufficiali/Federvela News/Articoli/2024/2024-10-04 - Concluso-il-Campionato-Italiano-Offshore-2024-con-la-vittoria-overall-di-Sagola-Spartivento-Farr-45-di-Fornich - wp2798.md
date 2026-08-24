@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Ottobre 2024
 - Link: https://federvela.it/2024/10/04/concluso-il-campionato-italiano-offshore-2024-con-la-vittoria-overall-di-sagola-spartivento-farr-45-di-fornich-battistoni-sorrentino/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

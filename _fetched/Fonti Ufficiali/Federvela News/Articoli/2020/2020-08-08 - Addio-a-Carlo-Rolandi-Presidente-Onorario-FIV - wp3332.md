@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Agosto 2020
 - Link: https://federvela.it/2020/08/08/addio-a-carlo-rolandi-presidente-onorario-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

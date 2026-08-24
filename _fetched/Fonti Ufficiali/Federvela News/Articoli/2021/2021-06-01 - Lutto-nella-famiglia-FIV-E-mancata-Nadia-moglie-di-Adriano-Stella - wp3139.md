@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Giugno 2021
 - Link: https://federvela.it/2021/06/01/lutto-nella-famiglia-fiv-e-mancata-nadia-moglie-di-adriano-stella/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

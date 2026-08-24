@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Ottobre 2023
 - Link: https://federvela.it/2023/10/06/una-spettacolare-giornata-di-regate-internazionali-di-para-sailing-nellambito-della-barcolana-para-sailing/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

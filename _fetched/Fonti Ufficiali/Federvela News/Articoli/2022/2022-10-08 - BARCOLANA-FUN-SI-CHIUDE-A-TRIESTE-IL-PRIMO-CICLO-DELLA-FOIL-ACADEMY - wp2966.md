@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Ottobre 2022
 - Link: https://federvela.it/2022/10/08/barcolana-fun-si-chiude-a-trieste-il-primo-ciclo-della-foil-academy/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Giugno 2022
 - Link: https://federvela.it/2022/06/24/chiusura-uffici-fiv-venerdi-24-giugno/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

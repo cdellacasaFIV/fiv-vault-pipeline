@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 31 Gennaio 2020
 - Link: https://federvela.it/2020/01/31/piu-comunicazione-sulla-vela-olimpica/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

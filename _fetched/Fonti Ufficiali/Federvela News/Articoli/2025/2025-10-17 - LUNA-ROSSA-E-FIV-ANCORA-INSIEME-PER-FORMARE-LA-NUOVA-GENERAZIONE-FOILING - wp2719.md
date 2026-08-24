@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Ottobre 2025
 - Link: https://federvela.it/2025/10/17/luna-rossa-e-fiv-ancora-insieme-per-formare-la-nuova-generazione-foiling/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

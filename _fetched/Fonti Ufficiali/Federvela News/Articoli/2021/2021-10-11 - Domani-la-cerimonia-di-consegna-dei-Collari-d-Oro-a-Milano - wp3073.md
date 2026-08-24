@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Ottobre 2021
 - Link: https://federvela.it/2021/10/11/domani-la-cerimonia-di-consegna-dei-collari-doro-a-milano/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

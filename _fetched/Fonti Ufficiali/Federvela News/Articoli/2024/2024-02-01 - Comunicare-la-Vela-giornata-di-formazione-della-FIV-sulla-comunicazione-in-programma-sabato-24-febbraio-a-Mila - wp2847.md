@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Febbraio 2024
 - Link: https://federvela.it/2024/02/01/comunicare-la-vela-giornata-di-formazione-della-fiv-sulla-comunicazione-in-programma-sabato-24-febbraio-a-milano/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

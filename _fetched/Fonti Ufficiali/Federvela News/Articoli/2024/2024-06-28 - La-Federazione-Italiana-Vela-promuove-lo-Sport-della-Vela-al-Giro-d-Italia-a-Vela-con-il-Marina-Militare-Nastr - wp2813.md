@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Giugno 2024
 - Link: https://federvela.it/2024/06/28/la-federazione-italiana-vela-promuove-lo-sport-della-vela-al-giro-ditalia-a-vela-con-il-marina-militare-nastro-rosa-tour/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

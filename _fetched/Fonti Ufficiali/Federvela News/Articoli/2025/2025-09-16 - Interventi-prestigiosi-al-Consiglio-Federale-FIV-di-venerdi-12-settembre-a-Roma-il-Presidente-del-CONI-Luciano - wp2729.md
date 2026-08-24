@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Settembre 2025
 - Link: https://federvela.it/2025/09/16/interventi-prestigiosi-al-consiglio-federale-fiv-di-venerdi-12-settembre-a-roma-il-presidente-del-coni-luciano-buonfiglio-e-il-presidente-del-cip-marco-giunio-de-sanctis/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

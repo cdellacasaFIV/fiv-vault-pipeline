@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Marzo 2021
 - Link: https://federvela.it/2021/03/13/mondiale-470-2021-bronzo-per-elena-berta-e-bianca-caruso/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

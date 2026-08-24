@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Luglio 2022
 - Link: https://federvela.it/2022/07/07/aon-nuove-vantaggiose-convenzioni-per-i-tesserati-ed-i-circoli-velici/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

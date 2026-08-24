@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Luglio 2021
 - Link: https://federvela.it/2021/07/05/tre-giorni-di-sport-a-porto-san-giorgio-per-il-campionato-nazionale-hansa-303/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

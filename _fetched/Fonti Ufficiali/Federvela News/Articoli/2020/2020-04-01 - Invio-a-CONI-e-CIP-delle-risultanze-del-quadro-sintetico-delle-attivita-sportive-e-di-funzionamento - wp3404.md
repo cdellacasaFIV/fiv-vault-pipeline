@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Aprile 2020
 - Link: https://federvela.it/2020/04/01/invio-a-coni-e-cip-delle-risultanze-del-quadro-sintetico-delle-attivita-sportive-e-di-funzionamento/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

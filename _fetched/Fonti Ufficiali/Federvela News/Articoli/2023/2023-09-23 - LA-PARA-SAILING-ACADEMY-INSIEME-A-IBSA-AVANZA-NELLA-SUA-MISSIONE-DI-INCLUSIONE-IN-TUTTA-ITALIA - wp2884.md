@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Settembre 2023
 - Link: https://federvela.it/2023/09/23/la-para-sailing-academy-insieme-a-ibsa-avanza-nella-sua-missione-di-inclusione-in-tutta-italia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

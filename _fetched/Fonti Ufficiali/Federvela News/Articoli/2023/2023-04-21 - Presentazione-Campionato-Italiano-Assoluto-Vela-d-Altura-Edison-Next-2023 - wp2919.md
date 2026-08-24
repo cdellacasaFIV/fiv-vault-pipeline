@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Aprile 2023
 - Link: https://federvela.it/2023/04/21/presentazione-campionato-italiano-assoluto-vela-daltura-edison-next-2023/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

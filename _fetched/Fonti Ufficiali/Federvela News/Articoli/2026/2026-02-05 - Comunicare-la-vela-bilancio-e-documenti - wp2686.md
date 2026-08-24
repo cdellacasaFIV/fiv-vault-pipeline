@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Febbraio 2026
 - Link: https://federvela.it/2026/02/05/comunicare-la-vela-bilancio-e-documenti/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

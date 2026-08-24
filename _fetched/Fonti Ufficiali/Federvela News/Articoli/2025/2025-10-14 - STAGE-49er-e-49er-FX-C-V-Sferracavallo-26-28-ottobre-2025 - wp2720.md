@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 14 Ottobre 2025
 - Link: https://federvela.it/2025/10/14/stage-49er-e-49er-fx-c-v-sferracavallo-26-28-ottobre-2025/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

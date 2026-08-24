@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 31 Ottobre 2024
 - Link: https://federvela.it/2024/10/31/esclusione-delle-concessioni-sportive-dalla-direttiva-bolkestein-riconoscimento-istituzionale-per-lo-sport-di-base-italiano-senza-fini-di-lucro/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

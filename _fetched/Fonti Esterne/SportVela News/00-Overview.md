@@ -20,13 +20,12 @@ Sezione per usare SportVela come fonte esterna di contesto, spunti e memoria edi
 
 - Cutoff richiesto: dal 2020 in avanti.
 - Categoria API: News + sottocategorie (22 categorie).
-- Articoli utili archiviati: 1369
-- Intervallo effettivo trovato: 2023-10-18 - 2026-08-20
-- Data estrazione: 2026-08-22
+- Articoli utili archiviati: 1371
+- Intervallo effettivo trovato: 2023-10-18 - 2026-08-23
 
 ## Indici per anno
 
-- [[Fonti Esterne/SportVela News/Indici/Per Anno/2026|2026]] (606 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Anno/2026|2026]] (608 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Anno/2025|2025]] (548 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Anno/2024|2024]] (191 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Anno/2023|2023]] (24 news)
@@ -34,9 +33,9 @@ Sezione per usare SportVela come fonte esterna di contesto, spunti e memoria edi
 ## Indici per tema
 
 - [[Fonti Esterne/SportVela News/Indici/Per Tema/america-s-cup-napoli|america's cup/napoli]] (102 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile|giovanile]] (683 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile|giovanile]] (685 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Tema/media-storytelling|media/storytelling]] (625 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica|olimpica]] (542 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica|olimpica]] (543 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Tema/para-inclusione|para/inclusione]] (473 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati|risultati]] (1115 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli|zone/circoli]] (1091 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati|risultati]] (1117 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli|zone/circoli]] (1092 news)

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Settembre 2021
 - Link: https://federvela.it/2021/09/17/europeo-nacra-17-49er-e-49er-fx-in-grecia-day-3/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Giugno 2021
 - Link: https://federvela.it/2021/06/30/la-scomparsa-improvvisa-di-andrea-patacca/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

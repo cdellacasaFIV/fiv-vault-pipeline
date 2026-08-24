@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Ottobre 2023
 - Link: https://federvela.it/2023/10/06/barcolana-foil-la-spettacolare-regata-dimostrativa-della-next-generation-foil-academy-powered-by-luna-rossa/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

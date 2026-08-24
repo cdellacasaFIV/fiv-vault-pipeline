@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Novembre 2023
 - Link: https://federvela.it/2023/11/27/terza-edizione-degli-sport-for-nature-awards-premiati-atleti-e-realta-distintesi-nellimpegno-green-e-sociale/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

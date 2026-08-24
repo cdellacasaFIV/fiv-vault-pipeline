@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Aprile 2021
 - Link: https://federvela.it/2021/04/23/importante-novita-dal-cio-al-via-da-maggio-le-prime-olympic-virtual-series/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

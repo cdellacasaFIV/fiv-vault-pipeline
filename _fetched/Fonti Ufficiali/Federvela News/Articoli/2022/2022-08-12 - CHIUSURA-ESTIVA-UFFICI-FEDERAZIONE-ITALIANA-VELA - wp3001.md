@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Agosto 2022
 - Link: https://federvela.it/2022/08/12/chiusura-estiva-uffici-federazione-italiana-vela-4/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

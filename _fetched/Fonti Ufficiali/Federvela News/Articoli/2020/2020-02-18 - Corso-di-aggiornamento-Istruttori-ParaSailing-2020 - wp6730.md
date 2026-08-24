@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Febbraio 2020
 - Link: https://federvela.it/2020/02/18/corso-di-aggiornamento-istruttori-parasailing-2020/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

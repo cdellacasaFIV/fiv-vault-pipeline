@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Marzo 2021
 - Link: https://federvela.it/2021/03/25/comunicazione-direz-tecnica-stage-iqfoil-cagliari-12-22-aprile-2021/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

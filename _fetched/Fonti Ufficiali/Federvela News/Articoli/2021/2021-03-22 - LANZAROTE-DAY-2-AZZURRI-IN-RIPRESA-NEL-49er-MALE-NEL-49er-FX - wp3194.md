@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Marzo 2021
 - Link: https://federvela.it/2021/03/22/lanzarote-day-2-azzurri-in-ripresa-nel-49er-male-nel-49er-fx/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

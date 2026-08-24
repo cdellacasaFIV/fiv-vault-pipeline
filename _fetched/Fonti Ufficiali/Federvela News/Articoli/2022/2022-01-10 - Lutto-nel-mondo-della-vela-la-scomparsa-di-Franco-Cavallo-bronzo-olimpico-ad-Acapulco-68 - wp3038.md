@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Gennaio 2022
 - Link: https://federvela.it/2022/01/10/lutto-nel-mondo-della-vela-la-scomparsa-di-franco-cavallo-bronzo-olimpico-ad-acapulco-68/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 31 Agosto 2022
 - Link: https://federvela.it/2022/08/31/a-salerno-in-500-per-i-campionati-italiani-giovanili-in-singolo-ettorre-tanti-grandi-atleti-in-un-fantastico-scenario/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

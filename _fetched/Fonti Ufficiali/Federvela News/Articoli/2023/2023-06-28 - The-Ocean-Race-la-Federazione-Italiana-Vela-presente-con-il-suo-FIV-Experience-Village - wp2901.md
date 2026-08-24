@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Giugno 2023
 - Link: https://federvela.it/2023/06/28/the-ocean-race-la-federazione-italiana-vela-presente-con-il-suo-fiv-experience-village/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Gennaio 2026
 - Link: https://federvela.it/2026/01/30/luna-rossa-sponsor-ufficiale-della-federazione-italiana-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

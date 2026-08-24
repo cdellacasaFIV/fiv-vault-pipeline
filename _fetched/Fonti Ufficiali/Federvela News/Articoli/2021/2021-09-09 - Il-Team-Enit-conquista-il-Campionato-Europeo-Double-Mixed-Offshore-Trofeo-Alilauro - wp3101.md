@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Settembre 2021
 - Link: https://federvela.it/2021/09/09/il-team-enit-conquista-il-campionato-europeo-double-mixed-offshore-trofeo-alilauro/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

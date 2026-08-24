@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Ottobre 2020
 - Link: https://federvela.it/2020/10/10/2-campionato-italiano-e-sailing-fiv-barcolana-oggi-le-finali-a-trieste/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

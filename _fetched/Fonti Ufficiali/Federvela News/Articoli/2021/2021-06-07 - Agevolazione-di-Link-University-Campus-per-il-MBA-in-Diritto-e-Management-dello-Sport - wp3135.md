@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Giugno 2021
 - Link: https://federvela.it/2021/06/07/agevolazione-di-link-university-campus-per-il-mba-in-diritto-e-management-dello-sport/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Settembre 2024
 - Link: https://federvela.it/2024/09/26/concluso-il-lungo-iter-legislativo-del-codice-della-nautica-da-diporto-un-impegno-di-quattro-anni-per-la-sicurezza-e-lo-sviluppo-del-settore/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

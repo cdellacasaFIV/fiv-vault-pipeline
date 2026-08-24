@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Settembre 2020
 - Link: https://federvela.it/2020/09/16/italiano-e-sailing-barcolana-ecco-la-barca/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

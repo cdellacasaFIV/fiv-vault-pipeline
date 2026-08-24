@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Aprile 2023
 - Link: https://federvela.it/2023/04/13/corso-di-specializzazione-istruttori-para-sailing-2023-3/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

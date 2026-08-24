@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Agosto 2020
 - Link: https://federvela.it/2020/08/21/il-presidente-della-fiv-francesco-ettorre-la-d-eugenio-michelino-e-lassessore-valerio-vesprini-da-liberi-nel-vento-per-parlare-di-presente-e-futuro/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

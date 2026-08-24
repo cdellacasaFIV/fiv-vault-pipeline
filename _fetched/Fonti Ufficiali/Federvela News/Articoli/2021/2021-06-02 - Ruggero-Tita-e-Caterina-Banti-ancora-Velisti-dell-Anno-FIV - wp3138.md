@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 2 Giugno 2021
 - Link: https://federvela.it/2021/06/02/ruggero-tita-e-caterina-banti-ancora-velisti-dellanno-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

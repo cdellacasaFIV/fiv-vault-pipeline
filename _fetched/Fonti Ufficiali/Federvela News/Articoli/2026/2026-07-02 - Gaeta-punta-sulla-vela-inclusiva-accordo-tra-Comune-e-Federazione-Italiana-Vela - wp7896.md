@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 2 Luglio 2026
 - Link: https://federvela.it/2026/07/02/gaeta-punta-sulla-vela-inclusiva-accordo-tra-comune-e-federazione-italiana-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

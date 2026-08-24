@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Giugno 2023
 - Link: https://federvela.it/2023/06/11/corso-aggiornamento-istruttori-xi-zona-circolo-velico-ravennate/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

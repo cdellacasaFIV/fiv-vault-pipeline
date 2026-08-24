@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Marzo 2022
 - Link: https://federvela.it/2022/03/29/corso-di-aggiornamento-per-il-settore-scuola-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

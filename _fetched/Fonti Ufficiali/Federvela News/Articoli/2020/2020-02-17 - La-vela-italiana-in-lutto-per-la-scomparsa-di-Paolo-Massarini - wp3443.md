@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Febbraio 2020
 - Link: https://federvela.it/2020/02/17/la-vela-italiana-in-lutto-per-la-scomparsa-di-paolo-massarini/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

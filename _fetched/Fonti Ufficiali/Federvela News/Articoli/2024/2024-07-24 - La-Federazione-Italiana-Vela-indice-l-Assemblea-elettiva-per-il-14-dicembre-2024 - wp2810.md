@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Luglio 2024
 - Link: https://federvela.it/2024/07/24/la-federazione-italiana-vela-indice-lassemblea-elettiva-per-il-14-dicembre-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

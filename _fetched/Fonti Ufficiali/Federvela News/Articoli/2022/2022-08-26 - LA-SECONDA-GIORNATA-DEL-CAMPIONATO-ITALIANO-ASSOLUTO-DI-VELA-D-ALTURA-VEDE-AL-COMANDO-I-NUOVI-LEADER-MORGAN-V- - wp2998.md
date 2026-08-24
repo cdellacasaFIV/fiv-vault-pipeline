@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Agosto 2022
 - Link: https://federvela.it/2022/08/26/la-seconda-giornata-del-campionato-italiano-assoluto-di-vela-daltura-vede-al-comando-i-nuovi-leader-morgan-v-e-sugar/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

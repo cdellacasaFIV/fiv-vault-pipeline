@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Agosto 2023
 - Link: https://federvela.it/2023/08/10/rockwool-italy-sail-grand-prix-2023-a-taranto-focus-sulla-prossima-generazione-di-velisti-con-levento-inspire-x-waszp/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

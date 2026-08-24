@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 3 Dicembre 2025
 - Link: https://federvela.it/2025/12/03/giornata-internazionale-delle-persone-con-disabilita-la-fiv-consegna-ai-circoli-la-bandiera-digitale-la-vela-per-tutti/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

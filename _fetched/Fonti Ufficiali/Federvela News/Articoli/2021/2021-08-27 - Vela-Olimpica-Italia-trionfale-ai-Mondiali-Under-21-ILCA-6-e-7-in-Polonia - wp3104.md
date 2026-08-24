@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Agosto 2021
 - Link: https://federvela.it/2021/08/27/vela-olimpica-italia-trionfale-ai-mondiali-under-21-ilca-6-e-7-in-polonia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

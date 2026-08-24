@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Dicembre 2023
 - Link: https://federvela.it/2023/12/20/sardinia-sailing-cup-day-2-comincia-lo-spettacolo-del-foil-internazionale-in-sardegna-le-regate-si-possono-seguire-da-su-siccu/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

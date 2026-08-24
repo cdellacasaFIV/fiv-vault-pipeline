@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Settembre 2025
 - Link: https://federvela.it/2025/09/21/al-salone-nautico-di-genova-presentato-il-progetto-velando/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

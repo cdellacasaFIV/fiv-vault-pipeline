@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Maggio 2024
 - Link: https://federvela.it/2024/05/10/ambrogio-beccaria-vince-la-the-transat-cic-2024-a-bordo-di-alla-grande-pirelli/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

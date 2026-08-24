@@ -2,7 +2,7 @@
 
 Fonte: World Sailing API, risultati `Overall Results`.
 Perimetro: grandi regate Olympic Classes / Sailing Grand Slam disponibili su World Sailing.
-Aggiornato: 2026-08-23.
+Aggiornato: 2026-08-24.
 
 | Regata | Evento | Anno | Edizione | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- | --- |

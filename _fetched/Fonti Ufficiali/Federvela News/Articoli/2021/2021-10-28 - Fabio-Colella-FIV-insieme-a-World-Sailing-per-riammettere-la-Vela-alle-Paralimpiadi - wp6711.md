@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Ottobre 2021
 - Link: https://federvela.it/2021/10/28/fabio-colella-fiv-insieme-a-world-sailing-per-riammettere-la-vela-alle-paralimpiadi/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

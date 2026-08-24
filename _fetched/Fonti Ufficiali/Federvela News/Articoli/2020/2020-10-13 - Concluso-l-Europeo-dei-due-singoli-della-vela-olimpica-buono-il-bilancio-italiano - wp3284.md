@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Ottobre 2020
 - Link: https://federvela.it/2020/10/13/concluso-leuropeo-dei-due-singoli-della-vela-olimpica-buono-il-bilancio-italiano/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

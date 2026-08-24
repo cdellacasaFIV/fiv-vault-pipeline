@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Dicembre 2022
 - Link: https://federvela.it/2022/12/04/seminario-alto-livello-sviluppo-per-ufficiali-di-regata/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Agosto 2020
 - Link: https://federvela.it/2020/08/11/i-470-azzurri-in-evidenza-al-trofeo-cornu-in-bretagna/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

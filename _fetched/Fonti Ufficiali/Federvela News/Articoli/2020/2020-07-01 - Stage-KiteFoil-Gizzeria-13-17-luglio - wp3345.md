@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Luglio 2020
 - Link: https://federvela.it/2020/07/01/stage-kitefoil-gizzeria-13-17-luglio/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

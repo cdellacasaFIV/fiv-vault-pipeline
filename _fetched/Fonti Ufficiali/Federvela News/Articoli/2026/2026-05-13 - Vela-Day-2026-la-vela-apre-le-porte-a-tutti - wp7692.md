@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Maggio 2026
 - Link: https://federvela.it/2026/05/13/vela-day-2026-la-vela-apre-le-porte-a-tutti/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

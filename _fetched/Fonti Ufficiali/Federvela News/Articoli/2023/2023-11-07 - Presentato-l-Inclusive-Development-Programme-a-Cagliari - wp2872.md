@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Novembre 2023
 - Link: https://federvela.it/2023/11/07/presentato-linclusive-development-programme-a-cagliari/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

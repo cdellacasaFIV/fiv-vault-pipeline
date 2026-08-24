@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Novembre 2023
 - Link: https://federvela.it/2023/11/01/uninnovativa-iniziativa-world-sailing-e-federazione-vela-insieme-a-cagliari-per-linclusive-development-programme-allinterno-della-sardinia-sailing-cup/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

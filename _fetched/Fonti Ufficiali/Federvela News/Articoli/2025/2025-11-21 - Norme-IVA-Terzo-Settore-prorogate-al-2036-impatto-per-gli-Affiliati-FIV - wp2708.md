@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Novembre 2025
 - Link: https://federvela.it/2025/11/21/norme-iva-terzo-settore-prorogate-al-2036-impatto-per-gli-affiliati-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Aprile 2021
 - Link: https://federvela.it/2021/04/23/comunicazione-direzione-tecnica-stage-formula-kite-torre-annunziata-5-7-maggio-2021/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

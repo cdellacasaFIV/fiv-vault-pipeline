@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Gennaio 2025
 - Link: https://federvela.it/2025/01/21/nasce-il-med-sailors-genova-il-nuovo-centro-di-alta-specializzazione-fiv-per-la-vela-daltura/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

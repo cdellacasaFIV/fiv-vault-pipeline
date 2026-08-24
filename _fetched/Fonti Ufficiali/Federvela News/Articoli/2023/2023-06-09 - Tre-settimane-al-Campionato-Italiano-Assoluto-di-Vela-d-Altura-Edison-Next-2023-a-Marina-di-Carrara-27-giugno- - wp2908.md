@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Giugno 2023
 - Link: https://federvela.it/2023/06/09/tre-settimane-al-campionato-italiano-assoluto-di-vela-daltura-edison-next-2023-a-marina-di-carrara-27-giugno-1-luglio/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

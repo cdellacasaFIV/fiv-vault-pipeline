@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Novembre 2021
 - Link: https://federvela.it/2021/11/10/istituito-il-master-di-1-livello-sport-e-inclusione-gestione-e-innovazione-nella-disabilita-alluniversita-di-parma/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

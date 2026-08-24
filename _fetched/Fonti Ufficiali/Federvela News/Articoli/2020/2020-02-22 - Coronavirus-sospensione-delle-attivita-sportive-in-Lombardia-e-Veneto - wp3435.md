@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Febbraio 2020
 - Link: https://federvela.it/2020/02/22/coronavirus-sospensione-delle-attivita-sportive-in-lombardia-e-veneto/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

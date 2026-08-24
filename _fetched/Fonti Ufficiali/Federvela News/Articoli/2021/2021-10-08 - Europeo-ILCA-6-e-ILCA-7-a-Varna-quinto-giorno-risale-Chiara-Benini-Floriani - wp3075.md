@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Ottobre 2021
 - Link: https://federvela.it/2021/10/08/europeo-ilca-6-e-ilca-7-a-varna-quinto-giorno-risale-chiara-benini-floriani/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Giugno 2026
 - Link: https://federvela.it/2026/06/05/gaeta-per-dieci-giorni-capitale-della-vela-targata-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

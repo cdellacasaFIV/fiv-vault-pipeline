@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Luglio 2021
 - Link: https://federvela.it/2021/07/05/tre-ragazzi-dellassociazione-marinai-ditalia-in-navigazione-da-genova-a-trieste-in-difesa-dellambiente-marino/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

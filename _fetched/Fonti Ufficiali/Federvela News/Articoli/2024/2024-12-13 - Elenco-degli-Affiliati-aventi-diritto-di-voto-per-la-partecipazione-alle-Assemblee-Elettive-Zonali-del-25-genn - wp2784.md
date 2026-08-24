@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Dicembre 2024
 - Link: https://federvela.it/2024/12/13/elenco-degli-affiliati-aventi-diritto-di-voto-per-la-partecipazione-alle-assemblee-elettive-zonali-del-25-gennaio-2025/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

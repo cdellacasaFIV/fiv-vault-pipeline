@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Maggio 2025
 - Link: https://federvela.it/2025/05/22/velista-dellanno-fiv-2025-e-marta-maggetti-la-stella-della-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

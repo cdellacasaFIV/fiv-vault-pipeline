@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Giugno 2020
 - Link: https://federvela.it/2020/06/25/luomo-e-il-mare-puntata-da-non-perdere-su-rai-sport/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

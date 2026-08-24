@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Febbraio 2020
 - Link: https://federvela.it/2020/02/04/anteprima-tre-mondiali-10-15-febbraio-in-australia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

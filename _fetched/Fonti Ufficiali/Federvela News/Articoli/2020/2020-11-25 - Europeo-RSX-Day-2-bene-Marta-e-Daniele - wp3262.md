@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Novembre 2020
 - Link: https://federvela.it/2020/11/25/europeo-rsx-day-2-bene-marta-e-daniele/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

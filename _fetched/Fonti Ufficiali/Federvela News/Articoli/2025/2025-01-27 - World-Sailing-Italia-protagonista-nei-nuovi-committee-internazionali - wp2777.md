@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Gennaio 2025
 - Link: https://federvela.it/2025/01/27/world-sailing-italia-protagonista-nei-nuovi-committee-internazionali/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

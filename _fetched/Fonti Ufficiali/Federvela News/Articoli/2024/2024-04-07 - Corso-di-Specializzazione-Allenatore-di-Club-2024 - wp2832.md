@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Aprile 2024
 - Link: https://federvela.it/2024/04/07/corso-di-specializzazione-allenatore-di-club-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

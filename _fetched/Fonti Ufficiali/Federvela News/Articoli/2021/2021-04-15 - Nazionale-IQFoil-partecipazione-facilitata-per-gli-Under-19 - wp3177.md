@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 15 Aprile 2021
 - Link: https://federvela.it/2021/04/15/nazionale-iqfoil-partecipazione-facilitata-per-gli-under-19/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

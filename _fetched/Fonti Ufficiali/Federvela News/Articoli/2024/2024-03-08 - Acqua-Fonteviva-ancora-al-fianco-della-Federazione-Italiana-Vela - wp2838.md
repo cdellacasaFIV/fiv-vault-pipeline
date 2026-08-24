@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Marzo 2024
 - Link: https://federvela.it/2024/03/08/acqua-fonteviva-ancora-al-fianco-della-federazione-italiana-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

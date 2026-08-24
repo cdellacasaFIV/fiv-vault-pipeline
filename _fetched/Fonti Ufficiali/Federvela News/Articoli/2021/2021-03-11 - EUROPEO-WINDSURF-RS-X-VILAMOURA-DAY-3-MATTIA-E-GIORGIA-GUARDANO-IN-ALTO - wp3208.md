@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Marzo 2021
 - Link: https://federvela.it/2021/03/11/europeo-windsurf-rsx-vilamoura-day-3-mattia-e-giorgia-guardano-in-alto/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

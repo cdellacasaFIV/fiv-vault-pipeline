@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Febbraio 2024
 - Link: https://federvela.it/2024/02/06/corso-di-specializzazione-istruttori-di-vela-per-deriva-foil-waszp-tra-il-25-marzo-e-il-17-aprile/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

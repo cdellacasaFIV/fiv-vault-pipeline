@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Novembre 2021
 - Link: https://federvela.it/2021/11/12/gara-europea-per-per-copertura-dei-servizi-assicurativi-fiv-per-il-quadriennio-2022-2025/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

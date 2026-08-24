@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Agosto 2022
 - Link: https://federvela.it/2022/08/28/campionato-italiano-assoluto-di-vela-daltura-2022-i-nomi-di-tutti-i-vincitori/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

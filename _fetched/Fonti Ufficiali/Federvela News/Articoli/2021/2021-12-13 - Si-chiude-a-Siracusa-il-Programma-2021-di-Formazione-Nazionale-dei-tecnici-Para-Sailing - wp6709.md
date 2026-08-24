@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Dicembre 2021
 - Link: https://federvela.it/2021/12/13/si-chiude-a-siracusa-il-programma-2021-di-formazione-nazionale-dei-tecnici-para-sailing/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

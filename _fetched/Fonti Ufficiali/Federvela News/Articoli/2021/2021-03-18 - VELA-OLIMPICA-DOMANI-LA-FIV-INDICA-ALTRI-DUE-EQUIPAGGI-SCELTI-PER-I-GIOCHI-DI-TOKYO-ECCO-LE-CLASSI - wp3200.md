@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Marzo 2021
 - Link: https://federvela.it/2021/03/18/vela-olimpica-domani-la-fiv-indica-altri-due-equipaggi-scelti-per-i-giochi-di-tokyo-ecco-le-classi/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

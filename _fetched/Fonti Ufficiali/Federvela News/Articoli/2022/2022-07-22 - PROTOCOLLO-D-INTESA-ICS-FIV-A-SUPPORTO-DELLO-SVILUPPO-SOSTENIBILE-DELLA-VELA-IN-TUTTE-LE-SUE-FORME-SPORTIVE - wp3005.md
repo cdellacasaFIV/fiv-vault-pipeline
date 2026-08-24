@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Luglio 2022
 - Link: https://federvela.it/2022/07/22/protocollo-dintesa-ics-fiv-a-supporto-dello-sviluppo-sostenibile-della-vela-in-tutte-le-sue-forme-sportive/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

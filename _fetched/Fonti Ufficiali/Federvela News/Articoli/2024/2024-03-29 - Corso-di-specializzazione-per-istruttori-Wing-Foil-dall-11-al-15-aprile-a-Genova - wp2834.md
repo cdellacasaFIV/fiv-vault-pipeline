@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Marzo 2024
 - Link: https://federvela.it/2024/03/29/corso-di-specializzazione-per-istruttori-wing-foil-dall11-al-15-aprile-a-genova/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

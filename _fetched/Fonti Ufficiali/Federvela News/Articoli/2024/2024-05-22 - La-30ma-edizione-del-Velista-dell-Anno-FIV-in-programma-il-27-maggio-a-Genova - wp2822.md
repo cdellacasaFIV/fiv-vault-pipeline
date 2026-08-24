@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Maggio 2024
 - Link: https://federvela.it/2024/05/22/la-30ma-edizione-del-velista-dellanno-fiv-in-programma-il-27-maggio-a-genova/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

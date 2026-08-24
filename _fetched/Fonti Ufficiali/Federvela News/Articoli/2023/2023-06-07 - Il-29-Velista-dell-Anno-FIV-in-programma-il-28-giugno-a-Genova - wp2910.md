@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Giugno 2023
 - Link: https://federvela.it/2023/06/07/il-29-velista-dellanno-fiv-in-programma-il-28-giugno-a-genova/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

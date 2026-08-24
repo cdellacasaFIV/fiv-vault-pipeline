@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Gennaio 2021
 - Link: https://federvela.it/2021/01/12/via-agli-aiuti-per-lavviamento-allo-sport-delle-persone-con-disabilita/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

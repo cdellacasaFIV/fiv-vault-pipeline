@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Marzo 2021
 - Link: https://federvela.it/2021/03/27/concluso-il-primo-evento-della-ranking-italiana-di-primavera-e-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

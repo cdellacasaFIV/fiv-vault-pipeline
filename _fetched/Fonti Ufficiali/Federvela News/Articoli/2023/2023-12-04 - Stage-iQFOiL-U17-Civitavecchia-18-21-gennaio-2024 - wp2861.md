@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Dicembre 2023
 - Link: https://federvela.it/2023/12/04/stage-iqfoil-u17-civitavecchia-18-21-gennaio-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

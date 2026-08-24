@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Maggio 2026
 - Link: https://federvela.it/2026/05/18/stage-iqfoil-u17-malcesine-13-16-giugno-2026/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

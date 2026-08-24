@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Ottobre 2021
 - Link: https://federvela.it/2021/10/26/la-federazione-italiana-vela-presenta-il-nuovo-piano-sportivo-2022-2024-per-classi-olimpiche-giovanili-e-para-sailing/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

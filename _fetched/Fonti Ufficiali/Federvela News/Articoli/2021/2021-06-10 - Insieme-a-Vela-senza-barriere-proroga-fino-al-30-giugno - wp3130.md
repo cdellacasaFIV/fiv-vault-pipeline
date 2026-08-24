@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Giugno 2021
 - Link: https://federvela.it/2021/06/10/insieme-a-vela-senza-barriere-proroga-fino-al-30-giugno/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

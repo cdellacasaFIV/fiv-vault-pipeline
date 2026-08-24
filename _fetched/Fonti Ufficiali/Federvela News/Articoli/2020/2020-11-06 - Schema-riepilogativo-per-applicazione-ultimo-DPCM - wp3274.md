@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Novembre 2020
 - Link: https://federvela.it/2020/11/06/schema-riepilogativo-per-applicazione-ultimo-dpcm/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

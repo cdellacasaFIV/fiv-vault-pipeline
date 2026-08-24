@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Giugno 2022
 - Link: https://federvela.it/2022/06/22/kieler-woche-2-4mr-terzo-posto-per-antonio-squizzato/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

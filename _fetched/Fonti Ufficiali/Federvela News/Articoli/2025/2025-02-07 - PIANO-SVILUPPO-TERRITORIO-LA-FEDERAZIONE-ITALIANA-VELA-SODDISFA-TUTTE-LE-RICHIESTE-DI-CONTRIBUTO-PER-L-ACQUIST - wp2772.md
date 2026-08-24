@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Febbraio 2025
 - Link: https://federvela.it/2025/02/07/piano-sviluppo-territorio-la-federazione-italiana-vela-soddisfa-tutte-le-richieste-di-contributo-per-lacquisto-di-imbarcazioni/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

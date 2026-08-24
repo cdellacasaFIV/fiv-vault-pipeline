@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Ottobre 2020
 - Link: https://federvela.it/2020/10/23/enations-cup-worlds-italia-in-semifinale/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

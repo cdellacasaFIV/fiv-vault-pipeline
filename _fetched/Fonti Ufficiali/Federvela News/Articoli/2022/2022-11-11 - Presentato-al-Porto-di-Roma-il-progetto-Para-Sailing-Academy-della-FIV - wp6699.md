@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 11 Novembre 2022
 - Link: https://federvela.it/2022/11/11/presentato-al-porto-di-roma-il-progetto-para-sailing-academy-della-fiv/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Dicembre 2023
 - Link: https://federvela.it/2023/12/18/sardinia-sailing-cup-fino-al-22-dicembre-i-campioni-del-foil-si-sfidano-nelle-acque-di-cagliari/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Agosto 2022
 - Link: https://federvela.it/2022/08/25/il-grand-soleil-48-r-anthyris-e-litalia-yachts-11-98-guardamago-ii-sono-i-primi-leader-del-campionato-italiano-di-vela-daltura-2022/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

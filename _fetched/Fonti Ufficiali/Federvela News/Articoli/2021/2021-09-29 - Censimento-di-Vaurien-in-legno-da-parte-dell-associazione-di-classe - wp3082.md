@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Settembre 2021
 - Link: https://federvela.it/2021/09/29/censimento-di-vaurien-in-legno-da-parte-dellassociazione-di-classe/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

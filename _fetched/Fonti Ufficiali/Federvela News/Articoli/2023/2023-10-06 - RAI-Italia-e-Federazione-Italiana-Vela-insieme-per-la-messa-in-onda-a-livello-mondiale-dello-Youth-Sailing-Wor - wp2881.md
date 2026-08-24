@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Ottobre 2023
 - Link: https://federvela.it/2023/10/06/rai-italia-e-federazione-italiana-vela-insieme-per-la-messa-in-onda-a-livello-mondiale-dello-youth-sailing-world-championships/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

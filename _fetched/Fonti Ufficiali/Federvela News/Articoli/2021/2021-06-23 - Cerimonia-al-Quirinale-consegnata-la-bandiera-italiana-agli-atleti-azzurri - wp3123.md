@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Giugno 2021
 - Link: https://federvela.it/2021/06/23/cerimonia-al-quirinale-consegnata-la-bandiera-italiana-agli-atleti-azzurri/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

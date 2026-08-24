@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Novembre 2023
 - Link: https://federvela.it/2023/11/24/italiani-al-top-nella-transat-jacques-vabre-primo-e-terzo-posto-per-beccaria-e-bona/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

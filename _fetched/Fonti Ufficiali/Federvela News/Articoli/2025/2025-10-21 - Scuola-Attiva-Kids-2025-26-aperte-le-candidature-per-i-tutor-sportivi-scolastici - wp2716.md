@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Ottobre 2025
 - Link: https://federvela.it/2025/10/21/scuola-attiva-kids-2025-26-aperte-le-candidature-per-i-tutor-sportivi-scolastici/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

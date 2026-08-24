@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Aprile 2020
 - Link: https://federvela.it/2020/04/24/la-fiv-vara-un-piano-straordinario-di-sostegno-alla-vela-di-base-da-535-000-euro/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

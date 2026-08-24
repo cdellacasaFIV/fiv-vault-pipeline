@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Agosto 2022
 - Link: https://federvela.it/2022/08/27/campionati-italiani-giovanili-a-salerno-mille-velisti-al-via-cinque-classi-una-settimana-di-regate/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

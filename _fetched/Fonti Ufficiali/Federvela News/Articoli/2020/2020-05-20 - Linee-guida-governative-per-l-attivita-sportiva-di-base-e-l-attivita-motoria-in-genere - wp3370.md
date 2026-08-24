@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Maggio 2020
 - Link: https://federvela.it/2020/05/20/linee-guida-governative-per-lattivita-sportiva-di-base-e-lattivita-motoria-in-genere/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

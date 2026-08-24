@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Maggio 2025
 - Link: https://federvela.it/2025/05/06/vela-day-2025-iscrizioni-aperte-fino-all11-maggio-ultima-chiamata/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

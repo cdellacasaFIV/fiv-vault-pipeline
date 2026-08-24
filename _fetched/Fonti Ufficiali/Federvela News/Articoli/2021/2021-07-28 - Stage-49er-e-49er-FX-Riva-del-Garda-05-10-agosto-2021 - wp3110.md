@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Luglio 2021
 - Link: https://federvela.it/2021/07/28/stage-49er-e-49er-fx-riva-del-garda-05-10-agosto-2021/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

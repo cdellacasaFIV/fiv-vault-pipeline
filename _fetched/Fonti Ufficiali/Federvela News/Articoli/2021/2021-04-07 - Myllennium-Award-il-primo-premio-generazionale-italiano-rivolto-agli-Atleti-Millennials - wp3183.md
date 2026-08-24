@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Aprile 2021
 - Link: https://federvela.it/2021/04/07/myllennium-award-il-primo-premio-generazionale-italiano-rivolto-agli-atleti-millennials/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

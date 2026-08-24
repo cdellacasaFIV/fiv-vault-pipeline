@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 2 Ottobre 2024
 - Link: https://federvela.it/2024/10/02/progetto-didattico-studente-atleta-di-alto-livello/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

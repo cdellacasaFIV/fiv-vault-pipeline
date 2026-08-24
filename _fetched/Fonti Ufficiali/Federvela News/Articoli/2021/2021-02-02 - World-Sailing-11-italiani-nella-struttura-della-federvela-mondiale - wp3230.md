@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 2 Febbraio 2021
 - Link: https://federvela.it/2021/02/02/world-sailing-11-italiani-nella-struttura-della-federvela-mondiale/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

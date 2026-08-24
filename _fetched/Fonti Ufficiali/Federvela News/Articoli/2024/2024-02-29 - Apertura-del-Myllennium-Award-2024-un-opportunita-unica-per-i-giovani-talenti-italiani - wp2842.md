@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Febbraio 2024
 - Link: https://federvela.it/2024/02/29/apertura-del-myllennium-award-2024-unopportunita-unica-per-i-giovani-talenti-italiani/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

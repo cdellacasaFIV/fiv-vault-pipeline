@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Giugno 2023
 - Link: https://federvela.it/2023/06/13/ibsa-italy-e-para-sailing-academy-della-federazione-italiana-vela-nasce-una-nuova-partnership-a-sostegno-della-vela-para-sailing-allinsegna-della-solidarieta-e-dellinclusione/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

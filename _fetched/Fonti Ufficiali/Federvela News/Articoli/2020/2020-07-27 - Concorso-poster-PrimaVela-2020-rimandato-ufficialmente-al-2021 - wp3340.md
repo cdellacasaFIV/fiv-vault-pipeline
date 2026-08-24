@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Luglio 2020
 - Link: https://federvela.it/2020/07/27/concorso-poster-primavela-2020-rimandato-ufficialmente-al-2021/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

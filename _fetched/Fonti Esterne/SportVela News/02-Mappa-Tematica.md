@@ -5,16 +5,16 @@ Mappa mentale leggera: rimanda agli indici tematici invece di caricare centinaia
 ## Temi
 
 - [[Fonti Esterne/SportVela News/Indici/Per Tema/america-s-cup-napoli|america's cup/napoli]] (102 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile|giovanile]] (683 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile|giovanile]] (685 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Tema/media-storytelling|media/storytelling]] (625 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica|olimpica]] (542 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica|olimpica]] (543 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Tema/para-inclusione|para/inclusione]] (473 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati|risultati]] (1115 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli|zone/circoli]] (1091 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati|risultati]] (1117 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli|zone/circoli]] (1092 news)
 
 ## Anni
 
-- [[Fonti Esterne/SportVela News/Indici/Per Anno/2026|2026]] (606 news)
+- [[Fonti Esterne/SportVela News/Indici/Per Anno/2026|2026]] (608 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Anno/2025|2025]] (548 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Anno/2024|2024]] (191 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Anno/2023|2023]] (24 news)

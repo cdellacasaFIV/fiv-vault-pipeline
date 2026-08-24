@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 31 Gennaio 2025
 - Link: https://federvela.it/2025/01/31/assemblee-elettive-zonali-eletti-i-presidenti-per-il-quadriennio-2025-2028/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

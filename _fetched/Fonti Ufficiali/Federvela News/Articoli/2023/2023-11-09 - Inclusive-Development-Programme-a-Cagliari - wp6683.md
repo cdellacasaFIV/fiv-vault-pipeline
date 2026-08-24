@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Novembre 2023
 - Link: https://federvela.it/2023/11/09/conclusione-dellinclusive-development-programme-a-cagliari-con-una-regata-su-hansa-303/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

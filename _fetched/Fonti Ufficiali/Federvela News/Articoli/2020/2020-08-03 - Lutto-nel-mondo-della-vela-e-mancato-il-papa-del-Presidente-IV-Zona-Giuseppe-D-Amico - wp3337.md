@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 3 Agosto 2020
 - Link: https://federvela.it/2020/08/03/lutto-nel-mondo-della-vela-e-mancato-il-papa-del-presidente-iv-zona-giuseppe-damico/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

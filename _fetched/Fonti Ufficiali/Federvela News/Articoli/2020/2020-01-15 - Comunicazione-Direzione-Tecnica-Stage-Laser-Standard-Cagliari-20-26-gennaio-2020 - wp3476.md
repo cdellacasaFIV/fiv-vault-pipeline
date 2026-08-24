@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 15 Gennaio 2020
 - Link: https://federvela.it/2020/01/15/comunicazione-direzione-tecnica-stage-laser-standard-cagliari-20-26-gennaio-2020/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

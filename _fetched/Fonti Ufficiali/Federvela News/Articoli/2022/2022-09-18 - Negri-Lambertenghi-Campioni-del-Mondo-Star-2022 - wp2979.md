@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Settembre 2022
 - Link: https://federvela.it/2022/09/18/negri-lambertenghi-campioni-del-mondo-star-2022/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

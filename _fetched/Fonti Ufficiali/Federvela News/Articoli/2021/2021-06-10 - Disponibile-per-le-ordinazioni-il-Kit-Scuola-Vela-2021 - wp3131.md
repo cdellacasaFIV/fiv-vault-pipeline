@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Giugno 2021
 - Link: https://federvela.it/2021/06/10/disponibile-per-le-ordinazioni-il-kit-scuola-vela-2021/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

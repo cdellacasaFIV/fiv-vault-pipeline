@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Aprile 2022
 - Link: https://federvela.it/2022/04/24/quattro-titoli-per-litalia-al-campionato-europeo-di-windsurf-techno-293/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

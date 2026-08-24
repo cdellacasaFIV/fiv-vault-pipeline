@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Novembre 2025
 - Link: https://federvela.it/2025/11/01/fiv-in-prima-linea-al-marina-militare-nastro-rosa-il-giro-dellitalia-a-vela-veloce/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

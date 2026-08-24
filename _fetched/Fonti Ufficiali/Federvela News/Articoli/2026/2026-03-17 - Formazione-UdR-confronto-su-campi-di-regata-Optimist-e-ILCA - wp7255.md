@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Marzo 2026
 - Link: https://federvela.it/2026/03/17/formazione-udr-confronto-su-campi-di-regata-optimist-e-ilca/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

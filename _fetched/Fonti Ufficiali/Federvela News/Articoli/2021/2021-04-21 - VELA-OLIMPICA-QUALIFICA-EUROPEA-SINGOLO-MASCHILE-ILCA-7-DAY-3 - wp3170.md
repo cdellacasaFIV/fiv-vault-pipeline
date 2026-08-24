@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Aprile 2021
 - Link: https://federvela.it/2021/04/21/vela-olimpica-qualifica-europea-singolo-maschile-ilca-7-day-3/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

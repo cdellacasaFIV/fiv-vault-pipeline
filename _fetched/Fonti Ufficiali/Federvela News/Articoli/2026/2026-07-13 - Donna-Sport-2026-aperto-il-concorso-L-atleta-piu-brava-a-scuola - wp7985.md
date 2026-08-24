@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Luglio 2026
 - Link: https://federvela.it/2026/07/13/donna-sport-2026-aperto-il-concorso-latleta-piu-brava-a-scuola/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

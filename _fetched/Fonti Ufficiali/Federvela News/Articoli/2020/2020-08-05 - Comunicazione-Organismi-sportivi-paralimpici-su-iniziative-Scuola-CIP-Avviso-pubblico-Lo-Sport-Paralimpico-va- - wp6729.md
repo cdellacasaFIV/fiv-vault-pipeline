@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Agosto 2020
 - Link: https://federvela.it/2020/08/05/comunicazione-organismi-sportivi-paralimpici-su-iniziative-scuola-cip-avviso-pubblico-lo-sport-paralimpico-va-a-scuola-e-progetto-nazionale-per-lo-sport-paralimpico-a-scuola/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

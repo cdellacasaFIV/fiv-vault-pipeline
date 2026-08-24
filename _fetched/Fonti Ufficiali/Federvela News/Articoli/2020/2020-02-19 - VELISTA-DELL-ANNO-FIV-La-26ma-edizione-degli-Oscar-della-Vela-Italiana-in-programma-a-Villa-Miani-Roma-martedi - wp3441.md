@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Febbraio 2020
 - Link: https://federvela.it/2020/02/19/velista-dellanno-fiv-la-26ma-edizione-degli-oscar-della-vela-italiana-in-programma-a-villa-miani-roma-martedi-24-marzo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

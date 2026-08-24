@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Ottobre 2023
 - Link: https://federvela.it/2023/10/16/campionato-del-mondo-di-classe-hansa-303-italia-pronta-per-lavventura-a-portimao/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

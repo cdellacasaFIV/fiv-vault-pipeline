@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Marzo 2021
 - Link: https://federvela.it/2021/03/23/lanzarote-day-3-restiamo-in-corsa-per-tokyo-solo-nel-49er-maschile/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

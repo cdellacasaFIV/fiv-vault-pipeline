@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Maggio 2022
 - Link: https://federvela.it/2022/05/24/vela-e-gioia-di-muoversi-tante-emozioni-dal-2-al-5-giugno-con-il-vela-day/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

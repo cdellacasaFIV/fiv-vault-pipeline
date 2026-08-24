@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Ottobre 2021
 - Link: https://federvela.it/2021/10/06/michele-marchesini-insieme-allistituto-di-scienza-dello-sport-del-coni-per-tipizzare-il-formula-kite-obiettivo-marsiglia-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

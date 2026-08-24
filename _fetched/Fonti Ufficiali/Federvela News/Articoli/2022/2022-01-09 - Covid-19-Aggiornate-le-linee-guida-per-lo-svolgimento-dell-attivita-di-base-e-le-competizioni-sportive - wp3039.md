@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 9 Gennaio 2022
 - Link: https://federvela.it/2022/01/09/covid-19-aggiornate-le-linee-guida-per-lo-svolgimento-dellattivita-di-base-e-le-competizioni-sportive/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

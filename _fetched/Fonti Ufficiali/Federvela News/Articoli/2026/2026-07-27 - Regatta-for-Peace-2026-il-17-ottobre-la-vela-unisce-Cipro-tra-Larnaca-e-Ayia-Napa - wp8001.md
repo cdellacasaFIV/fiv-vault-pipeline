@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Luglio 2026
 - Link: https://federvela.it/2026/07/27/regatta-for-peace-2026-il-17-ottobre-la-vela-unisce-cipro-tra-larnaca-e-ayia-napa/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

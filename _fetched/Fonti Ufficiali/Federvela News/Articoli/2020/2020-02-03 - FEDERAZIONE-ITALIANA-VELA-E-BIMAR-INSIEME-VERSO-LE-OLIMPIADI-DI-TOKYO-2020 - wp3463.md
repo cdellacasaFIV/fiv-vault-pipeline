@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 3 Febbraio 2020
 - Link: https://federvela.it/2020/02/03/federazione-italiana-vela-e-bimar-insieme-verso-le-olimpiadi-di-tokyo-2020/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

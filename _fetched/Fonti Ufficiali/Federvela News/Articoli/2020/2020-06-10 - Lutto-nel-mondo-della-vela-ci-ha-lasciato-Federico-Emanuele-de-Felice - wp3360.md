@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Giugno 2020
 - Link: https://federvela.it/2020/06/10/lutto-nel-mondo-della-vela-ci-ha-lasciato-federico-emanuele-de-felice/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

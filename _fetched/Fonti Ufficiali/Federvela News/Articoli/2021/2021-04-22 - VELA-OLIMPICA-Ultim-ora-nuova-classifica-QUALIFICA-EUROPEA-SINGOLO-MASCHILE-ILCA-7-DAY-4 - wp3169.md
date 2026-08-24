@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Aprile 2021
 - Link: https://federvela.it/2021/04/22/vela-olimpica-ultimora-nuova-classifica-qualifica-europea-singolo-maschile-ilca-7-day-4/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

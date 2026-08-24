@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Febbraio 2021
 - Link: https://federvela.it/2021/02/22/comunicazione-direzione-tecnica-settore-sviluppo-under-stage-iq-foil-civitavecchia-03-07-marzo-2021/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

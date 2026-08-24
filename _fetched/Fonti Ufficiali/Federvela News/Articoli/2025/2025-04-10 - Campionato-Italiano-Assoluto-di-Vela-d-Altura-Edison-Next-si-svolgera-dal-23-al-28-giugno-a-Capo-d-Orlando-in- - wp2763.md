@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Aprile 2025
 - Link: https://federvela.it/2025/04/10/campionato-italiano-assoluto-di-vela-daltura-edison-next-si-svolgera-dal-23-al-28-giugno-a-capo-dorlando-in-sicilia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Settembre 2021
 - Link: https://federvela.it/2021/09/23/la-trasmissione-luomo-e-il-mare-riparte-dalla-medaglia-doro-di-tokyo-firmata-da-tita-e-banti/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Dicembre 2020
 - Link: https://federvela.it/2020/12/07/il-cio-ratifica-quasi-tutta-la-vela-per-parigi-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

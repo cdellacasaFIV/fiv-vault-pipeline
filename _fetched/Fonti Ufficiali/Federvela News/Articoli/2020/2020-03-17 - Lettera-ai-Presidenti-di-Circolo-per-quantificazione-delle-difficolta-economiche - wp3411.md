@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Marzo 2020
 - Link: https://federvela.it/2020/03/17/lettera-ai-presidenti-di-circolo-per-quantificazione-delle-difficolta-economiche/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

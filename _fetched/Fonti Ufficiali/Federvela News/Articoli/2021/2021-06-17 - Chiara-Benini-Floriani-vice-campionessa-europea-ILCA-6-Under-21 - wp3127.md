@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Giugno 2021
 - Link: https://federvela.it/2021/06/17/chiara-benini-floriani-vice-campionessa-europea-ilca-6-under-21/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Marzo 2021
 - Link: https://federvela.it/2021/03/23/litalia-trionfa-in-e-americas-cup-grazie-a-mces-rocco-guerra-che-naviga-alle-finali-mondiali/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

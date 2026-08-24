@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 13 Aprile 2021
 - Link: https://federvela.it/2021/04/13/convocato-per-il-23-aprile-il-consiglio-federale-per-determinazioni-conseguenti-alla-decisione-del-tribunale-federale-di-annullamento-dellassemblea-elettiva-della-x-zona/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

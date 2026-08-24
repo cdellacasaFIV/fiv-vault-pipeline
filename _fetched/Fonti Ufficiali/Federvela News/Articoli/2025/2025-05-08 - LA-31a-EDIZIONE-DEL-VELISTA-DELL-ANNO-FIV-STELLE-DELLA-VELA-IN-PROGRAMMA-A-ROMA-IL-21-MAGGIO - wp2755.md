@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Maggio 2025
 - Link: https://federvela.it/2025/05/08/la-31a-edizione-del-velista-dellanno-fiv-stelle-della-vela-in-programma-a-roma-il-21-maggio/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

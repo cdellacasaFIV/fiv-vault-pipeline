@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Settembre 2022
 - Link: https://federvela.it/2022/09/27/corso-di-aggiornamento-per-istruttori-para-sailing-a-san-giuliano-venezia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

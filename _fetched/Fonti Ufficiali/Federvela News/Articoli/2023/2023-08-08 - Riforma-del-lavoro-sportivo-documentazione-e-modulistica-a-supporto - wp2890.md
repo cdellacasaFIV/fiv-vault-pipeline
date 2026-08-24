@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Agosto 2023
 - Link: https://federvela.it/2023/08/08/riforma-del-lavoro-sportivo-documentazione-e-modulistica-a-supporto/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

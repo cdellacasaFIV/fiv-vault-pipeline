@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Maggio 2023
 - Link: https://federvela.it/2023/05/25/un-mese-al-grand-finale-di-the-ocean-race-a-genova-locean-live-park-dal-24-giugno-al-2-luglio/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

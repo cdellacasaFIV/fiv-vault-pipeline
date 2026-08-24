@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Febbraio 2024
 - Link: https://federvela.it/2024/02/27/vela-day-2024-iscrizioni-aperte-per-il-consueto-appuntamento-che-si-rinnova-anche-questanno/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

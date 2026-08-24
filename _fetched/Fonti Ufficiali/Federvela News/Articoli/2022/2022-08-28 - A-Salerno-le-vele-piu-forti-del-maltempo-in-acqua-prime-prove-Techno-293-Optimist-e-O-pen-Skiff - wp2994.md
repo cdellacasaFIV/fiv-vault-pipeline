@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Agosto 2022
 - Link: https://federvela.it/2022/08/28/a-salerno-le-vele-piu-forti-del-maltempo-in-acqua-prime-prove-techno-293-optimist-e-open-skiff/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

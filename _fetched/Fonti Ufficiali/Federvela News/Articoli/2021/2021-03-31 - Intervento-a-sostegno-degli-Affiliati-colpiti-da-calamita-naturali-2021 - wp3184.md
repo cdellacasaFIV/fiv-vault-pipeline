@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 31 Marzo 2021
 - Link: https://federvela.it/2021/03/31/intervento-a-sostegno-degli-affiliati-colpiti-da-calamita-naturali-2021/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

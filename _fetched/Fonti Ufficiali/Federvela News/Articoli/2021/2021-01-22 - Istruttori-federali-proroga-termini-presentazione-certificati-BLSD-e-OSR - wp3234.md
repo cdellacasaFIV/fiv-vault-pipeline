@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Gennaio 2021
 - Link: https://federvela.it/2021/01/22/istruttori-federali-proroga-termini-presentazione-certificati-blsd-e-osr/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

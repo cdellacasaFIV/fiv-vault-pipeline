@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Maggio 2021
 - Link: https://federvela.it/2021/05/06/vela-olimpica-europeo-470-a-vilamoura-por-day-5/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

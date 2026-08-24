@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 27 Ottobre 2020
 - Link: https://federvela.it/2020/10/27/nota-federazione-italiana-vela-riguardo-lattivita-dopo-dpcm-del-24-ottobre/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

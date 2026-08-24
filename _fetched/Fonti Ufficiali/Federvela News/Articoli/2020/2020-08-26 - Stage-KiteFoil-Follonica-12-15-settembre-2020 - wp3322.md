@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Agosto 2020
 - Link: https://federvela.it/2020/08/26/stage-kitefoil-follonica-12-15-settembre-2020/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

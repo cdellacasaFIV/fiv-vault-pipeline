@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Agosto 2021
 - Link: https://federvela.it/2021/08/23/nuova-tavola-olimpica-iqfoil-come-e-andato-il-mondiale-dalta-quota-a-silvaplana-sui/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

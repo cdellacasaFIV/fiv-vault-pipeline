@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 10 Aprile 2025
 - Link: https://federvela.it/2025/04/10/sicurezza-in-mare-torna-lesercitazione-realistica-di-simulazione-naufragio-la-fiv-conferma-il-suo-impegno-con-la-seconda-edizione-del-progetto/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Ottobre 2023
 - Link: https://federvela.it/2023/10/18/riparte-il-progetto-scuola-attiva-kids-dedicato-alle-scuole-primarie/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

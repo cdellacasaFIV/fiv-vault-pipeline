@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Luglio 2026
 - Link: https://federvela.it/2026/07/07/giochi-del-mediterraneo-2026-individuati-gli-atleti-che-rappresenteranno-la-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

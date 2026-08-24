@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Settembre 2021
 - Link: https://federvela.it/2021/09/22/cico-frecciarossa-2021-aperti-sul-garda-i-tricolori-della-vela-olimpica/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

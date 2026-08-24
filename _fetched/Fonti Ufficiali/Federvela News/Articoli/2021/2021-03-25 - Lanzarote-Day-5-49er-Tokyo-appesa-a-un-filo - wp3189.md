@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Marzo 2021
 - Link: https://federvela.it/2021/03/25/lanzarote-day-5-49er-tokyo-appesa-a-un-filo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

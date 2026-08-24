@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Giugno 2022
 - Link: https://federvela.it/2022/06/22/pubblicato-dal-dipartimento-per-lo-sport-lavviso-pubblico-per-la-selezione-di-eventi-sportivi-di-rilevanza-nazionale-e-internazionale/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

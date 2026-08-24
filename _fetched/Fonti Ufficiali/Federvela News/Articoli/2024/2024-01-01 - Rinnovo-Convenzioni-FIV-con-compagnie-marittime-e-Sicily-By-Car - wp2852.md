@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Gennaio 2024
 - Link: https://federvela.it/2024/01/01/rinnovo-convenzioni-fiv-con-compagnie-marittime-e-sicily-by-car/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

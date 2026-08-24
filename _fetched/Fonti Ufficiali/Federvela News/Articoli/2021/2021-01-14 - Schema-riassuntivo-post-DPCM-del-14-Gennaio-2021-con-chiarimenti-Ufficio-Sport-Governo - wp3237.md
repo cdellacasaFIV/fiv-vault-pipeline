@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 14 Gennaio 2021
 - Link: https://federvela.it/2021/01/14/schema-riassuntivo-post-dpcm-del-14-gennaio-2021-con-chiarimenti-ufficio-sport-governo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

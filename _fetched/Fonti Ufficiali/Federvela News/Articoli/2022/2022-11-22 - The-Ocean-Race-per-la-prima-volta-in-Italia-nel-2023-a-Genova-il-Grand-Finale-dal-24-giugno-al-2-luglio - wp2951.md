@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Novembre 2022
 - Link: https://federvela.it/2022/11/22/the-ocean-race-per-la-prima-volta-in-italia-nel-2023-a-genova-il-grand-finale-dal-24-giugno-al-2-luglio/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Giugno 2023
 - Link: https://federvela.it/2023/06/30/ci-vela-daltura-edison-next-2023-il-meteo-rallenta-la-kermesse-di-marina-di-carrara/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

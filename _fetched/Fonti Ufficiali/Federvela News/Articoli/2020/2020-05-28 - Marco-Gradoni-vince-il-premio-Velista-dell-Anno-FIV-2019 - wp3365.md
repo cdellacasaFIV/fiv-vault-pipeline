@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Maggio 2020
 - Link: https://federvela.it/2020/05/28/marco-gradoni-vince-il-premio-velista-dellanno-fiv-2019/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

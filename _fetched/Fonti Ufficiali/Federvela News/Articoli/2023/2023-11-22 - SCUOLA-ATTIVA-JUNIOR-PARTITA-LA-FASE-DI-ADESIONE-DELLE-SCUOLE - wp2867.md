@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Novembre 2023
 - Link: https://federvela.it/2023/11/22/scuola-attiva-junior-partita-la-fase-di-adesione-delle-scuole/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

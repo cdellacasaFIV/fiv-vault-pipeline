@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Luglio 2020
 - Link: https://federvela.it/2020/07/16/aggiornato-il-protocollo-di-sicurezza-federazione-italiana-vela-per-la-fase-3/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

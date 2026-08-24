@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 6 Giugno 2021
 - Link: https://federvela.it/2021/06/06/vela-olimpica-a-medemblik-maggetti-oro-camboni-argento/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

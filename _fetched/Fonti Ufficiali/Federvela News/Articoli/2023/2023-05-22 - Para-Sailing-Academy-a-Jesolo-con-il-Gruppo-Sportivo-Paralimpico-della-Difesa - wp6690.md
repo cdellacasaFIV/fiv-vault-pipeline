@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Maggio 2023
 - Link: https://federvela.it/2023/05/22/para-sailing-academy-a-jesolo-con-il-gruppo-sportivo-paralimpico-della-difesa/
 - Categorie: parasailing
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

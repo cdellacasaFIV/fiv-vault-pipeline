@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Gennaio 2025
 - Link: https://federvela.it/2025/01/23/la-federazione-italiana-vela-al-quirinale-un-incontro-storico-con-il-presidente-della-repubblica-sergio-mattarella/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

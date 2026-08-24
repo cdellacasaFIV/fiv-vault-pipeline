@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Giugno 2020
 - Link: https://federvela.it/2020/06/04/ritrova-la-bussola-il-progetto-scuola-vela-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

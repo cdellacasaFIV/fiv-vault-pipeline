@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 3 Giugno 2020
 - Link: https://federvela.it/2020/06/03/fiv-confindustria-nautica-salone-di-genova-e-barcolana-il-tempo-delle-sinergie/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

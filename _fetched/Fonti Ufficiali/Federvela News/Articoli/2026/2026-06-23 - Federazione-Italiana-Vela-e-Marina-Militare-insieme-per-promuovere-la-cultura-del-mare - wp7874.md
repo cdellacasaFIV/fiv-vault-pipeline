@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 23 Giugno 2026
 - Link: https://federvela.it/2026/06/23/federazione-italiana-vela-e-marina-militare-insieme-per-promuovere-la-cultura-del-mare/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

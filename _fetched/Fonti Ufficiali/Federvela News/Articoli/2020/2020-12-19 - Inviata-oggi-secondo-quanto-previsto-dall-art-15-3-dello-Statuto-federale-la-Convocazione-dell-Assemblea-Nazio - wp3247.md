@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Dicembre 2020
 - Link: https://federvela.it/2020/12/19/inviata-oggi-secondo-quanto-previsto-dallart-15-3-dello-statuto-federale-la-convocazione-dellassemblea-nazionale-elettiva-del-19-dicembre-2020/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

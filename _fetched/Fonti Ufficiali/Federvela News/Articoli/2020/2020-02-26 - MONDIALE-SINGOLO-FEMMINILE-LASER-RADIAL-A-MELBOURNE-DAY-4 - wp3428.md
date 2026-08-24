@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 26 Febbraio 2020
 - Link: https://federvela.it/2020/02/26/mondiale-singolo-femminile-laser-radial-a-melbourne_day-4/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

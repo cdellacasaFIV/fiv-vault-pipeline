@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 2 Marzo 2021
 - Link: https://federvela.it/2021/03/02/aggiornato-il-protocollo-di-sicurezza-federazione-italiana-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

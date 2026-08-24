@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Maggio 2026
 - Link: https://federvela.it/2026/05/12/fiv-e-icsc-una-rotta-comune-per-il-futuro-della-vela-italiana/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

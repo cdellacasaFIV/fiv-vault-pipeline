@@ -1,10 +1,12 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-08-22.
+Aggiornato: 2026-08-24.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 23 Agosto 2026 | Formula Kite Youth, si chiudono i Mondiali di Urla: settimo posto per Maddalena Spanu, Luis Houze quarto U17 | Copertina, News, Vela Olimpica | risultati, olimpica, giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-23 - Formula-Kite-Youth-si-chiudono-i-Mondiali-di-Urla-settimo-posto-per-Maddalena-Spanu-Luis-Houze-quarto-U17 - wp8612|nota]] | https://sportvela.net/blog/2026/08/23/formula-kite-youth-si-chiudono-i-mondiali-di-urla-settimo-posto-per-maddalena-spanu-luis-houze-quarto-u17/ |
+| 23 Agosto 2026 | Vela Viva 15: successo per la giornata sul Lago Ceresio | XV Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-23 - Vela-Viva-15-successo-per-la-giornata-sul-Lago-Ceresio - wp8603|nota]] | https://sportvela.net/blog/2026/08/23/vela-viva-15-successo-per-la-giornata-sul-lago-ceresio/ |
 | 20 Agosto 2026 | Mondiale ILCA 6 Youth: Lorenzo Ghirotti bronzo ad Aarhus dopo la rimonta finale | Copertina, News, Vela Giovanile | risultati, olimpica, giovanile, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-20 - Mondiale-ILCA-6-Youth-Lorenzo-Ghirotti-bronzo-ad-Aarhus-dopo-la-rimonta-finale - wp8596|nota]] | https://sportvela.net/blog/2026/08/20/mondiale-ilca-6-youth-lorenzo-ghirotti-bronzo-ad-aarhus-dopo-la-rimonta-finale/ |
 | 20 Agosto 2026 | VELA PARALIMPICA : ELEONORA FERRONI Rotta di avvicinamento al Campionato Europeo Hansa | I Zona | risultati, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-20 - VELA-PARALIMPICA-ELEONORA-FERRONI-Rotta-di-avvicinamento-al-Campionato-Europeo-Hansa - wp8591|nota]] | https://sportvela.net/blog/2026/08/20/vela-paralimpica-eleonora-ferroni-rotta-di-avvicinamento-al-campionato-europeo-hansa/ |
 | 20 Agosto 2026 | X TROFEO CLUB DEL MARE: TUTTI I VINCITORI | I Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-20 - X-TROFEO-CLUB-DEL-MARE-TUTTI-I-VINCITORI - wp8588|nota]] | https://sportvela.net/blog/2026/08/20/x-trofeo-club-del-mare-tutti-i-vincitori/ |

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 7 Novembre 2022
 - Link: https://federvela.it/2022/11/07/cala-il-sipario-sul-cico-edison-next-tutti-i-risultati-della-rassegna-velica-di-formia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

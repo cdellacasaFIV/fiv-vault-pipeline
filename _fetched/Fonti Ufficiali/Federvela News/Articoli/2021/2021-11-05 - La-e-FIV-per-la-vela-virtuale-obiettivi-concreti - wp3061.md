@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Novembre 2021
 - Link: https://federvela.it/2021/11/05/la-e-fiv-per-la-vela-virtuale-obiettivi-concreti/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

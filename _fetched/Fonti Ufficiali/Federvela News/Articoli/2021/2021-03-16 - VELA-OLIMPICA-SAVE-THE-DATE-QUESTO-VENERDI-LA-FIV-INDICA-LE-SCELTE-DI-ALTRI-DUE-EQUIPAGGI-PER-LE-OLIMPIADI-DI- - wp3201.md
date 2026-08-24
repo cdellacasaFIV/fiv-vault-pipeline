@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Marzo 2021
 - Link: https://federvela.it/2021/03/16/vela-olimpica-save-the-date-questo-venerdi-la-fiv-indica-le-scelte-di-altri-due-equipaggi-per-le-olimpiadi-di-tokyo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

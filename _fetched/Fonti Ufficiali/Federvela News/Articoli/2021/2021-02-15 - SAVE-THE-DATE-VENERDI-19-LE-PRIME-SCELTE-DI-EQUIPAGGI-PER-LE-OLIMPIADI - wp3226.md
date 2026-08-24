@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 15 Febbraio 2021
 - Link: https://federvela.it/2021/02/15/save-the-date-venerdi-19-le-prime-scelte-di-equipaggi-per-le-olimpiadi/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

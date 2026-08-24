@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 20 Ottobre 2020
 - Link: https://federvela.it/2020/10/20/comunicazione-del-presidente-federale-sullapplicabilita-alle-attivita-della-vela-degli-ultimi-dpcm-13-e-18-ottobre/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

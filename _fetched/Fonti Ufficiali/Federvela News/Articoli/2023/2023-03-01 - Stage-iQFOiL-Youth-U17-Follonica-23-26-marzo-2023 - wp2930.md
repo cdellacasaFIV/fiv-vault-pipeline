@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 1 Marzo 2023
 - Link: https://federvela.it/2023/03/01/stage-iqfoil-youth-u17-follonica-23-26-marzo-2023/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

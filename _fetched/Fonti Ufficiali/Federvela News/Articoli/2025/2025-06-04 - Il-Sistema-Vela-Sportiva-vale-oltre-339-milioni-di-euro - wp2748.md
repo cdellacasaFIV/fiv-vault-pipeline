@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Giugno 2025
 - Link: https://federvela.it/2025/06/04/il-sistema-vela-sportiva-vale-oltre-339-milioni-di-euro/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

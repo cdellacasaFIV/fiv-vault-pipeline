@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 24 Marzo 2021
 - Link: https://federvela.it/2021/03/24/lanzarote-day-4-49er-in-lotta-per-tokyo-fino-alla-fine/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

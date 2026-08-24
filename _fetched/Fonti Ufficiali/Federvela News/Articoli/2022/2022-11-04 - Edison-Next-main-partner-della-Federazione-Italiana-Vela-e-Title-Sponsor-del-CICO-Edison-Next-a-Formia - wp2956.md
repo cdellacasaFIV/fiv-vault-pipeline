@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 4 Novembre 2022
 - Link: https://federvela.it/2022/11/04/edison-next-main-partner-della-federazione-italiana-vela-e-title-sponsor-del-cico-edison-next-a-formia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

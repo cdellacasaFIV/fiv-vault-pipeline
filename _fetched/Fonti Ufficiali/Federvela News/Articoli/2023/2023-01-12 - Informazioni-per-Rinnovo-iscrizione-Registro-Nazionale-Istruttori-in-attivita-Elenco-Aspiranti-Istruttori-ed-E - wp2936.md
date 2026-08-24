@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 12 Gennaio 2023
 - Link: https://federvela.it/2023/01/12/informazioni-per-rinnovo-iscrizione-registro-nazionale-istruttori-in-attivita-elenco-aspiranti-istruttori-ed-elenco-assistenti-didattici-2023/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Marzo 2024
 - Link: https://federvela.it/2024/03/29/cerimonia-di-consegna-della-bandiera-genova-capitale-europea-dello-sport-2024-un-legame-storico-con-la-vela/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

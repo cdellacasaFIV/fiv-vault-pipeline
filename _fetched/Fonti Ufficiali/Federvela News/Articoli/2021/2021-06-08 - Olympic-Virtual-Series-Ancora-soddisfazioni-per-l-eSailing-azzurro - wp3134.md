@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Giugno 2021
 - Link: https://federvela.it/2021/06/08/olympic-virtual-series-ancora-soddisfazioni-per-lesailing-azzurro/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

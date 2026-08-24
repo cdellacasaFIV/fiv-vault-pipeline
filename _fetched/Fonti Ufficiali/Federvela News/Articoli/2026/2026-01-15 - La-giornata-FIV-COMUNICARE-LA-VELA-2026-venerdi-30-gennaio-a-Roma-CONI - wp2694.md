@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 15 Gennaio 2026
 - Link: https://federvela.it/2026/01/15/la-giornata-fiv-comunicare-la-vela-2026-venerdi-30-gennaio-a-roma-coni/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

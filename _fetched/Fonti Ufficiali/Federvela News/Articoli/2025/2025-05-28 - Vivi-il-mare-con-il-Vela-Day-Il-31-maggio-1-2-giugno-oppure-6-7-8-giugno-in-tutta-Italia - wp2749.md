@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Maggio 2025
 - Link: https://federvela.it/2025/05/28/vivi-il-mare-con-il-vela-day-il-31-maggio-1-2-giugno-oppure-6-7-8-giugno-in-tutta-italia/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

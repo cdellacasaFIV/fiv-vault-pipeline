@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 29 Agosto 2022
 - Link: https://federvela.it/2022/08/29/giovanili-di-salerno-vittorie-di-giornata-da-palermo-ad-arco-skipper-di-undici-zone-differenti-protagonisti-dei-podi-provvisori/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

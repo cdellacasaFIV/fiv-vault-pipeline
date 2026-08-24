@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 21 Dicembre 2023
 - Link: https://federvela.it/2023/12/21/sardinia-sailing-cup-day-3-regate-combattute-domani-appuntamento-con-le-finali/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

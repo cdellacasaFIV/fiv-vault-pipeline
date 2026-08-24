@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Novembre 2025
 - Link: https://federvela.it/2025/11/08/papamichalopoulos-e-migraine-nuove-vicepresidenti-world-sailing-ettorre-una-governance-solida-e-aperta-al-dialogo/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Maggio 2020
 - Link: https://federvela.it/2020/05/22/armare-ropes-convenzione-speciale-per-le-societa-affiliate-fi/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

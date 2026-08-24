@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 25 Aprile 2020
 - Link: https://federvela.it/2020/04/25/il-sistema-ihc-argomento-di-studio-alluniversita-di-udine/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

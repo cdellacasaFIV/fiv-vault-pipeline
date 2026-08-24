@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Maggio 2026
 - Link: https://federvela.it/2026/05/05/da-gaeta-parte-la-nuova-agenda-dei-marina/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

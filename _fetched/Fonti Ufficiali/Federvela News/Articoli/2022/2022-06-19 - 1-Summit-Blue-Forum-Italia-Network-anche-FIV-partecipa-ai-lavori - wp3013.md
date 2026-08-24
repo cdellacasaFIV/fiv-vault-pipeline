@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Giugno 2022
 - Link: https://federvela.it/2022/06/19/1-summit-blue-forum-italia-network-anche-fiv-partecipa-ai-lavori/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

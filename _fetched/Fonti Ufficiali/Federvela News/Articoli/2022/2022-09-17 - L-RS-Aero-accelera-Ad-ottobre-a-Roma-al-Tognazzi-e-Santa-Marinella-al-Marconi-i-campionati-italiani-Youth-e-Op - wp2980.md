@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 17 Settembre 2022
 - Link: https://federvela.it/2022/09/17/lrs-aero-accelera-ad-ottobre-a-roma-al-tognazzi-e-santa-marinella-al-marconi-i-campionati-italiani-youth-e-open-e-a-cagliari-al-canottieri-ichnusa-europ/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

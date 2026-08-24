@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 5 Agosto 2020
 - Link: https://federvela.it/2020/08/05/dal-25-al-29-agosto-litaliano-altura-a-gaeta/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

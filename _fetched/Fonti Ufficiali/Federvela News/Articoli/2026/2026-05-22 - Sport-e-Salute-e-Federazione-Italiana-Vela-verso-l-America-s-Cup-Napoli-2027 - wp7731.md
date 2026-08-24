@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 22 Maggio 2026
 - Link: https://federvela.it/2026/05/22/sport-e-salute-e-federazione-italiana-vela-verso-lamericas-cup-napoli-2027/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

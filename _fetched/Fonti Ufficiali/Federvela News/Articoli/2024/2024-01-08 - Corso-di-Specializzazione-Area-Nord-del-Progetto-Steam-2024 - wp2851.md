@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 8 Gennaio 2024
 - Link: https://federvela.it/2024/01/08/corso-di-specializzazione-area-nord-del-progetto-steam-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

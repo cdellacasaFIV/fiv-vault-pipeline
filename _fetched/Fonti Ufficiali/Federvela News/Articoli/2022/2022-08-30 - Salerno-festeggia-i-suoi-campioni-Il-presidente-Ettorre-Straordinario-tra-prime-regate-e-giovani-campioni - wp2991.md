@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Agosto 2022
 - Link: https://federvela.it/2022/08/30/salerno-festeggia-i-suoi-campioni-il-presidente-ettorre-straordinario-tra-prime-regate-e-giovani-campioni/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

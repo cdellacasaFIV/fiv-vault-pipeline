@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Febbraio 2021
 - Link: https://federvela.it/2021/02/16/criteri-per-la-scelta-degli-equipaggi-olimpici-nello-skiff-maschile-e-skiff-femminile/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 18 Giugno 2022
 - Link: https://federvela.it/2022/06/18/stage-sviluppo-under-23-49er-fx-malcesine-16-18-giugno-2022/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

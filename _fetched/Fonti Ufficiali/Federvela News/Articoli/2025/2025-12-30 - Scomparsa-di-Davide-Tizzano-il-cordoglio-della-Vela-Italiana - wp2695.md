@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 30 Dicembre 2025
 - Link: https://federvela.it/2025/12/30/scomparsa-di-davide-tizzano-il-cordoglio-della-vela-italiana/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

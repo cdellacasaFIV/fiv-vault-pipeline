@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Luglio 2021
 - Link: https://federvela.it/2021/07/16/mondiale-470-junior-a-sanremo-tanto-azzurro-gradoni-dubbini-mixed-in-testa/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

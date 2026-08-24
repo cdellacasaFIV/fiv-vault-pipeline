@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 28 Giugno 2024
 - Link: https://federvela.it/2024/06/28/nuovo-termine-per-la-nomina-del-responsabile-contro-abusi-violenze-e-discriminazioni-31-dicembre-2024/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

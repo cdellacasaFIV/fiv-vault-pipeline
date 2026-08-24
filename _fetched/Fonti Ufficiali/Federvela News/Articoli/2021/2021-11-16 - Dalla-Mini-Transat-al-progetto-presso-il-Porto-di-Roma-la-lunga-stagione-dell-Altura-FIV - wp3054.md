@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 16 Novembre 2021
 - Link: https://federvela.it/2021/11/16/dalla-mini-transat-al-progetto-presso-il-porto-di-roma-la-lunga-stagione-dellaltura-fiv/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 

@@ -8,7 +8,6 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Data Federvela: 19 Dicembre 2025
 - Link: https://federvela.it/2025/12/19/il-presidente-ettorre-al-parlamento-ue-per-il-futuro-dello-sport-di-base/
 - Categorie: condivisa, Nazionale
-- Archiviato: 2026-08-23
 
 ## Perche' tenerla
 
