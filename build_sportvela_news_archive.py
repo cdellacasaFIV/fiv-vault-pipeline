@@ -327,6 +327,37 @@ def article_note(post, cat_names):
     }
 
 
+# NOTA (2026-08-24): i file indice "Per Anno"/"Per Tema" possono superare 1000 righe e
+# 250-300KB quando un anno/tema accumula molte news. Un file cosi' grande e' impossibile da
+# sincronizzare in sicurezza sul vault Drive tramite l'agente conversazionale della routine
+# (il contenuto andrebbe riprodotto per intero in un'unica chiamata, con rischio concreto di
+# troncamento). Per restare sempre sotto una soglia sicura, se un indice supera MAX_ROWS_PER_INDEX_FILE
+# righe lo spezziamo in piu' file "-parte-N" invece di scriverne uno solo enorme.
+MAX_ROWS_PER_INDEX_FILE = 250
+
+
+def _write_index_shards(path_no_ext, title, subtitle, header_row, row_lines):
+    """Scrive uno o piu' file per un indice, spezzando ogni MAX_ROWS_PER_INDEX_FILE righe.
+    Ritorna la lista dei Path effettivamente scritti, in ordine di lettura (piu' recente prima)."""
+    n = len(row_lines)
+    if n <= MAX_ROWS_PER_INDEX_FILE:
+        path = path_no_ext.with_suffix(".md")
+        lines = [title, "", subtitle, "", header_row[0], header_row[1]] + row_lines
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        return [path]
+
+    chunks = [row_lines[i:i + MAX_ROWS_PER_INDEX_FILE] for i in range(0, n, MAX_ROWS_PER_INDEX_FILE)]
+    total = len(chunks)
+    paths = []
+    for idx, chunk in enumerate(chunks, start=1):
+        path = path_no_ext.parent / f"{path_no_ext.name}-parte-{idx}.md"
+        nav = f"Parte {idx} di {total} (indice spezzato automaticamente oltre {MAX_ROWS_PER_INDEX_FILE} righe per restare sincronizzabile)."
+        lines = [title, "", subtitle, "", nav, "", header_row[0], header_row[1]] + chunk
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        paths.append(path)
+    return paths
+
+
 def write_indices(records, category_ids):
     records = sorted(records, key=lambda r: r["iso_date"], reverse=True)
     registry = [
@@ -352,41 +383,45 @@ def write_indices(records, category_ids):
 
     year_links = []
     for year, rows in sorted(by_year.items(), reverse=True):
-        path = YEAR_INDEX_DIR / f"{year}.md"
-        year_links.append(f"- [[{rel_no_ext(path)}|{year}]] ({len(rows)} news)")
-        lines = [
-            f"# SportVela News {year}",
-            "",
-            "Indice annuale delle news SportVela archiviate come contesto editoriale.",
-            "",
-            "| Data | Titolo | Temi | Nota |",
-            "| --- | --- | --- | --- |",
+        row_lines = [
+            f"| {rec['date_label']} | {md_escape(rec['title'])} | {md_escape(', '.join(rec['themes']))} | "
+            f"[[{rel_no_ext(rec['note_path'])}|nota]] |"
+            for rec in rows
         ]
-        for rec in rows:
-            lines.append(
-                f"| {rec['date_label']} | {md_escape(rec['title'])} | {md_escape(', '.join(rec['themes']))} | "
-                f"[[{rel_no_ext(rec['note_path'])}|nota]] |"
-            )
-        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        paths = _write_index_shards(
+            YEAR_INDEX_DIR / f"{year}",
+            f"# SportVela News {year}",
+            "Indice annuale delle news SportVela archiviate come contesto editoriale.",
+            ("| Data | Titolo | Temi | Nota |", "| --- | --- | --- | --- |"),
+            row_lines,
+        )
+        if len(paths) == 1:
+            year_links.append(f"- [[{rel_no_ext(paths[0])}|{year}]] ({len(rows)} news)")
+        else:
+            year_links.append(f"- {year} ({len(rows)} news, spezzato in {len(paths)} parti):")
+            for p in paths:
+                year_links.append(f"  - [[{rel_no_ext(p)}|{p.stem}]]")
 
     theme_links = []
     for theme, rows in sorted(by_theme.items()):
-        path = THEME_INDEX_DIR / f"{slugify(theme)}.md"
-        theme_links.append(f"- [[{rel_no_ext(path)}|{theme}]] ({len(rows)} news)")
-        lines = [
-            f"# SportVela - {theme}",
-            "",
-            "Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.",
-            "",
-            "| Data | Titolo | Categorie | Nota |",
-            "| --- | --- | --- | --- |",
+        row_lines = [
+            f"| {rec['date_label']} | {md_escape(rec['title'])} | {md_escape(', '.join(rec['categories']))} | "
+            f"[[{rel_no_ext(rec['note_path'])}|nota]] |"
+            for rec in rows
         ]
-        for rec in rows:
-            lines.append(
-                f"| {rec['date_label']} | {md_escape(rec['title'])} | {md_escape(', '.join(rec['categories']))} | "
-                f"[[{rel_no_ext(rec['note_path'])}|nota]] |"
-            )
-        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        paths = _write_index_shards(
+            THEME_INDEX_DIR / slugify(theme),
+            f"# SportVela - {theme}",
+            "Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.",
+            ("| Data | Titolo | Categorie | Nota |", "| --- | --- | --- | --- |"),
+            row_lines,
+        )
+        if len(paths) == 1:
+            theme_links.append(f"- [[{rel_no_ext(paths[0])}|{theme}]] ({len(rows)} news)")
+        else:
+            theme_links.append(f"- {theme} ({len(rows)} news, spezzato in {len(paths)} parti):")
+            for p in paths:
+                theme_links.append(f"  - [[{rel_no_ext(p)}|{p.stem}]]")
 
     dates = [r["iso_date"] for r in records]
     overview = [
