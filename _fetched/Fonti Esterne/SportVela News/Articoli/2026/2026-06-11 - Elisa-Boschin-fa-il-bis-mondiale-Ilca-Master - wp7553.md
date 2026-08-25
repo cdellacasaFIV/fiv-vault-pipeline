@@ -1,0 +1,37 @@
+# Elisa Boschin fa il bis mondiale Ilca Master
+
+Stato fonte: **fonte esterna SportVela**.
+Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
+
+## Fonte
+
+- Data SportVela: 11 Giugno 2026
+- Link: https://sportvela.net/blog/2026/06/11/elisa-boschin-fa-il-bis-mondiale-ilca-master/
+- Categorie: XIII Zona
+
+## Perche' tenerla
+
+- Filoni: risultati, olimpica, giovanile, zone/circoli
+- Valore: aiuta a ricostruire contesto, narrativa, territori/circoli, risultati o iniziative collegate alla memoria FIV.
+
+## Sintesi operativa
+
+- Temi operativi: risultati, olimpica, giovanile, zone/circoli.
+- Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
+- Classi/discipline citate: ILCA 6, 420.
+- Nomi, circoli o luoghi da valutare: Elisa Boschin, Ilca Master Dalla XIII, Zona FIV, L’intervista, Dalla XIII Zona FIV, Dopo, Società Nautica Pietas Julia, Campionessa del Mondo ILCA, Master, Atene. Un, XIII Zona FIV, ILCA Master. Dopo, Formia, Mondiali ILCA.
+- Numeri/date utili da verificare: 2025, 6, 10, 45, 29, 28, 19, 1, 2, 3.
+- Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
+
+## Collegamenti utili
+
+- [[World Sailing - Mappa Atleti e Classifiche]]
+- [[World Sailing Youth Para Results/02-Indice-Classifiche-Finali|Youth & Para Results]]
+- [[comunicati stampa sportivi/_Indice-Atleti-Circoli|Atleti e circoli]]
+- [[Modelli/Modello-News-Evento|Modello news evento]]
+
+## Uso editoriale
+
+- Se la notizia riguarda risultati: usarla come spunto e incrociare con comunicato ufficiale/FIV o Overall Results.
+- Se la notizia riguarda territori, circoli, inclusione o scuola vela: collegarla alla sezione istituzionale o zona/circolo.
+- Non copiare integralmente il testo della fonte: conservare sintesi, fonte e contesto operativo.
