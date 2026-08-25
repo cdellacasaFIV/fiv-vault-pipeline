@@ -525,12 +525,18 @@ def update_institutional_overview():
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
-    reset_generated_dirs()
     session = requests.Session()
     session.headers.update({"User-Agent": "FIV-Obsidian-Archive/1.0"})
+    # NOTA (2026-08-25): vedi la stessa nota nello script SportVela gemello — un crash di
+    # rete durante il fetch (successo reale con sportvela.net la notte del 25/08) lasciava
+    # le cartelle svuotate e mai ripopolate, con conseguente cancellazione silenziosa degli
+    # articoli dal repository nonostante il workflow terminasse con successo apparente.
+    # Fix identico: reset_generated_dirs() gira solo dopo che tutte le chiamate di rete
+    # sono andate a buon fine.
     categories = all_categories(session)
     category_ids, category_names = archive_category_ids(categories)
     posts = fetch_posts(session, category_ids)
+    reset_generated_dirs()
     records = []
     for idx, post in enumerate(posts, 1):
         if is_test_post(post):

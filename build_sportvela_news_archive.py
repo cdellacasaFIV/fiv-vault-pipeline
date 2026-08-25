@@ -527,12 +527,22 @@ def update_rules():
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
-    reset_generated_dirs()
     session = requests.Session()
     session.headers.update({"User-Agent": "FIV-Obsidian-Archive/1.0"})
+    # NOTA (2026-08-25): reset_generated_dirs() veniva chiamato QUI, prima di qualsiasi
+    # fetch di rete. Un crash di rete (es. ConnectTimeout verso sportvela.net, successo
+    # reale la notte del 25/08) lasciava le cartelle svuotate e MAI ripopolate: lo script
+    # usciva con errore ma il workflow committava comunque lo stato "vuoto", cancellando
+    # 1371 articoli dal repository. La routine di sync si e' accorta dell'anomalia e non
+    # ha toccato Drive, ma il repository e' rimasto rotto finche' non e' stato corretto.
+    # Fix: tutte le chiamate di rete (categorie, post) avvengono PRIMA di toccare il
+    # filesystem di output; reset_generated_dirs() gira solo se il fetch e' riuscito per
+    # intero, quindi un crash di rete ora lascia intatto l'ultimo output valido su disco
+    # (git non vedra' alcun diff per questo script, invece di un diff di cancellazione).
     categories = all_categories(session)
     category_ids, category_names = news_category_ids(categories)
     posts = fetch_posts(session, category_ids)
+    reset_generated_dirs()
     records = []
     for idx, post in enumerate(posts, 1):
         title, excerpt, content = post_text(post)

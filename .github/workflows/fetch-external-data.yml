@@ -71,3 +71,20 @@ jobs:
             git commit -m "Auto-fetch dati esterni $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push origin HEAD:main
           fi
+
+      - name: Fallisci visibilmente se uno script di fetch ha avuto errori
+        # NOTA (2026-08-25): prima questo job terminava con "success" anche quando
+        # _fetch_errors.log conteneva un FAIL reale (es. crash di rete verso sportvela.net
+        # nella notte del 25/08). Il commit veniva comunque fatto (con lo script fallito
+        # semplicemente saltato, grazie al fix in build_*_news_archive.py che ora sposta
+        # reset_generated_dirs() dopo il fetch di rete riuscito), ma nessuno se ne
+        # accorgeva perche' il job risultava verde. Questo step fa fallire il job stesso
+        # quando c'e' stato almeno un errore, cosi' e' visibile in GitHub Actions e nelle
+        # eventuali notifiche email di GitHub, anche se i dati sani sono stati comunque
+        # committati dallo step precedente.
+        run: |
+          if [ -s _fetch_errors.log ]; then
+            echo "Uno o piu' script di fetch sono falliti:"
+            cat _fetch_errors.log
+            exit 1
+          fi
