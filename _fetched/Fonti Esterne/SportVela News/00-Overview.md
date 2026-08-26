@@ -20,22 +20,49 @@ Sezione per usare SportVela come fonte esterna di contesto, spunti e memoria edi
 
 - Cutoff richiesto: dal 2020 in avanti.
 - Categoria API: News + sottocategorie (22 categorie).
-- Articoli utili archiviati: 1371
-- Intervallo effettivo trovato: 2023-10-18 - 2026-08-23
+- Articoli utili archiviati: 1376
+- Intervallo effettivo trovato: 2023-10-18 - 2026-08-25
 
 ## Indici per anno
 
-- [[Fonti Esterne/SportVela News/Indici/Per Anno/2026|2026]] (608 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Anno/2025|2025]] (548 news)
+- 2026 (613 news, spezzato in 3 parti):
+  - [[Fonti Esterne/SportVela News/Indici/Per Anno/2026-parte-1|2026-parte-1]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Anno/2026-parte-2|2026-parte-2]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Anno/2026-parte-3|2026-parte-3]]
+- 2025 (548 news, spezzato in 3 parti):
+  - [[Fonti Esterne/SportVela News/Indici/Per Anno/2025-parte-1|2025-parte-1]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Anno/2025-parte-2|2025-parte-2]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Anno/2025-parte-3|2025-parte-3]]
 - [[Fonti Esterne/SportVela News/Indici/Per Anno/2024|2024]] (191 news)
 - [[Fonti Esterne/SportVela News/Indici/Per Anno/2023|2023]] (24 news)
 
 ## Indici per tema
 
 - [[Fonti Esterne/SportVela News/Indici/Per Tema/america-s-cup-napoli|america's cup/napoli]] (102 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile|giovanile]] (685 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/media-storytelling|media/storytelling]] (625 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica|olimpica]] (543 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/para-inclusione|para/inclusione]] (473 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati|risultati]] (1117 news)
-- [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli|zone/circoli]] (1092 news)
+- giovanile (686 news, spezzato in 3 parti):
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile-parte-1|giovanile-parte-1]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile-parte-2|giovanile-parte-2]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile-parte-3|giovanile-parte-3]]
+- media/storytelling (626 news, spezzato in 3 parti):
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/media-storytelling-parte-1|media-storytelling-parte-1]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/media-storytelling-parte-2|media-storytelling-parte-2]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/media-storytelling-parte-3|media-storytelling-parte-3]]
+- olimpica (544 news, spezzato in 3 parti):
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica-parte-1|olimpica-parte-1]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica-parte-2|olimpica-parte-2]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica-parte-3|olimpica-parte-3]]
+- para/inclusione (475 news, spezzato in 2 parti):
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/para-inclusione-parte-1|para-inclusione-parte-1]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/para-inclusione-parte-2|para-inclusione-parte-2]]
+- risultati (1122 news, spezzato in 5 parti):
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-1|risultati-parte-1]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-2|risultati-parte-2]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-3|risultati-parte-3]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-4|risultati-parte-4]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-5|risultati-parte-5]]
+- zone/circoli (1096 news, spezzato in 5 parti):
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli-parte-1|zone-circoli-parte-1]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli-parte-2|zone-circoli-parte-2]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli-parte-3|zone-circoli-parte-3]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli-parte-4|zone-circoli-parte-4]]
+  - [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli-parte-5|zone-circoli-parte-5]]
