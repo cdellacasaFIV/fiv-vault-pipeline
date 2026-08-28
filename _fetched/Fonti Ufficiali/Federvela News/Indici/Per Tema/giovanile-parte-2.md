@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 24 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 2 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-24 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-2 - wp3087|nota]] |
 | 23 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 1 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-23 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-1 - wp3090|nota]] |
 | 19 Settembre 2021 | Gigi Ugolini e Alice Cialfi vice campioni europei Nacra 17 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-19 - Gigi-Ugolini-e-Alice-Cialfi-vice-campioni-europei-Nacra-17 - wp3094|nota]] |
 | 18 Settembre 2021 | Europeo Nacra 17, 49er e 49er FX in Grecia – DAY 5 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-18 - Europeo-Nacra-17-49er-e-49er-FX-in-Grecia-DAY-5 - wp3095|nota]] |

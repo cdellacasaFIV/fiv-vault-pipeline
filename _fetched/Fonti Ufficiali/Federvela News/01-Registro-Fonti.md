@@ -1,10 +1,11 @@
 # Registro fonti Federvela
 
 Stato fonte: **ufficiale FIV / Federvela**.
-Aggiornato: 2026-08-26.
+Aggiornato: 2026-08-28.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 28 Agosto 2026 | La Federazione Italiana Vela ricorda Sua Maestà Re Harald V di Norvegia, grande campione della vela mondiale e presidente onorario World Sailing | condivisa, Nazionale | risultati, olimpica, giovanile, parasailing/inclusione, istituzionale, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-08-28 - La-Federazione-Italiana-Vela-ricorda-Sua-Maesta-Re-Harald-V-di-Norvegia-grande-campione-della-vela-mondiale-e- - wp8197|nota]] | https://federvela.it/2026/08/28/la-federazione-italiana-vela-ricorda-sua-maesta-re-harald-v-di-norvegia-grande-campione-della-vela-mondiale-e-presidente-onorario-world-sailing/ |
 | 28 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | condivisa, Nazionale | risultati, olimpica, giovanile, parasailing/inclusione, istituzionale, zone/circoli, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-28 - Presentati-i-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8004|nota]] | https://federvela.it/2026/07/28/presentati-i-campionati-italiani-giovanili-in-doppio-di-manfredonia-2026/ |
 | 27 Luglio 2026 | Regatta for Peace 2026, il 17 ottobre la vela unisce Cipro tra Larnaca e Ayia Napa | condivisa, Nazionale | risultati, olimpica, parasailing/inclusione, istituzionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-27 - Regatta-for-Peace-2026-il-17-ottobre-la-vela-unisce-Cipro-tra-Larnaca-e-Ayia-Napa - wp8001|nota]] | https://federvela.it/2026/07/27/regatta-for-peace-2026-il-17-ottobre-la-vela-unisce-cipro-tra-larnaca-e-ayia-napa/ |
 | 27 Luglio 2026 | FIV e Autorità di Sistema Portuale dello Stretto: firmato il protocollo d’intesa | condivisa, Nazionale | giovanile, parasailing/inclusione, istituzionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-27 - FIV-e-Autorita-di-Sistema-Portuale-dello-Stretto-firmato-il-protocollo-d-intesa - wp7998|nota]] | https://federvela.it/2026/07/27/fiv-e-autorita-di-sistema-portuale-dello-stretto-firmato-il-protocollo-dintesa/ |

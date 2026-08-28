@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 28 Agosto 2026 | La Federazione Italiana Vela ricorda Sua Maestà Re Harald V di Norvegia, grande campione della vela mondiale e presidente onorario World Sailing | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-08-28 - La-Federazione-Italiana-Vela-ricorda-Sua-Maesta-Re-Harald-V-di-Norvegia-grande-campione-della-vela-mondiale-e- - wp8197|nota]] |
 | 28 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-28 - Presentati-i-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8004|nota]] |
 | 27 Luglio 2026 | FIV e Autorità di Sistema Portuale dello Stretto: firmato il protocollo d’intesa | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-27 - FIV-e-Autorita-di-Sistema-Portuale-dello-Stretto-firmato-il-protocollo-d-intesa - wp7998|nota]] |
 | 20 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna 2026 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-20 - Presentati-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-2026 - wp7993|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA: TUTTI I VINCITORI | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-26 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-TUTTI-I-VINCITORI - wp3084|nota]] |
 | 25 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-25 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-3 - wp3085|nota]] |
 | 25 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-25 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-3 - wp3086|nota]] |
-| 24 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 2 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-24 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-2 - wp3087|nota]] |

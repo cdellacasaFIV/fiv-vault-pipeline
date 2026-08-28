@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 28 Agosto 2026 | La Federazione Italiana Vela ricorda Sua Maestà Re Harald V di Norvegia, grande campione della vela mondiale e presidente onorario World Sailing | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-08-28 - La-Federazione-Italiana-Vela-ricorda-Sua-Maesta-Re-Harald-V-di-Norvegia-grande-campione-della-vela-mondiale-e- - wp8197|nota]] |
 | 28 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-28 - Presentati-i-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8004|nota]] |
 | 27 Luglio 2026 | Regatta for Peace 2026, il 17 ottobre la vela unisce Cipro tra Larnaca e Ayia Napa | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-27 - Regatta-for-Peace-2026-il-17-ottobre-la-vela-unisce-Cipro-tra-Larnaca-e-Ayia-Napa - wp8001|nota]] |
 | 20 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna 2026 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-20 - Presentati-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-2026 - wp7993|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 24 Settembre 2022 | Progetto Para Sailing: la nuova Academy della Federazione Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-24 - Progetto-Para-Sailing-la-nuova-Academy-della-Federazione-Vela - wp2973|nota]] |
 | 23 Settembre 2022 | EDISON NEXT PARTNER DELLA FEDERAZIONE ITALIANA VELA | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-23 - EDISON-NEXT-PARTNER-DELLA-FEDERAZIONE-ITALIANA-VELA - wp2974|nota]] |
 | 23 Settembre 2022 | Genova nel mondo con The Ocean Race in attesa del “Grand Finale” | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-23 - Genova-nel-mondo-con-The-Ocean-Race-in-attesa-del-Grand-Finale - wp2975|nota]] |
-| 21 Settembre 2022 | NEXT GENERATION FOIL ACADEMY FIV POWERED BY LUNA ROSSA: PROSSIMO APPUNTAMENTO A TRIESTE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-21 - NEXT-GENERATION-FOIL-ACADEMY-FIV-POWERED-BY-LUNA-ROSSA-PROSSIMO-APPUNTAMENTO-A-TRIESTE - wp2978|nota]] |

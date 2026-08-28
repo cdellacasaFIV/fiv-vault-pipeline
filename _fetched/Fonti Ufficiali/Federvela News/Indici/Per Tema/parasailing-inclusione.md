@@ -4,6 +4,7 @@ Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 28 Agosto 2026 | La Federazione Italiana Vela ricorda Sua Maestà Re Harald V di Norvegia, grande campione della vela mondiale e presidente onorario World Sailing | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-08-28 - La-Federazione-Italiana-Vela-ricorda-Sua-Maesta-Re-Harald-V-di-Norvegia-grande-campione-della-vela-mondiale-e- - wp8197|nota]] |
 | 28 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-28 - Presentati-i-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8004|nota]] |
 | 27 Luglio 2026 | Regatta for Peace 2026, il 17 ottobre la vela unisce Cipro tra Larnaca e Ayia Napa | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-27 - Regatta-for-Peace-2026-il-17-ottobre-la-vela-unisce-Cipro-tra-Larnaca-e-Ayia-Napa - wp8001|nota]] |
 | 27 Luglio 2026 | FIV e Autorità di Sistema Portuale dello Stretto: firmato il protocollo d’intesa | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-27 - FIV-e-Autorita-di-Sistema-Portuale-dello-Stretto-firmato-il-protocollo-d-intesa - wp7998|nota]] |

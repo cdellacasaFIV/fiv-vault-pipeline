@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Dicembre 2022 | Chiusura Uffici federali | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-12-23 - Chiusura-Uffici-federali - wp2941|nota]] |
 | 21 Dicembre 2022 | Corso aspiranti Stazzatori | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-12-21 - Corso-aspiranti-Stazzatori - wp2942|nota]] |
 | 21 Dicembre 2022 | Seminario World Sailing per International Judge | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-12-21 - Seminario-World-Sailing-per-International-Judge - wp2943|nota]] |
 | 10 Dicembre 2022 | #BeActive Award 2022, Mascalzone Latino in finale | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-12-10 - BeActive-Award-2022-Mascalzone-Latino-in-finale - wp2944|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 1 Luglio 2020 | Stage KiteFoil Gizzeria 13-17 luglio | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-01 - Stage-KiteFoil-Gizzeria-13-17-luglio - wp3345|nota]] |
 | 30 Giugno 2020 | Contributo a sostegno degli Istruttori iscritti all’Albo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-06-30 - Contributo-a-sostegno-degli-Istruttori-iscritti-all-Albo - wp3346|nota]] |
 | 30 Giugno 2020 | Indicazioni tecnico – organizzative per i raduni – Fase 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-06-30 - Indicazioni-tecnico-organizzative-per-i-raduni-Fase-3 - wp3348|nota]] |
-| 25 Giugno 2020 | L’Uomo e il Mare: puntata da non perdere su Rai Sport | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-06-25 - L-Uomo-e-il-Mare-puntata-da-non-perdere-su-Rai-Sport - wp3350|nota]] |

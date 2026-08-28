@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 24 Aprile 2021 | VELA OLIMPICA: AZZURRI, SFUMA DI UN SOFFIO LA QUALIFICA OLIMPICA ILCA 7 – DAY 6 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-24 - VELA-OLIMPICA-AZZURRI-SFUMA-DI-UN-SOFFIO-LA-QUALIFICA-OLIMPICA-ILCA-7-DAY-6 - wp3163|nota]] |
 | 24 Aprile 2021 | VELA OLIMPICA: CAMPIONATO DEL MONDO WINDSURF RS:X A CADICE – DAY 2 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-24 - VELA-OLIMPICA-CAMPIONATO-DEL-MONDO-WINDSURF-RS-X-A-CADICE-DAY-2 - wp3164|nota]] |
 | 23 Aprile 2021 | Importante novità dal CIO: Al via da maggio le prime Olympic Virtual Series | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-23 - Importante-novita-dal-CIO-Al-via-da-maggio-le-prime-Olympic-Virtual-Series - wp3165|nota]] |
 | 23 Aprile 2021 | COMUNICAZIONE DIREZIONE TECNICA STAGE FORMULA KITE TORRE ANNUNZIATA, 5-7 MAGGIO 2021 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-23 - COMUNICAZIONE-DIREZIONE-TECNICA-STAGE-FORMULA-KITE-TORRE-ANNUNZIATA-5-7-MAGGIO-2021 - wp3166|nota]] |
