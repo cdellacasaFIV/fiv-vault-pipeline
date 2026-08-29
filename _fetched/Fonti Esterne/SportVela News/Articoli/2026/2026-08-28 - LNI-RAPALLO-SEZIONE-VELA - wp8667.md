@@ -1,26 +1,26 @@
-# Mondiale ILCA 7: partenza azzurra a Dublin Bay, Attilio Borio subito al comando
+# LNI RAPALLO – SEZIONE VELA
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
 
 ## Fonte
 
-- Data SportVela: 25 Agosto 2026
-- Link: https://sportvela.net/blog/2026/08/25/mondiale-ilca-7-partenza-azzurra-a-dublin-bay-attilio-borio-subito-al-comando/
-- Categorie: Copertina, News, Vela Olimpica
+- Data SportVela: 28 Agosto 2026
+- Link: https://sportvela.net/blog/2026/08/28/lni-rapallo-sezione-vela/
+- Categorie: I Zona
 
 ## Perche' tenerla
 
-- Filoni: risultati, olimpica, zone/circoli
+- Filoni: risultati, zone/circoli
 - Valore: aiuta a ricostruire contesto, narrativa, territori/circoli, risultati o iniziative collegate alla memoria FIV.
 
 ## Sintesi operativa
 
-- Temi operativi: risultati, olimpica, zone/circoli.
-- Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
-- Classi/discipline citate: ILCA 7.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dublin Bay, Attilio Borio, Inizia, Italia, ILCA, Men’s World Championship, Irlanda. Dopo, Il Mondiale, Royal St George Yacht, Club e, National Yacht Club, Fiamme Oro, Rossa.
-- Numeri/date utili da verificare: 7, 2026, 141, 45, 2, 1, 3, 4, 5, 30.
+- Temi operativi: risultati, zone/circoli.
+- Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
+- Classi/discipline citate: non isolate automaticamente.
+- Nomi, circoli o luoghi da valutare: LNI RAPALLO, SEZIONE VELA, La Lega Navale Italiana, Sezione di Rapallo, Ente, Foto, Trofeo Siad, Photo, Roberta Roccati, Blue Passion Photo, Copyright., Difesa dei Trasporti, Navigazione, Presidente.
+- Numeri/date utili da verificare: 26, 400, 120, 2026, 08, 27.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

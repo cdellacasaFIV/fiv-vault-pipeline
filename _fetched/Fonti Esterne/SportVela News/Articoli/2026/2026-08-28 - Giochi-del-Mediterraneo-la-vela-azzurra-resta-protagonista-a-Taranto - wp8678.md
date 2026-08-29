@@ -1,12 +1,12 @@
-# Mondiale ILCA 7: partenza azzurra a Dublin Bay, Attilio Borio subito al comando
+# Giochi del Mediterraneo: la vela azzurra resta protagonista a Taranto
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
 
 ## Fonte
 
-- Data SportVela: 25 Agosto 2026
-- Link: https://sportvela.net/blog/2026/08/25/mondiale-ilca-7-partenza-azzurra-a-dublin-bay-attilio-borio-subito-al-comando/
+- Data SportVela: 28 Agosto 2026
+- Link: https://sportvela.net/blog/2026/08/28/giochi-del-mediterraneo-la-vela-azzurra-resta-protagonista-a-taranto/
 - Categorie: Copertina, News, Vela Olimpica
 
 ## Perche' tenerla
@@ -18,9 +18,9 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
-- Classi/discipline citate: ILCA 7.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dublin Bay, Attilio Borio, Inizia, Italia, ILCA, Men’s World Championship, Irlanda. Dopo, Il Mondiale, Royal St George Yacht, Club e, National Yacht Club, Fiamme Oro, Rossa.
-- Numeri/date utili da verificare: 7, 2026, 141, 45, 2, 1, 3, 4, 5, 30.
+- Classi/discipline citate: ILCA 7, ILCA 6, IQFOiL, iQFOiL.
+- Nomi, circoli o luoghi da valutare: Giochi del Mediterraneo, Taranto, Condizioni, Federico Allan Pilloni, Yacht Club Costa Smeralda, Leonardo Tomasini, Circolo Surf Torbole, Pilloni, Tomasini, Gaspard Carfantan. Negli ILCA, Dopo, Antonio Pascali, Fraglia Vela Riva, Cesare Barabino.
+- Numeri/date utili da verificare: 2026, 2, 5, 7, 12, 1, 11, 6, 13, 9.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

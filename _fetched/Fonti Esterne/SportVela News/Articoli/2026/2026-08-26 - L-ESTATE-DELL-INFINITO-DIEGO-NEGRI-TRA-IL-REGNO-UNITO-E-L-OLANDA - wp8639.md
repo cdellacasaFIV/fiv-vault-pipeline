@@ -1,31 +1,30 @@
-# Mondiale ILCA 7: partenza azzurra a Dublin Bay, Attilio Borio subito al comando
+# L’ESTATE DELL’INFINITO DIEGO NEGRI TRA IL REGNO UNITO E L’OLANDA
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
 
 ## Fonte
 
-- Data SportVela: 25 Agosto 2026
-- Link: https://sportvela.net/blog/2026/08/25/mondiale-ilca-7-partenza-azzurra-a-dublin-bay-attilio-borio-subito-al-comando/
-- Categorie: Copertina, News, Vela Olimpica
+- Data SportVela: 26 Agosto 2026
+- Link: https://sportvela.net/blog/2026/08/26/lestate-dellinfinito-diego-negri-tra-il-regno-unito-e-lolanda/
+- Categorie: I Zona
 
 ## Perche' tenerla
 
-- Filoni: risultati, olimpica, zone/circoli
+- Filoni: zone/circoli, media/storytelling
 - Valore: aiuta a ricostruire contesto, narrativa, territori/circoli, risultati o iniziative collegate alla memoria FIV.
 
 ## Sintesi operativa
 
-- Temi operativi: risultati, olimpica, zone/circoli.
-- Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
-- Classi/discipline citate: ILCA 7.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dublin Bay, Attilio Borio, Inizia, Italia, ILCA, Men’s World Championship, Irlanda. Dopo, Il Mondiale, Royal St George Yacht, Club e, National Yacht Club, Fiamme Oro, Rossa.
-- Numeri/date utili da verificare: 7, 2026, 141, 45, 2, 1, 3, 4, 5, 30.
+- Temi operativi: zone/circoli, media/storytelling.
+- Angoli editoriali: territori, circoli e zone.
+- Classi/discipline citate: non isolate automaticamente.
+- Nomi, circoli o luoghi da valutare: L’ESTATE DELL’INFINITO DIEGO NEGRI, TRA IL REGNO UNITO, L’OLANDA, Diego Negri, Edimburgh, Edimburgh Cup. Nemmeno, Mondiale Star, Olanda, Tutte, Liguria Sport, Video, Simone Fargnoli.
+- Numeri/date utili da verificare: 25, 2026, 08.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili
 
-- [[World Sailing - Mappa Atleti e Classifiche]]
 - [[comunicati stampa sportivi/_Indice-Atleti-Circoli|Atleti e circoli]]
 - [[Modelli/Modello-News-Evento|Modello news evento]]
 

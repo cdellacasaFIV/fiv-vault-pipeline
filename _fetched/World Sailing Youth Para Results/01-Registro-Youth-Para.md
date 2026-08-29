@@ -2,7 +2,7 @@
 
 Fonte: World Sailing API, risultati `Overall Results`.
 Perimetro: classi giovanili, RS, Wing/Kite e Para Sailing richieste.
-Aggiornato: 2026-08-28.
+Aggiornato: 2026-08-29.
 
 | Gruppo | Classe | Livello | Anno | Evento | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- | --- | --- |

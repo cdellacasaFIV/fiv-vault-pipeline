@@ -6,6 +6,11 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 28 Agosto 2026 | Aperti i Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-28 - Aperti-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-2026 - wp8681|nota]] |
+| 27 Agosto 2026 | XTE Challenger, a Cattolica la prima edizione del Memorial Evelino Terenzi | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-27 - XTE-Challenger-a-Cattolica-la-prima-edizione-del-Memorial-Evelino-Terenzi - wp8658|nota]] |
+| 26 Agosto 2026 | Il Veneto della vela giovanile: dai Mondiali di Aarhus ai Campionati Italiani di Ravenna | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-26 - Il-Veneto-della-vela-giovanile-dai-Mondiali-di-Aarhus-ai-Campionati-Italiani-di-Ravenna - wp8646|nota]] |
+| 26 Agosto 2026 | LE VELE D’EPOCA – IMPERIA SAILING WEEK 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-26 - LE-VELE-D-EPOCA-IMPERIA-SAILING-WEEK-2026 - wp8642|nota]] |
+| 26 Agosto 2026 | L’ESTATE DELL’INFINITO DIEGO NEGRI TRA IL REGNO UNITO E L’OLANDA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-26 - L-ESTATE-DELL-INFINITO-DIEGO-NEGRI-TRA-IL-REGNO-UNITO-E-L-OLANDA - wp8639|nota]] |
 | 25 Agosto 2026 | Palermo-Montecarlo, si chiude la 21ª edizione: gli equipaggi siciliani protagonisti fino a Montecarlo | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-25 - Palermo-Montecarlo-si-chiude-la-21a-edizione-gli-equipaggi-siciliani-protagonisti-fino-a-Montecarlo - wp8636|nota]] |
 | 12 Agosto 2026 | Lisa Vucetti e Vittorio Bonifacio raccontano i loro ultimi successi | Copertina, News, Vela Giovanile, XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-12 - Lisa-Vucetti-e-Vittorio-Bonifacio-raccontano-i-loro-ultimi-successi - wp8512|nota]] |
 | 11 Agosto 2026 | A CERIALE LA PONENTIVA VA A RIVAROLI E DILDA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-11 - A-CERIALE-LA-PONENTIVA-VA-A-RIVAROLI-E-DILDA - wp8507|nota]] |
@@ -251,8 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Gennaio 2026 | LA LNI GENOVA PRESENTA I CORSI DI ALTURA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - LA-LNI-GENOVA-PRESENTA-I-CORSI-DI-ALTURA - wp5788|nota]] |
 | 16 Gennaio 2026 | ORMA SARAI TRIONFA NEL CAMPIONATO AUTUNNALE METEOR 2025 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - ORMA-SARAI-TRIONFA-NEL-CAMPIONATO-AUTUNNALE-METEOR-2025 - wp5781|nota]] |
 | 16 Gennaio 2026 | ILCA U21 World Championships 2026 a Lanzarote | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - ILCA-U21-World-Championships-2026-a-Lanzarote - wp5778|nota]] |
-| 16 Gennaio 2026 | CAMPIONATO INVERNALE DI MARINA DI LOANO 2025/2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO-2025-2026 - wp5773|nota]] |
-| 16 Gennaio 2026 | STORIA E FUTURO DEL LEUDO “NUOVO AIUTO DI DIO” DOPO I SUOI PRIMI CENT’ANNI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - STORIA-E-FUTURO-DEL-LEUDO-NUOVO-AIUTO-DI-DIO-DOPO-I-SUOI-PRIMI-CENT-ANNI - wp5768|nota]] |
-| 15 Gennaio 2026 | 50° INVERNALE DEL TIGULLIO: SABATO SCATTA LA 2a MANCHE CON 30 BARCHE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-15 - 50-INVERNALE-DEL-TIGULLIO-SABATO-SCATTA-LA-2a-MANCHE-CON-30-BARCHE - wp5764|nota]] |
-| 13 Gennaio 2026 | IN ARRIVO IL GENOA WINTER CONTEST OPTIMIST | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-13 - IN-ARRIVO-IL-GENOA-WINTER-CONTEST-OPTIMIST - wp5761|nota]] |
-| 12 Gennaio 2026 | XV Zona FIV: premiati i protagonisti della stagione 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-12 - XV-Zona-FIV-premiati-i-protagonisti-della-stagione-2025 - wp5755|nota]] |

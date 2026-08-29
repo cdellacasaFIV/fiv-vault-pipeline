@@ -6,6 +6,17 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 27 Maggio 2026 | Trionfo per il Team Giovanile U25 della I Zona FIV alla Regata “La 100 Miglia dell’Alto Adriatico” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - Trionfo-per-il-Team-Giovanile-U25-della-I-Zona-FIV-alla-Regata-La-100-Miglia-dell-Alto-Adriatico - wp7319|nota]] |
+| 27 Maggio 2026 | XII Zona FIV Veneto al Salone Nautico di Venezia: vela, giovani, inclusione e grandi campionesse all’Arsenale | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - XII-Zona-FIV-Veneto-al-Salone-Nautico-di-Venezia-vela-giovani-inclusione-e-grandi-campionesse-all-Arsenale - wp7316|nota]] |
+| 26 Maggio 2026 | Antonella Rizzuto testimonial del Vela Day 2026 della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - Antonella-Rizzuto-testimonial-del-Vela-Day-2026-della-XV-Zona - wp7313|nota]] |
+| 26 Maggio 2026 | Vela Day 2026, porte aperte nei circoli della Campania | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - Vela-Day-2026-porte-aperte-nei-circoli-della-Campania - wp7308|nota]] |
+| 26 Maggio 2026 | PORTO MAURIZIO YACHT CLUB, FESTA DI VELA E COLORI CON IL TROFEO GIOTTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - PORTO-MAURIZIO-YACHT-CLUB-FESTA-DI-VELA-E-COLORI-CON-IL-TROFEO-GIOTTO - wp7305|nota]] |
+| 25 Maggio 2026 | La 100 x 3: a Marina di Albarella arriva la sfida a squadre tra Circoli | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - La-100-x-3-a-Marina-di-Albarella-arriva-la-sfida-a-squadre-tra-Circoli - wp7297|nota]] |
+| 25 Maggio 2026 | 41ª Transadriatica: aperte le iscrizioni, Venezia e Novigrad tornano unite dalla grande vela d’altura | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - 41a-Transadriatica-aperte-le-iscrizioni-Venezia-e-Novigrad-tornano-unite-dalla-grande-vela-d-altura - wp7294|nota]] |
+| 25 Maggio 2026 | TROFEO SIAD – BOMBOLA D’ORO, IL DINGHY 12′ PROTAGONISTA NEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - TROFEO-SIAD-BOMBOLA-D-ORO-IL-DINGHY-12-PROTAGONISTA-NEL-TIGULLIO - wp7291|nota]] |
+| 25 Maggio 2026 | DOPPIA VITTORIA ALLE GRANDI REGATE INTERNAZIONALI DI SANREMO PER IL SANGERMANI “ARTICA II” (MARINA MILITARE) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - DOPPIA-VITTORIA-ALLE-GRANDI-REGATE-INTERNAZIONALI-DI-SANREMO-PER-IL-SANGERMANI-ARTICA-II-MARINA-MILITARE - wp7288|nota]] |
+| 25 Maggio 2026 | GIOVANNI GALLEGO DEL CN ANDORA VINCE L’ITALIANO MASTER CATEGORIA APPRENTICE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - GIOVANNI-GALLEGO-DEL-CN-ANDORA-VINCE-L-ITALIANO-MASTER-CATEGORIA-APPRENTICE - wp7283|nota]] |
+| 25 Maggio 2026 | BORSA DI STUDIO CLELIA CAMBIASO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - BORSA-DI-STUDIO-CLELIA-CAMBIASO - wp7281|nota]] |
 | 25 Maggio 2026 | “VELA SCUOLA” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - VELA-SCUOLA - wp7278|nota]] |
 | 24 Maggio 2026 | Tutti i campioni del Campionato Nazionale d’Area Sicilia e Sardegna 2026 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-24 - Tutti-i-campioni-del-Campionato-Nazionale-d-Area-Sicilia-e-Sardegna-2026 - wp7419|nota]] |
 | 24 Maggio 2026 | 5° EDIZIONE VELEGGIATA DEI TRABOCCHI | IX Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-24 - 5-EDIZIONE-VELEGGIATA-DEI-TRABOCCHI - wp7266|nota]] |
@@ -245,14 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Febbraio 2026 | LA VELA PARALIMPICA SPIEGA LE VELE AD ANDORA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LA-VELA-PARALIMPICA-SPIEGA-LE-VELE-AD-ANDORA - wp6049|nota]] |
 | 18 Febbraio 2026 | LE PROSSIME REGATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LE-PROSSIME-REGATE-IN-LIGURIA - wp6043|nota]] |
 | 17 Febbraio 2026 | Velaterapia – Hansa Day / LNI Arona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-17 - Velaterapia-Hansa-Day-LNI-Arona - wp6040|nota]] |
-| 17 Febbraio 2026 | PERFORMANCE A 360° | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-17 - PERFORMANCE-A-360 - wp6035|nota]] |
-| 16 Febbraio 2026 | Sicurezza e tutela dell’atleta paralimpico | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Sicurezza-e-tutela-dell-atleta-paralimpico - wp6028|nota]] |
-| 16 Febbraio 2026 | Sailing Team Cesenatico: una sinergia ritrovata che guarda al futuro. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Sailing-Team-Cesenatico-una-sinergia-ritrovata-che-guarda-al-futuro - wp6023|nota]] |
-| 16 Febbraio 2026 | SARDINA CUP 2026, BUONA LA PRIMA: 26 BARCHE AL VIA DEL CAMPIONATO INVERNALE ORGANIZZATO DAL CIRCOLO VELICO RIMINESE | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - SARDINA-CUP-2026-BUONA-LA-PRIMA-26-BARCHE-AL-VIA-DEL-CAMPIONATO-INVERNALE-ORGANIZZATO-DAL-CIRCOLO-VELICO-RIMIN - wp6018|nota]] |
-| 16 Febbraio 2026 | Assemblea annuale e premiazioni 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Assemblea-annuale-e-premiazioni-2025 - wp6013|nota]] |
-| 16 Febbraio 2026 | BORSA DI STUDIO CLELIA CAMBIASO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - BORSA-DI-STUDIO-CLELIA-CAMBIASO - wp6011|nota]] |
-| 16 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - 50-INVERNALE-DEL-TIGULLIO - wp6008|nota]] |
-| 16 Febbraio 2026 | XXXV CAMPIONATO INVERNALE DEL PONENTE LIGURE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - XXXV-CAMPIONATO-INVERNALE-DEL-PONENTE-LIGURE - wp6006|nota]] |
-| 16 Febbraio 2026 | A TOMMASO BOIOCCHI LA CARNIVAL ALASSIO WASZP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - A-TOMMASO-BOIOCCHI-LA-CARNIVAL-ALASSIO-WASZP - wp6003|nota]] |
-| 16 Febbraio 2026 | GENOVA CUORE DELLA CLASSE MINI, PROGETTO DI CRESCITA PER I E VII ZONA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - GENOVA-CUORE-DELLA-CLASSE-MINI-PROGETTO-DI-CRESCITA-PER-I-E-VII-ZONA - wp6000|nota]] |
-| 16 Febbraio 2026 | UNA GIORNATA DI INTENSA FORMAZIONE E RICCA DI ENTUSIASMO! | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - UNA-GIORNATA-DI-INTENSA-FORMAZIONE-E-RICCA-DI-ENTUSIASMO - wp5995|nota]] |

@@ -1,7 +1,7 @@
 # Registro mondiali olimpici World Sailing
 
 Fonte: World Sailing API, livello `World Championships`, risultati `Overall Results`.
-Aggiornato: 2026-08-28.
+Aggiornato: 2026-08-29.
 
 | Evento | Anno | Regata | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- |

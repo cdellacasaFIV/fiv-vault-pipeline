@@ -6,6 +6,10 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 24 Agosto 2025 | Hobie Cat 16: Italia d’Oro e d’Argento agli Europei Youth di Ustka | News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-24 - Hobie-Cat-16-Italia-d-Oro-e-d-Argento-agli-Europei-Youth-di-Ustka - wp4036|nota]] |
+| 22 Agosto 2025 | L’Italia vince il Campionato Europeo a Squadre Optimist 2025 a Istanbul | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-22 - L-Italia-vince-il-Campionato-Europeo-a-Squadre-Optimist-2025-a-Istanbul - wp4006|nota]] |
+| 13 Agosto 2025 | Due giovani premiati dal Tabo Surf Center: prime borse di studio per il windsurf giovanile | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Due-giovani-premiati-dal-Tabo-Surf-Center-prime-borse-di-studio-per-il-windsurf-giovanile - wp3905|nota]] |
+| 12 Agosto 2025 | Campionato Europeo ILCA 2025: day 2 bene gli azzurri | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - Campionato-Europeo-ILCA-2025-day-2-bene-gli-azzurri - wp3890|nota]] |
 | 12 Agosto 2025 | La XIII Zona FIV lancia “Altura U25 e Attività Melges 24” | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - La-XIII-Zona-FIV-lancia-Altura-U25-e-Attivita-Melges-24 - wp3887|nota]] |
 | 11 Agosto 2025 | Marsala ospita il primo raduno promozionale di Wing Foil in Sicilia: un successo per la nuova classe Foil | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Marsala-ospita-il-primo-raduno-promozionale-di-Wing-Foil-in-Sicilia-un-successo-per-la-nuova-classe-Foil - wp3882|nota]] |
 | 11 Agosto 2025 | Tris di medaglie al mondiale RS 500 di Follonica | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Tris-di-medaglie-al-mondiale-RS-500-di-Follonica - wp3878|nota]] |

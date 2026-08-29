@@ -1,32 +1,31 @@
-# Mondiale ILCA 7: partenza azzurra a Dublin Bay, Attilio Borio subito al comando
+# Mondiale ILCA 7: Ryan Lo passa al comando nella Gold Fleet, Borio resta in top ten
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
 
 ## Fonte
 
-- Data SportVela: 25 Agosto 2026
-- Link: https://sportvela.net/blog/2026/08/25/mondiale-ilca-7-partenza-azzurra-a-dublin-bay-attilio-borio-subito-al-comando/
+- Data SportVela: 27 Agosto 2026
+- Link: https://sportvela.net/blog/2026/08/27/mondiale-ilca-7-ryan-lo-passa-al-comando-nella-gold-fleet-borio-resta-in-top-ten/
 - Categorie: Copertina, News, Vela Olimpica
 
 ## Perche' tenerla
 
-- Filoni: risultati, olimpica, zone/circoli
+- Filoni: risultati, olimpica
 - Valore: aiuta a ricostruire contesto, narrativa, territori/circoli, risultati o iniziative collegate alla memoria FIV.
 
 ## Sintesi operativa
 
-- Temi operativi: risultati, olimpica, zone/circoli.
-- Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
+- Temi operativi: risultati, olimpica.
+- Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dublin Bay, Attilio Borio, Inizia, Italia, ILCA, Men’s World Championship, Irlanda. Dopo, Il Mondiale, Royal St George Yacht, Club e, National Yacht Club, Fiamme Oro, Rossa.
-- Numeri/date utili da verificare: 7, 2026, 141, 45, 2, 1, 3, 4, 5, 30.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Ryan Lo, Gold Fleet, Borio, ILCA, Men’s World Championship, Dublin Bay, Gold, Alle, Finn Lynch, Terzo, Jonatán Vadnai, Elliot Hanson, Michael Beckett e Tonci.
+- Numeri/date utili da verificare: 7, 2026, 24, 26, 31, 27, 38, 39, 40, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili
 
 - [[World Sailing - Mappa Atleti e Classifiche]]
-- [[comunicati stampa sportivi/_Indice-Atleti-Circoli|Atleti e circoli]]
 - [[Modelli/Modello-News-Evento|Modello news evento]]
 
 ## Uso editoriale

@@ -1,12 +1,12 @@
-# Mondiale ILCA 7: partenza azzurra a Dublin Bay, Attilio Borio subito al comando
+# Mondiale ILCA 7: Ryan Lo allunga nella Gold Fleet, Chiavarini e Borio in top ten
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
 
 ## Fonte
 
-- Data SportVela: 25 Agosto 2026
-- Link: https://sportvela.net/blog/2026/08/25/mondiale-ilca-7-partenza-azzurra-a-dublin-bay-attilio-borio-subito-al-comando/
+- Data SportVela: 28 Agosto 2026
+- Link: https://sportvela.net/blog/2026/08/28/mondiale-ilca-7-ryan-lo-allunga-nella-gold-fleet-chiavarini-e-borio-in-top-ten/
 - Categorie: Copertina, News, Vela Olimpica
 
 ## Perche' tenerla
@@ -19,8 +19,8 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dublin Bay, Attilio Borio, Inizia, Italia, ILCA, Men’s World Championship, Irlanda. Dopo, Il Mondiale, Royal St George Yacht, Club e, National Yacht Club, Fiamme Oro, Rossa.
-- Numeri/date utili da verificare: 7, 2026, 141, 45, 2, 1, 3, 4, 5, 30.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Ryan Lo, Gold Fleet, Chiavarini e Borio, ILCA, Men’s World Championship, Dublin Bay. Dopo, Mondiale. Lo, Michael Beckett, Jonatán Vadnai, Elliot Hanson, Nicholas Halliday di Hong, Kong, Italia.
+- Numeri/date utili da verificare: 7, 2026, 37, 50, 51, 65, 66, 78, 2, 80.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

@@ -4,6 +4,7 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Agosto 2026 | LE VELE D’EPOCA – IMPERIA SAILING WEEK 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-26 - LE-VELE-D-EPOCA-IMPERIA-SAILING-WEEK-2026 - wp8642|nota]] |
 | 18 Agosto 2026 | Formula Kite Youth, tre azzurri al Mondiale di Urla | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-18 - Formula-Kite-Youth-tre-azzurri-al-Mondiale-di-Urla - wp8577|nota]] |
 | 12 Agosto 2026 | Lisa Vucetti e Vittorio Bonifacio raccontano i loro ultimi successi | Copertina, News, Vela Giovanile, XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-12 - Lisa-Vucetti-e-Vittorio-Bonifacio-raccontano-i-loro-ultimi-successi - wp8512|nota]] |
 | 10 Agosto 2026 | Mondiale ILCA 4 Youth: Scialpi quinto e Morina sesto, l’Italia sfiora il podio ad Aarhus | News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-10 - Mondiale-ILCA-4-Youth-Scialpi-quinto-e-Morina-sesto-l-Italia-sfiora-il-podio-ad-Aarhus - wp8475|nota]] |
