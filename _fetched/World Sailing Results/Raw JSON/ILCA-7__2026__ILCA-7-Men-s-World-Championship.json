@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "event_label": "ILCA 7 Men",
+    "regatta_name": "ILCA 7 Men's World Championship",
+    "world_sailing_id": "IRL202609VBZ",
+    "start_date": "2026-08-23",
+    "end_date": "2026-08-30",
+    "year": "2026",
+    "venue": "Dun Laoghaire, Ireland",
+    "source_url": "https://sailing.org/regatta/ilca-7-men-s-world-championship?ref=IRL202609VBZ",
+    "event_api_url": "https://datafeed.sailing.org/stats/api/event/34c55a8e-03ab-40a7-ac2a-8cc8e68239a4?include=crews.country%2Ccrews.sailors.crewRole%2Craces.raceResults.crew.country%2Craces.raceResults.crew.sailors%2Craces.raceResults.crewCompetingStatus%2Craces.status",
+    "regatta_query_url": "https://datafeed.sailing.org/stats/api/regatta?filter%5Blevel.id%5D=568d0c5a-aa65-43b1-b9f0-a32f0b569a64&filter%5Bevents.boatClass.id%5D=08f69112-1aef-40be-afeb-7e606f8b27a0&include=venue.country%2Clevel%2Cseason%2Cevents%2Cevents.boatClass%2Cevents.grade&sort%5BstartDate%5D=desc&paginate=50",
+    "event_id": "34c55a8e-03ab-40a7-ac2a-8cc8e68239a4"
+  },
+  "event": {
+    "_admin_name": "ILCA 7 - Men",
+    "_name": "ILCA 7 Men",
+    "boatClass": {
+      "beamLength": "1.37 m",
+      "boatWeight": null,
+      "classCode": "ILCA7",
+      "classDesigner": "Bruce Kirby",
+      "createdAt": "2021-02-10T09:51:56.000000Z",
+      "deletedAt": null,
+      "headsailArea": null,
+      "hullLength": "4.23 m",
+      "id": "08f69112-1aef-40be-afeb-7e606f8b27a0",
+      "mainsailArea": "7.06 m2",
+      "name": "ILCA 7",
+      "nationalOrigins": null,
+      "numberOfCrew": "1",
+      "numberOfTrapeze": "Toe Straps",
+      "optimalCrewWeight": null,
+      "rsc": "ILCA7-------------",
+      "spinnakerArea": null,
+      "suppliersMessage": null,
+      "updatedAt": "2022-06-21T16:06:25.000000Z",
+      "yearDesigned": "1969",
+      "yearOfStatus": "1974"
+    },
+    "bonus": null,
+    "competitors": null,
+    "createdAt": "2025-07-18T08:56:48.000000Z",
+    "crews": [],
+    "deletedAt": null,
+    "discipline": {
+      "createdAt": "2021-02-10T09:52:17.000000Z",
+      "deletedAt": null,
+      "id": "79fb181a-7864-4b57-8047-178d808ac58c",
+      "name": "Fleet racing",
+      "updatedAt": "2021-02-10T09:52:17.000000Z"
+    },
+    "id": "34c55a8e-03ab-40a7-ac2a-8cc8e68239a4",
+    "multiplier": null,
+    "nationsCompetedEstimate": null,
+    "odfDisplayName": null,
+    "odfOrder": null,
+    "races": [],
+    "rank": 200,
+    "rsc": null,
+    "totalCompetedEstimate": null,
+    "type": {
+      "createdAt": "2021-02-10T09:52:28.000000Z",
+      "deletedAt": null,
+      "id": "c483892d-e53b-4ad8-9692-4a52b50d14dd",
+      "name": "Men",
+      "updatedAt": "2021-02-10T09:52:28.000000Z"
+    },
+    "updatedAt": "2025-07-18T08:58:16.000000Z"
+  }
+}
