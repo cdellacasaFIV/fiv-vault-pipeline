@@ -6,6 +6,12 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 29 Maggio 2026 | Calabria e Basilicata salpano con il Vela Day 2026 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - Calabria-e-Basilicata-salpano-con-il-Vela-Day-2026 - wp7351|nota]] |
+| 29 Maggio 2026 | IL LEUDO RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - IL-LEUDO-RACCONTA - wp7347|nota]] |
+| 28 Maggio 2026 | Cesenatico si prepara ad ospitare la grande vela giovanile: oltre 80 imbarcazioni per la CoppaUniqua 420 e la Nazionale 470 | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-28 - Cesenatico-si-prepara-ad-ospitare-la-grande-vela-giovanile-oltre-80-imbarcazioni-per-la-CoppaUniqua-420-e-la-N - wp7344|nota]] |
+| 28 Maggio 2026 | SECONDO POSTO REDAELLI ALL’EURILCA A NEUCHATEL | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-28 - SECONDO-POSTO-REDAELLI-ALL-EURILCA-A-NEUCHATEL - wp7340|nota]] |
+| 27 Maggio 2026 | Sabato 30 maggio la LNI Napoli celebra i successi di Ginevra Caracciolo | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - Sabato-30-maggio-la-LNI-Napoli-celebra-i-successi-di-Ginevra-Caracciolo - wp7336|nota]] |
+| 27 Maggio 2026 | STRAORDINARIO SUCCESSO PER IL “VELA DAY” IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - STRAORDINARIO-SUCCESSO-PER-IL-VELA-DAY-IN-LIGURIA - wp7322|nota]] |
 | 27 Maggio 2026 | Trionfo per il Team Giovanile U25 della I Zona FIV alla Regata “La 100 Miglia dell’Alto Adriatico” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - Trionfo-per-il-Team-Giovanile-U25-della-I-Zona-FIV-alla-Regata-La-100-Miglia-dell-Alto-Adriatico - wp7319|nota]] |
 | 27 Maggio 2026 | XII Zona FIV Veneto al Salone Nautico di Venezia: vela, giovani, inclusione e grandi campionesse all’Arsenale | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - XII-Zona-FIV-Veneto-al-Salone-Nautico-di-Venezia-vela-giovani-inclusione-e-grandi-campionesse-all-Arsenale - wp7316|nota]] |
 | 26 Maggio 2026 | Antonella Rizzuto testimonial del Vela Day 2026 della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - Antonella-Rizzuto-testimonial-del-Vela-Day-2026-della-XV-Zona - wp7313|nota]] |
@@ -250,9 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 20 Febbraio 2026 | Ufficializzato a Cortina il gemellaggio tra Yacht Club Cortina d’Ampezzo e Lega Navale Italiana – Sezione di Chioggia | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-20 - Ufficializzato-a-Cortina-il-gemellaggio-tra-Yacht-Club-Cortina-d-Ampezzo-e-Lega-Navale-Italiana-Sezione-di-Chi - wp6076|nota]] |
 | 19 Febbraio 2026 | GLI IDRURI METALLICI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-19 - GLI-IDRURI-METALLICI - wp6070|nota]] |
 | 19 Febbraio 2026 | Al via da Napoli il Trofeo del Timoniere Assometeor 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-19 - Al-via-da-Napoli-il-Trofeo-del-Timoniere-Assometeor-2026 - wp6066|nota]] |
-| 18 Febbraio 2026 | 5° CAMPIONATO LIGURE DI VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - 5-CAMPIONATO-LIGURE-DI-VELA-PARALIMPICA - wp6062|nota]] |
-| 18 Febbraio 2026 | SI CHIUDE AD ANDORA LA PRIMA TAPPA DELL’ITALIA CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - SI-CHIUDE-AD-ANDORA-LA-PRIMA-TAPPA-DELL-ITALIA-CUP-2026 - wp6059|nota]] |
-| 18 Febbraio 2026 | GRANDE SUCCESSO PER LA THE CARNIVAL RACE 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - GRANDE-SUCCESSO-PER-LA-THE-CARNIVAL-RACE-2026 - wp6054|nota]] |
-| 18 Febbraio 2026 | LA VELA PARALIMPICA SPIEGA LE VELE AD ANDORA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LA-VELA-PARALIMPICA-SPIEGA-LE-VELE-AD-ANDORA - wp6049|nota]] |
-| 18 Febbraio 2026 | LE PROSSIME REGATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LE-PROSSIME-REGATE-IN-LIGURIA - wp6043|nota]] |
-| 17 Febbraio 2026 | Velaterapia – Hansa Day / LNI Arona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-17 - Velaterapia-Hansa-Day-LNI-Arona - wp6040|nota]] |

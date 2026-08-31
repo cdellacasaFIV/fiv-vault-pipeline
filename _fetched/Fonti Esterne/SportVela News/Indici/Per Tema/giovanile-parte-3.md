@@ -6,6 +6,9 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 25 Agosto 2025 | Italia in evidenza al Mondiale Techno 293 in Galles | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-25 - Italia-in-evidenza-al-Mondiale-Techno-293-in-Galles - wp4065|nota]] |
+| 25 Agosto 2025 | Circolo Vela Cesenatico. Cena sociale e prossimi appuntamenti sportivi. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-25 - Circolo-Vela-Cesenatico-Cena-sociale-e-prossimi-appuntamenti-sportivi - wp4047|nota]] |
+| 24 Agosto 2025 | Conclusi i primi raduni zonali | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-24 - Conclusi-i-primi-raduni-zonali - wp4038|nota]] |
 | 24 Agosto 2025 | Hobie Cat 16: Italia d’Oro e d’Argento agli Europei Youth di Ustka | News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-24 - Hobie-Cat-16-Italia-d-Oro-e-d-Argento-agli-Europei-Youth-di-Ustka - wp4036|nota]] |
 | 22 Agosto 2025 | L’Italia vince il Campionato Europeo a Squadre Optimist 2025 a Istanbul | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-22 - L-Italia-vince-il-Campionato-Europeo-a-Squadre-Optimist-2025-a-Istanbul - wp4006|nota]] |
 | 13 Agosto 2025 | Due giovani premiati dal Tabo Surf Center: prime borse di studio per il windsurf giovanile | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Due-giovani-premiati-dal-Tabo-Surf-Center-prime-borse-di-studio-per-il-windsurf-giovanile - wp3905|nota]] |

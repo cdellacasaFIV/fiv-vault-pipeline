@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 16 Ottobre 2025 | Italia e Norvegia trionfano al Foil Academy International Trophy. Babini: “Nel 2026 grandi novità per la Sardinia Sailing Cup” | Copertina, News, Para Sailing, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-16 - Italia-e-Norvegia-trionfano-al-Foil-Academy-International-Trophy-Babini-Nel-2026-grandi-novita-per-la-Sardinia - wp4880|nota]] |
 | 15 Ottobre 2025 | Foil Academy International Trophy e IDP Wing Foil Clinic: talento, resilienza e libertà nel secondo giorno di regate a Cagliari | Copertina, News, Para Sailing, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-15 - Foil-Academy-International-Trophy-e-IDP-Wing-Foil-Clinic-talento-resilienza-e-liberta-nel-secondo-giorno-di-re - wp4877|nota]] |
 | 15 Ottobre 2025 | Guido Lembo, a Capri un trofeo O’open Skiff per ricordare il marinaio | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-15 - Guido-Lembo-a-Capri-un-trofeo-O-open-Skiff-per-ricordare-il-marinaio - wp4874|nota]] |
 | 14 Ottobre 2025 | Next Generation Foil Academy International Trophy powered by Luna Rossa: talento e inclusione protagonisti a Cagliari | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - Next-Generation-Foil-Academy-International-Trophy-powered-by-Luna-Rossa-talento-e-inclusione-protagonisti-a-Ca - wp4870|nota]] |

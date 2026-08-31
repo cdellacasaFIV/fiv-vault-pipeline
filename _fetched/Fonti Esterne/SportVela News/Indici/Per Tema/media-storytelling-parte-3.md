@@ -6,6 +6,8 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Maggio 2025 | Lorenzo Sorrenti conquista la finale del Campionato del Mondo di eSailing 2025: è la sua terza partecipazione consecutiva, in top 10 dopo una selezione con 33.640 partecipanti | e-sailing, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-19 - Lorenzo-Sorrenti-conquista-la-finale-del-Campionato-del-Mondo-di-eSailing-2025-e-la-sua-terza-partecipazione-c - wp2853|nota]] |
+| 17 Maggio 2025 | Europeo 470 a Spalato: titolo a Xammar–Cardona, Ferrari–Dubbini chiudono noni | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-17 - Europeo-470-a-Spalato-titolo-a-Xammar-Cardona-Ferrari-Dubbini-chiudono-noni - wp2823|nota]] |
 | 15 Maggio 2025 | Europeo 470: Xammar–Cardona dominano a Spalato, Ferrari–Dubbini ottavi a due giorni dalla Medal Race | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-15 - Europeo-470-Xammar-Cardona-dominano-a-Spalato-Ferrari-Dubbini-ottavi-a-due-giorni-dalla-Medal-Race - wp2795|nota]] |
 | 15 Maggio 2025 | Navigare Insieme: l’Italia senza barriere fa tappa a Napoli il 16 e 17 maggio | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-15 - Navigare-Insieme-l-Italia-senza-barriere-fa-tappa-a-Napoli-il-16-e-17-maggio - wp2788|nota]] |
 | 14 Maggio 2025 | Europeo 470: a Spalato sette prove completate, Ferrari-Dubbini risalgono al settimo posto | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-14 - Europeo-470-a-Spalato-sette-prove-completate-Ferrari-Dubbini-risalgono-al-settimo-posto - wp2781|nota]] |

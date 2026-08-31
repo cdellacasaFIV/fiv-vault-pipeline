@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 29 Agosto 2026 | Giochi del Mediterraneo: Tomasini vince nel Reserve Day, Pilloni resta leader | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-29 - Giochi-del-Mediterraneo-Tomasini-vince-nel-Reserve-Day-Pilloni-resta-leader - wp8690|nota]] |
 | 28 Agosto 2026 | Mini Altura Under 23, la VII Zona FIV Sicilia cerca i suoi cinque talenti per il Trofeo delle Zone | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-28 - Mini-Altura-Under-23-la-VII-Zona-FIV-Sicilia-cerca-i-suoi-cinque-talenti-per-il-Trofeo-delle-Zone - wp8671|nota]] |
 | 27 Agosto 2026 | VELA PARALIMPICA: VALIA GALDI, ROTTA DI AVVICINAMENTO ALL’ EUROPEO HANSA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-27 - VELA-PARALIMPICA-VALIA-GALDI-ROTTA-DI-AVVICINAMENTO-ALL-EUROPEO-HANSA - wp8653|nota]] |
 | 26 Agosto 2026 | Il Veneto della vela giovanile: dai Mondiali di Aarhus ai Campionati Italiani di Ravenna | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-26 - Il-Veneto-della-vela-giovanile-dai-Mondiali-di-Aarhus-ai-Campionati-Italiani-di-Ravenna - wp8646|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 19 Ottobre 2025 | Gran finale per la Veleziana Sailing Week 2025: Venezia celebra vela, tradizione e successo | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-19 - Gran-finale-per-la-Veleziana-Sailing-Week-2025-Venezia-celebra-vela-tradizione-e-successo - wp4916|nota]] |
 | 19 Ottobre 2025 | Congrega Velisti Cesenatico – Migliore Scuola Vela Fiv 2025 | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-19 - Congrega-Velisti-Cesenatico-Migliore-Scuola-Vela-Fiv-2025 - wp4928|nota]] |
 | 16 Ottobre 2025 | Rotta del Cappero e della Malvasia: trionfa la vela tra Capo d’Orlando e Lipari | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-16 - Rotta-del-Cappero-e-della-Malvasia-trionfa-la-vela-tra-Capo-d-Orlando-e-Lipari - wp4883|nota]] |
-| 16 Ottobre 2025 | Italia e Norvegia trionfano al Foil Academy International Trophy. Babini: “Nel 2026 grandi novità per la Sardinia Sailing Cup” | Copertina, News, Para Sailing, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-16 - Italia-e-Norvegia-trionfano-al-Foil-Academy-International-Trophy-Babini-Nel-2026-grandi-novita-per-la-Sardinia - wp4880|nota]] |

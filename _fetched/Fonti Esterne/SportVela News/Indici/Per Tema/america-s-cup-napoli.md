@@ -4,6 +4,8 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Agosto 2026 | Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna: secondo giorno di regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-30 - Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-secondo-giorno-di-regate - wp8706|nota]] |
+| 29 Agosto 2026 | Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna: prima giornata pienissima! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-29 - Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-prima-giornata-pienissima - wp8684|nota]] |
 | 26 Agosto 2026 | LE VELE D’EPOCA – IMPERIA SAILING WEEK 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-26 - LE-VELE-D-EPOCA-IMPERIA-SAILING-WEEK-2026 - wp8642|nota]] |
 | 18 Agosto 2026 | Formula Kite Youth, tre azzurri al Mondiale di Urla | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-18 - Formula-Kite-Youth-tre-azzurri-al-Mondiale-di-Urla - wp8577|nota]] |
 | 12 Agosto 2026 | Lisa Vucetti e Vittorio Bonifacio raccontano i loro ultimi successi | Copertina, News, Vela Giovanile, XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-12 - Lisa-Vucetti-e-Vittorio-Bonifacio-raccontano-i-loro-ultimi-successi - wp8512|nota]] |

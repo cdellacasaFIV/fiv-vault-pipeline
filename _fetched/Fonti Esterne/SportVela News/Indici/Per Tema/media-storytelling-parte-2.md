@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 16 Gennaio 2026 | ORMA SARAI TRIONFA NEL CAMPIONATO AUTUNNALE METEOR 2025 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - ORMA-SARAI-TRIONFA-NEL-CAMPIONATO-AUTUNNALE-METEOR-2025 - wp5781|nota]] |
+| 16 Gennaio 2026 | ILCA U21 World Championships 2026 a Lanzarote | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - ILCA-U21-World-Championships-2026-a-Lanzarote - wp5778|nota]] |
 | 16 Gennaio 2026 | CAMPIONATO INVERNALE DI MARINA DI LOANO 2025/2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO-2025-2026 - wp5773|nota]] |
 | 16 Gennaio 2026 | STORIA E FUTURO DEL LEUDO “NUOVO AIUTO DI DIO” DOPO I SUOI PRIMI CENT’ANNI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - STORIA-E-FUTURO-DEL-LEUDO-NUOVO-AIUTO-DI-DIO-DOPO-I-SUOI-PRIMI-CENT-ANNI - wp5768|nota]] |
 | 15 Gennaio 2026 | 50° INVERNALE DEL TIGULLIO: SABATO SCATTA LA 2a MANCHE CON 30 BARCHE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-15 - 50-INVERNALE-DEL-TIGULLIO-SABATO-SCATTA-LA-2a-MANCHE-CON-30-BARCHE - wp5764|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 12 Giugno 2025 | Navigare Insieme: l’Italia senza barriere fa tappa a Genova nei giorni 11 e 12 giugno | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-12 - Navigare-Insieme-l-Italia-senza-barriere-fa-tappa-a-Genova-nei-giorni-11-e-12-giugno - wp2999|nota]] |
 | 10 Giugno 2025 | Campionato del Mondo 470 Mixed – Gdynia, Polonia; parte il Mondiale con due prove | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-10 - Campionato-del-Mondo-470-Mixed-Gdynia-Polonia-parte-il-Mondiale-con-due-prove - wp2933|nota]] |
 | 6 Giugno 2025 | CAMPIONATO ITALIANO ASSOLUTO VELA D’ALTURA 2025 EDISON NEXT | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-06 - CAMPIONATO-ITALIANO-ASSOLUTO-VELA-D-ALTURA-2025-EDISON-NEXT - wp2920|nota]] |
-| 19 Maggio 2025 | Lorenzo Sorrenti conquista la finale del Campionato del Mondo di eSailing 2025: è la sua terza partecipazione consecutiva, in top 10 dopo una selezione con 33.640 partecipanti | e-sailing, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-19 - Lorenzo-Sorrenti-conquista-la-finale-del-Campionato-del-Mondo-di-eSailing-2025-e-la-sua-terza-partecipazione-c - wp2853|nota]] |
-| 17 Maggio 2025 | Europeo 470 a Spalato: titolo a Xammar–Cardona, Ferrari–Dubbini chiudono noni | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-17 - Europeo-470-a-Spalato-titolo-a-Xammar-Cardona-Ferrari-Dubbini-chiudono-noni - wp2823|nota]] |

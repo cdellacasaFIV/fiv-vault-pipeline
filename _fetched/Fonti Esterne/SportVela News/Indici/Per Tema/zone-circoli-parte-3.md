@@ -6,6 +6,12 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Febbraio 2026 | 5° CAMPIONATO LIGURE DI VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - 5-CAMPIONATO-LIGURE-DI-VELA-PARALIMPICA - wp6062|nota]] |
+| 18 Febbraio 2026 | SI CHIUDE AD ANDORA LA PRIMA TAPPA DELL’ITALIA CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - SI-CHIUDE-AD-ANDORA-LA-PRIMA-TAPPA-DELL-ITALIA-CUP-2026 - wp6059|nota]] |
+| 18 Febbraio 2026 | GRANDE SUCCESSO PER LA THE CARNIVAL RACE 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - GRANDE-SUCCESSO-PER-LA-THE-CARNIVAL-RACE-2026 - wp6054|nota]] |
+| 18 Febbraio 2026 | LA VELA PARALIMPICA SPIEGA LE VELE AD ANDORA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LA-VELA-PARALIMPICA-SPIEGA-LE-VELE-AD-ANDORA - wp6049|nota]] |
+| 18 Febbraio 2026 | LE PROSSIME REGATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LE-PROSSIME-REGATE-IN-LIGURIA - wp6043|nota]] |
+| 17 Febbraio 2026 | Velaterapia – Hansa Day / LNI Arona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-17 - Velaterapia-Hansa-Day-LNI-Arona - wp6040|nota]] |
 | 17 Febbraio 2026 | PERFORMANCE A 360° | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-17 - PERFORMANCE-A-360 - wp6035|nota]] |
 | 16 Febbraio 2026 | Sicurezza e tutela dell’atleta paralimpico | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Sicurezza-e-tutela-dell-atleta-paralimpico - wp6028|nota]] |
 | 16 Febbraio 2026 | Sailing Team Cesenatico: una sinergia ritrovata che guarda al futuro. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Sailing-Team-Cesenatico-una-sinergia-ritrovata-che-guarda-al-futuro - wp6023|nota]] |
@@ -250,9 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 7 Ottobre 2025 | Mondiali 49er, 49erFX e Nacra 17: Cagliari accende la vela mondiale. Italia protagonista con Ugolini-Giubilei in top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-07 - Mondiali-49er-49erFX-e-Nacra-17-Cagliari-accende-la-vela-mondiale-Italia-protagonista-con-Ugolini-Giubilei-in- - wp4728|nota]] |
 | 7 Ottobre 2025 | EUROPEI RSFEVA: ARGENTO E BRONZO PER IL SANBÀRT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-07 - EUROPEI-RSFEVA-ARGENTO-E-BRONZO-PER-IL-SANBART - wp4725|nota]] |
 | 7 Ottobre 2025 | GIMBA BARNAO VINCE IL J24 CHALLENGE 2025 MATCH RACE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-07 - GIMBA-BARNAO-VINCE-IL-J24-CHALLENGE-2025-MATCH-RACE - wp4722|nota]] |
-| 6 Ottobre 2025 | 57° EDIZIONE DELLA COPPA DALLORSO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-06 - 57-EDIZIONE-DELLA-COPPA-DALLORSO - wp4719|nota]] |
-| 6 Ottobre 2025 | Nazionale OpenSkiff e RS Aero a Rimini. I vincitori | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-06 - Nazionale-OpenSkiff-e-RS-Aero-a-Rimini-I-vincitori - wp4711|nota]] |
-| 6 Ottobre 2025 | CONCLUSA A IMPERIA LA J/70 CUP 2025 – CAMPIONATO ITALIANO J/70 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-06 - CONCLUSA-A-IMPERIA-LA-J-70-CUP-2025-CAMPIONATO-ITALIANO-J-70 - wp4708|nota]] |
-| 5 Ottobre 2025 | Al Club Nautico Rimini al via la VI Nazionale OpenSkiff e la V Nazionale e Campionato Italiano RS Aero | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-05 - Al-Club-Nautico-Rimini-al-via-la-VI-Nazionale-OpenSkiff-e-la-V-Nazionale-e-Campionato-Italiano-RS-Aero - wp4699|nota]] |
-| 5 Ottobre 2025 | Les Voiles de Saint-Tropez 2025. Enzo Pellizzaro (Circolo Nautico del Savio) vince nei MAXI 5. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-05 - Les-Voiles-de-Saint-Tropez-2025-Enzo-Pellizzaro-Circolo-Nautico-del-Savio-vince-nei-MAXI-5 - wp4692|nota]] |
-| 5 Ottobre 2025 | Nikki e BirdyFish, quando si può volare sull’acqua già a 8 anni | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-05 - Nikki-e-BirdyFish-quando-si-puo-volare-sull-acqua-gia-a-8-anni - wp4684|nota]] |

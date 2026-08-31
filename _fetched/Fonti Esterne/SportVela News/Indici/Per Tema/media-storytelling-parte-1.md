@@ -6,6 +6,8 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Agosto 2026 | Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna: secondo giorno di regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-30 - Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-secondo-giorno-di-regate - wp8706|nota]] |
+| 29 Agosto 2026 | Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna: prima giornata pienissima! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-29 - Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-prima-giornata-pienissima - wp8684|nota]] |
 | 28 Agosto 2026 | Aperti i Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-28 - Aperti-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-2026 - wp8681|nota]] |
 | 27 Agosto 2026 | XTE Challenger, a Cattolica la prima edizione del Memorial Evelino Terenzi | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-27 - XTE-Challenger-a-Cattolica-la-prima-edizione-del-Memorial-Evelino-Terenzi - wp8658|nota]] |
 | 26 Agosto 2026 | Il Veneto della vela giovanile: dai Mondiali di Aarhus ai Campionati Italiani di Ravenna | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-26 - Il-Veneto-della-vela-giovanile-dai-Mondiali-di-Aarhus-ai-Campionati-Italiani-di-Ravenna - wp8646|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Gennaio 2026 | La Fiamma Olimpica abbraccia i circoli della XIV Zona FIV | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - La-Fiamma-Olimpica-abbraccia-i-circoli-della-XIV-Zona-FIV - wp5795|nota]] |
 | 18 Gennaio 2026 | RITORNA IL CORSO M.A.R.E. DOPO LE DUE EDIZIONI DI SUCCESSO DEL 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - RITORNA-IL-CORSO-M-A-R-E-DOPO-LE-DUE-EDIZIONI-DI-SUCCESSO-DEL-2025 - wp5791|nota]] |
 | 18 Gennaio 2026 | LA LNI GENOVA PRESENTA I CORSI DI ALTURA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - LA-LNI-GENOVA-PRESENTA-I-CORSI-DI-ALTURA - wp5788|nota]] |
-| 16 Gennaio 2026 | ORMA SARAI TRIONFA NEL CAMPIONATO AUTUNNALE METEOR 2025 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - ORMA-SARAI-TRIONFA-NEL-CAMPIONATO-AUTUNNALE-METEOR-2025 - wp5781|nota]] |
-| 16 Gennaio 2026 | ILCA U21 World Championships 2026 a Lanzarote | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - ILCA-U21-World-Championships-2026-a-Lanzarote - wp5778|nota]] |
