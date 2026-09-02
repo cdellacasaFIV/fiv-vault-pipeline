@@ -4,6 +4,9 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 2 Settembre 2026 | Campionati Italiani Giovanili, doppio titolo italiano per la V Zona: trionfano Nugnes (Optimist) e Cozzolino (ILCA 4) | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-02 - Campionati-Italiani-Giovanili-doppio-titolo-italiano-per-la-V-Zona-trionfano-Nugnes-Optimist-e-Cozzolino-ILCA- - wp8749|nota]] |
+| 1 Settembre 2026 | Gran Finale ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-01 - Gran-Finale-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna - wp8741|nota]] |
+| 31 Agosto 2026 | Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna: penultimo giorno di regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-31 - Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-penultimo-giorno-di-regate - wp8724|nota]] |
 | 30 Agosto 2026 | Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna: secondo giorno di regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-30 - Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-secondo-giorno-di-regate - wp8706|nota]] |
 | 29 Agosto 2026 | Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna: prima giornata pienissima! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-29 - Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-prima-giornata-pienissima - wp8684|nota]] |
 | 26 Agosto 2026 | LE VELE D’EPOCA – IMPERIA SAILING WEEK 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-26 - LE-VELE-D-EPOCA-IMPERIA-SAILING-WEEK-2026 - wp8642|nota]] |

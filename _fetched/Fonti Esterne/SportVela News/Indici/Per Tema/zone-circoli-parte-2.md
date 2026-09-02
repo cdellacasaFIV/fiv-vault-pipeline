@@ -6,6 +6,18 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Giugno 2026 | Oltre 80 equipaggi e tre giorni di spettacolo: grande successo per la vela a Cesenatico. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-03 - Oltre-80-equipaggi-e-tre-giorni-di-spettacolo-grande-successo-per-la-vela-a-Cesenatico - wp7412|nota]] |
+| 3 Giugno 2026 | FEDERICO BERGAMASCO AL GALÀ DELLE STELLE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-03 - FEDERICO-BERGAMASCO-AL-GALA-DELLE-STELLE - wp7409|nota]] |
+| 2 Giugno 2026 | REGATA NAZIONALE MULTICLASSE A PESCARA | IX Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-02 - REGATA-NAZIONALE-MULTICLASSE-A-PESCARA - wp7405|nota]] |
+| 1 Giugno 2026 | SPLENDIDA GIORNATA A COGOLETO PER IL MEMORIAL DAVIDE ULIVI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-01 - SPLENDIDA-GIORNATA-A-COGOLETO-PER-IL-MEMORIAL-DAVIDE-ULIVI - wp7390|nota]] |
+| 1 Giugno 2026 | Europeo J/22: Pestifera (LNI Napoli) conquista la medaglia di bronzo | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-01 - Europeo-J-22-Pestifera-LNI-Napoli-conquista-la-medaglia-di-bronzo - wp7381|nota]] |
+| 1 Giugno 2026 | Navigare Insieme approda sul Lago d’Iseo: al via la tappa della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-01 - Navigare-Insieme-approda-sul-Lago-d-Iseo-al-via-la-tappa-della-XV-Zona - wp7377|nota]] |
+| 31 Maggio 2026 | LORO PIANA GIRAGLIA: PIÙ DI UNA REGATA, UNA TRADIZIONE SENZA TEMPO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-31 - LORO-PIANA-GIRAGLIA-PIU-DI-UNA-REGATA-UNA-TRADIZIONE-SENZA-TEMPO - wp7374|nota]] |
+| 31 Maggio 2026 | La Cinquecento Trofeo iMilani 2026: 29 barche al via da Caorle | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-31 - La-Cinquecento-Trofeo-iMilani-2026-29-barche-al-via-da-Caorle - wp7371|nota]] |
+| 30 Maggio 2026 | APERTE LE ISCRIZIONI ALLE “REGATE DELLE ISOLE” (10 – 12 settembre 2026) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - APERTE-LE-ISCRIZIONI-ALLE-REGATE-DELLE-ISOLE-10-12-settembre-2026 - wp7368|nota]] |
+| 30 Maggio 2026 | NEL 2028 IL TROFEO CONI A GENOVA E IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - NEL-2028-IL-TROFEO-CONI-A-GENOVA-E-IN-LIGURIA - wp7365|nota]] |
+| 30 Maggio 2026 | SERATA A VALLETTA CAMBIASO DEDICATA ALLA METEOROLOGIA CON ALESSANDRO PEZZOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - SERATA-A-VALLETTA-CAMBIASO-DEDICATA-ALLA-METEOROLOGIA-CON-ALESSANDRO-PEZZOLI - wp7362|nota]] |
+| 30 Maggio 2026 | MELGES 24 EUROPEAN SAILING SERIES: SECONDO MELGINA DI PAOLO BRESCIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - MELGES-24-EUROPEAN-SAILING-SERIES-SECONDO-MELGINA-DI-PAOLO-BRESCIA - wp7358|nota]] |
 | 29 Maggio 2026 | Calabria e Basilicata salpano con il Vela Day 2026 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - Calabria-e-Basilicata-salpano-con-il-Vela-Day-2026 - wp7351|nota]] |
 | 29 Maggio 2026 | IL LEUDO RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - IL-LEUDO-RACCONTA - wp7347|nota]] |
 | 28 Maggio 2026 | Cesenatico si prepara ad ospitare la grande vela giovanile: oltre 80 imbarcazioni per la CoppaUniqua 420 e la Nazionale 470 | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-28 - Cesenatico-si-prepara-ad-ospitare-la-grande-vela-giovanile-oltre-80-imbarcazioni-per-la-CoppaUniqua-420-e-la-N - wp7344|nota]] |
@@ -244,15 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Febbraio 2026 | 35° CAMPIONATO INTERCIRCOLI SULLA RAMPA DI LANCIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - 35-CAMPIONATO-INTERCIRCOLI-SULLA-RAMPA-DI-LANCIO - wp6127|nota]] |
 | 25 Febbraio 2026 | A LORENZO DALL’AVA E BIANCA BRESSAN IL 56° MEETING GIOVANILE DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - A-LORENZO-DALL-AVA-E-BIANCA-BRESSAN-IL-56-MEETING-GIOVANILE-DI-ALASSIO - wp6124|nota]] |
 | 25 Febbraio 2026 | Trofeo del Timoniere 2026, a Napoli vince Basilico | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - Trofeo-del-Timoniere-2026-a-Napoli-vince-Basilico - wp6115|nota]] |
-| 24 Febbraio 2026 | In acqua a Mondello per il Trofeo del Comitato Optimist | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-24 - In-acqua-a-Mondello-per-il-Trofeo-del-Comitato-Optimist - wp6112|nota]] |
-| 24 Febbraio 2026 | Grande spettacolo al “Trofeo all’Ombra del Vulcano” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-24 - Grande-spettacolo-al-Trofeo-all-Ombra-del-Vulcano - wp6109|nota]] |
-| 23 Febbraio 2026 | BUON COMPLEANNO “SPORTIVA” ! | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - BUON-COMPLEANNO-SPORTIVA - wp6104|nota]] |
-| 23 Febbraio 2026 | UN SECOLO DI VELA A QUARTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - UN-SECOLO-DI-VELA-A-QUARTO - wp6100|nota]] |
-| 23 Febbraio 2026 | A Palermo nuovi istruttori di vela in formazione | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - A-Palermo-nuovi-istruttori-di-vela-in-formazione - wp6096|nota]] |
-| 23 Febbraio 2026 | Salerno apre il 7 e l’8 marzo il Trofeo OptiSud 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - Salerno-apre-il-7-e-l-8-marzo-il-Trofeo-OptiSud-2026 - wp6091|nota]] |
-| 23 Febbraio 2026 | INTERNATIONAL GENOA WINTER CONTEST 2026 – ILCA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - INTERNATIONAL-GENOA-WINTER-CONTEST-2026-ILCA - wp6087|nota]] |
-| 21 Febbraio 2026 | IL COMITATO I ZONA FIV LANCIA IL CORSO AVANZATO SULLO SPINNAKER | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-21 - IL-COMITATO-I-ZONA-FIV-LANCIA-IL-CORSO-AVANZATO-SULLO-SPINNAKER - wp6084|nota]] |
-| 20 Febbraio 2026 | VELE SPIEGATE PER IL CAMPIONATO PARALIMPICO 2026 IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-20 - VELE-SPIEGATE-PER-IL-CAMPIONATO-PARALIMPICO-2026-IN-LIGURIA - wp6079|nota]] |
-| 20 Febbraio 2026 | Ufficializzato a Cortina il gemellaggio tra Yacht Club Cortina d’Ampezzo e Lega Navale Italiana – Sezione di Chioggia | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-20 - Ufficializzato-a-Cortina-il-gemellaggio-tra-Yacht-Club-Cortina-d-Ampezzo-e-Lega-Navale-Italiana-Sezione-di-Chi - wp6076|nota]] |
-| 19 Febbraio 2026 | GLI IDRURI METALLICI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-19 - GLI-IDRURI-METALLICI - wp6070|nota]] |
-| 19 Febbraio 2026 | Al via da Napoli il Trofeo del Timoniere Assometeor 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-19 - Al-via-da-Napoli-il-Trofeo-del-Timoniere-Assometeor-2026 - wp6066|nota]] |
