@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Settembre 2026 | VELA PARALIMPICA, LUCA PRISTER Rotta di avvicinamento al Campionato Europeo Hansa | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-03 - VELA-PARALIMPICA-LUCA-PRISTER-Rotta-di-avvicinamento-al-Campionato-Europeo-Hansa - wp8783|nota]] |
 | 1 Settembre 2026 | Giulia Marella è Campionessa Italiana ILCA 6 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-01 - Giulia-Marella-e-Campionessa-Italiana-ILCA-6 - wp8738|nota]] |
 | 1 Settembre 2026 | CHIOGGIAVELA 2026: QUINDICI EDIZIONI, UN MESE DI VELA E UNA CITTÀ CHE VIVE IL MARE | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-01 - CHIOGGIAVELA-2026-QUINDICI-EDIZIONI-UN-MESE-DI-VELA-E-UNA-CITTA-CHE-VIVE-IL-MARE - wp8731|nota]] |
 | 31 Agosto 2026 | Vela Viva 15 2026: il 29 agosto sei laghi della XV Zona uniti dalla stessa giornata di vela | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-31 - Vela-Viva-15-2026-il-29-agosto-sei-laghi-della-XV-Zona-uniti-dalla-stessa-giornata-di-vela - wp8728|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Ottobre 2025 | COMITATO I ZONA FIV: COLLABORAZIONE E ANALISI PER IL FUTURO DELLA VELA GIOVANILE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-21 - COMITATO-I-ZONA-FIV-COLLABORAZIONE-E-ANALISI-PER-IL-FUTURO-DELLA-VELA-GIOVANILE - wp4963|nota]] |
 | 20 Ottobre 2025 | Gli equipaggi italiani in gara al Nacra 15 European Championship 2025 | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - Gli-equipaggi-italiani-in-gara-al-Nacra-15-European-Championship-2025 - wp4951|nota]] |
 | 20 Ottobre 2025 | Davide Di Maria rappresenterà l’Italia alla prima edizione dei World Abilitysport Beach Games di Mersin | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - Davide-Di-Maria-rappresentera-l-Italia-alla-prima-edizione-dei-World-Abilitysport-Beach-Games-di-Mersin - wp4945|nota]] |
-| 20 Ottobre 2025 | La X zona ha ospitato l’ultima tappa del progetto Navigare insieme: l’Italia senza barriere | X Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - La-X-zona-ha-ospitato-l-ultima-tappa-del-progetto-Navigare-insieme-l-Italia-senza-barriere - wp4936|nota]] |

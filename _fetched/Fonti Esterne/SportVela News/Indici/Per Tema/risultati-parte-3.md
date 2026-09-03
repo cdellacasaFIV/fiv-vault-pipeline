@@ -6,6 +6,11 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Gennaio 2026 | Optimist, primo raduno stagionale a Marina di Carrara | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-11 - Optimist-primo-raduno-stagionale-a-Marina-di-Carrara - wp5749|nota]] |
+| 11 Gennaio 2026 | La grande vela mondiale torna in Sardegna: il Golfo degli Angeli ospiterà una regata preliminare della Louis Vuitton Cup | III Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-11 - La-grande-vela-mondiale-torna-in-Sardegna-il-Golfo-degli-Angeli-ospitera-una-regata-preliminare-della-Louis-Vu - wp5742|nota]] |
+| 8 Gennaio 2026 | VELA AD ANDORA: SUCCESSO PER LE REGATE ILCA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-08 - VELA-AD-ANDORA-SUCCESSO-PER-LE-REGATE-ILCA - wp5739|nota]] |
+| 7 Gennaio 2026 | iQFoil, a Sferracavallo il futuro prende quota: quattro giorni di vento, foil e sorrisi | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-07 - iQFoil-a-Sferracavallo-il-futuro-prende-quota-quattro-giorni-di-vento-foil-e-sorrisi - wp5735|nota]] |
+| 6 Gennaio 2026 | Trofeo Campobasso, al Savoia vittoria di Giorgio Nibbi | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-06 - Trofeo-Campobasso-al-Savoia-vittoria-di-Giorgio-Nibbi - wp5729|nota]] |
 | 3 Gennaio 2026 | AD ANDORA TRE GIORNATE DI GARE INTERNAZIONALI NEL SEGNO DELLA CLASSE ILCA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-03 - AD-ANDORA-TRE-GIORNATE-DI-GARE-INTERNAZIONALI-NEL-SEGNO-DELLA-CLASSE-ILCA - wp5726|nota]] |
 | 29 Dicembre 2025 | SI CHIUDE IN BELLEZZA IL PERCORSO FORMATIVO 2025 DEL COMITATO I ZONA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-29 - SI-CHIUDE-IN-BELLEZZA-IL-PERCORSO-FORMATIVO-2025-DEL-COMITATO-I-ZONA - wp5722|nota]] |
 | 26 Dicembre 2025 | LO YC SANREMO CELEBRA I RISULTATI DELLA STAGIONE 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-26 - LO-YC-SANREMO-CELEBRA-I-RISULTATI-DELLA-STAGIONE-2025 - wp5718|nota]] |
@@ -251,8 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 15 Settembre 2025 | TROFEO BAIETTO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - TROFEO-BAIETTO-2025 - wp4355|nota]] |
 | 15 Settembre 2025 | VELE CLASSICHE E MODERNE ALLA SECONDA EDIZIONE DI “REGATE DELLE ISOLE” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - VELE-CLASSICHE-E-MODERNE-ALLA-SECONDA-EDIZIONE-DI-REGATE-DELLE-ISOLE - wp4336|nota]] |
 | 15 Settembre 2025 | DINGHY 12’ A RECCO (FOCACCIA COL FORMAGGIO) E SORI (TROFIE AL PESTO) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - DINGHY-12-A-RECCO-FOCACCIA-COL-FORMAGGIO-E-SORI-TROFIE-AL-PESTO - wp4329|nota]] |
-| 15 Settembre 2025 | ECCO TUTTI I VINCITORI DEL TROFEO ELVIO BOTTO – COPPA GAVINO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - ECCO-TUTTI-I-VINCITORI-DEL-TROFEO-ELVIO-BOTTO-COPPA-GAVINO-2025 - wp4327|nota]] |
-| 15 Settembre 2025 | YACHT CLUB CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - YACHT-CLUB-CHIAVARI - wp4324|nota]] |
-| 13 Settembre 2025 | iQFOiL U23 World Championships 2025: Tomasini bronzo e tanta Italia nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - iQFOiL-U23-World-Championships-2025-Tomasini-bronzo-e-tanta-Italia-nella-top-ten - wp4318|nota]] |
-| 13 Settembre 2025 | ChioggiaVela 2025 – “La nostra casa è il mare” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - ChioggiaVela-2025-La-nostra-casa-e-il-mare - wp4315|nota]] |
-| 13 Settembre 2025 | Veleziana Sailing Week 2025: la regata dei sogni nella Serenissima | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - Veleziana-Sailing-Week-2025-la-regata-dei-sogni-nella-Serenissima - wp4312|nota]] |

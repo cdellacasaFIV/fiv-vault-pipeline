@@ -6,6 +6,10 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: nove equipaggi azzurri in top ten nelle varie discipline | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-03 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-nove-equipaggi-azzurri-in-top-ten-nelle-varie-discipline - wp1604|nota]] |
+| 2 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: secondo giorno intenso di recuperi | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-02 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-secondo-giorno-intenso-di-recuperi - wp1597|nota]] |
+| 1 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: una festa di vele e onde davanti a Palma de Mallorca | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-01 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-una-festa-di-vele-e-onde-davanti-a-Palma-de-Mallorca - wp1592|nota]] |
+| 25 Marzo 2024 | La Direzione Tecnica indica due atleti per i Giochi Olimpici di Parigi 2024 | Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-25 - La-Direzione-Tecnica-indica-due-atleti-per-i-Giochi-Olimpici-di-Parigi-2024 - wp1552|nota]] |
 | 24 Marzo 2024 | Formula Kite Europeans 2024: Pianosi d’argento, Pescetto nona | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-24 - Formula-Kite-Europeans-2024-Pianosi-d-argento-Pescetto-nona - wp1546|nota]] |
 | 23 Marzo 2024 | Oro e bronzo italiano ai 2024 ILCA Under 21 European Championships | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-23 - Oro-e-bronzo-italiano-ai-2024-ILCA-Under-21-European-Championships - wp1543|nota]] |
 | 23 Marzo 2024 | Formula Kite Europeans 2024: domani le Medal Series con Pianosi e Pescetto | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-23 - Formula-Kite-Europeans-2024-domani-le-Medal-Series-con-Pianosi-e-Pescetto - wp1540|nota]] |

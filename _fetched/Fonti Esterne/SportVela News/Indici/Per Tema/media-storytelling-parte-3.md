@@ -6,6 +6,9 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 29 Giugno 2025 | Rocco Attili vince per il secondo anno consecutivo l’International Ledro Match Race | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-29 - Rocco-Attili-vince-per-il-secondo-anno-consecutivo-l-International-Ledro-Match-Race - wp3089|nota]] |
+| 25 Giugno 2025 | Campionato Italiano Assoluto Vela d’Altura Edison Next 2025: primo giorno | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-25 - Campionato-Italiano-Assoluto-Vela-d-Altura-Edison-Next-2025-primo-giorno - wp3055|nota]] |
+| 24 Giugno 2025 | La cerimonia di apertura del Campionato Italiano Assoluto di Vela d’Altura Edison Next a Capo d’Orlando, in Sicilia | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-24 - La-cerimonia-di-apertura-del-Campionato-Italiano-Assoluto-di-Vela-d-Altura-Edison-Next-a-Capo-d-Orlando-in-Sic - wp3045|nota]] |
 | 22 Giugno 2025 | Kieler Woche – Italiani in evidenza nel secondo giorno | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-22 - Kieler-Woche-Italiani-in-evidenza-nel-secondo-giorno - wp3035|nota]] |
 | 21 Giugno 2025 | Kieler Woche: primo giorno di regate | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-21 - Kieler-Woche-primo-giorno-di-regate - wp3032|nota]] |
 | 18 Giugno 2025 | Europeo ILCA 4 Youth & Open Trophy al via a Puck, in Polonia: 470 atleti in gara, Italia presente con 73 giovani e il tecnico federale Matteo Raveglia | Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-06-18 - Europeo-ILCA-4-Youth-and-Open-Trophy-al-via-a-Puck-in-Polonia-470-atleti-in-gara-Italia-presente-con-73-giovan - wp3022|nota]] |

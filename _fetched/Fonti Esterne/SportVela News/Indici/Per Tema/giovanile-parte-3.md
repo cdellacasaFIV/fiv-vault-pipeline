@@ -6,6 +6,12 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 1 Settembre 2025 | TROFEO TUA-ORLANDO DEL CV CAPO VERDE: ALL’INSEGNA DELLA SOLIDARIETÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - TROFEO-TUA-ORLANDO-DEL-CV-CAPO-VERDE-ALL-INSEGNA-DELLA-SOLIDARIETA - wp4132|nota]] |
+| 31 Agosto 2025 | Campionato Italiano Giovanile delle Classi In Doppio 2025. I risultati dell’XI Zona | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-2025-I-risultati-dell-XI-Zona - wp4150|nota]] |
+| 31 Agosto 2025 | GLI ATLETI DELLA I ZONA SUL PODIO DEI CAMPIONATI ITALIANI CLASSI IN DOPPIO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - GLI-ATLETI-DELLA-I-ZONA-SUL-PODIO-DEI-CAMPIONATI-ITALIANI-CLASSI-IN-DOPPIO-2025 - wp4130|nota]] |
+| 30 Agosto 2025 | Raduno Tecnico Zonale Classe ILCA | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Raduno-Tecnico-Zonale-Classe-ILCA - wp4127|nota]] |
+| 30 Agosto 2025 | Corso di Formazione Docenti | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Corso-di-Formazione-Docenti - wp4124|nota]] |
+| 30 Agosto 2025 | Conclusione spettacolosa per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Conclusione-spettacolosa-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4121|nota]] |
 | 30 Agosto 2025 | CORSO DI MANAGEMENT SPORTIVO PER DIRIGENTI E SEGRETERIE DEI CIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - CORSO-DI-MANAGEMENT-SPORTIVO-PER-DIRIGENTI-E-SEGRETERIE-DEI-CIRCOLI - wp4116|nota]] |
 | 29 Agosto 2025 | Mondiale ILCA U21 2025: Mattivi argento, tre italiane nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Mondiale-ILCA-U21-2025-Mattivi-argento-tre-italiane-nella-top-ten - wp4111|nota]] |
 | 29 Agosto 2025 | Terzo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Terzo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4108|nota]] |

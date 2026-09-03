@@ -6,6 +6,11 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Febbraio 2026 | Regata Zonale ILCA – Circolo Velico Ravennate | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - Regata-Zonale-ILCA-Circolo-Velico-Ravennate - wp6135|nota]] |
+| 26 Febbraio 2026 | DIRETTORI SCUOLA VELA: AL VIA IN I ZONA IL PERCORSO SU COMUNICAZIONE, LEADERSHIP E GESTIONE DELLO STAFF | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - DIRETTORI-SCUOLA-VELA-AL-VIA-IN-I-ZONA-IL-PERCORSO-SU-COMUNICAZIONE-LEADERSHIP-E-GESTIONE-DELLO-STAFF - wp6131|nota]] |
+| 26 Febbraio 2026 | 35° CAMPIONATO INTERCIRCOLI SULLA RAMPA DI LANCIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - 35-CAMPIONATO-INTERCIRCOLI-SULLA-RAMPA-DI-LANCIO - wp6127|nota]] |
+| 25 Febbraio 2026 | A LORENZO DALL’AVA E BIANCA BRESSAN IL 56° MEETING GIOVANILE DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - A-LORENZO-DALL-AVA-E-BIANCA-BRESSAN-IL-56-MEETING-GIOVANILE-DI-ALASSIO - wp6124|nota]] |
+| 25 Febbraio 2026 | Trofeo del Timoniere 2026, a Napoli vince Basilico | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - Trofeo-del-Timoniere-2026-a-Napoli-vince-Basilico - wp6115|nota]] |
 | 24 Febbraio 2026 | In acqua a Mondello per il Trofeo del Comitato Optimist | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-24 - In-acqua-a-Mondello-per-il-Trofeo-del-Comitato-Optimist - wp6112|nota]] |
 | 24 Febbraio 2026 | Grande spettacolo al “Trofeo all’Ombra del Vulcano” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-24 - Grande-spettacolo-al-Trofeo-all-Ombra-del-Vulcano - wp6109|nota]] |
 | 23 Febbraio 2026 | BUON COMPLEANNO “SPORTIVA” ! | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - BUON-COMPLEANNO-SPORTIVA - wp6104|nota]] |
@@ -251,8 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 13 Ottobre 2025 | Barcolana 2025. I migliori risultati della XI Zona. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - Barcolana-2025-I-migliori-risultati-della-XI-Zona - wp4833|nota]] |
 | 13 Ottobre 2025 | WEEK END QUASI ESTIVO DI REGATE NEL TIGULLIO PER LA CLASSE DINGHY 12’ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - WEEK-END-QUASI-ESTIVO-DI-REGATE-NEL-TIGULLIO-PER-LA-CLASSE-DINGHY-12 - wp4829|nota]] |
 | 13 Ottobre 2025 | Sofia Giondi. La determinazione di un equipaggio rosa. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - Sofia-Giondi-La-determinazione-di-un-equipaggio-rosa - wp4793|nota]] |
-| 12 Ottobre 2025 | Ottimi risultati per gli equipaggi della II Zona FIV al German Open Vaurien 2025 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-12 - Ottimi-risultati-per-gli-equipaggi-della-II-Zona-FIV-al-German-Open-Vaurien-2025 - wp4822|nota]] |
-| 11 Ottobre 2025 | Salvatore Costanzo. Il rosso vincente di QQ7, Campione Italiano Offshore. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-11 - Salvatore-Costanzo-Il-rosso-vincente-di-QQ7-Campione-Italiano-Offshore - wp4785|nota]] |
-| 11 Ottobre 2025 | “TEAM RACE CITTÀ DI CHIAVARI”: REGATA A SQUADRE SABATO 11 E DOMENICA 12 OTTOBRE DAVANTI ALLA PASSEGGIATA MARE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-11 - TEAM-RACE-CITTA-DI-CHIAVARI-REGATA-A-SQUADRE-SABATO-11-E-DOMENICA-12-OTTOBRE-DAVANTI-ALLA-PASSEGGIATA-MARE - wp4803|nota]] |
-| 10 Ottobre 2025 | 1001VELAcup 2025 – Due podi per il REVEL Sailing Team dell’Università di La Spezia | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-10 - 1001VELAcup-2025-Due-podi-per-il-REVEL-Sailing-Team-dell-Universita-di-La-Spezia - wp4786|nota]] |
-| 10 Ottobre 2025 | A Capri la decima edizione del Trofeo Fabrizio Galli | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-10 - A-Capri-la-decima-edizione-del-Trofeo-Fabrizio-Galli - wp4781|nota]] |

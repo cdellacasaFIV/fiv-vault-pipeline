@@ -6,6 +6,11 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 4 Giugno 2026 | Si conclude sul Lago d’Iseo la tappa di “Navigare Insieme: l’Italia senza barriere” | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-04 - Si-conclude-sul-Lago-d-Iseo-la-tappa-di-Navigare-Insieme-l-Italia-senza-barriere - wp7441|nota]] |
+| 4 Giugno 2026 | Fiv Campania, concluso a Napoli il secondo step del corso Istruttori | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-04 - Fiv-Campania-concluso-a-Napoli-il-secondo-step-del-corso-Istruttori - wp7423|nota]] |
+| 3 Giugno 2026 | Cervia, grande successo per la seconda tappa del trofeo Optimist Italia Kinder Joy of Moving 2026. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-03 - Cervia-grande-successo-per-la-seconda-tappa-del-trofeo-Optimist-Italia-Kinder-Joy-of-Moving-2026 - wp7432|nota]] |
+| 3 Giugno 2026 | Pasquale Orofino conquista il titolo Grand Master al Campionato Italiano Finn | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-03 - Pasquale-Orofino-conquista-il-titolo-Grand-Master-al-Campionato-Italiano-Finn - wp7429|nota]] |
+| 3 Giugno 2026 | Formula 18, spettacolo a Sferracavallo: Stella-Galbiati conquistano la Regata Nazionale | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-03 - Formula-18-spettacolo-a-Sferracavallo-Stella-Galbiati-conquistano-la-Regata-Nazionale - wp7416|nota]] |
 | 3 Giugno 2026 | Oltre 80 equipaggi e tre giorni di spettacolo: grande successo per la vela a Cesenatico. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-03 - Oltre-80-equipaggi-e-tre-giorni-di-spettacolo-grande-successo-per-la-vela-a-Cesenatico - wp7412|nota]] |
 | 3 Giugno 2026 | FEDERICO BERGAMASCO AL GALÀ DELLE STELLE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-03 - FEDERICO-BERGAMASCO-AL-GALA-DELLE-STELLE - wp7409|nota]] |
 | 2 Giugno 2026 | REGATA NAZIONALE MULTICLASSE A PESCARA | IX Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-02 - REGATA-NAZIONALE-MULTICLASSE-A-PESCARA - wp7405|nota]] |
@@ -251,8 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 27 Febbraio 2026 | ASSEMBLEA ZONALE 2026: IL BILANCIO DEL PRESIDENTE PEZZOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-27 - ASSEMBLEA-ZONALE-2026-IL-BILANCIO-DEL-PRESIDENTE-PEZZOLI - wp6155|nota]] |
 | 27 Febbraio 2026 | LA NUOVA FRONTIERA DELLA VELA A IDROGENO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-27 - LA-NUOVA-FRONTIERA-DELLA-VELA-A-IDROGENO - wp6151|nota]] |
 | 26 Febbraio 2026 | A Napoli la riunione degli UdR della V Zona | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - A-Napoli-la-riunione-degli-UdR-della-V-Zona - wp6138|nota]] |
-| 26 Febbraio 2026 | Regata Zonale ILCA – Circolo Velico Ravennate | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - Regata-Zonale-ILCA-Circolo-Velico-Ravennate - wp6135|nota]] |
-| 26 Febbraio 2026 | DIRETTORI SCUOLA VELA: AL VIA IN I ZONA IL PERCORSO SU COMUNICAZIONE, LEADERSHIP E GESTIONE DELLO STAFF | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - DIRETTORI-SCUOLA-VELA-AL-VIA-IN-I-ZONA-IL-PERCORSO-SU-COMUNICAZIONE-LEADERSHIP-E-GESTIONE-DELLO-STAFF - wp6131|nota]] |
-| 26 Febbraio 2026 | 35° CAMPIONATO INTERCIRCOLI SULLA RAMPA DI LANCIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - 35-CAMPIONATO-INTERCIRCOLI-SULLA-RAMPA-DI-LANCIO - wp6127|nota]] |
-| 25 Febbraio 2026 | A LORENZO DALL’AVA E BIANCA BRESSAN IL 56° MEETING GIOVANILE DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - A-LORENZO-DALL-AVA-E-BIANCA-BRESSAN-IL-56-MEETING-GIOVANILE-DI-ALASSIO - wp6124|nota]] |
-| 25 Febbraio 2026 | Trofeo del Timoniere 2026, a Napoli vince Basilico | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - Trofeo-del-Timoniere-2026-a-Napoli-vince-Basilico - wp6115|nota]] |

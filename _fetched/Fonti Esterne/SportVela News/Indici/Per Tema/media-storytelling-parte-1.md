@@ -6,6 +6,9 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Settembre 2026 | Presidente Ettorre: “Cinque medaglie e una squadra giovane: Taranto 2026 un’esperienza che resterà” | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-03 - Presidente-Ettorre-Cinque-medaglie-e-una-squadra-giovane-Taranto-2026-un-esperienza-che-restera - wp8790|nota]] |
+| 2 Settembre 2026 | Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna. Sport, condivisione e passione per l’appuntamento nazionale in terra Romagnola. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-02 - Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-Sport-condivisione-e-passione-per-l-a - wp8794|nota]] |
+| 2 Settembre 2026 | Giochi del Mediterraneo: la vela azzurra chiude Taranto 2026 con cinque medaglie | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-02 - Giochi-del-Mediterraneo-la-vela-azzurra-chiude-Taranto-2026-con-cinque-medaglie - wp8780|nota]] |
 | 1 Settembre 2026 | Giochi del Mediterraneo: giornata decisiva per la vela azzurra | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-01 - Giochi-del-Mediterraneo-giornata-decisiva-per-la-vela-azzurra - wp8744|nota]] |
 | 1 Settembre 2026 | Gran Finale ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-01 - Gran-Finale-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna - wp8741|nota]] |
 | 1 Settembre 2026 | Giulia Marella è Campionessa Italiana ILCA 6 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-01 - Giulia-Marella-e-Campionessa-Italiana-ILCA-6 - wp8738|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 2 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-02 - 50-INVERNALE-DEL-TIGULLIO - wp5901|nota]] |
 | 1 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO: VITTORIE PER CHESTRESS3, SEASE E MARY STAR OF THE SEA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-01 - 50-INVERNALE-DEL-TIGULLIO-VITTORIE-PER-CHESTRESS3-SEASE-E-MARY-STAR-OF-THE-SEA - wp5885|nota]] |
 | 30 Gennaio 2026 | LA I-ZONA FIV VERSO L’ASSEMBLEA DEI CIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-30 - LA-I-ZONA-FIV-VERSO-L-ASSEMBLEA-DEI-CIRCOLI - wp5879|nota]] |
-| 29 Gennaio 2026 | CAMPIONATO INVERNALE MARINA DI LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-29 - CAMPIONATO-INVERNALE-MARINA-DI-LOANO - wp5867|nota]] |
-| 29 Gennaio 2026 | 50° INVERNALE DEL TIGULLIO: PENULTIMO ATTO NEL WEEK END | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-29 - 50-INVERNALE-DEL-TIGULLIO-PENULTIMO-ATTO-NEL-WEEK-END - wp5861|nota]] |
-| 28 Gennaio 2026 | NAVIGARE SENZA CONFINI: AL VIA A GENOVA IL CORSO SRC (Short Range Certificate) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-28 - NAVIGARE-SENZA-CONFINI-AL-VIA-A-GENOVA-IL-CORSO-SRC-Short-Range-Certificate - wp5856|nota]] |

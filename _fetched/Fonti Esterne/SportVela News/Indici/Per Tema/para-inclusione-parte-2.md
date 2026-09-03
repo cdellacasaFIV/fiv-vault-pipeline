@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 20 Ottobre 2025 | La X zona ha ospitato l’ultima tappa del progetto Navigare insieme: l’Italia senza barriere | X Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - La-X-zona-ha-ospitato-l-ultima-tappa-del-progetto-Navigare-insieme-l-Italia-senza-barriere - wp4936|nota]] |
 | 20 Ottobre 2025 | Navigare insieme: l’Italia senza barriere — ultima tappa a Porto San Giorgio per promuovere la vela accessibile | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - Navigare-insieme-l-Italia-senza-barriere-ultima-tappa-a-Porto-San-Giorgio-per-promuovere-la-vela-accessibile - wp4929|nota]] |
 | 20 Ottobre 2025 | CONCLUSO “VELA PER TUTTI”, CORSO DI AGGIORNAMENTO PER DOCENTI SCOLASTICI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - CONCLUSO-VELA-PER-TUTTI-CORSO-DI-AGGIORNAMENTO-PER-DOCENTI-SCOLASTICI - wp4919|nota]] |
 | 19 Ottobre 2025 | Gran finale per la Veleziana Sailing Week 2025: Venezia celebra vela, tradizione e successo | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-19 - Gran-finale-per-la-Veleziana-Sailing-Week-2025-Venezia-celebra-vela-tradizione-e-successo - wp4916|nota]] |
