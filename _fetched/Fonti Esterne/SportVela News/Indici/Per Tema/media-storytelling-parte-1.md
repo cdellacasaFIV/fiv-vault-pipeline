@@ -6,6 +6,11 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] |
+| 4 Settembre 2026 | PRIMAZONA FIV: UN “MARE” DI EVENTI E PROGETTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - PRIMAZONA-FIV-UN-MARE-DI-EVENTI-E-PROGETTI - wp8824|nota]] |
+| 4 Settembre 2026 | IMPERIA CAPITALE DELLA VELA: UNA DOPPIA FESTA TRA STORIA, CULTURA E SPORT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - IMPERIA-CAPITALE-DELLA-VELA-UNA-DOPPIA-FESTA-TRA-STORIA-CULTURA-E-SPORT - wp8818|nota]] |
+| 3 Settembre 2026 | Il grande spettacolo dei Topcat torna a Cesenatico: dal 6 settembre il Campionato Mondiale. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-03 - Il-grande-spettacolo-dei-Topcat-torna-a-Cesenatico-dal-6-settembre-il-Campionato-Mondiale - wp8814|nota]] |
+| 3 Settembre 2026 | QUATTRO GIORNATE DI GRANDE WINDSURF A RAVENNA | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-03 - QUATTRO-GIORNATE-DI-GRANDE-WINDSURF-A-RAVENNA - wp8811|nota]] |
 | 3 Settembre 2026 | Presidente Ettorre: “Cinque medaglie e una squadra giovane: Taranto 2026 un’esperienza che resterà” | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-03 - Presidente-Ettorre-Cinque-medaglie-e-una-squadra-giovane-Taranto-2026-un-esperienza-che-restera - wp8790|nota]] |
 | 2 Settembre 2026 | Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna. Sport, condivisione e passione per l’appuntamento nazionale in terra Romagnola. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-02 - Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-Sport-condivisione-e-passione-per-l-a - wp8794|nota]] |
 | 2 Settembre 2026 | Giochi del Mediterraneo: la vela azzurra chiude Taranto 2026 con cinque medaglie | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-02 - Giochi-del-Mediterraneo-la-vela-azzurra-chiude-Taranto-2026-con-cinque-medaglie - wp8780|nota]] |
@@ -251,8 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 6 Febbraio 2026 | Il windsurf olimpico iQFoil al MUSE di Trento | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-06 - Il-windsurf-olimpico-iQFoil-al-MUSE-di-Trento - wp5938|nota]] |
 | 5 Febbraio 2026 | Due appuntamenti per rilanciare l’attività di formazione para sailing FIV e CIP | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - Due-appuntamenti-per-rilanciare-l-attivita-di-formazione-para-sailing-FIV-e-CIP - wp5928|nota]] |
 | 5 Febbraio 2026 | LA NUOVA SFIDA DI ALESSIO CINDOLO NELL’ILCA 7 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - LA-NUOVA-SFIDA-DI-ALESSIO-CINDOLO-NELL-ILCA-7 - wp5915|nota]] |
-| 5 Febbraio 2026 | La vela siciliana premia i suoi campioni | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - La-vela-siciliana-premia-i-suoi-campioni - wp5909|nota]] |
-| 3 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO: GRANDE LOTTA AL VERTICE, DOPPIETTA PER WB IX | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-03 - 50-INVERNALE-DEL-TIGULLIO-GRANDE-LOTTA-AL-VERTICE-DOPPIETTA-PER-WB-IX - wp5904|nota]] |
-| 2 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-02 - 50-INVERNALE-DEL-TIGULLIO - wp5901|nota]] |
-| 1 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO: VITTORIE PER CHESTRESS3, SEASE E MARY STAR OF THE SEA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-01 - 50-INVERNALE-DEL-TIGULLIO-VITTORIE-PER-CHESTRESS3-SEASE-E-MARY-STAR-OF-THE-SEA - wp5885|nota]] |
-| 30 Gennaio 2026 | LA I-ZONA FIV VERSO L’ASSEMBLEA DEI CIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-30 - LA-I-ZONA-FIV-VERSO-L-ASSEMBLEA-DEI-CIRCOLI - wp5879|nota]] |

@@ -6,6 +6,13 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Maggio 2026 | Antonella Rizzuto testimonial del Vela Day 2026 della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - Antonella-Rizzuto-testimonial-del-Vela-Day-2026-della-XV-Zona - wp7313|nota]] |
+| 26 Maggio 2026 | PORTO MAURIZIO YACHT CLUB, FESTA DI VELA E COLORI CON IL TROFEO GIOTTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - PORTO-MAURIZIO-YACHT-CLUB-FESTA-DI-VELA-E-COLORI-CON-IL-TROFEO-GIOTTO - wp7305|nota]] |
+| 25 Maggio 2026 | La 100 x 3: a Marina di Albarella arriva la sfida a squadre tra Circoli | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - La-100-x-3-a-Marina-di-Albarella-arriva-la-sfida-a-squadre-tra-Circoli - wp7297|nota]] |
+| 25 Maggio 2026 | TROFEO SIAD – BOMBOLA D’ORO, IL DINGHY 12′ PROTAGONISTA NEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - TROFEO-SIAD-BOMBOLA-D-ORO-IL-DINGHY-12-PROTAGONISTA-NEL-TIGULLIO - wp7291|nota]] |
+| 25 Maggio 2026 | DOPPIA VITTORIA ALLE GRANDI REGATE INTERNAZIONALI DI SANREMO PER IL SANGERMANI “ARTICA II” (MARINA MILITARE) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - DOPPIA-VITTORIA-ALLE-GRANDI-REGATE-INTERNAZIONALI-DI-SANREMO-PER-IL-SANGERMANI-ARTICA-II-MARINA-MILITARE - wp7288|nota]] |
+| 25 Maggio 2026 | GIOVANNI GALLEGO DEL CN ANDORA VINCE L’ITALIANO MASTER CATEGORIA APPRENTICE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - GIOVANNI-GALLEGO-DEL-CN-ANDORA-VINCE-L-ITALIANO-MASTER-CATEGORIA-APPRENTICE - wp7283|nota]] |
+| 25 Maggio 2026 | BORSA DI STUDIO CLELIA CAMBIASO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - BORSA-DI-STUDIO-CLELIA-CAMBIASO - wp7281|nota]] |
 | 25 Maggio 2026 | “VELA SCUOLA” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - VELA-SCUOLA - wp7278|nota]] |
 | 24 Maggio 2026 | COPPA AMERICA, LUNA ROSSA VINCE LE REGATE PRELIMINARI DI CAGLIARI: NEW ZEALAND BATTUTA IN FINALE | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-24 - COPPA-AMERICA-LUNA-ROSSA-VINCE-LE-REGATE-PRELIMINARI-DI-CAGLIARI-NEW-ZEALAND-BATTUTA-IN-FINALE - wp7269|nota]] |
 | 24 Maggio 2026 | Tutti i campioni del Campionato Nazionale d’Area Sicilia e Sardegna 2026 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-24 - Tutti-i-campioni-del-Campionato-Nazionale-d-Area-Sicilia-e-Sardegna-2026 - wp7419|nota]] |
@@ -249,10 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Gennaio 2026 | Via col vento: vela, sport e natura protagonisti all’Italia Sport Summit di Viareggio | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - Via-col-vento-vela-sport-e-natura-protagonisti-all-Italia-Sport-Summit-di-Viareggio - wp5824|nota]] |
 | 18 Gennaio 2026 | 50° INVERNALE DEL TIGULLIO: GRANDE EQUILIBRIO IN AVVIO DI 2a MANCHE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - 50-INVERNALE-DEL-TIGULLIO-GRANDE-EQUILIBRIO-IN-AVVIO-DI-2a-MANCHE - wp5818|nota]] |
 | 18 Gennaio 2026 | La Fiamma Olimpica abbraccia i circoli della XIV Zona FIV | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - La-Fiamma-Olimpica-abbraccia-i-circoli-della-XIV-Zona-FIV - wp5795|nota]] |
-| 18 Gennaio 2026 | RITORNA IL CORSO M.A.R.E. DOPO LE DUE EDIZIONI DI SUCCESSO DEL 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - RITORNA-IL-CORSO-M-A-R-E-DOPO-LE-DUE-EDIZIONI-DI-SUCCESSO-DEL-2025 - wp5791|nota]] |
-| 17 Gennaio 2026 | Pasquale Orofino eletto presidente della V Zona Campania | News, V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-17 - Pasquale-Orofino-eletto-presidente-della-V-Zona-Campania - wp5785|nota]] |
-| 16 Gennaio 2026 | ORMA SARAI TRIONFA NEL CAMPIONATO AUTUNNALE METEOR 2025 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - ORMA-SARAI-TRIONFA-NEL-CAMPIONATO-AUTUNNALE-METEOR-2025 - wp5781|nota]] |
-| 16 Gennaio 2026 | CAMPIONATO INVERNALE DI MARINA DI LOANO 2025/2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO-2025-2026 - wp5773|nota]] |
-| 15 Gennaio 2026 | 50° INVERNALE DEL TIGULLIO: SABATO SCATTA LA 2a MANCHE CON 30 BARCHE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-15 - 50-INVERNALE-DEL-TIGULLIO-SABATO-SCATTA-LA-2a-MANCHE-CON-30-BARCHE - wp5764|nota]] |
-| 13 Gennaio 2026 | IN ARRIVO IL GENOA WINTER CONTEST OPTIMIST | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-13 - IN-ARRIVO-IL-GENOA-WINTER-CONTEST-OPTIMIST - wp5761|nota]] |
-| 12 Gennaio 2026 | XV Zona FIV: premiati i protagonisti della stagione 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-12 - XV-Zona-FIV-premiati-i-protagonisti-della-stagione-2025 - wp5755|nota]] |

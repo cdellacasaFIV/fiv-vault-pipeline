@@ -6,6 +6,10 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Ottobre 2025 | FOCUS 420, LNI SESTRI PONENTE – FORMAZIONE I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-21 - FOCUS-420-LNI-SESTRI-PONENTE-FORMAZIONE-I-ZONA-FIV - wp4966|nota]] |
+| 21 Ottobre 2025 | COMITATO I ZONA FIV: COLLABORAZIONE E ANALISI PER IL FUTURO DELLA VELA GIOVANILE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-21 - COMITATO-I-ZONA-FIV-COLLABORAZIONE-E-ANALISI-PER-IL-FUTURO-DELLA-VELA-GIOVANILE - wp4963|nota]] |
+| 20 Ottobre 2025 | Gli equipaggi italiani in gara al Nacra 15 European Championship 2025 | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - Gli-equipaggi-italiani-in-gara-al-Nacra-15-European-Championship-2025 - wp4951|nota]] |
+| 20 Ottobre 2025 | Davide Di Maria rappresenterà l’Italia alla prima edizione dei World Abilitysport Beach Games di Mersin | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - Davide-Di-Maria-rappresentera-l-Italia-alla-prima-edizione-dei-World-Abilitysport-Beach-Games-di-Mersin - wp4945|nota]] |
 | 20 Ottobre 2025 | La X zona ha ospitato l’ultima tappa del progetto Navigare insieme: l’Italia senza barriere | X Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - La-X-zona-ha-ospitato-l-ultima-tappa-del-progetto-Navigare-insieme-l-Italia-senza-barriere - wp4936|nota]] |
 | 20 Ottobre 2025 | Navigare insieme: l’Italia senza barriere — ultima tappa a Porto San Giorgio per promuovere la vela accessibile | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - Navigare-insieme-l-Italia-senza-barriere-ultima-tappa-a-Porto-San-Giorgio-per-promuovere-la-vela-accessibile - wp4929|nota]] |
 | 20 Ottobre 2025 | CONCLUSO “VELA PER TUTTI”, CORSO DI AGGIORNAMENTO PER DOCENTI SCOLASTICI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - CONCLUSO-VELA-PER-TUTTI-CORSO-DI-AGGIORNAMENTO-PER-DOCENTI-SCOLASTICI - wp4919|nota]] |

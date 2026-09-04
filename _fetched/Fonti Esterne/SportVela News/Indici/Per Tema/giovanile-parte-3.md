@@ -6,6 +6,11 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 4 Settembre 2025 | Primo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-04 - Primo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Trentin - wp4175|nota]] |
+| 4 Settembre 2025 | TRICOLORI RS FEVA: OTTIMI PIAZZAMENTI PER SAN BART A FORMIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-04 - TRICOLORI-RS-FEVA-OTTIMI-PIAZZAMENTI-PER-SAN-BART-A-FORMIA - wp4172|nota]] |
+| 3 Settembre 2025 | La XIV Zona FIV: crescita, formazione e futuro della vela tra giovani e territorio | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-03 - La-XIV-Zona-FIV-crescita-formazione-e-futuro-della-vela-tra-giovani-e-territorio - wp4163|nota]] |
+| 2 Settembre 2025 | Sailing Team Cesenatico: giovani protagonisti ai Campionati Italiani di Formia | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-02 - Sailing-Team-Cesenatico-giovani-protagonisti-ai-Campionati-Italiani-di-Formia - wp4153|nota]] |
+| 2 Settembre 2025 | Bronzo tricolore Under 17 per Anna Chiara Merlo e Lorenzo Belviso (LNI Mandello) | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-02 - Bronzo-tricolore-Under-17-per-Anna-Chiara-Merlo-e-Lorenzo-Belviso-LNI-Mandello - wp4146|nota]] |
 | 1 Settembre 2025 | TROFEO TUA-ORLANDO DEL CV CAPO VERDE: ALL’INSEGNA DELLA SOLIDARIETÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - TROFEO-TUA-ORLANDO-DEL-CV-CAPO-VERDE-ALL-INSEGNA-DELLA-SOLIDARIETA - wp4132|nota]] |
 | 31 Agosto 2025 | Campionato Italiano Giovanile delle Classi In Doppio 2025. I risultati dell’XI Zona | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-2025-I-risultati-dell-XI-Zona - wp4150|nota]] |
 | 31 Agosto 2025 | GLI ATLETI DELLA I ZONA SUL PODIO DEI CAMPIONATI ITALIANI CLASSI IN DOPPIO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - GLI-ATLETI-DELLA-I-ZONA-SUL-PODIO-DEI-CAMPIONATI-ITALIANI-CLASSI-IN-DOPPIO-2025 - wp4130|nota]] |

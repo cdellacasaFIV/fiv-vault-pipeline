@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Settembre 2022 | Genova nel mondo con The Ocean Race in attesa del “Grand Finale” | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-23 - Genova-nel-mondo-con-The-Ocean-Race-in-attesa-del-Grand-Finale - wp2975|nota]] |
 | 21 Settembre 2022 | NEXT GENERATION FOIL ACADEMY FIV POWERED BY LUNA ROSSA: PROSSIMO APPUNTAMENTO A TRIESTE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-21 - NEXT-GENERATION-FOIL-ACADEMY-FIV-POWERED-BY-LUNA-ROSSA-PROSSIMO-APPUNTAMENTO-A-TRIESTE - wp2978|nota]] |
 | 18 Settembre 2022 | Negri-Lambertenghi Campioni del Mondo Star 2022 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-18 - Negri-Lambertenghi-Campioni-del-Mondo-Star-2022 - wp2979|nota]] |
 | 10 Settembre 2022 | Viareggio, la festa finale dei campioni giovanili italiani in doppio | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-10 - Viareggio-la-festa-finale-dei-campioni-giovanili-italiani-in-doppio - wp2981|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 8 Ottobre 2020 | EUROPEO LASER STD E RADIAL IN POLONIA-DAY 1 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-08 - EUROPEO-LASER-STD-E-RADIAL-IN-POLONIA-DAY-1 - wp3294|nota]] |
 | 6 Ottobre 2020 | GLI EVENTI DELLA FIV AL 60° SALONE NAUTICO | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-06 - GLI-EVENTI-DELLA-FIV-AL-60-SALONE-NAUTICO - wp3296|nota]] |
 | 5 Ottobre 2020 | Lutto nel mondo della vela: ci ha lasciato Marco Rossi | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-05 - Lutto-nel-mondo-della-vela-ci-ha-lasciato-Marco-Rossi - wp3297|nota]] |
-| 4 Ottobre 2020 | Ruggero e Caterina campioni europei Nacra 17! Vittorio e Maelle bronzo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-04 - Ruggero-e-Caterina-campioni-europei-Nacra-17-Vittorio-e-Maelle-bronzo - wp3298|nota]] |

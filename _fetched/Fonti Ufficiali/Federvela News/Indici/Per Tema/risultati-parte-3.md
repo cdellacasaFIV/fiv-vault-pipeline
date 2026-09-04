@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 4 Ottobre 2020 | Ruggero e Caterina campioni europei Nacra 17! Vittorio e Maelle bronzo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-04 - Ruggero-e-Caterina-campioni-europei-Nacra-17-Vittorio-e-Maelle-bronzo - wp3298|nota]] |
 | 3 Ottobre 2020 | Europeo in Austria, due equipaggi azzurri al 3° posto, domani finale | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-03 - Europeo-in-Austria-due-equipaggi-azzurri-al-3-posto-domani-finale - wp3299|nota]] |
 | 2 Ottobre 2020 | EUROPEO 49ER, 49ER FX, NACRA 17 2020 – DAY 4 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-02 - EUROPEO-49ER-49ER-FX-NACRA-17-2020-DAY-4 - wp3300|nota]] |
 | 30 Settembre 2020 | Europeo Acrobatiche olimpiche, Day 2 senza vento | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-09-30 - Europeo-Acrobatiche-olimpiche-Day-2-senza-vento - wp3301|nota]] |

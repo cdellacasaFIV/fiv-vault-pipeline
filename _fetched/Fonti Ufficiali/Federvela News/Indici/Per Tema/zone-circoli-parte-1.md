@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Settembre 2026 | Velando 2, la FIV alla giornata di formazione della seconda edizione del progetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-03 - Velando-2-la-FIV-alla-giornata-di-formazione-della-seconda-edizione-del-progetto - wp8202|nota]] |
 | 28 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-28 - Presentati-i-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8004|nota]] |
 | 20 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna 2026 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-20 - Presentati-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-2026 - wp7993|nota]] |
 | 16 Luglio 2026 | Il CONI assegna il Collare d’Oro al Presidente Francesco Ettorre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-16 - Il-CONI-assegna-il-Collare-d-Oro-al-Presidente-Francesco-Ettorre - wp7989|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 12 Ottobre 2021 | Mondiale Formula Kite a Torregrande (Oristano): anno zero e primo vero mondiale con obiettivo Parigi 2024 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-12 - Mondiale-Formula-Kite-a-Torregrande-Oristano-anno-zero-e-primo-vero-mondiale-con-obiettivo-Parigi-2024 - wp3072|nota]] |
 | 9 Ottobre 2021 | Vela, a Palermo conclusi i mondiali della Classe Paralimpica Hansa Il polacco Cichocki campione del mondo | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-09 - Vela-a-Palermo-conclusi-i-mondiali-della-Classe-Paralimpica-Hansa-Il-polacco-Cichocki-campione-del-mondo - wp6712|nota]] |
 | 8 Ottobre 2021 | Europeo ILCA 6 e ILCA 7 a Varna: quinto giorno, risale Chiara Benini Floriani | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-08 - Europeo-ILCA-6-e-ILCA-7-a-Varna-quinto-giorno-risale-Chiara-Benini-Floriani - wp3075|nota]] |
-| 6 Ottobre 2021 | Europeo ILCA 6 e ILCA 7 a Varna: day 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-06 - Europeo-ILCA-6-e-ILCA-7-a-Varna-day-3 - wp3079|nota]] |

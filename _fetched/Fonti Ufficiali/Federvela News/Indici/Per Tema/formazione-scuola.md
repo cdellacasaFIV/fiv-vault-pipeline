@@ -4,6 +4,7 @@ Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Settembre 2026 | Velando 2, la FIV alla giornata di formazione della seconda edizione del progetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-03 - Velando-2-la-FIV-alla-giornata-di-formazione-della-seconda-edizione-del-progetto - wp8202|nota]] |
 | 16 Luglio 2026 | Il CONI assegna il Collare d’Oro al Presidente Francesco Ettorre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-16 - Il-CONI-assegna-il-Collare-d-Oro-al-Presidente-Francesco-Ettorre - wp7989|nota]] |
 | 13 Luglio 2026 | Donna Sport 2026: aperto il concorso “L’atleta più brava a scuola” | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-13 - Donna-Sport-2026-aperto-il-concorso-L-atleta-piu-brava-a-scuola - wp7985|nota]] |
 | 2 Luglio 2026 | Gaeta punta sulla vela inclusiva: accordo tra Comune e Federazione Italiana Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-02 - Gaeta-punta-sulla-vela-inclusiva-accordo-tra-Comune-e-Federazione-Italiana-Vela - wp7896|nota]] |

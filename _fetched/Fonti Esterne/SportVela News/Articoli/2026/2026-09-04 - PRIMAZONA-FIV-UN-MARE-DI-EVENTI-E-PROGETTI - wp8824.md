@@ -1,13 +1,13 @@
-# Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna. Sport, condivisione e passione per l’appuntamento nazionale in terra Romagnola.
+# PRIMAZONA FIV: UN “MARE” DI EVENTI E PROGETTI
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
 
 ## Fonte
 
-- Data SportVela: 2 Settembre 2026
-- Link: https://sportvela.net/blog/2026/09/02/campionati-italiani-giovanili-in-singolo-kinder-joy-of-moving-di-ravenna-sport-condivisione-e-passione-per-lappuntamento-nazionale-in-terra-romagnola/
-- Categorie: XI Zona
+- Data SportVela: 4 Settembre 2026
+- Link: https://sportvela.net/blog/2026/09/04/primazona-fiv-un-mare-di-eventi-e-progetti/
+- Categorie: I Zona
 
 ## Perche' tenerla
 
@@ -18,9 +18,9 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
-- Classi/discipline citate: ILCA 4, IQFOiL, iQFOiL, Techno 293.
-- Nomi, circoli o luoghi da valutare: Campionati Italiani Giovanili, Singolo Kinder Joy, Ravenna. Sport, Romagnola. Tre, XI Zona. Ravenna Capitale, Italiana, Ravenna, Campionato Italiano Giovanile, Giornate, Zone Fiv, Circolo Velico Ravennate, Adriatico Wind Club, Comune di Ravenna Capitale, Mare.
-- Numeri/date utili da verificare: 2026, 400 atleti, 105, 15, 4, 1, 2, 293.
+- Classi/discipline citate: non isolate automaticamente.
+- Nomi, circoli o luoghi da valutare: PRIMAZONA FIV, MARE, DI EVENTI, PROGETTI, Calata Anselmi, Imperia, Vele, Epoca, Alessandro Pezzoli, Comitato Primazona, Federvela, Liguria, Epoca. Un, Il Comitato.
+- Numeri/date utili da verificare: 3, 40, 12, 80, 90, 25, 2026, 09, 03.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

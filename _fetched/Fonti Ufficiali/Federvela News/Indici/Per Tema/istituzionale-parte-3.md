@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Giugno 2020 | Indicazioni tecnico – organizzative per i raduni – Fase 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-06-30 - Indicazioni-tecnico-organizzative-per-i-raduni-Fase-3 - wp3348|nota]] |
 | 25 Giugno 2020 | L’Uomo e il Mare: puntata da non perdere su Rai Sport | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-06-25 - L-Uomo-e-il-Mare-puntata-da-non-perdere-su-Rai-Sport - wp3350|nota]] |
 | 21 Giugno 2020 | Consiglio Federale: nuova manovra di sostegno per i circoli velici FIV | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-06-21 - Consiglio-Federale-nuova-manovra-di-sostegno-per-i-circoli-velici-FIV - wp3353|nota]] |
 | 19 Giugno 2020 | Contributi governativi: approfondimenti e modulistica | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-06-19 - Contributi-governativi-approfondimenti-e-modulistica - wp3354|nota]] |
