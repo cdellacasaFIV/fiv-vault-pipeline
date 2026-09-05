@@ -6,6 +6,7 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Ottobre 2025 | TEAM RACE OPTIMIST: TROFEO CHALLENGE CITTÀ DI CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - TEAM-RACE-OPTIMIST-TROFEO-CHALLENGE-CITTA-DI-CHIAVARI - wp4861|nota]] |
 | 13 Ottobre 2025 | CONCLUSO IL CAMPIONATO MONDIALE L30 ALLO YACHT CLUB SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - CONCLUSO-IL-CAMPIONATO-MONDIALE-L30-ALLO-YACHT-CLUB-SANREMO - wp4848|nota]] |
 | 13 Ottobre 2025 | GRANDE SUCCESSO PER IL RADUNO DI PREPARAZIONE FISICA DELLA I ZONA FIV A LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - GRANDE-SUCCESSO-PER-IL-RADUNO-DI-PREPARAZIONE-FISICA-DELLA-I-ZONA-FIV-A-LOANO - wp4845|nota]] |
 | 13 Ottobre 2025 | A SANREMO IL CAMPIONATO ITALIANO RS21, ATTO FINALE DELLA RS21 CUP YAMAMA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - A-SANREMO-IL-CAMPIONATO-ITALIANO-RS21-ATTO-FINALE-DELLA-RS21-CUP-YAMAMA - wp4842|nota]] |
@@ -255,4 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 17 Ottobre 2024 | NEXT GENERATION FOIL INTERNATIONAL ACADEMY – POWERED BY LUNA ROSSA L’HAWAIANO GAVIN BELL: “QUESTO PROGETTO E’ FANTASTICO” | Copertina, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-10-17 - NEXT-GENERATION-FOIL-INTERNATIONAL-ACADEMY-POWERED-BY-LUNA-ROSSA-L-HAWAIANO-GAVIN-BELL-QUESTO-PROGETTO-E-FANTA - wp2190|nota]] |
 | 17 Ottobre 2024 | Club Nautico Marina di Carrara Campione Italiano a squadre | e-sailing, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-10-17 - Club-Nautico-Marina-di-Carrara-Campione-Italiano-a-squadre - wp2186|nota]] |
 | 14 Ottobre 2024 | Formula Kite Youth European Championship, Pianosi si prende il titolo europeo, Houze bronzo U17 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-10-14 - Formula-Kite-Youth-European-Championship-Pianosi-si-prende-il-titolo-europeo-Houze-bronzo-U17 - wp2183|nota]] |
-| 11 Ottobre 2024 | SARDINIA SAILING CUP DAY 6, IQFOIL EUROPEAN CHAMPIONSHIP: L’ITALIA FESTEGGIA NELL’U23 CON MANOLO MODENA | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-10-11 - SARDINIA-SAILING-CUP-DAY-6-IQFOIL-EUROPEAN-CHAMPIONSHIP-L-ITALIA-FESTEGGIA-NELL-U23-CON-MANOLO-MODENA - wp2180|nota]] |

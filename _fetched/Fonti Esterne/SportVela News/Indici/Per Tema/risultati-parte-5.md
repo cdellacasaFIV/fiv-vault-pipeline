@@ -6,6 +6,7 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 2 Settembre 2024 | CAMPIONATI ITALIANI CLASSI IN SINGOLO KINDER JOY OF MOVING – GENOVA 2024 – DAY 4 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-02 - CAMPIONATI-ITALIANI-CLASSI-IN-SINGOLO-KINDER-JOY-OF-MOVING-GENOVA-2024-DAY-4 - wp2094|nota]] |
 | 1 Settembre 2024 | CAMPIONATI ITALIANI CLASSI IN SINGOLO KINDER JOY OF MOVING – GENOVA 2024 – DAY 3 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-01 - CAMPIONATI-ITALIANI-CLASSI-IN-SINGOLO-KINDER-JOY-OF-MOVING-GENOVA-2024-DAY-3 - wp2091|nota]] |
 | 31 Agosto 2024 | CAMPIONATI ITALIANI CLASSI IN SINGOLO KINDER JOY OF MOVING – GENOVA 2024 – DAY 2 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-08-31 - CAMPIONATI-ITALIANI-CLASSI-IN-SINGOLO-KINDER-JOY-OF-MOVING-GENOVA-2024-DAY-2 - wp2086|nota]] |
 | 30 Agosto 2024 | CAMPIONATI ITALIANI CLASSI IN SINGOLO KINDER JOY OF MOVING – GENOVA 2024 – DAY 1 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-08-30 - CAMPIONATI-ITALIANI-CLASSI-IN-SINGOLO-KINDER-JOY-OF-MOVING-GENOVA-2024-DAY-1 - wp2080|nota]] |

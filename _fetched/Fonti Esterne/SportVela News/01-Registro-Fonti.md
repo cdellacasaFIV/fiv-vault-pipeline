@@ -1,10 +1,11 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-09-04.
+Aggiornato: 2026-09-05.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] | https://sportvela.net/blog/2026/09/04/da-crotone-al-tetto-del-mondo-alice-melesa-e-campionessa-mondiale-under-16/ |
 | 4 Settembre 2026 | Il Red Bull Italy SailGP Team pronto per Valencia: al via lo Spain Sail Grand Prix | Copertina, News | risultati, olimpica, giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Il-Red-Bull-Italy-SailGP-Team-pronto-per-Valencia-al-via-lo-Spain-Sail-Grand-Prix - wp8830|nota]] | https://sportvela.net/blog/2026/09/04/il-red-bull-italy-sailgp-team-pronto-per-valencia-al-via-lo-spain-sail-grand-prix/ |
 | 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | risultati, olimpica, zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] | https://sportvela.net/blog/2026/09/04/vele-depoca-mauro-pelaschier-si-racconta/ |
 | 4 Settembre 2026 | PRIMAZONA FIV: UN “MARE” DI EVENTI E PROGETTI | I Zona | risultati, olimpica, giovanile, zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - PRIMAZONA-FIV-UN-MARE-DI-EVENTI-E-PROGETTI - wp8824|nota]] | https://sportvela.net/blog/2026/09/04/primazona-fiv-un-mare-di-eventi-e-progetti/ |

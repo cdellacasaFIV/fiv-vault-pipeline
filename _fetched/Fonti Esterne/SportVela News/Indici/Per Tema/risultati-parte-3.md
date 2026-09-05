@@ -6,6 +6,7 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Gennaio 2026 | La Fiamma Olimpica abbraccia i circoli della XIV Zona FIV | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - La-Fiamma-Olimpica-abbraccia-i-circoli-della-XIV-Zona-FIV - wp5795|nota]] |
 | 18 Gennaio 2026 | RITORNA IL CORSO M.A.R.E. DOPO LE DUE EDIZIONI DI SUCCESSO DEL 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - RITORNA-IL-CORSO-M-A-R-E-DOPO-LE-DUE-EDIZIONI-DI-SUCCESSO-DEL-2025 - wp5791|nota]] |
 | 17 Gennaio 2026 | Pasquale Orofino eletto presidente della V Zona Campania | News, V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-17 - Pasquale-Orofino-eletto-presidente-della-V-Zona-Campania - wp5785|nota]] |
 | 16 Gennaio 2026 | ORMA SARAI TRIONFA NEL CAMPIONATO AUTUNNALE METEOR 2025 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-16 - ORMA-SARAI-TRIONFA-NEL-CAMPIONATO-AUTUNNALE-METEOR-2025 - wp5781|nota]] |
@@ -255,4 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 19 Settembre 2025 | WingFoil: dalla II zona al mondo | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - WingFoil-dalla-II-zona-al-mondo - wp4426|nota]] |
 | 19 Settembre 2025 | Memorial Ballanti-Saiani. Tappa Coppa Italia iQFoil YJ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - Memorial-Ballanti-Saiani-Tappa-Coppa-Italia-iQFoil-YandJ - wp4417|nota]] |
 | 18 Settembre 2025 | 6^ TAPPA DEL CAMPIONATO LIGURE 2025 DI VELA PARALIMPICA HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - 6-TAPPA-DEL-CAMPIONATO-LIGURE-2025-DI-VELA-PARALIMPICA-HANSA-303 - wp4414|nota]] |
-| 18 Settembre 2025 | LA I ZONA RILANCIA IL PROGRAMMA DI PREPARAZIONE ATLETICAPER GIOVANI VELISTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - LA-I-ZONA-RILANCIA-IL-PROGRAMMA-DI-PREPARAZIONE-ATLETICAPER-GIOVANI-VELISTI - wp4411|nota]] |

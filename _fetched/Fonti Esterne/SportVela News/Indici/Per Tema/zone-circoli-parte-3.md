@@ -6,6 +6,7 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 2 Marzo 2026 | Campionato Zonale ILCA, 61 velisti in regata al Circolo della Vela Sicilia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - Campionato-Zonale-ILCA-61-velisti-in-regata-al-Circolo-della-Vela-Sicilia - wp6177|nota]] |
 | 2 Marzo 2026 | V Zona FIV, consegnata al presidente Orofino la bandiera di Napoli Capitale Europea dello Sport 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - V-Zona-FIV-consegnata-al-presidente-Orofino-la-bandiera-di-Napoli-Capitale-Europea-dello-Sport-2026 - wp6173|nota]] |
 | 2 Marzo 2026 | FRANCO MANZOLI ALL’US QUARTO VENTUN ANNI DOPO LA VITTORIA DELLA OSTAR | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - FRANCO-MANZOLI-ALL-US-QUARTO-VENTUN-ANNI-DOPO-LA-VITTORIA-DELLA-OSTAR - wp6170|nota]] |
 | 2 Marzo 2026 | MAURIZIO BUSCEMI: “LA I-ZONA ECCELLENZA IN MOLTI SETTORI“ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - MAURIZIO-BUSCEMI-LA-I-ZONA-ECCELLENZA-IN-MOLTI-SETTORI - wp6167|nota]] |
@@ -255,4 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 14 Ottobre 2025 | La decima tappa del progetto “Navigare Insieme: l’Italia senza barriere” fa tappa a Cagliari ospitata all’interno di Sardinia Sailing Cup | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - La-decima-tappa-del-progetto-Navigare-Insieme-l-Italia-senza-barriere-fa-tappa-a-Cagliari-ospitata-all-interno - wp4866|nota]] |
 | 14 Ottobre 2025 | Kuka del Circolo Vela Cesenatico firma un grande risultato allaBarcolana 2025. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - Kuka-del-Circolo-Vela-Cesenatico-firma-un-grande-risultato-allaBarcolana-2025 - wp4832|nota]] |
 | 14 Ottobre 2025 | WEEKEND DI FORMAZIONE: DUE GIORNATE DI TIROCINIO TRA MARINERIA E WING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - WEEKEND-DI-FORMAZIONE-DUE-GIORNATE-DI-TIROCINIO-TRA-MARINERIA-E-WING - wp4863|nota]] |
-| 14 Ottobre 2025 | TEAM RACE OPTIMIST: TROFEO CHALLENGE CITTÀ DI CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - TEAM-RACE-OPTIMIST-TROFEO-CHALLENGE-CITTA-DI-CHIAVARI - wp4861|nota]] |

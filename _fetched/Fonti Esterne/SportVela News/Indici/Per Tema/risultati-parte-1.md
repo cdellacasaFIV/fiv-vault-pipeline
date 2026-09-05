@@ -6,6 +6,7 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] |
 | 4 Settembre 2026 | Il Red Bull Italy SailGP Team pronto per Valencia: al via lo Spain Sail Grand Prix | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Il-Red-Bull-Italy-SailGP-Team-pronto-per-Valencia-al-via-lo-Spain-Sail-Grand-Prix - wp8830|nota]] |
 | 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] |
 | 4 Settembre 2026 | PRIMAZONA FIV: UN “MARE” DI EVENTI E PROGETTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - PRIMAZONA-FIV-UN-MARE-DI-EVENTI-E-PROGETTI - wp8824|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 29 Maggio 2026 | Calabria e Basilicata salpano con il Vela Day 2026 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - Calabria-e-Basilicata-salpano-con-il-Vela-Day-2026 - wp7351|nota]] |
 | 28 Maggio 2026 | SECONDO POSTO REDAELLI ALL’EURILCA A NEUCHATEL | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-28 - SECONDO-POSTO-REDAELLI-ALL-EURILCA-A-NEUCHATEL - wp7340|nota]] |
 | 27 Maggio 2026 | Trionfo per il Team Giovanile U25 della I Zona FIV alla Regata “La 100 Miglia dell’Alto Adriatico” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - Trionfo-per-il-Team-Giovanile-U25-della-I-Zona-FIV-alla-Regata-La-100-Miglia-dell-Alto-Adriatico - wp7319|nota]] |
-| 27 Maggio 2026 | XII Zona FIV Veneto al Salone Nautico di Venezia: vela, giovani, inclusione e grandi campionesse all’Arsenale | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - XII-Zona-FIV-Veneto-al-Salone-Nautico-di-Venezia-vela-giovani-inclusione-e-grandi-campionesse-all-Arsenale - wp7316|nota]] |

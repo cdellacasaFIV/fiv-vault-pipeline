@@ -6,6 +6,7 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Giugno 2026 | ALLA TRE PORTI VINCE ANCORA UNA VOLTA PILO PAIS | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - ALLA-TRE-PORTI-VINCE-ANCORA-UNA-VOLTA-PILO-PAIS - wp7474|nota]] |
 | 8 Giugno 2026 | LA ZAMPATA DI PILO PAIS ALLA PRIMA DEL 29° CAMPIONATO DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - LA-ZAMPATA-DI-PILO-PAIS-ALLA-PRIMA-DEL-29-CAMPIONATO-DEL-TIGULLIO - wp7471|nota]] |
 | 8 Giugno 2026 | CHE SUCCESSO PER IL VELA DAY ZONALE DI SAVONA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - CHE-SUCCESSO-PER-IL-VELA-DAY-ZONALE-DI-SAVONA - wp7468|nota]] |
 | 6 Giugno 2026 | FEDERICO BASTINI ALLA CINQUECENTO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-06 - FEDERICO-BASTINI-ALLA-CINQUECENTO-2026 - wp7465|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 3 Marzo 2026 | LA I ZONA FIV APRE IL 2026 DELLA FORMAZIONE ISTRUTTORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - LA-I-ZONA-FIV-APRE-IL-2026-DELLA-FORMAZIONE-ISTRUTTORI - wp6191|nota]] |
 | 3 Marzo 2026 | PERFEZIONAMENTO OFFSHORE ALTURA–MINI 6.50 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - PERFEZIONAMENTO-OFFSHORE-ALTURA-MINI-6-50 - wp6187|nota]] |
 | 2 Marzo 2026 | Doppio podio del Club Nautico Rimini alla 1^ regata nazionale Openskiff di Taranto | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - Doppio-podio-del-Club-Nautico-Rimini-alla-1-regata-nazionale-Openskiff-di-Taranto - wp6181|nota]] |
-| 2 Marzo 2026 | Campionato Zonale ILCA, 61 velisti in regata al Circolo della Vela Sicilia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - Campionato-Zonale-ILCA-61-velisti-in-regata-al-Circolo-della-Vela-Sicilia - wp6177|nota]] |

@@ -6,6 +6,7 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 27 Maggio 2026 | XII Zona FIV Veneto al Salone Nautico di Venezia: vela, giovani, inclusione e grandi campionesse all’Arsenale | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - XII-Zona-FIV-Veneto-al-Salone-Nautico-di-Venezia-vela-giovani-inclusione-e-grandi-campionesse-all-Arsenale - wp7316|nota]] |
 | 26 Maggio 2026 | Antonella Rizzuto testimonial del Vela Day 2026 della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - Antonella-Rizzuto-testimonial-del-Vela-Day-2026-della-XV-Zona - wp7313|nota]] |
 | 26 Maggio 2026 | PORTO MAURIZIO YACHT CLUB, FESTA DI VELA E COLORI CON IL TROFEO GIOTTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - PORTO-MAURIZIO-YACHT-CLUB-FESTA-DI-VELA-E-COLORI-CON-IL-TROFEO-GIOTTO - wp7305|nota]] |
 | 25 Maggio 2026 | La 100 x 3: a Marina di Albarella arriva la sfida a squadre tra Circoli | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-25 - La-100-x-3-a-Marina-di-Albarella-arriva-la-sfida-a-squadre-tra-Circoli - wp7297|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 19 Gennaio 2026 | 35° INVERNALE DEL PONENTE LIGURE, QUINTA E SESTA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-19 - 35-INVERNALE-DEL-PONENTE-LIGURE-QUINTA-E-SESTA-GIORNATA - wp5829|nota]] |
 | 18 Gennaio 2026 | Via col vento: vela, sport e natura protagonisti all’Italia Sport Summit di Viareggio | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - Via-col-vento-vela-sport-e-natura-protagonisti-all-Italia-Sport-Summit-di-Viareggio - wp5824|nota]] |
 | 18 Gennaio 2026 | 50° INVERNALE DEL TIGULLIO: GRANDE EQUILIBRIO IN AVVIO DI 2a MANCHE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - 50-INVERNALE-DEL-TIGULLIO-GRANDE-EQUILIBRIO-IN-AVVIO-DI-2a-MANCHE - wp5818|nota]] |
-| 18 Gennaio 2026 | La Fiamma Olimpica abbraccia i circoli della XIV Zona FIV | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - La-Fiamma-Olimpica-abbraccia-i-circoli-della-XIV-Zona-FIV - wp5795|nota]] |
