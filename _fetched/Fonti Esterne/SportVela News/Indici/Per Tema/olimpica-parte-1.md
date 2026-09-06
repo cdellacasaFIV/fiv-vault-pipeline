@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] |
 | 4 Settembre 2026 | Il Red Bull Italy SailGP Team pronto per Valencia: al via lo Spain Sail Grand Prix | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Il-Red-Bull-Italy-SailGP-Team-pronto-per-Valencia-al-via-lo-Spain-Sail-Grand-Prix - wp8830|nota]] |
 | 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] |
 | 4 Settembre 2026 | PRIMAZONA FIV: UN “MARE” DI EVENTI E PROGETTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - PRIMAZONA-FIV-UN-MARE-DI-EVENTI-E-PROGETTI - wp8824|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 25 Ottobre 2025 | Arzachena: i giovani della classe iQFOiL chiudono in grande l’Europeo Youth & Junior 2025 con la vittoria di Mattia e Medea | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-25 - Arzachena-i-giovani-della-classe-iQFOiL-chiudono-in-grande-l-Europeo-Youth-and-Junior-2025-con-la-vittoria-di- - wp5040|nota]] |
 | 25 Ottobre 2025 | Trionfo azzurro all’Europeo U21: podio tutto italiano per la squadra ILCA 6 femminile | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-25 - Trionfo-azzurro-all-Europeo-U21-podio-tutto-italiano-per-la-squadra-ILCA-6-femminile - wp5030|nota]] |
 | 23 Ottobre 2025 | MERCOLEDI 29 A MONDELLO LA CERIMONIA DI APERTURA DEL CAMPIONATO ITALIANO CLASSI OLIMPICHE EDISON NEXT DI PALERMO 2025 | Copertina, News, Para Sailing, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-23 - MERCOLEDI-29-A-MONDELLO-LA-CERIMONIA-DI-APERTURA-DEL-CAMPIONATO-ITALIANO-CLASSI-OLIMPICHE-EDISON-NEXT-DI-PALER - wp5010|nota]] |
-| 23 Ottobre 2025 | SABATO E DOMENICA LA SESSANTUNESIMA COPPA POGGI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-23 - SABATO-E-DOMENICA-LA-SESSANTUNESIMA-COPPA-POGGI - wp5004|nota]] |

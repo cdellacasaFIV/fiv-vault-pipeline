@@ -1,10 +1,12 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-09-05.
+Aggiornato: 2026-09-06.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | risultati, olimpica, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] | https://sportvela.net/blog/2026/09/05/martina-corno-e-campionessa-italiana-ilca-4-u18-femminile-a-ravenna/ |
+| 5 Settembre 2026 | Online la gallery ufficiale di Vela Viva 15 2026 | XV Zona | zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Online-la-gallery-ufficiale-di-Vela-Viva-15-2026 - wp8848|nota]] | https://sportvela.net/blog/2026/09/05/online-la-gallery-ufficiale-di-vela-viva-15-2026/ |
 | 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] | https://sportvela.net/blog/2026/09/04/da-crotone-al-tetto-del-mondo-alice-melesa-e-campionessa-mondiale-under-16/ |
 | 4 Settembre 2026 | Il Red Bull Italy SailGP Team pronto per Valencia: al via lo Spain Sail Grand Prix | Copertina, News | risultati, olimpica, giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Il-Red-Bull-Italy-SailGP-Team-pronto-per-Valencia-al-via-lo-Spain-Sail-Grand-Prix - wp8830|nota]] | https://sportvela.net/blog/2026/09/04/il-red-bull-italy-sailgp-team-pronto-per-valencia-al-via-lo-spain-sail-grand-prix/ |
 | 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | risultati, olimpica, zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] | https://sportvela.net/blog/2026/09/04/vele-depoca-mauro-pelaschier-si-racconta/ |

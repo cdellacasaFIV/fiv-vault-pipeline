@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Settembre 2026 | Online la gallery ufficiale di Vela Viva 15 2026 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Online-la-gallery-ufficiale-di-Vela-Viva-15-2026 - wp8848|nota]] |
 | 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] |
 | 4 Settembre 2026 | PRIMAZONA FIV: UN “MARE” DI EVENTI E PROGETTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - PRIMAZONA-FIV-UN-MARE-DI-EVENTI-E-PROGETTI - wp8824|nota]] |
 | 4 Settembre 2026 | IMPERIA CAPITALE DELLA VELA: UNA DOPPIA FESTA TRA STORIA, CULTURA E SPORT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - IMPERIA-CAPITALE-DELLA-VELA-UNA-DOPPIA-FESTA-TRA-STORIA-CULTURA-E-SPORT - wp8818|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 11 Febbraio 2026 | CONCLUSO CON SUCCESSO IL CORSO M.A.R.E. A RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-CON-SUCCESSO-IL-CORSO-M-A-R-E-A-RAPALLO - wp5953|nota]] |
 | 6 Febbraio 2026 | Il windsurf olimpico iQFoil al MUSE di Trento | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-06 - Il-windsurf-olimpico-iQFoil-al-MUSE-di-Trento - wp5938|nota]] |
 | 5 Febbraio 2026 | Due appuntamenti per rilanciare l’attività di formazione para sailing FIV e CIP | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - Due-appuntamenti-per-rilanciare-l-attivita-di-formazione-para-sailing-FIV-e-CIP - wp5928|nota]] |
-| 5 Febbraio 2026 | LA NUOVA SFIDA DI ALESSIO CINDOLO NELL’ILCA 7 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - LA-NUOVA-SFIDA-DI-ALESSIO-CINDOLO-NELL-ILCA-7 - wp5915|nota]] |

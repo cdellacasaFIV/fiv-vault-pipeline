@@ -6,6 +6,8 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] |
+| 5 Settembre 2026 | Online la gallery ufficiale di Vela Viva 15 2026 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Online-la-gallery-ufficiale-di-Vela-Viva-15-2026 - wp8848|nota]] |
 | 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] |
 | 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] |
 | 4 Settembre 2026 | PRIMAZONA FIV: UN “MARE” DI EVENTI E PROGETTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - PRIMAZONA-FIV-UN-MARE-DI-EVENTI-E-PROGETTI - wp8824|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 8 Giugno 2026 | MEETING SCUOLA VELA 2026: LE QUATTRO TAPPE DELL’ESTATE 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - MEETING-SCUOLA-VELA-2026-LE-QUATTRO-TAPPE-DELL-ESTATE-2026 - wp7500|nota]] |
 | 8 Giugno 2026 | GAVITELLO D’ARGENTO: SI AGGIUDICA LA VITTORIA SPIRIT OF NERINA DELLO YC CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - GAVITELLO-D-ARGENTO-SI-AGGIUDICA-LA-VITTORIA-SPIRIT-OF-NERINA-DELLO-YC-CHIAVARI - wp7497|nota]] |
 | 8 Giugno 2026 | IL TEAM UNDER 25 DEL COMITATO I ZONA FIV SI LAUREA CAMPIONE ITALIANO U25 DOLPHIN 81 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - IL-TEAM-UNDER-25-DEL-COMITATO-I-ZONA-FIV-SI-LAUREA-CAMPIONE-ITALIANO-U25-DOLPHIN-81 - wp7494|nota]] |
-| 8 Giugno 2026 | Alla LNI Salerno il 14 giugno “No Matter Where”, staffetta multisportiva nel ricordo di Fabrizio Marotta | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - Alla-LNI-Salerno-il-14-giugno-No-Matter-Where-staffetta-multisportiva-nel-ricordo-di-Fabrizio-Marotta - wp7485|nota]] |
-| 8 Giugno 2026 | CHE SUCCESSO PER IL VELA DAY ZONALE DI SAVONA (foto) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - CHE-SUCCESSO-PER-IL-VELA-DAY-ZONALE-DI-SAVONA-foto - wp7479|nota]] |

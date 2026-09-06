@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Aprile 2024 | 2024 ILCA 4 Youth European Championships: Italia oro e doppio bronzo | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-12 - 2024-ILCA-4-Youth-European-Championships-Italia-oro-e-doppio-bronzo - wp1639|nota]] |
 | 6 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: la squadra italiana vince il medagliere. Quattro medaglie: due ori e due argenti | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-la-squadra-italiana-vince-il-medagliere-Quattro-medaglie-due-ori-e-due-arg - wp1624|nota]] |
 | 6 Aprile 2024 | 2024 ILCA 4 Youth Europeans: oggi la cerimonia di apertura con 411 velisti | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 2024-ILCA-4-Youth-Europeans-oggi-la-cerimonia-di-apertura-con-411-velisti - wp1612|nota]] |
 | 5 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: si chiudono le finali domani le Medal Stage con tanti azzurri a giocarsi una medaglia, tre sicure. Tita Banti sono già d’Oro! | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-05 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-si-chiudono-le-finali-domani-le-Medal-Stage-con-tanti-azzurri-a-giocarsi-u - wp1618|nota]] |

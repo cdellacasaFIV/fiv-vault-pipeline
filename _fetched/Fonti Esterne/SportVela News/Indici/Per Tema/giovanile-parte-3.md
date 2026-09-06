@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Settembre 2025 | YC CHIAVARI, IL TROFEO ELVIO BOTTO APRE IL CAMPIONATO VELA D’AUTUNNO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - YC-CHIAVARI-IL-TROFEO-ELVIO-BOTTO-APRE-IL-CAMPIONATO-VELA-D-AUTUNNO - wp4182|nota]] |
 | 5 Settembre 2025 | Secondo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-05 - Secondo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Trent - wp4180|nota]] |
 | 4 Settembre 2025 | Primo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-04 - Primo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Trentin - wp4175|nota]] |
 | 4 Settembre 2025 | TRICOLORI RS FEVA: OTTIMI PIAZZAMENTI PER SAN BART A FORMIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-04 - TRICOLORI-RS-FEVA-OTTIMI-PIAZZAMENTI-PER-SAN-BART-A-FORMIA - wp4172|nota]] |

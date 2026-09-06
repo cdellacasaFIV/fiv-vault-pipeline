@@ -6,6 +6,7 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] |
 | 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] |
 | 4 Settembre 2026 | Il Red Bull Italy SailGP Team pronto per Valencia: al via lo Spain Sail Grand Prix | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Il-Red-Bull-Italy-SailGP-Team-pronto-per-Valencia-al-via-lo-Spain-Sail-Grand-Prix - wp8830|nota]] |
 | 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Maggio 2026 | MELGES 24 EUROPEAN SAILING SERIES: SECONDO MELGINA DI PAOLO BRESCIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - MELGES-24-EUROPEAN-SAILING-SERIES-SECONDO-MELGINA-DI-PAOLO-BRESCIA - wp7358|nota]] |
 | 29 Maggio 2026 | Calabria e Basilicata salpano con il Vela Day 2026 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - Calabria-e-Basilicata-salpano-con-il-Vela-Day-2026 - wp7351|nota]] |
 | 28 Maggio 2026 | SECONDO POSTO REDAELLI ALL’EURILCA A NEUCHATEL | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-28 - SECONDO-POSTO-REDAELLI-ALL-EURILCA-A-NEUCHATEL - wp7340|nota]] |
-| 27 Maggio 2026 | Trionfo per il Team Giovanile U25 della I Zona FIV alla Regata “La 100 Miglia dell’Alto Adriatico” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - Trionfo-per-il-Team-Giovanile-U25-della-I-Zona-FIV-alla-Regata-La-100-Miglia-dell-Alto-Adriatico - wp7319|nota]] |

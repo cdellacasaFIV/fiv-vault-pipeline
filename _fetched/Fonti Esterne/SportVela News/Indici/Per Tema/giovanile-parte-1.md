@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] |
 | 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] |
 | 4 Settembre 2026 | Il Red Bull Italy SailGP Team pronto per Valencia: al via lo Spain Sail Grand Prix | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Il-Red-Bull-Italy-SailGP-Team-pronto-per-Valencia-al-via-lo-Spain-Sail-Grand-Prix - wp8830|nota]] |
 | 4 Settembre 2026 | PRIMAZONA FIV: UN “MARE” DI EVENTI E PROGETTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - PRIMAZONA-FIV-UN-MARE-DI-EVENTI-E-PROGETTI - wp8824|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 31 Marzo 2026 | Al Liceo Basile la vela sale in Cattedra | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-31 - Al-Liceo-Basile-la-vela-sale-in-Cattedra - wp6472|nota]] |
 | 30 Marzo 2026 | Minialtura U25: Concluso il primo raduno al Club Velico Trasimeno. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - Minialtura-U25-Concluso-il-primo-raduno-al-Club-Velico-Trasimeno - wp6466|nota]] |
 | 30 Marzo 2026 | A DIANO MARINA IL 55° TROFEO PRIMAVERA E IL 3° TROFEO NONNA CLELIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - A-DIANO-MARINA-IL-55-TROFEO-PRIMAVERA-E-IL-3-TROFEO-NONNA-CLELIA - wp6461|nota]] |
-| 29 Marzo 2026 | Nel 2027 i WASZP Games tornano sul Lago di Garda | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-29 - Nel-2027-i-WASZP-Games-tornano-sul-Lago-di-Garda - wp6435|nota]] |

@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 29 Marzo 2026 | Nel 2027 i WASZP Games tornano sul Lago di Garda | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-29 - Nel-2027-i-WASZP-Games-tornano-sul-Lago-di-Garda - wp6435|nota]] |
 | 27 Marzo 2026 | Fine settimana all’insegna della formazione per la V Zona FIV | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-27 - Fine-settimana-all-insegna-della-formazione-per-la-V-Zona-FIV - wp6428|nota]] |
 | 26 Marzo 2026 | Selezione Interzonale Optimist di Ancona: la XI Zona protagonista. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - Selezione-Interzonale-Optimist-di-Ancona-la-XI-Zona-protagonista - wp6420|nota]] |
 | 25 Marzo 2026 | CRESCERE CON LA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-25 - CRESCERE-CON-LA-VELA - wp6412|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 6 Settembre 2025 | Giulia Marella – Un viaggio di vela e talento | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Giulia-Marella-Un-viaggio-di-vela-e-talento - wp4193|nota]] |
 | 6 Settembre 2025 | Meeting Zonale 2025 della XII Zona FIV – “La Festa delle Scuole Vela” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Meeting-Zonale-2025-della-XII-Zona-FIV-La-Festa-delle-Scuole-Vela - wp4190|nota]] |
 | 6 Settembre 2025 | Penultimo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Penultimo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Tre - wp4188|nota]] |
-| 6 Settembre 2025 | YC CHIAVARI, IL TROFEO ELVIO BOTTO APRE IL CAMPIONATO VELA D’AUTUNNO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - YC-CHIAVARI-IL-TROFEO-ELVIO-BOTTO-APRE-IL-CAMPIONATO-VELA-D-AUTUNNO - wp4182|nota]] |

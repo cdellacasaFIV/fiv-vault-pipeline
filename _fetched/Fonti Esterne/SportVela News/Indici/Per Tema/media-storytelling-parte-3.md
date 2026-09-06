@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Luglio 2025 | EUROPEO 29ER 2025: L’ITALIA CHIUDE CON DUE MEDAGLIE A RIVA DEL GARDA, TRA CONDIZIONI METEO SFIDANTI E PRESTAZIONI DI LIVELLO MONDIALE | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-08 - EUROPEO-29ER-2025-L-ITALIA-CHIUDE-CON-DUE-MEDAGLIE-A-RIVA-DEL-GARDA-TRA-CONDIZIONI-METEO-SFIDANTI-E-PRESTAZION - wp3149|nota]] |
 | 6 Luglio 2025 | Riccardo Pianosi conquista il titolo europeo youth di Formula Kite a Gizzeria. Successo per l’IKA Youth European Championships & Grand Prix | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-06 - Riccardo-Pianosi-conquista-il-titolo-europeo-youth-di-Formula-Kite-a-Gizzeria-Successo-per-l-IKA-Youth-Europea - wp3139|nota]] |
 | 6 Luglio 2025 | Mondiale iQFOiL 2025: a Aarhus buona partenza degli Azzurri | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-06 - Mondiale-iQFOiL-2025-a-Aarhus-buona-partenza-degli-Azzurri - wp3130|nota]] |
 | 4 Luglio 2025 | Navigare Insieme: l’Italia senza barriere arriva in Lombardia con una tappa nel centro di Milano dal 4 al 6 luglio | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-04 - Navigare-Insieme-l-Italia-senza-barriere-arriva-in-Lombardia-con-una-tappa-nel-centro-di-Milano-dal-4-al-6-lug - wp3126|nota]] |
