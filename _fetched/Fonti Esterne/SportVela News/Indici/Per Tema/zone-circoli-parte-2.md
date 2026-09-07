@@ -6,6 +6,7 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Giugno 2026 | IL TEAM UNDER 25 DEL COMITATO I ZONA FIV SI LAUREA CAMPIONE ITALIANO U25 DOLPHIN 81 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - IL-TEAM-UNDER-25-DEL-COMITATO-I-ZONA-FIV-SI-LAUREA-CAMPIONE-ITALIANO-U25-DOLPHIN-81 - wp7494|nota]] |
 | 8 Giugno 2026 | Alla LNI Salerno il 14 giugno “No Matter Where”, staffetta multisportiva nel ricordo di Fabrizio Marotta | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - Alla-LNI-Salerno-il-14-giugno-No-Matter-Where-staffetta-multisportiva-nel-ricordo-di-Fabrizio-Marotta - wp7485|nota]] |
 | 8 Giugno 2026 | CHE SUCCESSO PER IL VELA DAY ZONALE DI SAVONA (foto) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - CHE-SUCCESSO-PER-IL-VELA-DAY-ZONALE-DI-SAVONA-foto - wp7479|nota]] |
 | 8 Giugno 2026 | ALLA TRE PORTI VINCE ANCORA UNA VOLTA PILO PAIS | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - ALLA-TRE-PORTI-VINCE-ANCORA-UNA-VOLTA-PILO-PAIS - wp7474|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 3 Marzo 2026 | La Scuola di Mare del Club Nautico Rimini è da quest’anno intitolata a Lino Mazza | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - La-Scuola-di-Mare-del-Club-Nautico-Rimini-e-da-quest-anno-intitolata-a-Lino-Mazza - wp6226|nota]] |
 | 3 Marzo 2026 | PERFEZIONAMENTO OFFSHORE ALTURA–MINI 6.50 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - PERFEZIONAMENTO-OFFSHORE-ALTURA-MINI-6-50 - wp6198|nota]] |
 | 3 Marzo 2026 | 35a EDIZIONE DELL’INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - 35a-EDIZIONE-DELL-INTERCIRCOLI - wp6194|nota]] |
-| 3 Marzo 2026 | LA I ZONA FIV APRE IL 2026 DELLA FORMAZIONE ISTRUTTORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - LA-I-ZONA-FIV-APRE-IL-2026-DELLA-FORMAZIONE-ISTRUTTORI - wp6191|nota]] |

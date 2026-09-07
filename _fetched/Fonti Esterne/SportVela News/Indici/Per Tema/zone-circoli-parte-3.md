@@ -6,6 +6,7 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Marzo 2026 | LA I ZONA FIV APRE IL 2026 DELLA FORMAZIONE ISTRUTTORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - LA-I-ZONA-FIV-APRE-IL-2026-DELLA-FORMAZIONE-ISTRUTTORI - wp6191|nota]] |
 | 3 Marzo 2026 | PERFEZIONAMENTO OFFSHORE ALTURA–MINI 6.50 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - PERFEZIONAMENTO-OFFSHORE-ALTURA-MINI-6-50 - wp6187|nota]] |
 | 2 Marzo 2026 | Doppio podio del Club Nautico Rimini alla 1^ regata nazionale Openskiff di Taranto | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - Doppio-podio-del-Club-Nautico-Rimini-alla-1-regata-nazionale-Openskiff-di-Taranto - wp6181|nota]] |
 | 2 Marzo 2026 | Campionato Zonale ILCA, 61 velisti in regata al Circolo della Vela Sicilia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - Campionato-Zonale-ILCA-61-velisti-in-regata-al-Circolo-della-Vela-Sicilia - wp6177|nota]] |
@@ -255,4 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 17 Ottobre 2025 | Il mare come motore di sviluppo economico e sportivo | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-17 - Il-mare-come-motore-di-sviluppo-economico-e-sportivo - wp4904|nota]] |
 | 16 Ottobre 2025 | Rotta del Cappero e della Malvasia: trionfa la vela tra Capo d’Orlando e Lipari | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-16 - Rotta-del-Cappero-e-della-Malvasia-trionfa-la-vela-tra-Capo-d-Orlando-e-Lipari - wp4883|nota]] |
 | 15 Ottobre 2025 | Guido Lembo, a Capri un trofeo O’open Skiff per ricordare il marinaio | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-15 - Guido-Lembo-a-Capri-un-trofeo-O-open-Skiff-per-ricordare-il-marinaio - wp4874|nota]] |
-| 14 Ottobre 2025 | La decima tappa del progetto “Navigare Insieme: l’Italia senza barriere” fa tappa a Cagliari ospitata all’interno di Sardinia Sailing Cup | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - La-decima-tappa-del-progetto-Navigare-Insieme-l-Italia-senza-barriere-fa-tappa-a-Cagliari-ospitata-all-interno - wp4866|nota]] |

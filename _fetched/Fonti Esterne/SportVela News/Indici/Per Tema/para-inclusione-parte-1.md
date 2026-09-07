@@ -6,6 +6,8 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Settembre 2026 | TRE VITTORIE E UN PODIO A VALENCIA PER IL RED BULL ITALY SAILGP TEAM | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - TRE-VITTORIE-E-UN-PODIO-A-VALENCIA-PER-IL-RED-BULL-ITALY-SAILGP-TEAM - wp8857|nota]] |
+| 6 Settembre 2026 | Cerimonia di apertura dei Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - Cerimonia-di-apertura-dei-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8854|nota]] |
 | 4 Settembre 2026 | IMPERIA CAPITALE DELLA VELA: UNA DOPPIA FESTA TRA STORIA, CULTURA E SPORT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - IMPERIA-CAPITALE-DELLA-VELA-UNA-DOPPIA-FESTA-TRA-STORIA-CULTURA-E-SPORT - wp8818|nota]] |
 | 3 Settembre 2026 | Il grande spettacolo dei Topcat torna a Cesenatico: dal 6 settembre il Campionato Mondiale. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-03 - Il-grande-spettacolo-dei-Topcat-torna-a-Cesenatico-dal-6-settembre-il-Campionato-Mondiale - wp8814|nota]] |
 | 3 Settembre 2026 | QUATTRO GIORNATE DI GRANDE WINDSURF A RAVENNA | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-03 - QUATTRO-GIORNATE-DI-GRANDE-WINDSURF-A-RAVENNA - wp8811|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Ottobre 2025 | Luca Rosetti. In Oceano anche un po’ di Adriatico. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-26 - Luca-Rosetti-In-Oceano-anche-un-po-di-Adriatico - wp5056|nota]] |
 | 25 Ottobre 2025 | Campionati Italiani delle Zone FIV 2025: DAY 2 | Copertina, News, XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-25 - Campionati-Italiani-delle-Zone-FIV-2025-DAY-2 - wp5037|nota]] |
 | 24 Ottobre 2025 | IV Campionato Italiano delle Zone FIV 2025: DAY 1 | Copertina, News, XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-24 - IV-Campionato-Italiano-delle-Zone-FIV-2025-DAY-1 - wp5023|nota]] |
-| 23 Ottobre 2025 | MERCOLEDI 29 A MONDELLO LA CERIMONIA DI APERTURA DEL CAMPIONATO ITALIANO CLASSI OLIMPICHE EDISON NEXT DI PALERMO 2025 | Copertina, News, Para Sailing, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-23 - MERCOLEDI-29-A-MONDELLO-LA-CERIMONIA-DI-APERTURA-DEL-CAMPIONATO-ITALIANO-CLASSI-OLIMPICHE-EDISON-NEXT-DI-PALER - wp5010|nota]] |
-| 22 Ottobre 2025 | VELA OLIMPICA: A PALERMO E’ BOOM PER I CAMPIONATI ITALIANI CLASSI OLIMPICHE EDISON NEXT 2025, INVASIONE DI EQUIPAGGI INTERNAZIONALI | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-22 - VELA-OLIMPICA-A-PALERMO-E-BOOM-PER-I-CAMPIONATI-ITALIANI-CLASSI-OLIMPICHE-EDISON-NEXT-2025-INVASIONE-DI-EQUIPA - wp4986|nota]] |

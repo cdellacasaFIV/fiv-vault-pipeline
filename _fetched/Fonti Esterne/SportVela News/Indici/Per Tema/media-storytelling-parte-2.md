@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Febbraio 2026 | Due appuntamenti per rilanciare l’attività di formazione para sailing FIV e CIP | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - Due-appuntamenti-per-rilanciare-l-attivita-di-formazione-para-sailing-FIV-e-CIP - wp5928|nota]] |
 | 5 Febbraio 2026 | LA NUOVA SFIDA DI ALESSIO CINDOLO NELL’ILCA 7 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - LA-NUOVA-SFIDA-DI-ALESSIO-CINDOLO-NELL-ILCA-7 - wp5915|nota]] |
 | 5 Febbraio 2026 | La vela siciliana premia i suoi campioni | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - La-vela-siciliana-premia-i-suoi-campioni - wp5909|nota]] |
 | 3 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO: GRANDE LOTTA AL VERTICE, DOPPIETTA PER WB IX | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-03 - 50-INVERNALE-DEL-TIGULLIO-GRANDE-LOTTA-AL-VERTICE-DOPPIETTA-PER-WB-IX - wp5904|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 16 Luglio 2025 | Terza regata nazionale Hansa 303: grande successo a Ravenna | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-16 - Terza-regata-nazionale-Hansa-303-grande-successo-a-Ravenna - wp3318|nota]] |
 | 12 Luglio 2025 | 470 Junior World Championships 2025: doppio bronzo per l’Italia a Los Alcázares | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-12 - 470-Junior-World-Championships-2025-doppio-bronzo-per-l-Italia-a-Los-Alcazares - wp3301|nota]] |
 | 10 Luglio 2025 | Navigare Insieme: l’Italia senza barriere, successo per la VI tappa a Ravenna in programma fino a venerdì 11 luglio | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-10 - Navigare-Insieme-l-Italia-senza-barriere-successo-per-la-VI-tappa-a-Ravenna-in-programma-fino-a-venerdi-11-lug - wp3289|nota]] |
-| 10 Luglio 2025 | Si conclude il Campionato del Mondo 420: l’Italia chiude con un bilancio positivo e podi in più categorie | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-10 - Si-conclude-il-Campionato-del-Mondo-420-l-Italia-chiude-con-un-bilancio-positivo-e-podi-in-piu-categorie - wp3262|nota]] |

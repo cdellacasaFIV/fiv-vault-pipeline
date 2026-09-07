@@ -1,10 +1,12 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-09-06.
+Aggiornato: 2026-09-07.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 6 Settembre 2026 | TRE VITTORIE E UN PODIO A VALENCIA PER IL RED BULL ITALY SAILGP TEAM | Copertina, News | risultati, para/inclusione | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - TRE-VITTORIE-E-UN-PODIO-A-VALENCIA-PER-IL-RED-BULL-ITALY-SAILGP-TEAM - wp8857|nota]] | https://sportvela.net/blog/2026/09/06/tre-vittorie-e-un-podio-a-valencia-per-il-red-bull-italy-sailgp-team/ |
+| 6 Settembre 2026 | Cerimonia di apertura dei Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | Copertina, News, Vela Giovanile | risultati, giovanile, para/inclusione, zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - Cerimonia-di-apertura-dei-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8854|nota]] | https://sportvela.net/blog/2026/09/06/cerimonia-di-apertura-dei-campionati-italiani-giovanili-in-doppio-di-manfredonia-2026/ |
 | 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | risultati, olimpica, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] | https://sportvela.net/blog/2026/09/05/martina-corno-e-campionessa-italiana-ilca-4-u18-femminile-a-ravenna/ |
 | 5 Settembre 2026 | Online la gallery ufficiale di Vela Viva 15 2026 | XV Zona | zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Online-la-gallery-ufficiale-di-Vela-Viva-15-2026 - wp8848|nota]] | https://sportvela.net/blog/2026/09/05/online-la-gallery-ufficiale-di-vela-viva-15-2026/ |
 | 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] | https://sportvela.net/blog/2026/09/04/da-crotone-al-tetto-del-mondo-alice-melesa-e-campionessa-mondiale-under-16/ |

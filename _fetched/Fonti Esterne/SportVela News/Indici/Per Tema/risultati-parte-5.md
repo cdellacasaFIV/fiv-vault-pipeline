@@ -6,6 +6,8 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Settembre 2024 | ITALIANI GIOVANILI CLASSI IN DOPPIO A PESCARA – DAY 2 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-06 - ITALIANI-GIOVANILI-CLASSI-IN-DOPPIO-A-PESCARA-DAY-2 - wp2105|nota]] |
+| 5 Settembre 2024 | ITALIANI GIOVANILI CLASSI IN DOPPIO A PESCARA – DAY 1 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-05 - ITALIANI-GIOVANILI-CLASSI-IN-DOPPIO-A-PESCARA-DAY-1 - wp2100|nota]] |
 | 3 Settembre 2024 | MERCOLEDI POMERIGGIO A PESCARA LA CERIMONIA DI APERTURA DELL’ITALIANO GIOVANILE DELLE CLASSI IN DOPPIO | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-03 - MERCOLEDI-POMERIGGIO-A-PESCARA-LA-CERIMONIA-DI-APERTURA-DELL-ITALIANO-GIOVANILE-DELLE-CLASSI-IN-DOPPIO - wp2097|nota]] |
 | 2 Settembre 2024 | CAMPIONATI ITALIANI CLASSI IN SINGOLO KINDER JOY OF MOVING – GENOVA 2024 – DAY 4 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-02 - CAMPIONATI-ITALIANI-CLASSI-IN-SINGOLO-KINDER-JOY-OF-MOVING-GENOVA-2024-DAY-4 - wp2094|nota]] |
 | 1 Settembre 2024 | CAMPIONATI ITALIANI CLASSI IN SINGOLO KINDER JOY OF MOVING – GENOVA 2024 – DAY 3 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-01 - CAMPIONATI-ITALIANI-CLASSI-IN-SINGOLO-KINDER-JOY-OF-MOVING-GENOVA-2024-DAY-3 - wp2091|nota]] |

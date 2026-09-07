@@ -6,6 +6,8 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Settembre 2025 | WingFoil: dalla II zona al mondo | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - WingFoil-dalla-II-zona-al-mondo - wp4426|nota]] |
+| 19 Settembre 2025 | Memorial Ballanti-Saiani. Tappa Coppa Italia iQFoil YJ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - Memorial-Ballanti-Saiani-Tappa-Coppa-Italia-iQFoil-YandJ - wp4417|nota]] |
 | 18 Settembre 2025 | 6^ TAPPA DEL CAMPIONATO LIGURE 2025 DI VELA PARALIMPICA HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - 6-TAPPA-DEL-CAMPIONATO-LIGURE-2025-DI-VELA-PARALIMPICA-HANSA-303 - wp4414|nota]] |
 | 18 Settembre 2025 | LA I ZONA RILANCIA IL PROGRAMMA DI PREPARAZIONE ATLETICAPER GIOVANI VELISTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - LA-I-ZONA-RILANCIA-IL-PROGRAMMA-DI-PREPARAZIONE-ATLETICAPER-GIOVANI-VELISTI - wp4411|nota]] |
 | 17 Settembre 2025 | Vela Viva 15: online il video ufficiale | La Voce delle Zone, XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-17 - Vela-Viva-15-online-il-video-ufficiale - wp4390|nota]] |
@@ -254,5 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 22 Settembre 2024 | Campionato Europeo Hansa 303: Nina Corbetta oro femminile | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-22 - Campionato-Europeo-Hansa-303-Nina-Corbetta-oro-femminile - wp2115|nota]] |
 | 8 Settembre 2024 | ITALIANI GIOVANILI CLASSI IN DOPPIO A PESCARA – DAY 4 – FINALE | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-08 - ITALIANI-GIOVANILI-CLASSI-IN-DOPPIO-A-PESCARA-DAY-4-FINALE - wp2112|nota]] |
 | 7 Settembre 2024 | ITALIANI GIOVANILI CLASSI IN DOPPIO A PESCARA – DAY 3 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-07 - ITALIANI-GIOVANILI-CLASSI-IN-DOPPIO-A-PESCARA-DAY-3 - wp2108|nota]] |
-| 6 Settembre 2024 | ITALIANI GIOVANILI CLASSI IN DOPPIO A PESCARA – DAY 2 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-06 - ITALIANI-GIOVANILI-CLASSI-IN-DOPPIO-A-PESCARA-DAY-2 - wp2105|nota]] |
-| 5 Settembre 2024 | ITALIANI GIOVANILI CLASSI IN DOPPIO A PESCARA – DAY 1 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-09-05 - ITALIANI-GIOVANILI-CLASSI-IN-DOPPIO-A-PESCARA-DAY-1 - wp2100|nota]] |

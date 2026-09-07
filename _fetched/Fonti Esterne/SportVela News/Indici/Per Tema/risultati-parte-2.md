@@ -6,6 +6,8 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 29 Maggio 2026 | Calabria e Basilicata salpano con il Vela Day 2026 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - Calabria-e-Basilicata-salpano-con-il-Vela-Day-2026 - wp7351|nota]] |
+| 28 Maggio 2026 | SECONDO POSTO REDAELLI ALL’EURILCA A NEUCHATEL | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-28 - SECONDO-POSTO-REDAELLI-ALL-EURILCA-A-NEUCHATEL - wp7340|nota]] |
 | 27 Maggio 2026 | Trionfo per il Team Giovanile U25 della I Zona FIV alla Regata “La 100 Miglia dell’Alto Adriatico” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - Trionfo-per-il-Team-Giovanile-U25-della-I-Zona-FIV-alla-Regata-La-100-Miglia-dell-Alto-Adriatico - wp7319|nota]] |
 | 27 Maggio 2026 | XII Zona FIV Veneto al Salone Nautico di Venezia: vela, giovani, inclusione e grandi campionesse all’Arsenale | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - XII-Zona-FIV-Veneto-al-Salone-Nautico-di-Venezia-vela-giovani-inclusione-e-grandi-campionesse-all-Arsenale - wp7316|nota]] |
 | 26 Maggio 2026 | Antonella Rizzuto testimonial del Vela Day 2026 della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-26 - Antonella-Rizzuto-testimonial-del-Vela-Day-2026-della-XV-Zona - wp7313|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 23 Gennaio 2026 | I J24 PROTAGONISTI AL XXXV CAMPIONATO INVERNALE DEL PONENTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-23 - I-J24-PROTAGONISTI-AL-XXXV-CAMPIONATO-INVERNALE-DEL-PONENTE - wp5843|nota]] |
 | 22 Gennaio 2026 | FORMAZIONE D’ECCELLENZA: IL COMITATO I ZONA FIV SVELA UN PROGRAMMA ISTRUTTORI 2026 SENZA PRECEDENTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-22 - FORMAZIONE-D-ECCELLENZA-IL-COMITATO-I-ZONA-FIV-SVELA-UN-PROGRAMMA-ISTRUTTORI-2026-SENZA-PRECEDENTI - wp5840|nota]] |
 | 20 Gennaio 2026 | THE OCEAN RACE TORNA A GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-20 - THE-OCEAN-RACE-TORNA-A-GENOVA - wp5834|nota]] |
-| 19 Gennaio 2026 | 35° INVERNALE DEL PONENTE LIGURE, QUINTA E SESTA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-19 - 35-INVERNALE-DEL-PONENTE-LIGURE-QUINTA-E-SESTA-GIORNATA - wp5829|nota]] |
-| 18 Gennaio 2026 | Via col vento: vela, sport e natura protagonisti all’Italia Sport Summit di Viareggio | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - Via-col-vento-vela-sport-e-natura-protagonisti-all-Italia-Sport-Summit-di-Viareggio - wp5824|nota]] |

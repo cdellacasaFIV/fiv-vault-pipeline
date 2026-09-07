@@ -6,6 +6,7 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Settembre 2026 | Cerimonia di apertura dei Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - Cerimonia-di-apertura-dei-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8854|nota]] |
 | 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] |
 | 5 Settembre 2026 | Online la gallery ufficiale di Vela Viva 15 2026 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Online-la-gallery-ufficiale-di-Vela-Viva-15-2026 - wp8848|nota]] |
 | 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 9 Giugno 2026 | PARTITO AD ARENZANO IL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-09 - PARTITO-AD-ARENZANO-IL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp7515|nota]] |
 | 8 Giugno 2026 | MEETING SCUOLA VELA 2026: LE QUATTRO TAPPE DELL’ESTATE 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - MEETING-SCUOLA-VELA-2026-LE-QUATTRO-TAPPE-DELL-ESTATE-2026 - wp7500|nota]] |
 | 8 Giugno 2026 | GAVITELLO D’ARGENTO: SI AGGIUDICA LA VITTORIA SPIRIT OF NERINA DELLO YC CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - GAVITELLO-D-ARGENTO-SI-AGGIUDICA-LA-VITTORIA-SPIRIT-OF-NERINA-DELLO-YC-CHIAVARI - wp7497|nota]] |
-| 8 Giugno 2026 | IL TEAM UNDER 25 DEL COMITATO I ZONA FIV SI LAUREA CAMPIONE ITALIANO U25 DOLPHIN 81 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - IL-TEAM-UNDER-25-DEL-COMITATO-I-ZONA-FIV-SI-LAUREA-CAMPIONE-ITALIANO-U25-DOLPHIN-81 - wp7494|nota]] |

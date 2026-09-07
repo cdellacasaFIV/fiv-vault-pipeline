@@ -6,6 +6,8 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Settembre 2026 | TRE VITTORIE E UN PODIO A VALENCIA PER IL RED BULL ITALY SAILGP TEAM | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - TRE-VITTORIE-E-UN-PODIO-A-VALENCIA-PER-IL-RED-BULL-ITALY-SAILGP-TEAM - wp8857|nota]] |
+| 6 Settembre 2026 | Cerimonia di apertura dei Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - Cerimonia-di-apertura-dei-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8854|nota]] |
 | 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] |
 | 4 Settembre 2026 | Da Crotone al tetto del mondo: Alice Melesa è campionessa mondiale Under 16 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Da-Crotone-al-tetto-del-mondo-Alice-Melesa-e-campionessa-mondiale-Under-16 - wp8836|nota]] |
 | 4 Settembre 2026 | Il Red Bull Italy SailGP Team pronto per Valencia: al via lo Spain Sail Grand Prix | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - Il-Red-Bull-Italy-SailGP-Team-pronto-per-Valencia-al-via-lo-Spain-Sail-Grand-Prix - wp8830|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Maggio 2026 | NEL 2028 IL TROFEO CONI A GENOVA E IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - NEL-2028-IL-TROFEO-CONI-A-GENOVA-E-IN-LIGURIA - wp7365|nota]] |
 | 30 Maggio 2026 | SERATA A VALLETTA CAMBIASO DEDICATA ALLA METEOROLOGIA CON ALESSANDRO PEZZOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - SERATA-A-VALLETTA-CAMBIASO-DEDICATA-ALLA-METEOROLOGIA-CON-ALESSANDRO-PEZZOLI - wp7362|nota]] |
 | 30 Maggio 2026 | MELGES 24 EUROPEAN SAILING SERIES: SECONDO MELGINA DI PAOLO BRESCIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - MELGES-24-EUROPEAN-SAILING-SERIES-SECONDO-MELGINA-DI-PAOLO-BRESCIA - wp7358|nota]] |
-| 29 Maggio 2026 | Calabria e Basilicata salpano con il Vela Day 2026 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - Calabria-e-Basilicata-salpano-con-il-Vela-Day-2026 - wp7351|nota]] |
-| 28 Maggio 2026 | SECONDO POSTO REDAELLI ALL’EURILCA A NEUCHATEL | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-28 - SECONDO-POSTO-REDAELLI-ALL-EURILCA-A-NEUCHATEL - wp7340|nota]] |

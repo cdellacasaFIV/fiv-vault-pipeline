@@ -6,6 +6,8 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Gennaio 2026 | 35° INVERNALE DEL PONENTE LIGURE, QUINTA E SESTA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-19 - 35-INVERNALE-DEL-PONENTE-LIGURE-QUINTA-E-SESTA-GIORNATA - wp5829|nota]] |
+| 18 Gennaio 2026 | Via col vento: vela, sport e natura protagonisti all’Italia Sport Summit di Viareggio | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - Via-col-vento-vela-sport-e-natura-protagonisti-all-Italia-Sport-Summit-di-Viareggio - wp5824|nota]] |
 | 18 Gennaio 2026 | 50° INVERNALE DEL TIGULLIO: GRANDE EQUILIBRIO IN AVVIO DI 2a MANCHE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - 50-INVERNALE-DEL-TIGULLIO-GRANDE-EQUILIBRIO-IN-AVVIO-DI-2a-MANCHE - wp5818|nota]] |
 | 18 Gennaio 2026 | La Fiamma Olimpica abbraccia i circoli della XIV Zona FIV | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - La-Fiamma-Olimpica-abbraccia-i-circoli-della-XIV-Zona-FIV - wp5795|nota]] |
 | 18 Gennaio 2026 | RITORNA IL CORSO M.A.R.E. DOPO LE DUE EDIZIONI DI SUCCESSO DEL 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-18 - RITORNA-IL-CORSO-M-A-R-E-DOPO-LE-DUE-EDIZIONI-DI-SUCCESSO-DEL-2025 - wp5791|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Settembre 2025 | LA DIREZIONE TECNICA DELLA I ZONA FIV PRESENTA LE ATTIVITÀ 2025 E I PROGRAMMI DI SVILUPPO FUTURI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-21 - LA-DIREZIONE-TECNICA-DELLA-I-ZONA-FIV-PRESENTA-LE-ATTIVITA-2025-E-I-PROGRAMMI-DI-SVILUPPO-FUTURI - wp4447|nota]] |
 | 20 Settembre 2025 | Trofeo CONI 2025 – La vela veneta protagonista a Lignano Sabbiadoro | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-20 - Trofeo-CONI-2025-La-vela-veneta-protagonista-a-Lignano-Sabbiadoro - wp4438|nota]] |
 | 20 Settembre 2025 | WATERFRONT SAILING CLUB PROTAGONISTA AL 65° SALONE NAUTICO DI GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-20 - WATERFRONT-SAILING-CLUB-PROTAGONISTA-AL-65-SALONE-NAUTICO-DI-GENOVA - wp4430|nota]] |
-| 19 Settembre 2025 | WingFoil: dalla II zona al mondo | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - WingFoil-dalla-II-zona-al-mondo - wp4426|nota]] |
-| 19 Settembre 2025 | Memorial Ballanti-Saiani. Tappa Coppa Italia iQFoil YJ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - Memorial-Ballanti-Saiani-Tappa-Coppa-Italia-iQFoil-YandJ - wp4417|nota]] |
