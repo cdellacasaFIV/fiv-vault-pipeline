@@ -6,6 +6,8 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Aprile 2024 | Iniziata oggi la 55ª Semaine Olympique Française de Hyères: tappa cruciale per molte nazioni impegnate nella Last Chance Regatta | Copertina, Mission Paris 2024, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-21 - Iniziata-oggi-la-55a-Semaine-Olympique-Francaise-de-Hyeres-tappa-cruciale-per-molte-nazioni-impegnate-nella-La - wp1666|nota]] |
+| 16 Aprile 2024 | Si è accesa la fiamma Olimpica: un ponte tra passato e presente | Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-16 - Si-e-accesa-la-fiamma-Olimpica-un-ponte-tra-passato-e-presente - wp1658|nota]] |
 | 12 Aprile 2024 | 2024 ILCA 4 Youth European Championships: Italia oro e doppio bronzo | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-12 - 2024-ILCA-4-Youth-European-Championships-Italia-oro-e-doppio-bronzo - wp1639|nota]] |
 | 6 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: la squadra italiana vince il medagliere. Quattro medaglie: due ori e due argenti | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-la-squadra-italiana-vince-il-medagliere-Quattro-medaglie-due-ori-e-due-arg - wp1624|nota]] |
 | 6 Aprile 2024 | 2024 ILCA 4 Youth Europeans: oggi la cerimonia di apertura con 411 velisti | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 2024-ILCA-4-Youth-Europeans-oggi-la-cerimonia-di-apertura-con-411-velisti - wp1612|nota]] |

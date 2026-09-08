@@ -10,12 +10,6 @@ Uso: accesso rapido a classifiche finali complete di classi giovanili, RS, Wing/
 | 2026 | Para World Sailing Competition | Para Inclusive One Person Keelboat (2.4 Metre) - Para Men | 2 | [[Dati CSV/24-Metre__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-2-4-Metre-Para-Men__Sneekweek-Hansa-Liberty-2-4-Metre__f9c05f04.csv|CSV]] | https://sailing.org/regatta/sneekweek-hansa-liberty-2-4-metre?ref=NED202607RTS |
 | 2026 | Para World Sailing Competition | Para Inclusive One Person Keelboat (2.4 Metre) - Inclusive | 13 | [[Dati CSV/24-Metre__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-2-4-Metre-Inclusive__Sneekweek-Hansa-Liberty-2-4-Metre__ca936851.csv|CSV]] | https://sailing.org/regatta/sneekweek-hansa-liberty-2-4-metre?ref=NED202607RTS |
 
-## 29er
-
-| Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |
-| --- | --- | --- | --- | --- | --- |
-| 2026 | World Championships | 29er Open | 276 | [[Dati CSV/29er__World-Championships__2026__29er-Open__29er-World-Championship__a9aa96b9.csv|CSV]] | https://sailing.org/regatta/29er-world-championship?ref=DEN202407EDB |
-
 ## IKA - Formula Kite
 
 | Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |

@@ -6,6 +6,10 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Febbraio 2026 | CONCLUSO IL CAMPIONATO INVERNALE DI MARINA DI LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-IL-CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO - wp5969|nota]] |
+| 11 Febbraio 2026 | AD ANDORA LA PRIMA TAPPA DELL’ITALIA CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - AD-ANDORA-LA-PRIMA-TAPPA-DELL-ITALIA-CUP-2026 - wp5965|nota]] |
+| 11 Febbraio 2026 | CONCLUSO CON SUCCESSO IL CORSO M.A.R.E. A RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-CON-SUCCESSO-IL-CORSO-M-A-R-E-A-RAPALLO - wp5953|nota]] |
+| 6 Febbraio 2026 | Il windsurf olimpico iQFoil al MUSE di Trento | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-06 - Il-windsurf-olimpico-iQFoil-al-MUSE-di-Trento - wp5938|nota]] |
 | 5 Febbraio 2026 | Due appuntamenti per rilanciare l’attività di formazione para sailing FIV e CIP | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - Due-appuntamenti-per-rilanciare-l-attivita-di-formazione-para-sailing-FIV-e-CIP - wp5928|nota]] |
 | 5 Febbraio 2026 | LA NUOVA SFIDA DI ALESSIO CINDOLO NELL’ILCA 7 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - LA-NUOVA-SFIDA-DI-ALESSIO-CINDOLO-NELL-ILCA-7 - wp5915|nota]] |
 | 5 Febbraio 2026 | La vela siciliana premia i suoi campioni | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - La-vela-siciliana-premia-i-suoi-campioni - wp5909|nota]] |
@@ -252,7 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 20 Luglio 2025 | Lorenzo Sorrenti vola a Gdynia per la Finale Mondiale di eSailing | e-sailing, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-20 - Lorenzo-Sorrenti-vola-a-Gdynia-per-la-Finale-Mondiale-di-eSailing - wp3402|nota]] |
 | 19 Luglio 2025 | REGATA D’ALTURA O COSTIERA ?SCEGLI IL TUO PERCORSO ALLE “REGATE DELLE ISOLE” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-19 - REGATA-D-ALTURA-O-COSTIERA-SCEGLI-IL-TUO-PERCORSO-ALLE-REGATE-DELLE-ISOLE - wp3390|nota]] |
 | 17 Luglio 2025 | XIV Zona FIV a Sport Expo di Verona | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-17 - XIV-Zona-FIV-a-Sport-Expo-di-Verona - wp3329|nota]] |
-| 17 Luglio 2025 | Al via il Campionato del Mondo ILCA 4 Youth 2025 a Los Angeles | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-17 - Al-via-il-Campionato-del-Mondo-ILCA-4-Youth-2025-a-Los-Angeles - wp3324|nota]] |
-| 16 Luglio 2025 | Terza regata nazionale Hansa 303: grande successo a Ravenna | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-16 - Terza-regata-nazionale-Hansa-303-grande-successo-a-Ravenna - wp3318|nota]] |
-| 12 Luglio 2025 | 470 Junior World Championships 2025: doppio bronzo per l’Italia a Los Alcázares | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-12 - 470-Junior-World-Championships-2025-doppio-bronzo-per-l-Italia-a-Los-Alcazares - wp3301|nota]] |
-| 10 Luglio 2025 | Navigare Insieme: l’Italia senza barriere, successo per la VI tappa a Ravenna in programma fino a venerdì 11 luglio | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-10 - Navigare-Insieme-l-Italia-senza-barriere-successo-per-la-VI-tappa-a-Ravenna-in-programma-fino-a-venerdi-11-lug - wp3289|nota]] |

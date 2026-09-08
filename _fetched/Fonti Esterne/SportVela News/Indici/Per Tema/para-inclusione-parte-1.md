@@ -6,6 +6,9 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Settembre 2026 | C.N. MARINA GENOVA AEROPORTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - C-N-MARINA-GENOVA-AEROPORTO - wp8890|nota]] |
+| 7 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, prima giornata da urlo! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-prima-giornata-da-urlo - wp8882|nota]] |
+| 7 Settembre 2026 | “Navigare Insieme: l’Italia senza Barriere” – la vela inclusiva fa tappa a Venezia | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - Navigare-Insieme-l-Italia-senza-Barriere-la-vela-inclusiva-fa-tappa-a-Venezia - wp8871|nota]] |
 | 6 Settembre 2026 | TRE VITTORIE E UN PODIO A VALENCIA PER IL RED BULL ITALY SAILGP TEAM | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - TRE-VITTORIE-E-UN-PODIO-A-VALENCIA-PER-IL-RED-BULL-ITALY-SAILGP-TEAM - wp8857|nota]] |
 | 6 Settembre 2026 | Cerimonia di apertura dei Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - Cerimonia-di-apertura-dei-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8854|nota]] |
 | 4 Settembre 2026 | IMPERIA CAPITALE DELLA VELA: UNA DOPPIA FESTA TRA STORIA, CULTURA E SPORT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - IMPERIA-CAPITALE-DELLA-VELA-UNA-DOPPIA-FESTA-TRA-STORIA-CULTURA-E-SPORT - wp8818|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 27 Ottobre 2025 | L’EQUIPAGGIO DELLA I ZONA CONQUISTA IL TERZO POSTO AL CAMPIONATO ITALIANO DELLE ZONE FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-27 - L-EQUIPAGGIO-DELLA-I-ZONA-CONQUISTA-IL-TERZO-POSTO-AL-CAMPIONATO-ITALIANO-DELLE-ZONE-FIV - wp5099|nota]] |
 | 27 Ottobre 2025 | Bronzo per Davide Di Maria ai World Abilitysport Beach Games di Mersin | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-27 - Bronzo-per-Davide-Di-Maria-ai-World-Abilitysport-Beach-Games-di-Mersin - wp5073|nota]] |
 | 26 Ottobre 2025 | Due podi overall, dominio giovanile e Nations Cup per l’Italia al Nacra 15 European Championship 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-26 - Due-podi-overall-dominio-giovanile-e-Nations-Cup-per-l-Italia-al-Nacra-15-European-Championship-2025 - wp5062|nota]] |
-| 26 Ottobre 2025 | Luca Rosetti. In Oceano anche un po’ di Adriatico. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-26 - Luca-Rosetti-In-Oceano-anche-un-po-di-Adriatico - wp5056|nota]] |
-| 25 Ottobre 2025 | Campionati Italiani delle Zone FIV 2025: DAY 2 | Copertina, News, XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-25 - Campionati-Italiani-delle-Zone-FIV-2025-DAY-2 - wp5037|nota]] |
-| 24 Ottobre 2025 | IV Campionato Italiano delle Zone FIV 2025: DAY 1 | Copertina, News, XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-24 - IV-Campionato-Italiano-delle-Zone-FIV-2025-DAY-1 - wp5023|nota]] |

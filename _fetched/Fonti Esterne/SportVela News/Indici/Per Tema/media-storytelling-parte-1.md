@@ -6,6 +6,10 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Settembre 2026 | IMPERIA, SUCCESSO PER “SPORT A VELE SPIEGATE” Oltre 350 bambini protagonisti in Calata Anselmi | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - IMPERIA-SUCCESSO-PER-SPORT-A-VELE-SPIEGATE-Oltre-350-bambini-protagonisti-in-Calata-Anselmi - wp8895|nota]] |
+| 7 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, prima giornata da urlo! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-prima-giornata-da-urlo - wp8882|nota]] |
+| 7 Settembre 2026 | Mondiale iQFOiL, Renna parte forte a Weymouth, è quinto a due punti dalla vetta | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - Mondiale-iQFOiL-Renna-parte-forte-a-Weymouth-e-quinto-a-due-punti-dalla-vetta - wp8879|nota]] |
+| 7 Settembre 2026 | VELE D’EPOCA DI IMPERIA, I VINCITORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - VELE-D-EPOCA-DI-IMPERIA-I-VINCITORI - wp8866|nota]] |
 | 6 Settembre 2026 | Cerimonia di apertura dei Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - Cerimonia-di-apertura-dei-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8854|nota]] |
 | 5 Settembre 2026 | Online la gallery ufficiale di Vela Viva 15 2026 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Online-la-gallery-ufficiale-di-Vela-Viva-15-2026 - wp8848|nota]] |
 | 4 Settembre 2026 | VELE D’EPOCA: MAURO PELASCHIER SI RACCONTA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-04 - VELE-D-EPOCA-MAURO-PELASCHIER-SI-RACCONTA - wp8827|nota]] |
@@ -252,7 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 16 Febbraio 2026 | A TOMMASO BOIOCCHI LA CARNIVAL ALASSIO WASZP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - A-TOMMASO-BOIOCCHI-LA-CARNIVAL-ALASSIO-WASZP - wp6003|nota]] |
 | 15 Febbraio 2026 | Premiazioni XIV Zona FIV 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-15 - Premiazioni-XIV-Zona-FIV-2025 - wp5991|nota]] |
 | 13 Febbraio 2026 | SARA VALENTE: IL 2025 NEL SEGNO DEL TRICOLORE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-13 - SARA-VALENTE-IL-2025-NEL-SEGNO-DEL-TRICOLORE - wp5982|nota]] |
-| 11 Febbraio 2026 | CONCLUSO IL CAMPIONATO INVERNALE DI MARINA DI LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-IL-CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO - wp5969|nota]] |
-| 11 Febbraio 2026 | AD ANDORA LA PRIMA TAPPA DELL’ITALIA CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - AD-ANDORA-LA-PRIMA-TAPPA-DELL-ITALIA-CUP-2026 - wp5965|nota]] |
-| 11 Febbraio 2026 | CONCLUSO CON SUCCESSO IL CORSO M.A.R.E. A RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-CON-SUCCESSO-IL-CORSO-M-A-R-E-A-RAPALLO - wp5953|nota]] |
-| 6 Febbraio 2026 | Il windsurf olimpico iQFoil al MUSE di Trento | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-06 - Il-windsurf-olimpico-iQFoil-al-MUSE-di-Trento - wp5938|nota]] |

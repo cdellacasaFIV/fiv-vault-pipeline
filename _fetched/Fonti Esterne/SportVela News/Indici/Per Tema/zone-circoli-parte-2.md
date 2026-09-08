@@ -6,6 +6,12 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Giugno 2026 | VELA DAY IN LIGURIA: EMOZIONI A NON FINIRE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-10 - VELA-DAY-IN-LIGURIA-EMOZIONI-A-NON-FINIRE - wp7526|nota]] |
+| 10 Giugno 2026 | DAL 10 AL 12 SETTEMBRE A IMPERIA “REGATE DELLE ISOLE” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-10 - DAL-10-AL-12-SETTEMBRE-A-IMPERIA-REGATE-DELLE-ISOLE - wp7523|nota]] |
+| 9 Giugno 2026 | Stefano Casadei sul podio al Campionato Italiano Contender sul Lago d’Idro. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-09 - Stefano-Casadei-sul-podio-al-Campionato-Italiano-Contender-sul-Lago-d-Idro - wp7519|nota]] |
+| 9 Giugno 2026 | PARTITO AD ARENZANO IL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-09 - PARTITO-AD-ARENZANO-IL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp7515|nota]] |
+| 8 Giugno 2026 | MEETING SCUOLA VELA 2026: LE QUATTRO TAPPE DELL’ESTATE 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - MEETING-SCUOLA-VELA-2026-LE-QUATTRO-TAPPE-DELL-ESTATE-2026 - wp7500|nota]] |
+| 8 Giugno 2026 | GAVITELLO D’ARGENTO: SI AGGIUDICA LA VITTORIA SPIRIT OF NERINA DELLO YC CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - GAVITELLO-D-ARGENTO-SI-AGGIUDICA-LA-VITTORIA-SPIRIT-OF-NERINA-DELLO-YC-CHIAVARI - wp7497|nota]] |
 | 8 Giugno 2026 | IL TEAM UNDER 25 DEL COMITATO I ZONA FIV SI LAUREA CAMPIONE ITALIANO U25 DOLPHIN 81 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - IL-TEAM-UNDER-25-DEL-COMITATO-I-ZONA-FIV-SI-LAUREA-CAMPIONE-ITALIANO-U25-DOLPHIN-81 - wp7494|nota]] |
 | 8 Giugno 2026 | Alla LNI Salerno il 14 giugno “No Matter Where”, staffetta multisportiva nel ricordo di Fabrizio Marotta | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - Alla-LNI-Salerno-il-14-giugno-No-Matter-Where-staffetta-multisportiva-nel-ricordo-di-Fabrizio-Marotta - wp7485|nota]] |
 | 8 Giugno 2026 | CHE SUCCESSO PER IL VELA DAY ZONALE DI SAVONA (foto) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - CHE-SUCCESSO-PER-IL-VELA-DAY-ZONALE-DI-SAVONA-foto - wp7479|nota]] |
@@ -250,9 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 6 Marzo 2026 | VELA SCUOLA: UN ANNO INTENSO IN I-ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-06 - VELA-SCUOLA-UN-ANNO-INTENSO-IN-I-ZONA-FIV - wp6239|nota]] |
 | 4 Marzo 2026 | Online la nuova Web App V Zona FIV per UdR | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-04 - Online-la-nuova-Web-App-V-Zona-FIV-per-UdR - wp6217|nota]] |
 | 4 Marzo 2026 | I J24 protagonisti all’Invernale di Cervia. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-04 - I-J24-protagonisti-all-Invernale-di-Cervia - wp6214|nota]] |
-| 4 Marzo 2026 | Yacht Club Rimini. Gli Optimist animano la stagione agonistica di Rimini. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-04 - Yacht-Club-Rimini-Gli-Optimist-animano-la-stagione-agonistica-di-Rimini - wp6221|nota]] |
-| 3 Marzo 2026 | Primo raduno ILCA a Crotone e selezioni zonali. Un weekend denso di attività e grande partecipazione | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - Primo-raduno-ILCA-a-Crotone-e-selezioni-zonali-Un-weekend-denso-di-attivita-e-grande-partecipazione - wp6207|nota]] |
-| 3 Marzo 2026 | È online la nuova Web App XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - E-online-la-nuova-Web-App-XV-Zona - wp6202|nota]] |
-| 3 Marzo 2026 | La Scuola di Mare del Club Nautico Rimini è da quest’anno intitolata a Lino Mazza | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - La-Scuola-di-Mare-del-Club-Nautico-Rimini-e-da-quest-anno-intitolata-a-Lino-Mazza - wp6226|nota]] |
-| 3 Marzo 2026 | PERFEZIONAMENTO OFFSHORE ALTURA–MINI 6.50 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - PERFEZIONAMENTO-OFFSHORE-ALTURA-MINI-6-50 - wp6198|nota]] |
-| 3 Marzo 2026 | 35a EDIZIONE DELL’INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - 35a-EDIZIONE-DELL-INTERCIRCOLI - wp6194|nota]] |

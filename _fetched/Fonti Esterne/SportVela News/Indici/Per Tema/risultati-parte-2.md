@@ -6,6 +6,14 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Giugno 2026 | FEDERICO BERGAMASCO AL GALÀ DELLE STELLE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-03 - FEDERICO-BERGAMASCO-AL-GALA-DELLE-STELLE - wp7409|nota]] |
+| 2 Giugno 2026 | REGATA NAZIONALE MULTICLASSE A PESCARA | IX Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-02 - REGATA-NAZIONALE-MULTICLASSE-A-PESCARA - wp7405|nota]] |
+| 1 Giugno 2026 | Europeo J/22: Pestifera (LNI Napoli) conquista la medaglia di bronzo | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-01 - Europeo-J-22-Pestifera-LNI-Napoli-conquista-la-medaglia-di-bronzo - wp7381|nota]] |
+| 31 Maggio 2026 | LORO PIANA GIRAGLIA: PIÙ DI UNA REGATA, UNA TRADIZIONE SENZA TEMPO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-31 - LORO-PIANA-GIRAGLIA-PIU-DI-UNA-REGATA-UNA-TRADIZIONE-SENZA-TEMPO - wp7374|nota]] |
+| 31 Maggio 2026 | La Cinquecento Trofeo iMilani 2026: 29 barche al via da Caorle | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-31 - La-Cinquecento-Trofeo-iMilani-2026-29-barche-al-via-da-Caorle - wp7371|nota]] |
+| 30 Maggio 2026 | NEL 2028 IL TROFEO CONI A GENOVA E IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - NEL-2028-IL-TROFEO-CONI-A-GENOVA-E-IN-LIGURIA - wp7365|nota]] |
+| 30 Maggio 2026 | SERATA A VALLETTA CAMBIASO DEDICATA ALLA METEOROLOGIA CON ALESSANDRO PEZZOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - SERATA-A-VALLETTA-CAMBIASO-DEDICATA-ALLA-METEOROLOGIA-CON-ALESSANDRO-PEZZOLI - wp7362|nota]] |
+| 30 Maggio 2026 | MELGES 24 EUROPEAN SAILING SERIES: SECONDO MELGINA DI PAOLO BRESCIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-30 - MELGES-24-EUROPEAN-SAILING-SERIES-SECONDO-MELGINA-DI-PAOLO-BRESCIA - wp7358|nota]] |
 | 29 Maggio 2026 | Calabria e Basilicata salpano con il Vela Day 2026 | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-29 - Calabria-e-Basilicata-salpano-con-il-Vela-Day-2026 - wp7351|nota]] |
 | 28 Maggio 2026 | SECONDO POSTO REDAELLI ALL’EURILCA A NEUCHATEL | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-28 - SECONDO-POSTO-REDAELLI-ALL-EURILCA-A-NEUCHATEL - wp7340|nota]] |
 | 27 Maggio 2026 | Trionfo per il Team Giovanile U25 della I Zona FIV alla Regata “La 100 Miglia dell’Alto Adriatico” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-27 - Trionfo-per-il-Team-Giovanile-U25-della-I-Zona-FIV-alla-Regata-La-100-Miglia-dell-Alto-Adriatico - wp7319|nota]] |
@@ -248,11 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 2 Febbraio 2026 | DRAGON WINTER SERIES: VITTORIA PER TERGESTE DI BEPPE ZAOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-02 - DRAGON-WINTER-SERIES-VITTORIA-PER-TERGESTE-DI-BEPPE-ZAOLI - wp5890|nota]] |
 | 1 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO: VITTORIE PER CHESTRESS3, SEASE E MARY STAR OF THE SEA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-01 - 50-INVERNALE-DEL-TIGULLIO-VITTORIE-PER-CHESTRESS3-SEASE-E-MARY-STAR-OF-THE-SEA - wp5885|nota]] |
 | 30 Gennaio 2026 | SI APRONO LE ISCRIZIONI PER IL 35° CAMPIONATO INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-30 - SI-APRONO-LE-ISCRIZIONI-PER-IL-35-CAMPIONATO-INTERCIRCOLI - wp5876|nota]] |
-| 29 Gennaio 2026 | CAMPIONATO INVERNALE MARINA DI LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-29 - CAMPIONATO-INVERNALE-MARINA-DI-LOANO - wp5867|nota]] |
-| 29 Gennaio 2026 | GUIDA SINTETICA AL PERCORSO PER DIVENTARE ISTRUTTORE FIV DI I LIVELLO ISV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-29 - GUIDA-SINTETICA-AL-PERCORSO-PER-DIVENTARE-ISTRUTTORE-FIV-DI-I-LIVELLO-ISV - wp5864|nota]] |
-| 29 Gennaio 2026 | 50° INVERNALE DEL TIGULLIO: PENULTIMO ATTO NEL WEEK END | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-29 - 50-INVERNALE-DEL-TIGULLIO-PENULTIMO-ATTO-NEL-WEEK-END - wp5861|nota]] |
-| 28 Gennaio 2026 | NAVIGARE SENZA CONFINI: AL VIA A GENOVA IL CORSO SRC (Short Range Certificate) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-28 - NAVIGARE-SENZA-CONFINI-AL-VIA-A-GENOVA-IL-CORSO-SRC-Short-Range-Certificate - wp5856|nota]] |
-| 24 Gennaio 2026 | ILCA Under 21 Worlds 2026: tre ori all’Italia a Lanzarote | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-24 - ILCA-Under-21-Worlds-2026-tre-ori-all-Italia-a-Lanzarote - wp5848|nota]] |
-| 23 Gennaio 2026 | I J24 PROTAGONISTI AL XXXV CAMPIONATO INVERNALE DEL PONENTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-23 - I-J24-PROTAGONISTI-AL-XXXV-CAMPIONATO-INVERNALE-DEL-PONENTE - wp5843|nota]] |
-| 22 Gennaio 2026 | FORMAZIONE D’ECCELLENZA: IL COMITATO I ZONA FIV SVELA UN PROGRAMMA ISTRUTTORI 2026 SENZA PRECEDENTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-22 - FORMAZIONE-D-ECCELLENZA-IL-COMITATO-I-ZONA-FIV-SVELA-UN-PROGRAMMA-ISTRUTTORI-2026-SENZA-PRECEDENTI - wp5840|nota]] |
-| 20 Gennaio 2026 | THE OCEAN RACE TORNA A GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-20 - THE-OCEAN-RACE-TORNA-A-GENOVA - wp5834|nota]] |

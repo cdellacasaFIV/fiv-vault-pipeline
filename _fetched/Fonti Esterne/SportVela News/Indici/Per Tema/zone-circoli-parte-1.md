@@ -6,6 +6,12 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Settembre 2026 | IMPERIA, SUCCESSO PER “SPORT A VELE SPIEGATE” Oltre 350 bambini protagonisti in Calata Anselmi | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - IMPERIA-SUCCESSO-PER-SPORT-A-VELE-SPIEGATE-Oltre-350-bambini-protagonisti-in-Calata-Anselmi - wp8895|nota]] |
+| 8 Settembre 2026 | C.N. MARINA GENOVA AEROPORTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - C-N-MARINA-GENOVA-AEROPORTO - wp8890|nota]] |
+| 7 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, prima giornata da urlo! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-prima-giornata-da-urlo - wp8882|nota]] |
+| 7 Settembre 2026 | “Navigare Insieme: l’Italia senza Barriere” – la vela inclusiva fa tappa a Venezia | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - Navigare-Insieme-l-Italia-senza-Barriere-la-vela-inclusiva-fa-tappa-a-Venezia - wp8871|nota]] |
+| 7 Settembre 2026 | PODIO D’ARGENTO E PREMIO ELEGANZA PER ARIA ALLE VELE D’EPOCA DI IMPERIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - PODIO-D-ARGENTO-E-PREMIO-ELEGANZA-PER-ARIA-ALLE-VELE-D-EPOCA-DI-IMPERIA - wp8870|nota]] |
+| 7 Settembre 2026 | VELE D’EPOCA DI IMPERIA, I VINCITORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - VELE-D-EPOCA-DI-IMPERIA-I-VINCITORI - wp8866|nota]] |
 | 6 Settembre 2026 | Cerimonia di apertura dei Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-06 - Cerimonia-di-apertura-dei-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8854|nota]] |
 | 5 Settembre 2026 | Martina Corno è Campionessa Italiana ILCA 4 U18 femminile a Ravenna | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Martina-Corno-e-Campionessa-Italiana-ILCA-4-U18-femminile-a-Ravenna - wp8851|nota]] |
 | 5 Settembre 2026 | Online la gallery ufficiale di Vela Viva 15 2026 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-05 - Online-la-gallery-ufficiale-di-Vela-Viva-15-2026 - wp8848|nota]] |
@@ -250,9 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 11 Giugno 2026 | SWITCH GRAND PRIX: OTTIMA PERFORMANCE PER FEDERICO BERGAMASCO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-11 - SWITCH-GRAND-PRIX-OTTIMA-PERFORMANCE-PER-FEDERICO-BERGAMASCO - wp7542|nota]] |
 | 11 Giugno 2026 | ALLA FESTA DELLO SPORT 2026 ANCHE IL CS-MACH1 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-11 - ALLA-FESTA-DELLO-SPORT-2026-ANCHE-IL-CS-MACH1 - wp7539|nota]] |
 | 10 Giugno 2026 | A Salerno la nuova edizione del Match Race per Non Vedenti (13 e 14 giugno) | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-10 - A-Salerno-la-nuova-edizione-del-Match-Race-per-Non-Vedenti-13-e-14-giugno - wp7488|nota]] |
-| 10 Giugno 2026 | VELA DAY IN LIGURIA: EMOZIONI A NON FINIRE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-10 - VELA-DAY-IN-LIGURIA-EMOZIONI-A-NON-FINIRE - wp7526|nota]] |
-| 10 Giugno 2026 | DAL 10 AL 12 SETTEMBRE A IMPERIA “REGATE DELLE ISOLE” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-10 - DAL-10-AL-12-SETTEMBRE-A-IMPERIA-REGATE-DELLE-ISOLE - wp7523|nota]] |
-| 9 Giugno 2026 | Stefano Casadei sul podio al Campionato Italiano Contender sul Lago d’Idro. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-09 - Stefano-Casadei-sul-podio-al-Campionato-Italiano-Contender-sul-Lago-d-Idro - wp7519|nota]] |
-| 9 Giugno 2026 | PARTITO AD ARENZANO IL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-09 - PARTITO-AD-ARENZANO-IL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp7515|nota]] |
-| 8 Giugno 2026 | MEETING SCUOLA VELA 2026: LE QUATTRO TAPPE DELL’ESTATE 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - MEETING-SCUOLA-VELA-2026-LE-QUATTRO-TAPPE-DELL-ESTATE-2026 - wp7500|nota]] |
-| 8 Giugno 2026 | GAVITELLO D’ARGENTO: SI AGGIUDICA LA VITTORIA SPIRIT OF NERINA DELLO YC CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - GAVITELLO-D-ARGENTO-SI-AGGIUDICA-LA-VITTORIA-SPIRIT-OF-NERINA-DELLO-YC-CHIAVARI - wp7497|nota]] |

@@ -6,6 +6,11 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 7 Aprile 2026 | Cervia. Il J24 Jorè dei fratelli Errani vince il Campionato Invernale XX Memorial Stefano Pirini. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-07 - Cervia-Il-J24-Jore-dei-fratelli-Errani-vince-il-Campionato-Invernale-XX-Memorial-Stefano-Pirini - wp6549|nota]] |
+| 3 Aprile 2026 | Campionato del Mondo Techno 293 & 293 Plus: a Foçal’Italia al via con una squadra numerosa e ambiziosa | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-03 - Campionato-del-Mondo-Techno-293-and-293-Plus-a-Focal-Italia-al-via-con-una-squadra-numerosa-e-ambiziosa - wp6527|nota]] |
+| 2 Aprile 2026 | Modelvela. Attenti a quei 3. Ancora un altro podio tutto romagnolo al Campionato Italiano IOM | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-02 - Modelvela-Attenti-a-quei-3-Ancora-un-altro-podio-tutto-romagnolo-al-Campionato-Italiano-IOM - wp6518|nota]] |
+| 31 Marzo 2026 | Al Liceo Basile la vela sale in Cattedra | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-31 - Al-Liceo-Basile-la-vela-sale-in-Cattedra - wp6472|nota]] |
+| 30 Marzo 2026 | Minialtura U25: Concluso il primo raduno al Club Velico Trasimeno. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - Minialtura-U25-Concluso-il-primo-raduno-al-Club-Velico-Trasimeno - wp6466|nota]] |
 | 30 Marzo 2026 | A DIANO MARINA IL 55° TROFEO PRIMAVERA E IL 3° TROFEO NONNA CLELIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - A-DIANO-MARINA-IL-55-TROFEO-PRIMAVERA-E-IL-3-TROFEO-NONNA-CLELIA - wp6461|nota]] |
 | 29 Marzo 2026 | Nel 2027 i WASZP Games tornano sul Lago di Garda | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-29 - Nel-2027-i-WASZP-Games-tornano-sul-Lago-di-Garda - wp6435|nota]] |
 | 27 Marzo 2026 | Fine settimana all’insegna della formazione per la V Zona FIV | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-27 - Fine-settimana-all-insegna-della-formazione-per-la-V-Zona-FIV - wp6428|nota]] |
@@ -251,8 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 8 Settembre 2025 | Giovani talenti della Foil Academy sul podio alla 69F Cup di Malcesine | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - Giovani-talenti-della-Foil-Academy-sul-podio-alla-69F-Cup-di-Malcesine - wp4222|nota]] |
 | 8 Settembre 2025 | Giulia Marella campionessa italiana ILCA 4 Under 18 femminile | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - Giulia-Marella-campionessa-italiana-ILCA-4-Under-18-femminile - wp4217|nota]] |
 | 8 Settembre 2025 | THE OCEAN RACE EUROPE: | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - THE-OCEAN-RACE-EUROPE - wp4214|nota]] |
-| 7 Settembre 2025 | Conclusi sul Garda Trentino i Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - Conclusi-sul-Garda-Trentino-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4202|nota]] |
-| 7 Settembre 2025 | The Ocean Race Europe 2025 saluta Genova, arrivo in Montenegro | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - The-Ocean-Race-Europe-2025-saluta-Genova-arrivo-in-Montenegro - wp4199|nota]] |
-| 7 Settembre 2025 | VELE D’EPOCA DI IMPERIA: ARIA E CRIVIZZA TRIONFANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - VELE-D-EPOCA-DI-IMPERIA-ARIA-E-CRIVIZZA-TRIONFANO - wp4196|nota]] |
-| 6 Settembre 2025 | Giulia Marella – Un viaggio di vela e talento | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Giulia-Marella-Un-viaggio-di-vela-e-talento - wp4193|nota]] |
-| 6 Settembre 2025 | Meeting Zonale 2025 della XII Zona FIV – “La Festa delle Scuole Vela” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Meeting-Zonale-2025-della-XII-Zona-FIV-La-Festa-delle-Scuole-Vela - wp4190|nota]] |

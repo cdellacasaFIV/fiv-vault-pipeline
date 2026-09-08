@@ -6,6 +6,11 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 7 Settembre 2025 | Conclusi sul Garda Trentino i Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - Conclusi-sul-Garda-Trentino-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4202|nota]] |
+| 7 Settembre 2025 | The Ocean Race Europe 2025 saluta Genova, arrivo in Montenegro | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - The-Ocean-Race-Europe-2025-saluta-Genova-arrivo-in-Montenegro - wp4199|nota]] |
+| 7 Settembre 2025 | VELE D’EPOCA DI IMPERIA: ARIA E CRIVIZZA TRIONFANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - VELE-D-EPOCA-DI-IMPERIA-ARIA-E-CRIVIZZA-TRIONFANO - wp4196|nota]] |
+| 6 Settembre 2025 | Giulia Marella – Un viaggio di vela e talento | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Giulia-Marella-Un-viaggio-di-vela-e-talento - wp4193|nota]] |
+| 6 Settembre 2025 | Meeting Zonale 2025 della XII Zona FIV – “La Festa delle Scuole Vela” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Meeting-Zonale-2025-della-XII-Zona-FIV-La-Festa-delle-Scuole-Vela - wp4190|nota]] |
 | 6 Settembre 2025 | Penultimo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Penultimo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Tre - wp4188|nota]] |
 | 6 Settembre 2025 | YC CHIAVARI, IL TROFEO ELVIO BOTTO APRE IL CAMPIONATO VELA D’AUTUNNO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - YC-CHIAVARI-IL-TROFEO-ELVIO-BOTTO-APRE-IL-CAMPIONATO-VELA-D-AUTUNNO - wp4182|nota]] |
 | 5 Settembre 2025 | Secondo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-05 - Secondo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Trent - wp4180|nota]] |
