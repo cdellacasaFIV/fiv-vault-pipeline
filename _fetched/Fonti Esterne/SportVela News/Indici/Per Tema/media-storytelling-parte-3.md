@@ -6,6 +6,11 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Luglio 2025 | Para sailing Fiv: Marina di Ravenna ha ospitato le regate dei Campionati Nazionali e la VI tappa di Navigare Insieme. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-21 - Para-sailing-Fiv-Marina-di-Ravenna-ha-ospitato-le-regate-dei-Campionati-Nazionali-e-la-VI-tappa-di-Navigare-In - wp3453|nota]] |
+| 20 Luglio 2025 | Campionati Europei giovanili in Portogallo: in acqua gli equipaggi italiani del 420 e del 470 Mixed | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-20 - Campionati-Europei-giovanili-in-Portogallo-in-acqua-gli-equipaggi-italiani-del-420-e-del-470-Mixed - wp3407|nota]] |
+| 20 Luglio 2025 | Lorenzo Sorrenti vola a Gdynia per la Finale Mondiale di eSailing | e-sailing, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-20 - Lorenzo-Sorrenti-vola-a-Gdynia-per-la-Finale-Mondiale-di-eSailing - wp3402|nota]] |
+| 19 Luglio 2025 | REGATA D’ALTURA O COSTIERA ?SCEGLI IL TUO PERCORSO ALLE “REGATE DELLE ISOLE” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-19 - REGATA-D-ALTURA-O-COSTIERA-SCEGLI-IL-TUO-PERCORSO-ALLE-REGATE-DELLE-ISOLE - wp3390|nota]] |
+| 17 Luglio 2025 | XIV Zona FIV a Sport Expo di Verona | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-17 - XIV-Zona-FIV-a-Sport-Expo-di-Verona - wp3329|nota]] |
 | 17 Luglio 2025 | Al via il Campionato del Mondo ILCA 4 Youth 2025 a Los Angeles | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-17 - Al-via-il-Campionato-del-Mondo-ILCA-4-Youth-2025-a-Los-Angeles - wp3324|nota]] |
 | 16 Luglio 2025 | Terza regata nazionale Hansa 303: grande successo a Ravenna | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-16 - Terza-regata-nazionale-Hansa-303-grande-successo-a-Ravenna - wp3318|nota]] |
 | 12 Luglio 2025 | 470 Junior World Championships 2025: doppio bronzo per l’Italia a Los Alcázares | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-12 - 470-Junior-World-Championships-2025-doppio-bronzo-per-l-Italia-a-Los-Alcazares - wp3301|nota]] |

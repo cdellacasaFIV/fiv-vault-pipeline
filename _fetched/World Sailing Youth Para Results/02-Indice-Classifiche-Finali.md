@@ -37,12 +37,3 @@ Uso: accesso rapido a classifiche finali complete di classi giovanili, RS, Wing/
 | --- | --- | --- | --- | --- | --- |
 | 2026 | Continental | IQFOiL Women | 14 | [[Dati CSV/IQFOiL__Continental__2026__IQFOiL-Women__iQFOiL-North-American-Championship__dc238c18.csv|CSV]] | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
 | 2026 | Continental | IQFOiL Men | 13 | [[Dati CSV/IQFOiL__Continental__2026__IQFOiL-Men__iQFOiL-North-American-Championship__6506fe05.csv|CSV]] | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
-
-## iQFOiL Youth & Junior
-
-| Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |
-| --- | --- | --- | --- | --- | --- |
-| 2026 | Class Youth World Championship | iQFOiL Youth & Junior Youth Male | 149 | [[Dati CSV/iQFOiL-Youth-Junior__Class-Youth-World-Championship__2026__iQFOiL-Youth-and-Junior-Youth-Male__iQFOiL-Youth-and-Junior-World-Championships__ba15b853.csv|CSV]] | https://sailing.org/regatta/iqfoil-youth-and-junior-world-championships?ref=ESP202310DVU |
-| 2026 | Class Youth World Championship | iQFOiL Youth & Junior Youth Female | 62 | [[Dati CSV/iQFOiL-Youth-Junior__Class-Youth-World-Championship__2026__iQFOiL-Youth-and-Junior-Youth-Female__iQFOiL-Youth-and-Junior-World-Championships__e76135ba.csv|CSV]] | https://sailing.org/regatta/iqfoil-youth-and-junior-world-championships?ref=ESP202310DVU |
-| 2026 | Class Youth World Championship | iQFOiL Youth & Junior Junior Male | 111 | [[Dati CSV/iQFOiL-Youth-Junior__Class-Youth-World-Championship__2026__iQFOiL-Youth-and-Junior-Junior-Male__iQFOiL-Youth-and-Junior-World-Championships__2969587e.csv|CSV]] | https://sailing.org/regatta/iqfoil-youth-and-junior-world-championships?ref=ESP202310DVU |
-| 2026 | Class Youth World Championship | iQFOiL Youth & Junior Junior Female | 71 | [[Dati CSV/iQFOiL-Youth-Junior__Class-Youth-World-Championship__2026__iQFOiL-Youth-and-Junior-Junior-Female__iQFOiL-Youth-and-Junior-World-Championships__4e2ac09c.csv|CSV]] | https://sailing.org/regatta/iqfoil-youth-and-junior-world-championships?ref=ESP202310DVU |

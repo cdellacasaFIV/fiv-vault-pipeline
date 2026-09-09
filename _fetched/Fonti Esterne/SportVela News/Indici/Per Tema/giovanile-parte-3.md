@@ -6,6 +6,14 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 9 Settembre 2025 | Tanta Emilia Romagna ai Campionati Italiani Giovanili delle classi in Singolo. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - Tanta-Emilia-Romagna-ai-Campionati-Italiani-Giovanili-delle-classi-in-Singolo - wp4255|nota]] |
+| 9 Settembre 2025 | Sardinia Sailing Cup 2025 | III Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - Sardinia-Sailing-Cup-2025 - wp4245|nota]] |
+| 9 Settembre 2025 | Sicilia protagonista ai Campionati Italiani Giovanili in Singolo 2025 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - Sicilia-protagonista-ai-Campionati-Italiani-Giovanili-in-Singolo-2025 - wp4239|nota]] |
+| 9 Settembre 2025 | VI TAPPA CAMPIONATO REGIONALE VELA PARALIMPICA HANSA 303 ALLA SPEZIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - VI-TAPPA-CAMPIONATO-REGIONALE-VELA-PARALIMPICA-HANSA-303-ALLA-SPEZIA - wp4231|nota]] |
+| 8 Settembre 2025 | La Federazione Italiana Vela protagonista a The Ocean Race Europe – Genova con le attività della I Zona | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - La-Federazione-Italiana-Vela-protagonista-a-The-Ocean-Race-Europe-Genova-con-le-attivita-della-I-Zona - wp4228|nota]] |
+| 8 Settembre 2025 | Giovani talenti della Foil Academy sul podio alla 69F Cup di Malcesine | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - Giovani-talenti-della-Foil-Academy-sul-podio-alla-69F-Cup-di-Malcesine - wp4222|nota]] |
+| 8 Settembre 2025 | Giulia Marella campionessa italiana ILCA 4 Under 18 femminile | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - Giulia-Marella-campionessa-italiana-ILCA-4-Under-18-femminile - wp4217|nota]] |
+| 8 Settembre 2025 | THE OCEAN RACE EUROPE: | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - THE-OCEAN-RACE-EUROPE - wp4214|nota]] |
 | 7 Settembre 2025 | Conclusi sul Garda Trentino i Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - Conclusi-sul-Garda-Trentino-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4202|nota]] |
 | 7 Settembre 2025 | The Ocean Race Europe 2025 saluta Genova, arrivo in Montenegro | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - The-Ocean-Race-Europe-2025-saluta-Genova-arrivo-in-Montenegro - wp4199|nota]] |
 | 7 Settembre 2025 | VELE D’EPOCA DI IMPERIA: ARIA E CRIVIZZA TRIONFANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - VELE-D-EPOCA-DI-IMPERIA-ARIA-E-CRIVIZZA-TRIONFANO - wp4196|nota]] |

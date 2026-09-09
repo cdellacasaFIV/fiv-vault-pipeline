@@ -6,6 +6,8 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 27 Ottobre 2025 | Bronzo per Davide Di Maria ai World Abilitysport Beach Games di Mersin | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-27 - Bronzo-per-Davide-Di-Maria-ai-World-Abilitysport-Beach-Games-di-Mersin - wp5073|nota]] |
+| 26 Ottobre 2025 | Due podi overall, dominio giovanile e Nations Cup per l’Italia al Nacra 15 European Championship 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-26 - Due-podi-overall-dominio-giovanile-e-Nations-Cup-per-l-Italia-al-Nacra-15-European-Championship-2025 - wp5062|nota]] |
 | 26 Ottobre 2025 | Luca Rosetti. In Oceano anche un po’ di Adriatico. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-26 - Luca-Rosetti-In-Oceano-anche-un-po-di-Adriatico - wp5056|nota]] |
 | 25 Ottobre 2025 | Campionati Italiani delle Zone FIV 2025: DAY 2 | Copertina, News, XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-25 - Campionati-Italiani-delle-Zone-FIV-2025-DAY-2 - wp5037|nota]] |
 | 24 Ottobre 2025 | IV Campionato Italiano delle Zone FIV 2025: DAY 1 | Copertina, News, XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-24 - IV-Campionato-Italiano-delle-Zone-FIV-2025-DAY-1 - wp5023|nota]] |

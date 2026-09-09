@@ -6,6 +6,11 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 16 Febbraio 2026 | Assemblea annuale e premiazioni 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Assemblea-annuale-e-premiazioni-2025 - wp6013|nota]] |
+| 16 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - 50-INVERNALE-DEL-TIGULLIO - wp6008|nota]] |
+| 16 Febbraio 2026 | A TOMMASO BOIOCCHI LA CARNIVAL ALASSIO WASZP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - A-TOMMASO-BOIOCCHI-LA-CARNIVAL-ALASSIO-WASZP - wp6003|nota]] |
+| 15 Febbraio 2026 | Premiazioni XIV Zona FIV 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-15 - Premiazioni-XIV-Zona-FIV-2025 - wp5991|nota]] |
+| 13 Febbraio 2026 | SARA VALENTE: IL 2025 NEL SEGNO DEL TRICOLORE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-13 - SARA-VALENTE-IL-2025-NEL-SEGNO-DEL-TRICOLORE - wp5982|nota]] |
 | 11 Febbraio 2026 | CONCLUSO IL CAMPIONATO INVERNALE DI MARINA DI LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-IL-CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO - wp5969|nota]] |
 | 11 Febbraio 2026 | AD ANDORA LA PRIMA TAPPA DELL’ITALIA CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - AD-ANDORA-LA-PRIMA-TAPPA-DELL-ITALIA-CUP-2026 - wp5965|nota]] |
 | 11 Febbraio 2026 | CONCLUSO CON SUCCESSO IL CORSO M.A.R.E. A RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-CON-SUCCESSO-IL-CORSO-M-A-R-E-A-RAPALLO - wp5953|nota]] |
@@ -251,8 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 23 Luglio 2025 | IL LIGURE LORENZO SORRENTI ALLA FINALE MONDIALE DI ESAILING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - IL-LIGURE-LORENZO-SORRENTI-ALLA-FINALE-MONDIALE-DI-ESAILING - wp3510|nota]] |
 | 22 Luglio 2025 | Corso di Formazione per Docenti di Scienze Motorie | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - Corso-di-Formazione-per-Docenti-di-Scienze-Motorie - wp3505|nota]] |
 | 22 Luglio 2025 | La vela giovanile invade le acque del Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - La-vela-giovanile-invade-le-acque-del-Garda-Trentino - wp3498|nota]] |
-| 21 Luglio 2025 | Para sailing Fiv: Marina di Ravenna ha ospitato le regate dei Campionati Nazionali e la VI tappa di Navigare Insieme. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-21 - Para-sailing-Fiv-Marina-di-Ravenna-ha-ospitato-le-regate-dei-Campionati-Nazionali-e-la-VI-tappa-di-Navigare-In - wp3453|nota]] |
-| 20 Luglio 2025 | Campionati Europei giovanili in Portogallo: in acqua gli equipaggi italiani del 420 e del 470 Mixed | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-20 - Campionati-Europei-giovanili-in-Portogallo-in-acqua-gli-equipaggi-italiani-del-420-e-del-470-Mixed - wp3407|nota]] |
-| 20 Luglio 2025 | Lorenzo Sorrenti vola a Gdynia per la Finale Mondiale di eSailing | e-sailing, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-20 - Lorenzo-Sorrenti-vola-a-Gdynia-per-la-Finale-Mondiale-di-eSailing - wp3402|nota]] |
-| 19 Luglio 2025 | REGATA D’ALTURA O COSTIERA ?SCEGLI IL TUO PERCORSO ALLE “REGATE DELLE ISOLE” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-19 - REGATA-D-ALTURA-O-COSTIERA-SCEGLI-IL-TUO-PERCORSO-ALLE-REGATE-DELLE-ISOLE - wp3390|nota]] |
-| 17 Luglio 2025 | XIV Zona FIV a Sport Expo di Verona | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-17 - XIV-Zona-FIV-a-Sport-Expo-di-Verona - wp3329|nota]] |

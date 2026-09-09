@@ -2,16 +2,12 @@
 
 Fonte: World Sailing API, risultati `Overall Results`.
 Perimetro: classi giovanili, RS, Wing/Kite e Para Sailing richieste.
-Aggiornato: 2026-09-08.
+Aggiornato: 2026-09-09.
 
 | Gruppo | Classe | Livello | Anno | Evento | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | youth | IQFOiL | Continental | 2026 | IQFOiL Men | 13 | IQFOiL__Continental__2026__IQFOiL-Men__iQFOiL-North-American-Championship__6506fe05.csv | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
 | youth | IQFOiL | Continental | 2026 | IQFOiL Women | 14 | IQFOiL__Continental__2026__IQFOiL-Women__iQFOiL-North-American-Championship__dc238c18.csv | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
-| youth | iQFOiL Youth & Junior | Class Youth World Championship | 2026 | iQFOiL Youth & Junior Junior Male | 111 | iQFOiL-Youth-Junior__Class-Youth-World-Championship__2026__iQFOiL-Youth-and-Junior-Junior-Male__iQFOiL-Youth-and-Junior-World-Championships__2969587e.csv | https://sailing.org/regatta/iqfoil-youth-and-junior-world-championships?ref=ESP202310DVU |
-| youth | iQFOiL Youth & Junior | Class Youth World Championship | 2026 | iQFOiL Youth & Junior Junior Female | 71 | iQFOiL-Youth-Junior__Class-Youth-World-Championship__2026__iQFOiL-Youth-and-Junior-Junior-Female__iQFOiL-Youth-and-Junior-World-Championships__4e2ac09c.csv | https://sailing.org/regatta/iqfoil-youth-and-junior-world-championships?ref=ESP202310DVU |
-| youth | iQFOiL Youth & Junior | Class Youth World Championship | 2026 | iQFOiL Youth & Junior Youth Male | 149 | iQFOiL-Youth-Junior__Class-Youth-World-Championship__2026__iQFOiL-Youth-and-Junior-Youth-Male__iQFOiL-Youth-and-Junior-World-Championships__ba15b853.csv | https://sailing.org/regatta/iqfoil-youth-and-junior-world-championships?ref=ESP202310DVU |
-| youth | iQFOiL Youth & Junior | Class Youth World Championship | 2026 | iQFOiL Youth & Junior Youth Female | 62 | iQFOiL-Youth-Junior__Class-Youth-World-Championship__2026__iQFOiL-Youth-and-Junior-Youth-Female__iQFOiL-Youth-and-Junior-World-Championships__e76135ba.csv | https://sailing.org/regatta/iqfoil-youth-and-junior-world-championships?ref=ESP202310DVU |
 | youth | ILCA 4 | Class Youth World Championship | 2026 | ILCA 4 Youth Female | 150 | ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Female__ILCA-4-Youth-World-Championships__0b0f6391.csv | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
 | youth | ILCA 4 | Class Youth World Championship | 2026 | ILCA 4 Youth Male | 298 | ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Male__ILCA-4-Youth-World-Championships__e8565226.csv | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
 | youth | ILCA 6 | Class Youth World Championship | 2026 | ILCA 6 Women | 122 | ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Women__ILCA-6-Youth-World-Championships__774549de.csv | https://sailing.org/regatta/ilca-6-youth-world-championships?ref=USA202507AJ8 |

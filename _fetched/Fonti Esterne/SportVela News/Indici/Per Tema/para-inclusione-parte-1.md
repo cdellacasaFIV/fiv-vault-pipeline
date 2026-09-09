@@ -6,6 +6,8 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Settembre 2026 | A Rimini nasce un nuovo progetto per la formazione velica giovanile Under 30. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - A-Rimini-nasce-un-nuovo-progetto-per-la-formazione-velica-giovanile-Under-30 - wp8898|nota]] |
+| 8 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, secondo giorno super! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-secondo-giorno-super - wp8932|nota]] |
 | 8 Settembre 2026 | C.N. MARINA GENOVA AEROPORTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - C-N-MARINA-GENOVA-AEROPORTO - wp8890|nota]] |
 | 7 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, prima giornata da urlo! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-prima-giornata-da-urlo - wp8882|nota]] |
 | 7 Settembre 2026 | “Navigare Insieme: l’Italia senza Barriere” – la vela inclusiva fa tappa a Venezia | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-07 - Navigare-Insieme-l-Italia-senza-Barriere-la-vela-inclusiva-fa-tappa-a-Venezia - wp8871|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 28 Ottobre 2025 | Progetti Para Sailing: la vela che cura, include, libera | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-28 - Progetti-Para-Sailing-la-vela-che-cura-include-libera - wp5114|nota]] |
 | 28 Ottobre 2025 | QUARANTADUESIMO CRITERIUM INVERNALE A RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-28 - QUARANTADUESIMO-CRITERIUM-INVERNALE-A-RAPALLO - wp5105|nota]] |
 | 27 Ottobre 2025 | L’EQUIPAGGIO DELLA I ZONA CONQUISTA IL TERZO POSTO AL CAMPIONATO ITALIANO DELLE ZONE FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-27 - L-EQUIPAGGIO-DELLA-I-ZONA-CONQUISTA-IL-TERZO-POSTO-AL-CAMPIONATO-ITALIANO-DELLE-ZONE-FIV - wp5099|nota]] |
-| 27 Ottobre 2025 | Bronzo per Davide Di Maria ai World Abilitysport Beach Games di Mersin | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-27 - Bronzo-per-Davide-Di-Maria-ai-World-Abilitysport-Beach-Games-di-Mersin - wp5073|nota]] |
-| 26 Ottobre 2025 | Due podi overall, dominio giovanile e Nations Cup per l’Italia al Nacra 15 European Championship 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-26 - Due-podi-overall-dominio-giovanile-e-Nations-Cup-per-l-Italia-al-Nacra-15-European-Championship-2025 - wp5062|nota]] |
