@@ -6,6 +6,12 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Giugno 2026 | La XIII Zona tra promozione della vela e cultura della responsabilità | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-11 - La-XIII-Zona-tra-promozione-della-vela-e-cultura-della-responsabilita - wp7549|nota]] |
+| 11 Giugno 2026 | SWITCH GRAND PRIX: OTTIMA PERFORMANCE PER FEDERICO BERGAMASCO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-11 - SWITCH-GRAND-PRIX-OTTIMA-PERFORMANCE-PER-FEDERICO-BERGAMASCO - wp7542|nota]] |
+| 9 Giugno 2026 | Stefano Casadei sul podio al Campionato Italiano Contender sul Lago d’Idro. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-09 - Stefano-Casadei-sul-podio-al-Campionato-Italiano-Contender-sul-Lago-d-Idro - wp7519|nota]] |
+| 9 Giugno 2026 | PARTITO AD ARENZANO IL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-09 - PARTITO-AD-ARENZANO-IL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp7515|nota]] |
+| 8 Giugno 2026 | GAVITELLO D’ARGENTO: SI AGGIUDICA LA VITTORIA SPIRIT OF NERINA DELLO YC CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - GAVITELLO-D-ARGENTO-SI-AGGIUDICA-LA-VITTORIA-SPIRIT-OF-NERINA-DELLO-YC-CHIAVARI - wp7497|nota]] |
+| 8 Giugno 2026 | IL TEAM UNDER 25 DEL COMITATO I ZONA FIV SI LAUREA CAMPIONE ITALIANO U25 DOLPHIN 81 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - IL-TEAM-UNDER-25-DEL-COMITATO-I-ZONA-FIV-SI-LAUREA-CAMPIONE-ITALIANO-U25-DOLPHIN-81 - wp7494|nota]] |
 | 8 Giugno 2026 | ALLA TRE PORTI VINCE ANCORA UNA VOLTA PILO PAIS | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - ALLA-TRE-PORTI-VINCE-ANCORA-UNA-VOLTA-PILO-PAIS - wp7474|nota]] |
 | 8 Giugno 2026 | LA ZAMPATA DI PILO PAIS ALLA PRIMA DEL 29° CAMPIONATO DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-08 - LA-ZAMPATA-DI-PILO-PAIS-ALLA-PRIMA-DEL-29-CAMPIONATO-DEL-TIGULLIO - wp7471|nota]] |
 | 6 Giugno 2026 | Vela e solidarietà: sabato l’incontro tra “Il Porto dei piccoli” e il “Fast and Fourius Sailing Team” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-06 - Vela-e-solidarieta-sabato-l-incontro-tra-Il-Porto-dei-piccoli-e-il-Fast-and-Fourius-Sailing-Team - wp7461|nota]] |
@@ -250,9 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 16 Febbraio 2026 | A TOMMASO BOIOCCHI LA CARNIVAL ALASSIO WASZP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - A-TOMMASO-BOIOCCHI-LA-CARNIVAL-ALASSIO-WASZP - wp6003|nota]] |
 | 15 Febbraio 2026 | Premiazioni XIV Zona FIV 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-15 - Premiazioni-XIV-Zona-FIV-2025 - wp5991|nota]] |
 | 13 Febbraio 2026 | Giovani atleti Ilca a Sferracavallo. Primo raduno siciliano | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-13 - Giovani-atleti-Ilca-a-Sferracavallo-Primo-raduno-siciliano - wp5985|nota]] |
-| 12 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO: NEL WEEK END L’ATTO FINALE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-12 - 50-INVERNALE-DEL-TIGULLIO-NEL-WEEK-END-L-ATTO-FINALE - wp5978|nota]] |
-| 11 Febbraio 2026 | CONCLUSO IL CAMPIONATO INVERNALE DI MARINA DI LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-IL-CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO - wp5969|nota]] |
-| 11 Febbraio 2026 | LA VISITA A GENOVA DEL PRESIDENTE DI WORLD SAILING QUANHAI LI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - LA-VISITA-A-GENOVA-DEL-PRESIDENTE-DI-WORLD-SAILING-QUANHAI-LI - wp5959|nota]] |
-| 11 Febbraio 2026 | AL VIA LA “THE CARNIVAL RACE” FIRMATA YC SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - AL-VIA-LA-THE-CARNIVAL-RACE-FIRMATA-YC-SANREMO - wp5956|nota]] |
-| 10 Febbraio 2026 | MILANO CORTINA 2026: L’IMPEGNO DI ALESSANDRO PEZZOLI COME METEOROLOGO ITALIA TEAM | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-10 - MILANO-CORTINA-2026-L-IMPEGNO-DI-ALESSANDRO-PEZZOLI-COME-METEOROLOGO-ITALIA-TEAM - wp5948|nota]] |
-| 10 Febbraio 2026 | Anna Cuccia nominata Chair della World Sailing eSailing Commission | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-10 - Anna-Cuccia-nominata-Chair-della-World-Sailing-eSailing-Commission - wp5945|nota]] |

@@ -6,6 +6,9 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 9 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, penultimo giorno | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-penultimo-giorno - wp8960|nota]] |
+| 9 Settembre 2026 | America’s Cup 2027, i sogni e le emozioni della Scuola Vela Mascalzone Latino | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - America-s-Cup-2027-i-sogni-e-le-emozioni-della-Scuola-Vela-Mascalzone-Latino - wp8957|nota]] |
+| 9 Settembre 2026 | CN Torre del Greco: sabato 12 settembre open day per gli aspiranti velisti | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - CN-Torre-del-Greco-sabato-12-settembre-open-day-per-gli-aspiranti-velisti - wp8954|nota]] |
 | 9 Settembre 2026 | CAMPIONATO EUROPEO OFF-SHORE DOPPIO MISTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - CAMPIONATO-EUROPEO-OFF-SHORE-DOPPIO-MISTO - wp8950|nota]] |
 | 9 Settembre 2026 | PAOLO BRESCIA AL TIMONE DI “MELGINA” È VICECAMPIONE EUROPEO MELGES 24 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - PAOLO-BRESCIA-AL-TIMONE-DI-MELGINA-E-VICECAMPIONE-EUROPEO-MELGES-24 - wp8946|nota]] |
 | 8 Settembre 2026 | A Rimini nasce un nuovo progetto per la formazione velica giovanile Under 30. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - A-Rimini-nasce-un-nuovo-progetto-per-la-formazione-velica-giovanile-Under-30 - wp8898|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 20 Aprile 2026 | Regata Nazionale RS Feva, finale ad altissima intensità a Gargnano | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Regata-Nazionale-RS-Feva-finale-ad-altissima-intensita-a-Gargnano - wp6706|nota]] |
 | 18 Aprile 2026 | Due ori per l’Italia all’Europeo ILCA 4 Youth: a Murcia brillano Morina e Noto | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-18 - Due-ori-per-l-Italia-all-Europeo-ILCA-4-Youth-a-Murcia-brillano-Morina-e-Noto - wp6668|nota]] |
 | 18 Aprile 2026 | La vela come strumento educativo: a Roma il confronto sui progetti FIV | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-18 - La-vela-come-strumento-educativo-a-Roma-il-confronto-sui-progetti-FIV - wp6679|nota]] |
-| 15 Aprile 2026 | Selezione zonale Cadetti Optimist a Salerno, una domenica di vela e condivisione | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-15 - Selezione-zonale-Cadetti-Optimist-a-Salerno-una-domenica-di-vela-e-condivisione - wp6647|nota]] |
-| 15 Aprile 2026 | CIRCUITO EUROPEO MELGES 24 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-15 - CIRCUITO-EUROPEO-MELGES-24 - wp6639|nota]] |
-| 14 Aprile 2026 | Big Air, titolo italiano Under 17 per Daniele Pio Sgroia | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - Big-Air-titolo-italiano-Under-17-per-Daniele-Pio-Sgroia - wp6625|nota]] |

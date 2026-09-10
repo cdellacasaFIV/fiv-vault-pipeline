@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 16 Febbraio 2026 | SARDINA CUP 2026, BUONA LA PRIMA: 26 BARCHE AL VIA DEL CAMPIONATO INVERNALE ORGANIZZATO DAL CIRCOLO VELICO RIMINESE | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - SARDINA-CUP-2026-BUONA-LA-PRIMA-26-BARCHE-AL-VIA-DEL-CAMPIONATO-INVERNALE-ORGANIZZATO-DAL-CIRCOLO-VELICO-RIMIN - wp6018|nota]] |
 | 16 Febbraio 2026 | Assemblea annuale e premiazioni 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Assemblea-annuale-e-premiazioni-2025 - wp6013|nota]] |
 | 16 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - 50-INVERNALE-DEL-TIGULLIO - wp6008|nota]] |
 | 16 Febbraio 2026 | A TOMMASO BOIOCCHI LA CARNIVAL ALASSIO WASZP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - A-TOMMASO-BOIOCCHI-LA-CARNIVAL-ALASSIO-WASZP - wp6003|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 23 Luglio 2025 | Corrado Fara presidente della Conferenza Territoriale FIV: “La mia vela tra passione, territorio e programmazione” | III Zona, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - Corrado-Fara-presidente-della-Conferenza-Territoriale-FIV-La-mia-vela-tra-passione-territorio-e-programmazione - wp3532|nota]] |
 | 23 Luglio 2025 | IL LIGURE LORENZO SORRENTI ALLA FINALE MONDIALE DI ESAILING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - IL-LIGURE-LORENZO-SORRENTI-ALLA-FINALE-MONDIALE-DI-ESAILING - wp3510|nota]] |
 | 22 Luglio 2025 | Corso di Formazione per Docenti di Scienze Motorie | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - Corso-di-Formazione-per-Docenti-di-Scienze-Motorie - wp3505|nota]] |
-| 22 Luglio 2025 | La vela giovanile invade le acque del Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - La-vela-giovanile-invade-le-acque-del-Garda-Trentino - wp3498|nota]] |

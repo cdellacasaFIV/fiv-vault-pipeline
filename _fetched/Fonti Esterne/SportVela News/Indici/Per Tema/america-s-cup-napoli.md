@@ -4,6 +4,8 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Settembre 2026 | VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-10 - VELA-PARALIMPICA - wp8977|nota]] |
+| 9 Settembre 2026 | America’s Cup 2027, i sogni e le emozioni della Scuola Vela Mascalzone Latino | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - America-s-Cup-2027-i-sogni-e-le-emozioni-della-Scuola-Vela-Mascalzone-Latino - wp8957|nota]] |
 | 2 Settembre 2026 | Campionati Italiani Giovanili, doppio titolo italiano per la V Zona: trionfano Nugnes (Optimist) e Cozzolino (ILCA 4) | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-02 - Campionati-Italiani-Giovanili-doppio-titolo-italiano-per-la-V-Zona-trionfano-Nugnes-Optimist-e-Cozzolino-ILCA- - wp8749|nota]] |
 | 1 Settembre 2026 | Gran Finale ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-01 - Gran-Finale-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna - wp8741|nota]] |
 | 31 Agosto 2026 | Italiani Giovanili in Singolo Kinder Joy of moving di Ravenna: penultimo giorno di regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-08-31 - Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-di-Ravenna-penultimo-giorno-di-regate - wp8724|nota]] |

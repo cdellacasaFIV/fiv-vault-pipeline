@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 9 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, penultimo giorno | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-penultimo-giorno - wp8960|nota]] |
 | 8 Settembre 2026 | A Rimini nasce un nuovo progetto per la formazione velica giovanile Under 30. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - A-Rimini-nasce-un-nuovo-progetto-per-la-formazione-velica-giovanile-Under-30 - wp8898|nota]] |
 | 8 Settembre 2026 | Mondiale iQFOiL, tanti azzurri in Gold Fleet: Renna e Pilloni chiudono la qualifica decimo e undicesimo, Falcioni quinta | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - Mondiale-iQFOiL-tanti-azzurri-in-Gold-Fleet-Renna-e-Pilloni-chiudono-la-qualifica-decimo-e-undicesimo-Falcioni - wp8938|nota]] |
 | 8 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, secondo giorno super! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-secondo-giorno-super - wp8932|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Febbraio 2026 | LA VELA PARALIMPICA SPIEGA LE VELE AD ANDORA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LA-VELA-PARALIMPICA-SPIEGA-LE-VELE-AD-ANDORA - wp6049|nota]] |
 | 17 Febbraio 2026 | Velaterapia – Hansa Day / LNI Arona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-17 - Velaterapia-Hansa-Day-LNI-Arona - wp6040|nota]] |
 | 16 Febbraio 2026 | Sailing Team Cesenatico: una sinergia ritrovata che guarda al futuro. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Sailing-Team-Cesenatico-una-sinergia-ritrovata-che-guarda-al-futuro - wp6023|nota]] |
-| 16 Febbraio 2026 | SARDINA CUP 2026, BUONA LA PRIMA: 26 BARCHE AL VIA DEL CAMPIONATO INVERNALE ORGANIZZATO DAL CIRCOLO VELICO RIMINESE | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - SARDINA-CUP-2026-BUONA-LA-PRIMA-26-BARCHE-AL-VIA-DEL-CAMPIONATO-INVERNALE-ORGANIZZATO-DAL-CIRCOLO-VELICO-RIMIN - wp6018|nota]] |

@@ -6,6 +6,12 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO: NEL WEEK END L’ATTO FINALE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-12 - 50-INVERNALE-DEL-TIGULLIO-NEL-WEEK-END-L-ATTO-FINALE - wp5978|nota]] |
+| 11 Febbraio 2026 | CONCLUSO IL CAMPIONATO INVERNALE DI MARINA DI LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - CONCLUSO-IL-CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO - wp5969|nota]] |
+| 11 Febbraio 2026 | LA VISITA A GENOVA DEL PRESIDENTE DI WORLD SAILING QUANHAI LI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - LA-VISITA-A-GENOVA-DEL-PRESIDENTE-DI-WORLD-SAILING-QUANHAI-LI - wp5959|nota]] |
+| 11 Febbraio 2026 | AL VIA LA “THE CARNIVAL RACE” FIRMATA YC SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-11 - AL-VIA-LA-THE-CARNIVAL-RACE-FIRMATA-YC-SANREMO - wp5956|nota]] |
+| 10 Febbraio 2026 | MILANO CORTINA 2026: L’IMPEGNO DI ALESSANDRO PEZZOLI COME METEOROLOGO ITALIA TEAM | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-10 - MILANO-CORTINA-2026-L-IMPEGNO-DI-ALESSANDRO-PEZZOLI-COME-METEOROLOGO-ITALIA-TEAM - wp5948|nota]] |
+| 10 Febbraio 2026 | Anna Cuccia nominata Chair della World Sailing eSailing Commission | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-10 - Anna-Cuccia-nominata-Chair-della-World-Sailing-eSailing-Commission - wp5945|nota]] |
 | 6 Febbraio 2026 | Il windsurf olimpico iQFoil al MUSE di Trento | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-06 - Il-windsurf-olimpico-iQFoil-al-MUSE-di-Trento - wp5938|nota]] |
 | 6 Febbraio 2026 | INVERNALE DEL PONENTE: | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-06 - INVERNALE-DEL-PONENTE - wp5934|nota]] |
 | 5 Febbraio 2026 | FORMAZIONE D’ECCELLENZA: AL VIA I FOCUS TECNICI DEL COMITATO I ZONA FIV PER ASPIRANTI E ISTRUTTORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - FORMAZIONE-D-ECCELLENZA-AL-VIA-I-FOCUS-TECNICI-DEL-COMITATO-I-ZONA-FIV-PER-ASPIRANTI-E-ISTRUTTORI - wp5921|nota]] |
@@ -250,9 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Settembre 2025 | Youth Sailing World Championships 2025: la squadra italiana per Vilamoura | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Youth-Sailing-World-Championships-2025-la-squadra-italiana-per-Vilamoura - wp4595|nota]] |
 | 30 Settembre 2025 | Successo Hansa alla Lega Navale Brescia Desenzano | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Successo-Hansa-alla-Lega-Navale-Brescia-Desenzano - wp4601|nota]] |
 | 30 Settembre 2025 | Al Trofeo Coni bene l’Emilia Romagna. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Al-Trofeo-Coni-bene-l-Emilia-Romagna - wp4598|nota]] |
-| 30 Settembre 2025 | Trofeo CONI 2025 – Lignano Sabbiadoro | News, Vetrina, XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Trofeo-CONI-2025-Lignano-Sabbiadoro - wp4576|nota]] |
-| 30 Settembre 2025 | 10° TROFEO CONI: PER LA VELA VINCE IL TRENTINO | Copertina, News, Vela Giovanile, XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - 10-TROFEO-CONI-PER-LA-VELA-VINCE-IL-TRENTINO - wp4573|nota]] |
-| 30 Settembre 2025 | Medaglie azzurre al Mondiale Master ILCA di Formia | Copertina, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Medaglie-azzurre-al-Mondiale-Master-ILCA-di-Formia - wp4566|nota]] |
-| 30 Settembre 2025 | COPPA BERGAMASCHI: 36 BARCHE IN MARE PER LA VELEGGIATA DELLA LNI GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - COPPA-BERGAMASCHI-36-BARCHE-IN-MARE-PER-LA-VELEGGIATA-DELLA-LNI-GENOVA - wp4562|nota]] |
-| 29 Settembre 2025 | Trofeo CONI 2025 – Ottimo avvio per la vela veneta a Lignano Sabbiadoro | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-29 - Trofeo-CONI-2025-Ottimo-avvio-per-la-vela-veneta-a-Lignano-Sabbiadoro - wp4558|nota]] |
-| 29 Settembre 2025 | Veleziana Optimist 2025: giovani protagonisti in Laguna | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-29 - Veleziana-Optimist-2025-giovani-protagonisti-in-Laguna - wp4555|nota]] |

@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 22 Luglio 2025 | La vela giovanile invade le acque del Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - La-vela-giovanile-invade-le-acque-del-Garda-Trentino - wp3498|nota]] |
 | 21 Luglio 2025 | Para sailing Fiv: Marina di Ravenna ha ospitato le regate dei Campionati Nazionali e la VI tappa di Navigare Insieme. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-21 - Para-sailing-Fiv-Marina-di-Ravenna-ha-ospitato-le-regate-dei-Campionati-Nazionali-e-la-VI-tappa-di-Navigare-In - wp3453|nota]] |
 | 20 Luglio 2025 | Campionati Europei giovanili in Portogallo: in acqua gli equipaggi italiani del 420 e del 470 Mixed | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-20 - Campionati-Europei-giovanili-in-Portogallo-in-acqua-gli-equipaggi-italiani-del-420-e-del-470-Mixed - wp3407|nota]] |
 | 20 Luglio 2025 | Lorenzo Sorrenti vola a Gdynia per la Finale Mondiale di eSailing | e-sailing, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-20 - Lorenzo-Sorrenti-vola-a-Gdynia-per-la-Finale-Mondiale-di-eSailing - wp3402|nota]] |

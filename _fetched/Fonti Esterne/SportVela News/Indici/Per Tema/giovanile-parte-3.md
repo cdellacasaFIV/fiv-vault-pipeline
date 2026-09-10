@@ -6,6 +6,9 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Settembre 2025 | LNI GENOVA SESTRI PONENTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-11 - LNI-GENOVA-SESTRI-PONENTE - wp4267|nota]] |
+| 10 Settembre 2025 | Campionati Italiani Giovanili in singolo: medaglie e piazzamenti di rilievo per gli atleti della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-10 - Campionati-Italiani-Giovanili-in-singolo-medaglie-e-piazzamenti-di-rilievo-per-gli-atleti-della-XV-Zona - wp4264|nota]] |
+| 10 Settembre 2025 | LNI CHIAVARI E LAVAGNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-10 - LNI-CHIAVARI-E-LAVAGNA - wp4260|nota]] |
 | 9 Settembre 2025 | Tanta Emilia Romagna ai Campionati Italiani Giovanili delle classi in Singolo. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - Tanta-Emilia-Romagna-ai-Campionati-Italiani-Giovanili-delle-classi-in-Singolo - wp4255|nota]] |
 | 9 Settembre 2025 | Sardinia Sailing Cup 2025 | III Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - Sardinia-Sailing-Cup-2025 - wp4245|nota]] |
 | 9 Settembre 2025 | Sicilia protagonista ai Campionati Italiani Giovanili in Singolo 2025 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - Sicilia-protagonista-ai-Campionati-Italiani-Giovanili-in-Singolo-2025 - wp4239|nota]] |

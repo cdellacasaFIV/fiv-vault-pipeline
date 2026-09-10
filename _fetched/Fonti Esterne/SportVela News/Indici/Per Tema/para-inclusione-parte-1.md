@@ -6,6 +6,9 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Settembre 2026 | VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-10 - VELA-PARALIMPICA - wp8977|nota]] |
+| 9 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, penultimo giorno | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-penultimo-giorno - wp8960|nota]] |
+| 9 Settembre 2026 | America’s Cup 2027, i sogni e le emozioni della Scuola Vela Mascalzone Latino | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - America-s-Cup-2027-i-sogni-e-le-emozioni-della-Scuola-Vela-Mascalzone-Latino - wp8957|nota]] |
 | 8 Settembre 2026 | A Rimini nasce un nuovo progetto per la formazione velica giovanile Under 30. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - A-Rimini-nasce-un-nuovo-progetto-per-la-formazione-velica-giovanile-Under-30 - wp8898|nota]] |
 | 8 Settembre 2026 | Campionati Italiani Giovanili in Doppio a Manfredonia, secondo giorno super! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - Campionati-Italiani-Giovanili-in-Doppio-a-Manfredonia-secondo-giorno-super - wp8932|nota]] |
 | 8 Settembre 2026 | C.N. MARINA GENOVA AEROPORTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-08 - C-N-MARINA-GENOVA-AEROPORTO - wp8890|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 29 Ottobre 2025 | LA DIREZIONE TECNICA ZONALE DEL COMITATO I ZONA FIV REALIZZA MATERIALE VIDEO DIDATTICO INNOVATIVO PER LA FORMAZIONE DEGLI ATLETI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-29 - LA-DIREZIONE-TECNICA-ZONALE-DEL-COMITATO-I-ZONA-FIV-REALIZZA-MATERIALE-VIDEO-DIDATTICO-INNOVATIVO-PER-LA-FORMA - wp5138|nota]] |
 | 28 Ottobre 2025 | Torna la 39° Mediterranean Cup dellaclasse Optimist | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-28 - Torna-la-39-Mediterranean-Cup-dellaclasse-Optimist - wp5124|nota]] |
 | 28 Ottobre 2025 | CON LA CERIMONIA DI PREMIAZIONE SI È CONCLUSA LA 46^ ROLEX MIDDLE SEA RACE | News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-28 - CON-LA-CERIMONIA-DI-PREMIAZIONE-SI-E-CONCLUSA-LA-46-ROLEX-MIDDLE-SEA-RACE - wp5120|nota]] |
-| 28 Ottobre 2025 | Progetti Para Sailing: la vela che cura, include, libera | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-28 - Progetti-Para-Sailing-la-vela-che-cura-include-libera - wp5114|nota]] |
-| 28 Ottobre 2025 | QUARANTADUESIMO CRITERIUM INVERNALE A RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-28 - QUARANTADUESIMO-CRITERIUM-INVERNALE-A-RAPALLO - wp5105|nota]] |
-| 27 Ottobre 2025 | L’EQUIPAGGIO DELLA I ZONA CONQUISTA IL TERZO POSTO AL CAMPIONATO ITALIANO DELLE ZONE FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-27 - L-EQUIPAGGIO-DELLA-I-ZONA-CONQUISTA-IL-TERZO-POSTO-AL-CAMPIONATO-ITALIANO-DELLE-ZONE-FIV - wp5099|nota]] |

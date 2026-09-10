@@ -6,6 +6,9 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 15 Aprile 2026 | Selezione zonale Cadetti Optimist a Salerno, una domenica di vela e condivisione | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-15 - Selezione-zonale-Cadetti-Optimist-a-Salerno-una-domenica-di-vela-e-condivisione - wp6647|nota]] |
+| 15 Aprile 2026 | CIRCUITO EUROPEO MELGES 24 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-15 - CIRCUITO-EUROPEO-MELGES-24 - wp6639|nota]] |
+| 14 Aprile 2026 | Big Air, titolo italiano Under 17 per Daniele Pio Sgroia | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - Big-Air-titolo-italiano-Under-17-per-Daniele-Pio-Sgroia - wp6625|nota]] |
 | 13 Aprile 2026 | IL PRINCIPE DI BORBONE DOMA AD ALASSIO LA FLOTTA SMERALDA 888 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - IL-PRINCIPE-DI-BORBONE-DOMA-AD-ALASSIO-LA-FLOTTA-SMERALDA-888 - wp6614|nota]] |
 | 13 Aprile 2026 | VENTO LEGGERO, GRANDI TALENTI: IL TIGULLIO CELEBRA LA VELA GIOVANILE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - VENTO-LEGGERO-GRANDI-TALENTI-IL-TIGULLIO-CELEBRA-LA-VELA-GIOVANILE - wp6608|nota]] |
 | 12 Aprile 2026 | Salerno: la cerimonia di premiazione del 44° Campionato Invernale di vela d’altura | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-12 - Salerno-la-cerimonia-di-premiazione-del-44-Campionato-Invernale-di-vela-d-altura - wp6593|nota]] |
@@ -253,6 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 13 Settembre 2025 | YACHT CLUB ITALIANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - YACHT-CLUB-ITALIANO - wp4304|nota]] |
 | 12 Settembre 2025 | Grandi emozioni per la prima edizione della COPPA DEI CAMPIONI della Decima Zona FIV | X Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-12 - Grandi-emozioni-per-la-prima-edizione-della-COPPA-DEI-CAMPIONI-della-Decima-Zona-FIV - wp4292|nota]] |
 | 12 Settembre 2025 | “LA28 sarà ancora una volta Mission Impossible” – Marchesini parla della visione dietro ai successi olimpici azzurri e della nuova missione verso le Olimpiadi di Los Angeles | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-12 - LA28-sara-ancora-una-volta-Mission-Impossible-Marchesini-parla-della-visione-dietro-ai-successi-olimpici-azzur - wp4286|nota]] |
-| 11 Settembre 2025 | LNI GENOVA SESTRI PONENTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-11 - LNI-GENOVA-SESTRI-PONENTE - wp4267|nota]] |
-| 10 Settembre 2025 | Campionati Italiani Giovanili in singolo: medaglie e piazzamenti di rilievo per gli atleti della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-10 - Campionati-Italiani-Giovanili-in-singolo-medaglie-e-piazzamenti-di-rilievo-per-gli-atleti-della-XV-Zona - wp4264|nota]] |
-| 10 Settembre 2025 | LNI CHIAVARI E LAVAGNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-10 - LNI-CHIAVARI-E-LAVAGNA - wp4260|nota]] |
