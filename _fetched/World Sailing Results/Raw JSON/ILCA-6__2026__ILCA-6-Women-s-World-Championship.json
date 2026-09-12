@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "event_label": "ILCA 6 Women",
+    "regatta_name": "ILCA 6 Women's World Championship",
+    "world_sailing_id": "IRL2026096VV",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-12",
+    "year": "2026",
+    "venue": "Dun Laoghaire, Ireland",
+    "source_url": "https://sailing.org/regatta/ilca-6-women-s-world-championship?ref=IRL2026096VV",
+    "event_api_url": "https://datafeed.sailing.org/stats/api/event/225b3e33-49eb-4f9b-9ec2-96855e77320c?include=crews.country%2Ccrews.sailors.crewRole%2Craces.raceResults.crew.country%2Craces.raceResults.crew.sailors%2Craces.raceResults.crewCompetingStatus%2Craces.status",
+    "regatta_query_url": "https://datafeed.sailing.org/stats/api/regatta?filter%5Blevel.id%5D=568d0c5a-aa65-43b1-b9f0-a32f0b569a64&filter%5Bevents.boatClass.id%5D=bfa92fb9-2ef1-450a-b292-29cbf4f6d755&include=venue.country%2Clevel%2Cseason%2Cevents%2Cevents.boatClass%2Cevents.grade&sort%5BstartDate%5D=desc&paginate=50",
+    "event_id": "225b3e33-49eb-4f9b-9ec2-96855e77320c"
+  },
+  "event": {
+    "_admin_name": "ILCA 6 - Women",
+    "_name": "ILCA 6 Women",
+    "boatClass": {
+      "beamLength": "1.37 m",
+      "boatWeight": null,
+      "classCode": "ILCA6",
+      "classDesigner": "Bruce Kirby",
+      "createdAt": "2021-02-10T09:51:59.000000Z",
+      "deletedAt": null,
+      "headsailArea": null,
+      "hullLength": "4.23 m",
+      "id": "bfa92fb9-2ef1-450a-b292-29cbf4f6d755",
+      "mainsailArea": "5.76 m2",
+      "name": "ILCA 6",
+      "nationalOrigins": null,
+      "numberOfCrew": "1",
+      "numberOfTrapeze": "Toe Straps",
+      "optimalCrewWeight": null,
+      "rsc": "ILCA6-------------",
+      "spinnakerArea": null,
+      "suppliersMessage": null,
+      "updatedAt": "2022-06-21T16:05:50.000000Z",
+      "yearDesigned": "1969",
+      "yearOfStatus": "1999"
+    },
+    "bonus": null,
+    "competitors": null,
+    "createdAt": "2025-07-18T08:56:20.000000Z",
+    "crews": [],
+    "deletedAt": null,
+    "discipline": {
+      "createdAt": "2021-02-10T09:52:17.000000Z",
+      "deletedAt": null,
+      "id": "79fb181a-7864-4b57-8047-178d808ac58c",
+      "name": "Fleet racing",
+      "updatedAt": "2021-02-10T09:52:17.000000Z"
+    },
+    "id": "225b3e33-49eb-4f9b-9ec2-96855e77320c",
+    "multiplier": null,
+    "nationsCompetedEstimate": null,
+    "odfDisplayName": null,
+    "odfOrder": null,
+    "races": [],
+    "rank": 200,
+    "rsc": null,
+    "totalCompetedEstimate": null,
+    "type": {
+      "createdAt": "2021-02-10T09:53:20.000000Z",
+      "deletedAt": null,
+      "id": "178b0c8c-49f4-4e99-9e4c-3ba2ede13cd7",
+      "name": "Women",
+      "updatedAt": "2021-02-10T09:53:20.000000Z"
+    },
+    "updatedAt": "2025-07-18T08:56:20.000000Z"
+  }
+}

@@ -6,5 +6,22 @@ Uso: quadro mondiale completo in CSV; in questa nota sintesi, podio e focus Ital
 
 ## File dati completi
 
+- `IQFOiL-Men__2026__iQFOiL-World-Championships.csv`
 
 ## Sintesi eventi
+
+### 2026 - iQFOiL World Championships
+
+Fonte: https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C
+Date: 2026-09-04 - 2026-09-12
+Sede:  Weymouth and Portland Sailing Academy, Great Britain
+Evento: IQFOiL Men
+Barche classificate: 0
+
+#### Podio
+
+Nessun podio disponibile.
+
+#### Italiani
+
+Nessun equipaggio italiano trovato nella classifica.

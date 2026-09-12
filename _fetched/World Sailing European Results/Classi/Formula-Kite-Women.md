@@ -6,14 +6,30 @@ Uso: quadro europeo completo in CSV; in questa nota sintesi, podio e focus Itali
 
 ## File dati completi
 
+- `Formula-Kite-Women__2026__Formula-Kite-European-Championships.csv`
 - `Formula-Kite-Women__2025__Formula-Kite-European-Championships.csv`
 - `Formula-Kite-Women__2024__Formula-Kite-European-Championships.csv`
 - `Formula-Kite-Women__2023__Formula-Kite-European-Championships.csv`
 - `Formula-Kite-Women__2022__Formula-Kite-Individual-European-Championships.csv`
 - `Formula-Kite-Women__2021__Formula-Kite-Individual-European-Championships.csv`
-- `Formula-Kite-Women__2020__Formula-Kite-European-Championships.csv`
 
 ## Sintesi eventi
+
+### 2026 - Formula Kite European Championships
+
+Fonte: https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO
+Date: 2026-09-05 - 2026-09-12
+Sede: Akyaka, TUR, Türkiye
+Evento: Formula Kite Women
+Barche classificate: 0
+
+#### Podio
+
+Nessun podio disponibile.
+
+#### Italiani
+
+Nessun equipaggio italiano trovato nella classifica.
 
 ### 2025 - Formula Kite European Championships
 
@@ -132,26 +148,3 @@ Barche classificate: 40
 | 14 | Maggie Eillen Pescetto |  | 67 | 0 |
 | 15 | TIANA LAPORTE |  | 65 | 0 |
 | 20 | Sofia Tomasoni |  | 52 | 0 |
-
-### 2020 - Formula Kite European Championships
-
-Fonte: https://sailing.org/regatta/formula-kite-european-championships?ref=POL202008QAC
-Date: 2020-08-18 - 2020-08-23
-Sede: Puck, Poland
-Evento: Formula Kite Women
-Barche classificate: 26
-
-#### Podio
-
-| rank | country | crew | net_points | total_points |
-| --- | --- | --- | --- | --- |
-| 1 | POL | Julia Damasiewicz | 0 | 0 |
-| 2 | GBR | Eleanor Aldridge | 0 | 0 |
-| 3 | POL | Magdalena Woyciechowska | 0 | 0 |
-
-#### Italiani
-
-| rank | crew | sail_number | net_points | total_points |
-| --- | --- | --- | --- | --- |
-| 16 | Sofia Tomasoni |  | 0 | 0 |
-| 21 | Maggie Eillen Pescetto |  | 0 | 0 |

@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "event_label": "Formula Kite Women",
+    "regatta_name": "Formula Kite European Championships",
+    "world_sailing_id": "TUR202505CKO",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-12",
+    "year": "2026",
+    "venue": "Akyaka, TUR, Türkiye",
+    "source_url": "https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO",
+    "event_api_url": "https://datafeed.sailing.org/stats/api/event/fe32a759-2367-4a30-b222-3517a306ef4f?include=crews.country%2Ccrews.sailors.crewRole%2Craces.raceResults.crew.country%2Craces.raceResults.crew.sailors%2Craces.raceResults.crewCompetingStatus%2Craces.status",
+    "regatta_query_url": "https://datafeed.sailing.org/stats/api/regatta?filter%5Blevel.id%5D=b5bca920-933a-4845-9063-5e9f0952020e&filter%5Bevents.boatClass.id%5D=4e1f06bf-915e-404c-8d1a-aa6b83ae5d60&filter%5Bname%5D=European&filterOptions%5Bname%5D=subString&include=venue.country%2Clevel%2Cseason%2Cevents%2Cevents.boatClass%2Cevents.grade&sort%5BstartDate%5D=desc&paginate=50",
+    "event_id": "fe32a759-2367-4a30-b222-3517a306ef4f"
+  },
+  "event": {
+    "_admin_name": "IKA - Formula Kite - Women",
+    "_name": "IKA - Formula Kite Women",
+    "boatClass": {
+      "beamLength": null,
+      "boatWeight": null,
+      "classCode": "FK",
+      "classDesigner": "Various",
+      "createdAt": "2021-02-10T09:52:02.000000Z",
+      "deletedAt": null,
+      "headsailArea": null,
+      "hullLength": null,
+      "id": "4e1f06bf-915e-404c-8d1a-aa6b83ae5d60",
+      "mainsailArea": null,
+      "name": "IKA - Formula Kite",
+      "nationalOrigins": null,
+      "numberOfCrew": "1",
+      "numberOfTrapeze": null,
+      "optimalCrewWeight": null,
+      "rsc": "FORMKITE----------",
+      "spinnakerArea": null,
+      "suppliersMessage": null,
+      "updatedAt": "2024-06-28T08:33:22.000000Z",
+      "yearDesigned": null,
+      "yearOfStatus": null
+    },
+    "bonus": null,
+    "competitors": null,
+    "createdAt": "2025-10-22T14:13:22.000000Z",
+    "crews": [],
+    "deletedAt": null,
+    "discipline": {
+      "createdAt": "2021-02-10T09:52:17.000000Z",
+      "deletedAt": null,
+      "id": "79fb181a-7864-4b57-8047-178d808ac58c",
+      "name": "Fleet racing",
+      "updatedAt": "2021-02-10T09:52:17.000000Z"
+    },
+    "id": "fe32a759-2367-4a30-b222-3517a306ef4f",
+    "multiplier": null,
+    "nationsCompetedEstimate": null,
+    "odfDisplayName": null,
+    "odfOrder": null,
+    "races": [],
+    "rank": null,
+    "rsc": null,
+    "totalCompetedEstimate": null,
+    "type": {
+      "createdAt": "2021-02-10T09:53:20.000000Z",
+      "deletedAt": null,
+      "id": "178b0c8c-49f4-4e99-9e4c-3ba2ede13cd7",
+      "name": "Women",
+      "updatedAt": "2021-02-10T09:53:20.000000Z"
+    },
+    "updatedAt": "2025-10-22T14:13:22.000000Z"
+  }
+}

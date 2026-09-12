@@ -1,3 +1,6 @@
 event_label,regatta_name,world_sailing_id,start_date,end_date,venue,source_url,rank,country,country_name,crew,world_sailing_ids,sail_number,total_points,net_points
 470 Mixed,470 World Championships,POL2025062WK,2026-08-10,2026-08-17,"Enoshima, Japan",https://sailing.org/regatta/470-world-championships?ref=POL2025062WK,,,,,,,,
 ILCA 7 Men,ILCA 7 Men's World Championship,IRL202609VBZ,2026-08-23,2026-08-30,"Dun Laoghaire, Ireland",https://sailing.org/regatta/ilca-7-men-s-world-championship?ref=IRL202609VBZ,,,,,,,,
+ILCA 6 Women,ILCA 6 Women's World Championship,IRL2026096VV,2026-09-05,2026-09-12,"Dun Laoghaire, Ireland",https://sailing.org/regatta/ilca-6-women-s-world-championship?ref=IRL2026096VV,,,,,,,,
+IQFOiL Men,iQFOiL World Championships,DEN202507Z3C,2026-09-04,2026-09-12," Weymouth and Portland Sailing Academy, Great Britain",https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C,,,,,,,,
+IQFOiL Women,iQFOiL World Championships,DEN202507Z3C,2026-09-04,2026-09-12," Weymouth and Portland Sailing Academy, Great Britain",https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C,,,,,,,,

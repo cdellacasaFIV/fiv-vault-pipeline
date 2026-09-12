@@ -6,14 +6,30 @@ Uso: quadro europeo completo in CSV; in questa nota sintesi, podio e focus Itali
 
 ## File dati completi
 
+- `Formula-Kite-Men__2026__Formula-Kite-European-Championships.csv`
 - `Formula-Kite-Men__2025__Formula-Kite-European-Championships.csv`
 - `Formula-Kite-Men__2024__Formula-Kite-European-Championships.csv`
 - `Formula-Kite-Men__2023__Formula-Kite-European-Championships.csv`
 - `Formula-Kite-Men__2022__Formula-Kite-Individual-European-Championships.csv`
 - `Formula-Kite-Men__2021__Formula-Kite-Individual-European-Championships.csv`
-- `Formula-Kite-Men__2020__Formula-Kite-European-Championships.csv`
 
 ## Sintesi eventi
+
+### 2026 - Formula Kite European Championships
+
+Fonte: https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO
+Date: 2026-09-05 - 2026-09-12
+Sede: Akyaka, TUR, Türkiye
+Evento: Formula Kite Men
+Barche classificate: 0
+
+#### Podio
+
+Nessun podio disponibile.
+
+#### Italiani
+
+Nessun equipaggio italiano trovato nella classifica.
 
 ### 2025 - Formula Kite European Championships
 
@@ -139,27 +155,3 @@ Barche classificate: 91
 | 34 | Alessio Brasili |  | 63 | 0 |
 | 73 | Flavio Ferrone |  | 20 | 0 |
 | 84 | Enrico Tonon |  | 8 | 0 |
-
-### 2020 - Formula Kite European Championships
-
-Fonte: https://sailing.org/regatta/formula-kite-european-championships?ref=POL202008QAC
-Date: 2020-08-18 - 2020-08-23
-Sede: Puck, Poland
-Evento: Formula Kite Men
-Barche classificate: 51
-
-#### Podio
-
-| rank | country | crew | net_points | total_points |
-| --- | --- | --- | --- | --- |
-| 1 | FRA | Axel Mazella | 0 | 0 |
-| 2 | FRA | Maxime Nocher |  |  |
-| 3 | GBR | Connor Bainbridge |  |  |
-
-#### Italiani
-
-| rank | crew | sail_number | net_points | total_points |
-| --- | --- | --- | --- | --- |
-| 15 | Mario Calbucci |  |  |  |
-| 21 | Lorenzo Boschetti |  |  |  |
-| 36 | Riccardo Pianosi |  |  |  |
