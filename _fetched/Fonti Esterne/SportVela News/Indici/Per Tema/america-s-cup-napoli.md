@@ -4,6 +4,7 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Settembre 2026 | Vela: profumo di America’s Cup al CN Torre del Greco | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Vela-profumo-di-America-s-Cup-al-CN-Torre-del-Greco - wp9043|nota]] |
 | 10 Settembre 2026 | VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-10 - VELA-PARALIMPICA - wp8977|nota]] |
 | 9 Settembre 2026 | America’s Cup 2027, i sogni e le emozioni della Scuola Vela Mascalzone Latino | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - America-s-Cup-2027-i-sogni-e-le-emozioni-della-Scuola-Vela-Mascalzone-Latino - wp8957|nota]] |
 | 2 Settembre 2026 | Campionati Italiani Giovanili, doppio titolo italiano per la V Zona: trionfano Nugnes (Optimist) e Cozzolino (ILCA 4) | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-02 - Campionati-Italiani-Giovanili-doppio-titolo-italiano-per-la-V-Zona-trionfano-Nugnes-Optimist-e-Cozzolino-ILCA- - wp8749|nota]] |

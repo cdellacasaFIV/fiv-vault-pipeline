@@ -6,6 +6,10 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Febbraio 2026 | 5° CAMPIONATO LIGURE DI VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - 5-CAMPIONATO-LIGURE-DI-VELA-PARALIMPICA - wp6062|nota]] |
+| 18 Febbraio 2026 | LA VELA PARALIMPICA SPIEGA LE VELE AD ANDORA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LA-VELA-PARALIMPICA-SPIEGA-LE-VELE-AD-ANDORA - wp6049|nota]] |
+| 17 Febbraio 2026 | Velaterapia – Hansa Day / LNI Arona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-17 - Velaterapia-Hansa-Day-LNI-Arona - wp6040|nota]] |
+| 16 Febbraio 2026 | Sailing Team Cesenatico: una sinergia ritrovata che guarda al futuro. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Sailing-Team-Cesenatico-una-sinergia-ritrovata-che-guarda-al-futuro - wp6023|nota]] |
 | 16 Febbraio 2026 | SARDINA CUP 2026, BUONA LA PRIMA: 26 BARCHE AL VIA DEL CAMPIONATO INVERNALE ORGANIZZATO DAL CIRCOLO VELICO RIMINESE | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - SARDINA-CUP-2026-BUONA-LA-PRIMA-26-BARCHE-AL-VIA-DEL-CAMPIONATO-INVERNALE-ORGANIZZATO-DAL-CIRCOLO-VELICO-RIMIN - wp6018|nota]] |
 | 16 Febbraio 2026 | Assemblea annuale e premiazioni 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - Assemblea-annuale-e-premiazioni-2025 - wp6013|nota]] |
 | 16 Febbraio 2026 | 50° INVERNALE DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-16 - 50-INVERNALE-DEL-TIGULLIO - wp6008|nota]] |
@@ -252,7 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Luglio 2025 | MEETING ZONALE SCUOLE DI VELA LAZIO | IV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - MEETING-ZONALE-SCUOLE-DI-VELA-LAZIO - wp3610|nota]] |
 | 25 Luglio 2025 | Alberto De Amicis, Marco De Amicis e Marco Lombardo sono Campioni Italiani Soling 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-25 - Alberto-De-Amicis-Marco-De-Amicis-e-Marco-Lombardo-sono-Campioni-Italiani-Soling-2025 - wp3581|nota]] |
 | 25 Luglio 2025 | Bronzo alla LNI Mandello al Campionato Italiano a Squadre Optimist | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-25 - Bronzo-alla-LNI-Mandello-al-Campionato-Italiano-a-Squadre-Optimist - wp3577|nota]] |
-| 24 Luglio 2025 | Circolo Vela Cesenatico. Al via il Trofeo Rotary – Campionato Zonale Dinghy 12’ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-24 - Circolo-Vela-Cesenatico-Al-via-il-Trofeo-Rotary-Campionato-Zonale-Dinghy-12 - wp3563|nota]] |
-| 23 Luglio 2025 | Corrado Fara presidente della Conferenza Territoriale FIV: “La mia vela tra passione, territorio e programmazione” | III Zona, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - Corrado-Fara-presidente-della-Conferenza-Territoriale-FIV-La-mia-vela-tra-passione-territorio-e-programmazione - wp3532|nota]] |
-| 23 Luglio 2025 | IL LIGURE LORENZO SORRENTI ALLA FINALE MONDIALE DI ESAILING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - IL-LIGURE-LORENZO-SORRENTI-ALLA-FINALE-MONDIALE-DI-ESAILING - wp3510|nota]] |
-| 22 Luglio 2025 | Corso di Formazione per Docenti di Scienze Motorie | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - Corso-di-Formazione-per-Docenti-di-Scienze-Motorie - wp3505|nota]] |

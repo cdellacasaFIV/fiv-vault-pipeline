@@ -6,6 +6,11 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Settembre 2025 | Veleziana Sailing Week 2025: la regata dei sogni nella Serenissima | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - Veleziana-Sailing-Week-2025-la-regata-dei-sogni-nella-Serenissima - wp4312|nota]] |
+| 13 Settembre 2025 | Bilancio Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - Bilancio-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4308|nota]] |
+| 13 Settembre 2025 | YACHT CLUB ITALIANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - YACHT-CLUB-ITALIANO - wp4304|nota]] |
+| 12 Settembre 2025 | Grandi emozioni per la prima edizione della COPPA DEI CAMPIONI della Decima Zona FIV | X Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-12 - Grandi-emozioni-per-la-prima-edizione-della-COPPA-DEI-CAMPIONI-della-Decima-Zona-FIV - wp4292|nota]] |
+| 12 Settembre 2025 | “LA28 sarà ancora una volta Mission Impossible” – Marchesini parla della visione dietro ai successi olimpici azzurri e della nuova missione verso le Olimpiadi di Los Angeles | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-12 - LA28-sara-ancora-una-volta-Mission-Impossible-Marchesini-parla-della-visione-dietro-ai-successi-olimpici-azzur - wp4286|nota]] |
 | 11 Settembre 2025 | LNI GENOVA SESTRI PONENTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-11 - LNI-GENOVA-SESTRI-PONENTE - wp4267|nota]] |
 | 10 Settembre 2025 | Campionati Italiani Giovanili in singolo: medaglie e piazzamenti di rilievo per gli atleti della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-10 - Campionati-Italiani-Giovanili-in-singolo-medaglie-e-piazzamenti-di-rilievo-per-gli-atleti-della-XV-Zona - wp4264|nota]] |
 | 10 Settembre 2025 | LNI CHIAVARI E LAVAGNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-10 - LNI-CHIAVARI-E-LAVAGNA - wp4260|nota]] |

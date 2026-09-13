@@ -6,6 +6,10 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 24 Luglio 2025 | Circolo Vela Cesenatico. Al via il Trofeo Rotary – Campionato Zonale Dinghy 12’ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-24 - Circolo-Vela-Cesenatico-Al-via-il-Trofeo-Rotary-Campionato-Zonale-Dinghy-12 - wp3563|nota]] |
+| 23 Luglio 2025 | Corrado Fara presidente della Conferenza Territoriale FIV: “La mia vela tra passione, territorio e programmazione” | III Zona, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - Corrado-Fara-presidente-della-Conferenza-Territoriale-FIV-La-mia-vela-tra-passione-territorio-e-programmazione - wp3532|nota]] |
+| 23 Luglio 2025 | IL LIGURE LORENZO SORRENTI ALLA FINALE MONDIALE DI ESAILING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - IL-LIGURE-LORENZO-SORRENTI-ALLA-FINALE-MONDIALE-DI-ESAILING - wp3510|nota]] |
+| 22 Luglio 2025 | Corso di Formazione per Docenti di Scienze Motorie | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - Corso-di-Formazione-per-Docenti-di-Scienze-Motorie - wp3505|nota]] |
 | 22 Luglio 2025 | La vela giovanile invade le acque del Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - La-vela-giovanile-invade-le-acque-del-Garda-Trentino - wp3498|nota]] |
 | 21 Luglio 2025 | Para sailing Fiv: Marina di Ravenna ha ospitato le regate dei Campionati Nazionali e la VI tappa di Navigare Insieme. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-21 - Para-sailing-Fiv-Marina-di-Ravenna-ha-ospitato-le-regate-dei-Campionati-Nazionali-e-la-VI-tappa-di-Navigare-In - wp3453|nota]] |
 | 20 Luglio 2025 | Campionati Europei giovanili in Portogallo: in acqua gli equipaggi italiani del 420 e del 470 Mixed | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-20 - Campionati-Europei-giovanili-in-Portogallo-in-acqua-gli-equipaggi-italiani-del-420-e-del-470-Mixed - wp3407|nota]] |

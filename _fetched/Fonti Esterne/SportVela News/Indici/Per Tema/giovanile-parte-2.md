@@ -6,6 +6,11 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 20 Aprile 2026 | Il Campionato Primaverile ORC è di Django WR | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Il-Campionato-Primaverile-ORC-e-di-Django-WR - wp6714|nota]] |
+| 20 Aprile 2026 | Dominio della II Zona a Marsala: Pioggia di Podi alla Prima Tappa Kinder! | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Dominio-della-II-Zona-a-Marsala-Pioggia-di-Podi-alla-Prima-Tappa-Kinder - wp6688|nota]] |
+| 20 Aprile 2026 | Regata Nazionale RS Feva, finale ad altissima intensità a Gargnano | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Regata-Nazionale-RS-Feva-finale-ad-altissima-intensita-a-Gargnano - wp6706|nota]] |
+| 18 Aprile 2026 | Due ori per l’Italia all’Europeo ILCA 4 Youth: a Murcia brillano Morina e Noto | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-18 - Due-ori-per-l-Italia-all-Europeo-ILCA-4-Youth-a-Murcia-brillano-Morina-e-Noto - wp6668|nota]] |
+| 18 Aprile 2026 | La vela come strumento educativo: a Roma il confronto sui progetti FIV | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-18 - La-vela-come-strumento-educativo-a-Roma-il-confronto-sui-progetti-FIV - wp6679|nota]] |
 | 15 Aprile 2026 | Selezione zonale Cadetti Optimist a Salerno, una domenica di vela e condivisione | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-15 - Selezione-zonale-Cadetti-Optimist-a-Salerno-una-domenica-di-vela-e-condivisione - wp6647|nota]] |
 | 15 Aprile 2026 | CIRCUITO EUROPEO MELGES 24 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-15 - CIRCUITO-EUROPEO-MELGES-24 - wp6639|nota]] |
 | 14 Aprile 2026 | Big Air, titolo italiano Under 17 per Daniele Pio Sgroia | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - Big-Air-titolo-italiano-Under-17-per-Daniele-Pio-Sgroia - wp6625|nota]] |
@@ -251,8 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 15 Settembre 2025 | YACHT CLUB CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - YACHT-CLUB-CHIAVARI - wp4324|nota]] |
 | 13 Settembre 2025 | iQFOiL U23 World Championships 2025: Tomasini bronzo e tanta Italia nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - iQFOiL-U23-World-Championships-2025-Tomasini-bronzo-e-tanta-Italia-nella-top-ten - wp4318|nota]] |
 | 13 Settembre 2025 | ChioggiaVela 2025 – “La nostra casa è il mare” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - ChioggiaVela-2025-La-nostra-casa-e-il-mare - wp4315|nota]] |
-| 13 Settembre 2025 | Veleziana Sailing Week 2025: la regata dei sogni nella Serenissima | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - Veleziana-Sailing-Week-2025-la-regata-dei-sogni-nella-Serenissima - wp4312|nota]] |
-| 13 Settembre 2025 | Bilancio Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - Bilancio-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4308|nota]] |
-| 13 Settembre 2025 | YACHT CLUB ITALIANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - YACHT-CLUB-ITALIANO - wp4304|nota]] |
-| 12 Settembre 2025 | Grandi emozioni per la prima edizione della COPPA DEI CAMPIONI della Decima Zona FIV | X Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-12 - Grandi-emozioni-per-la-prima-edizione-della-COPPA-DEI-CAMPIONI-della-Decima-Zona-FIV - wp4292|nota]] |
-| 12 Settembre 2025 | “LA28 sarà ancora una volta Mission Impossible” – Marchesini parla della visione dietro ai successi olimpici azzurri e della nuova missione verso le Olimpiadi di Los Angeles | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-12 - LA28-sara-ancora-una-volta-Mission-Impossible-Marchesini-parla-della-visione-dietro-ai-successi-olimpici-azzur - wp4286|nota]] |
