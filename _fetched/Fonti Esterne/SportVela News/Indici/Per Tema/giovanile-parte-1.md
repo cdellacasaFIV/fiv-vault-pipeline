@@ -6,6 +6,8 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Settembre 2026 | DINGHY 12’: CONCLUSO IL 26° CAMPIONATO DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - DINGHY-12-CONCLUSO-IL-26-CAMPIONATO-DEL-TIGULLIO - wp9067|nota]] |
+| 13 Settembre 2026 | Trofeo OptiSud, trionfo della V Zona: trionfano Nugnes e Allodi Varriale, CRV Italia miglior Circolo! | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - Trofeo-OptiSud-trionfo-della-V-Zona-trionfano-Nugnes-e-Allodi-Varriale-CRV-Italia-miglior-Circolo - wp9052|nota]] |
 | 12 Settembre 2026 | Mondiale iQFOiL, Pilloni sesto e Falcioni settima | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Mondiale-iQFOiL-Pilloni-sesto-e-Falcioni-settima - wp9035|nota]] |
 | 11 Settembre 2026 | Cesenatico incorona i campioni del mondo Topcat: grande spettacolo al Circolo Vela Cesenatico | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-11 - Cesenatico-incorona-i-campioni-del-mondo-Topcat-grande-spettacolo-al-Circolo-Vela-Cesenatico - wp9013|nota]] |
 | 11 Settembre 2026 | LA I ZONA BRILLA AI CAMPIONATI ITALIANI GIOVANILI IN DOPPIO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-11 - LA-I-ZONA-BRILLA-AI-CAMPIONATI-ITALIANI-GIOVANILI-IN-DOPPIO-2026 - wp9007|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 23 Aprile 2026 | La XII Zona FIV al Salone Nautico di Venezia 2026 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - La-XII-Zona-FIV-al-Salone-Nautico-di-Venezia-2026 - wp6789|nota]] |
 | 22 Aprile 2026 | FANTASTICA SETTIMANA A SANREMO CON L’ITALIAN GRAND PRIX – DRAGON CUP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-22 - FANTASTICA-SETTIMANA-A-SANREMO-CON-L-ITALIAN-GRAND-PRIX-DRAGON-CUP - wp6760|nota]] |
 | 21 Aprile 2026 | SETTIMANA VELICA INTERNAZIONALE: si apre l’edizione 2026 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - SETTIMANA-VELICA-INTERNAZIONALE-si-apre-l-edizione-2026 - wp6695|nota]] |
-| 21 Aprile 2026 | Torre Annunziata ospita il VI Trofeo Oplonti Marina del Sole | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - Torre-Annunziata-ospita-il-VI-Trofeo-Oplonti-Marina-del-Sole - wp6738|nota]] |
-| 20 Aprile 2026 | Semaine Olympique Française 2026, prima giornata: italiani in evidenza | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Semaine-Olympique-Francaise-2026-prima-giornata-italiani-in-evidenza - wp6721|nota]] |

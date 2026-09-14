@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Aprile 2026 | Torre Annunziata ospita il VI Trofeo Oplonti Marina del Sole | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - Torre-Annunziata-ospita-il-VI-Trofeo-Oplonti-Marina-del-Sole - wp6738|nota]] |
+| 20 Aprile 2026 | Semaine Olympique Française 2026, prima giornata: italiani in evidenza | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Semaine-Olympique-Francaise-2026-prima-giornata-italiani-in-evidenza - wp6721|nota]] |
 | 20 Aprile 2026 | Il Campionato Primaverile ORC è di Django WR | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Il-Campionato-Primaverile-ORC-e-di-Django-WR - wp6714|nota]] |
 | 20 Aprile 2026 | Dominio della II Zona a Marsala: Pioggia di Podi alla Prima Tappa Kinder! | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Dominio-della-II-Zona-a-Marsala-Pioggia-di-Podi-alla-Prima-Tappa-Kinder - wp6688|nota]] |
 | 20 Aprile 2026 | Regata Nazionale RS Feva, finale ad altissima intensità a Gargnano | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Regata-Nazionale-RS-Feva-finale-ad-altissima-intensita-a-Gargnano - wp6706|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 16 Settembre 2025 | CONCLUSO AD ARENZANO IL CAMPIONATO INTERCIRCOLI 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-16 - CONCLUSO-AD-ARENZANO-IL-CAMPIONATO-INTERCIRCOLI-2025 - wp4365|nota]] |
 | 15 Settembre 2025 | ECCO TUTTI I VINCITORI DEL TROFEO ELVIO BOTTO – COPPA GAVINO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - ECCO-TUTTI-I-VINCITORI-DEL-TROFEO-ELVIO-BOTTO-COPPA-GAVINO-2025 - wp4327|nota]] |
 | 15 Settembre 2025 | YACHT CLUB CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - YACHT-CLUB-CHIAVARI - wp4324|nota]] |
-| 13 Settembre 2025 | iQFOiL U23 World Championships 2025: Tomasini bronzo e tanta Italia nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - iQFOiL-U23-World-Championships-2025-Tomasini-bronzo-e-tanta-Italia-nella-top-ten - wp4318|nota]] |
-| 13 Settembre 2025 | ChioggiaVela 2025 – “La nostra casa è il mare” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - ChioggiaVela-2025-La-nostra-casa-e-il-mare - wp4315|nota]] |

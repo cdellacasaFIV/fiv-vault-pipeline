@@ -4,6 +4,7 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Settembre 2026 | Trofeo OptiSud, trionfo della V Zona: trionfano Nugnes e Allodi Varriale, CRV Italia miglior Circolo! | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - Trofeo-OptiSud-trionfo-della-V-Zona-trionfano-Nugnes-e-Allodi-Varriale-CRV-Italia-miglior-Circolo - wp9052|nota]] |
 | 12 Settembre 2026 | Vela: profumo di America’s Cup al CN Torre del Greco | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Vela-profumo-di-America-s-Cup-al-CN-Torre-del-Greco - wp9043|nota]] |
 | 10 Settembre 2026 | VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-10 - VELA-PARALIMPICA - wp8977|nota]] |
 | 9 Settembre 2026 | America’s Cup 2027, i sogni e le emozioni della Scuola Vela Mascalzone Latino | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-09 - America-s-Cup-2027-i-sogni-e-le-emozioni-della-Scuola-Vela-Mascalzone-Latino - wp8957|nota]] |

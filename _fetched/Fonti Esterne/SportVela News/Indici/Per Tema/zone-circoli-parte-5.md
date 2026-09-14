@@ -6,6 +6,11 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Luglio 2025 | Corrado Fara presidente della Conferenza Territoriale FIV: “La mia vela tra passione, territorio e programmazione” | III Zona, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - Corrado-Fara-presidente-della-Conferenza-Territoriale-FIV-La-mia-vela-tra-passione-territorio-e-programmazione - wp3532|nota]] |
+| 23 Luglio 2025 | WATERFRONT SAILING CLUB GENOVA: UN MARE DI ATTIVITÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - WATERFRONT-SAILING-CLUB-GENOVA-UN-MARE-DI-ATTIVITA - wp3523|nota]] |
+| 23 Luglio 2025 | IL LIGURE LORENZO SORRENTI ALLA FINALE MONDIALE DI ESAILING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - IL-LIGURE-LORENZO-SORRENTI-ALLA-FINALE-MONDIALE-DI-ESAILING - wp3510|nota]] |
+| 22 Luglio 2025 | Corso di Formazione per Docenti di Scienze Motorie | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - Corso-di-Formazione-per-Docenti-di-Scienze-Motorie - wp3505|nota]] |
+| 22 Luglio 2025 | Giulia Marella: dal titolo europeo al brillante avvio nel Mondiale Youth ILCA 4 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - Giulia-Marella-dal-titolo-europeo-al-brillante-avvio-nel-Mondiale-Youth-ILCA-4 - wp3502|nota]] |
 | 22 Luglio 2025 | La vela giovanile invade le acque del Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-22 - La-vela-giovanile-invade-le-acque-del-Garda-Trentino - wp3498|nota]] |
 | 21 Luglio 2025 | NICCOLÒ BERTOLA E MATTIA SAGGIO CAMPIONI DEL MONDO VAURIEN DOPO UNA SETTIMANA DI EMOZIONANTI REGATE SUL LAGO DI BRACCIANO | IV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-21 - NICCOLO-BERTOLA-E-MATTIA-SAGGIO-CAMPIONI-DEL-MONDO-VAURIEN-DOPO-UNA-SETTIMANA-DI-EMOZIONANTI-REGATE-SUL-LAGO-D - wp3476|nota]] |
 | 21 Luglio 2025 | L’Italia torna all’Admiral’s Cup 2025 con Team Django dello Yacht Club Costa Smeralda | III Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-21 - L-Italia-torna-all-Admiral-s-Cup-2025-con-Team-Django-dello-Yacht-Club-Costa-Smeralda - wp3461|nota]] |

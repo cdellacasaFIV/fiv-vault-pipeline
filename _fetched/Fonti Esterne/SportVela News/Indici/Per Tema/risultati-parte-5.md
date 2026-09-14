@@ -6,6 +6,9 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 31 Gennaio 2025 | Il Consiglio Federale assegna le Regate FIV per il 2025 | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-01-31 - Il-Consiglio-Federale-assegna-le-Regate-FIV-per-il-2025 - wp2382|nota]] |
+| 30 Gennaio 2025 | Campionato del mondo a squadre: Finale thriller vince la Francia sull’Italia all’ultimo secondo | e-sailing, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-01-30 - Campionato-del-mondo-a-squadre-Finale-thriller-vince-la-Francia-sull-Italia-all-ultimo-secondo - wp2379|nota]] |
+| 23 Gennaio 2025 | La Federazione Italiana Vela al Quirinale: un incontro storico con il Presidente della Repubblica Sergio Mattarella | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-01-23 - La-Federazione-Italiana-Vela-al-Quirinale-un-incontro-storico-con-il-Presidente-della-Repubblica-Sergio-Mattar - wp2356|nota]] |
 | 21 Gennaio 2025 | La Squadra Italiana di eSailing conquista la Finale del Campionato del Mondo a Squadre | e-sailing, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-01-21 - La-Squadra-Italiana-di-eSailing-conquista-la-Finale-del-Campionato-del-Mondo-a-Squadre - wp2353|nota]] |
 | 21 Gennaio 2025 | Nasce il MED Sailors Genova, il nuovo centro di alta specializzazione FIV per la Vela d’Altura | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-01-21 - Nasce-il-MED-Sailors-Genova-il-nuovo-centro-di-alta-specializzazione-FIV-per-la-Vela-d-Altura - wp2350|nota]] |
 | 19 Dicembre 2024 | Campionato Europeo di eSailing: un successo senza precedenti, 5 italiani in top10! | e-sailing, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-12-19 - Campionato-Europeo-di-eSailing-un-successo-senza-precedenti-5-italiani-in-top10 - wp2329|nota]] |

@@ -6,6 +6,8 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Settembre 2025 | iQFOiL U23 World Championships 2025: Tomasini bronzo e tanta Italia nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - iQFOiL-U23-World-Championships-2025-Tomasini-bronzo-e-tanta-Italia-nella-top-ten - wp4318|nota]] |
+| 13 Settembre 2025 | ChioggiaVela 2025 – “La nostra casa è il mare” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - ChioggiaVela-2025-La-nostra-casa-e-il-mare - wp4315|nota]] |
 | 13 Settembre 2025 | Veleziana Sailing Week 2025: la regata dei sogni nella Serenissima | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - Veleziana-Sailing-Week-2025-la-regata-dei-sogni-nella-Serenissima - wp4312|nota]] |
 | 13 Settembre 2025 | Bilancio Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - Bilancio-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4308|nota]] |
 | 13 Settembre 2025 | YACHT CLUB ITALIANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - YACHT-CLUB-ITALIANO - wp4304|nota]] |

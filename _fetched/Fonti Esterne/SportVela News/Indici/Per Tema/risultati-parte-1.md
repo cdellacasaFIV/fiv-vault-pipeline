@@ -6,6 +6,9 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Settembre 2026 | DINGHY 12’: CONCLUSO IL 26° CAMPIONATO DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - DINGHY-12-CONCLUSO-IL-26-CAMPIONATO-DEL-TIGULLIO - wp9067|nota]] |
+| 14 Settembre 2026 | CAMPIONATO ITALIANO DINGHY 12’ 2026: DE GASPARI CAMPIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - CAMPIONATO-ITALIANO-DINGHY-12-2026-DE-GASPARI-CAMPIONE - wp9061|nota]] |
+| 13 Settembre 2026 | Trofeo OptiSud, trionfo della V Zona: trionfano Nugnes e Allodi Varriale, CRV Italia miglior Circolo! | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - Trofeo-OptiSud-trionfo-della-V-Zona-trionfano-Nugnes-e-Allodi-Varriale-CRV-Italia-miglior-Circolo - wp9052|nota]] |
 | 12 Settembre 2026 | Vela: profumo di America’s Cup al CN Torre del Greco | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Vela-profumo-di-America-s-Cup-al-CN-Torre-del-Greco - wp9043|nota]] |
 | 12 Settembre 2026 | Mondiale iQFOiL, Pilloni sesto e Falcioni settima | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Mondiale-iQFOiL-Pilloni-sesto-e-Falcioni-settima - wp9035|nota]] |
 | 12 Settembre 2026 | Formula Kite, Europei di Akyaka: Pianosi bronzo continentale, settimo Marx nella miglior giornata di squadra della stagione | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Formula-Kite-Europei-di-Akyaka-Pianosi-bronzo-continentale-settimo-Marx-nella-miglior-giornata-di-squadra-dell - wp9031|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Giugno 2026 | Venezia, la vela e la memoria del mare | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - Venezia-la-vela-e-la-memoria-del-mare - wp7674|nota]] |
 | 18 Giugno 2026 | Al via la Galiola 2026 del Circolo Velico Ravennate. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - Al-via-la-Galiola-2026-del-Circolo-Velico-Ravennate - wp7687|nota]] |
 | 18 Giugno 2026 | A Torre del Greco il Trofeo il 7° Trofeo del Filo D’Oro – Memorial Dalila Concilio | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - A-Torre-del-Greco-il-Trofeo-il-7-Trofeo-del-Filo-D-Oro-Memorial-Dalila-Concilio - wp7669|nota]] |
-| 18 Giugno 2026 | GRANDE SUCCESSO PER IL CORSO “FORMAZIONE MULTIDISCIPLINARE PER LA PERFORMANCE DEL VELISTA” DELLA I ZONA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - GRANDE-SUCCESSO-PER-IL-CORSO-FORMAZIONE-MULTIDISCIPLINARE-PER-LA-PERFORMANCE-DEL-VELISTA-DELLA-I-ZONA - wp7665|nota]] |
-| 18 Giugno 2026 | DA SAINT-TROPEZ A GENOVA: PARTE LA LORO PIANA GIRAGLIA OFFSHORE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - DA-SAINT-TROPEZ-A-GENOVA-PARTE-LA-LORO-PIANA-GIRAGLIA-OFFSHORE - wp7662|nota]] |
-| 17 Giugno 2026 | SailYourMind al raduno 420 di Alpago | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-17 - SailYourMind-al-raduno-420-di-Alpago - wp7658|nota]] |

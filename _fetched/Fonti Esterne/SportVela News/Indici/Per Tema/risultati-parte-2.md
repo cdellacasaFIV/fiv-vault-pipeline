@@ -6,6 +6,9 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Giugno 2026 | GRANDE SUCCESSO PER IL CORSO “FORMAZIONE MULTIDISCIPLINARE PER LA PERFORMANCE DEL VELISTA” DELLA I ZONA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - GRANDE-SUCCESSO-PER-IL-CORSO-FORMAZIONE-MULTIDISCIPLINARE-PER-LA-PERFORMANCE-DEL-VELISTA-DELLA-I-ZONA - wp7665|nota]] |
+| 18 Giugno 2026 | DA SAINT-TROPEZ A GENOVA: PARTE LA LORO PIANA GIRAGLIA OFFSHORE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - DA-SAINT-TROPEZ-A-GENOVA-PARTE-LA-LORO-PIANA-GIRAGLIA-OFFSHORE - wp7662|nota]] |
+| 17 Giugno 2026 | SailYourMind al raduno 420 di Alpago | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-17 - SailYourMind-al-raduno-420-di-Alpago - wp7658|nota]] |
 | 17 Giugno 2026 | Torna la Velalonga nel golfo di Napoli | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-17 - Torna-la-Velalonga-nel-golfo-di-Napoli - wp7652|nota]] |
 | 17 Giugno 2026 | Ultimo atto a Saint-Tropez prima che la Giraglia prenda il largo verso Genova | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-17 - Ultimo-atto-a-Saint-Tropez-prima-che-la-Giraglia-prenda-il-largo-verso-Genova - wp7647|nota]] |
 | 16 Giugno 2026 | A CHIAVARI LA PRIMA SELEZIONE ZONALE OPTIMIST NEL SEGNO DELLO SPETTACOLO E DELLA SINERGIA TRA LE LEGHE NAVALI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-16 - A-CHIAVARI-LA-PRIMA-SELEZIONE-ZONALE-OPTIMIST-NEL-SEGNO-DELLO-SPETTACOLO-E-DELLA-SINERGIA-TRA-LE-LEGHE-NAVALI - wp7643|nota]] |
@@ -253,6 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 25 Febbraio 2026 | A LORENZO DALL’AVA E BIANCA BRESSAN IL 56° MEETING GIOVANILE DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - A-LORENZO-DALL-AVA-E-BIANCA-BRESSAN-IL-56-MEETING-GIOVANILE-DI-ALASSIO - wp6124|nota]] |
 | 25 Febbraio 2026 | Trofeo del Timoniere 2026, a Napoli vince Basilico | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - Trofeo-del-Timoniere-2026-a-Napoli-vince-Basilico - wp6115|nota]] |
 | 24 Febbraio 2026 | In acqua a Mondello per il Trofeo del Comitato Optimist | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-24 - In-acqua-a-Mondello-per-il-Trofeo-del-Comitato-Optimist - wp6112|nota]] |
-| 23 Febbraio 2026 | UN SECOLO DI VELA A QUARTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - UN-SECOLO-DI-VELA-A-QUARTO - wp6100|nota]] |
-| 23 Febbraio 2026 | INTERNATIONAL GENOA WINTER CONTEST 2026 – ILCA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - INTERNATIONAL-GENOA-WINTER-CONTEST-2026-ILCA - wp6087|nota]] |
-| 21 Febbraio 2026 | IL COMITATO I ZONA FIV LANCIA IL CORSO AVANZATO SULLO SPINNAKER | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-21 - IL-COMITATO-I-ZONA-FIV-LANCIA-IL-CORSO-AVANZATO-SULLO-SPINNAKER - wp6084|nota]] |

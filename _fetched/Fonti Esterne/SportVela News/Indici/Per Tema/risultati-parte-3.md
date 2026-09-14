@@ -6,6 +6,9 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Febbraio 2026 | UN SECOLO DI VELA A QUARTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - UN-SECOLO-DI-VELA-A-QUARTO - wp6100|nota]] |
+| 23 Febbraio 2026 | INTERNATIONAL GENOA WINTER CONTEST 2026 – ILCA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - INTERNATIONAL-GENOA-WINTER-CONTEST-2026-ILCA - wp6087|nota]] |
+| 21 Febbraio 2026 | IL COMITATO I ZONA FIV LANCIA IL CORSO AVANZATO SULLO SPINNAKER | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-21 - IL-COMITATO-I-ZONA-FIV-LANCIA-IL-CORSO-AVANZATO-SULLO-SPINNAKER - wp6084|nota]] |
 | 19 Febbraio 2026 | GLI IDRURI METALLICI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-19 - GLI-IDRURI-METALLICI - wp6070|nota]] |
 | 19 Febbraio 2026 | Al via da Napoli il Trofeo del Timoniere Assometeor 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-19 - Al-via-da-Napoli-il-Trofeo-del-Timoniere-Assometeor-2026 - wp6066|nota]] |
 | 18 Febbraio 2026 | SI CHIUDE AD ANDORA LA PRIMA TAPPA DELL’ITALIA CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - SI-CHIUDE-AD-ANDORA-LA-PRIMA-TAPPA-DELL-ITALIA-CUP-2026 - wp6059|nota]] |
@@ -253,6 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 4 Ottobre 2025 | Mondiale Formula Kite: Pianosi in finale | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-04 - Mondiale-Formula-Kite-Pianosi-in-finale - wp4672|nota]] |
 | 4 Ottobre 2025 | EUROSAF INCLUSIVE EUROPEAN CHAMPIONSHIP – GLI ATLETI VENETI DELLA XII ZONA FIV PROTAGONISTI A TRIESTE | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-04 - EUROSAF-INCLUSIVE-EUROPEAN-CHAMPIONSHIP-GLI-ATLETI-VENETI-DELLA-XII-ZONA-FIV-PROTAGONISTI-A-TRIESTE - wp4665|nota]] |
 | 4 Ottobre 2025 | Trieste incorona i nuovi campioni Hansa 303 di Para Sailing: trionfo azzurro all’EUROSAF Inclusive Event | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-04 - Trieste-incorona-i-nuovi-campioni-Hansa-303-di-Para-Sailing-trionfo-azzurro-all-EUROSAF-Inclusive-Event - wp4664|nota]] |
-| 4 Ottobre 2025 | Europeo RS Feva: quattro medaglie italiane a Riva del Garda | Copertina, News, Senza categoria, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-04 - Europeo-RS-Feva-quattro-medaglie-italiane-a-Riva-del-Garda - wp4663|nota]] |
-| 3 Ottobre 2025 | Mondiale Formula Kite: Pianosi nuovo leader a Quartu | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-03 - Mondiale-Formula-Kite-Pianosi-nuovo-leader-a-Quartu - wp4660|nota]] |
-| 3 Ottobre 2025 | BORSA DI STUDIO CLELIA CAMBIASO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-03 - BORSA-DI-STUDIO-CLELIA-CAMBIASO - wp4657|nota]] |

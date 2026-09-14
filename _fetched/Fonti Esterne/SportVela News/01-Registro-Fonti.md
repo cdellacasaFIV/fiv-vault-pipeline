@@ -1,10 +1,15 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-09-13.
+Aggiornato: 2026-09-14.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 14 Settembre 2026 | Alberto Borgognini, per tanti anni Presidente del Circolo Nautico Arma, ci ha lasciati. | I Zona | zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - Alberto-Borgognini-per-tanti-anni-Presidente-del-Circolo-Nautico-Arma-ci-ha-lasciati - wp9070|nota]] | https://sportvela.net/blog/2026/09/14/alberto-borgognini-per-tanti-anni-presidente-del-circolo-nautico-arma-ci-ha-lasciati/ |
+| 14 Settembre 2026 | DINGHY 12’: CONCLUSO IL 26° CAMPIONATO DEL TIGULLIO | I Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - DINGHY-12-CONCLUSO-IL-26-CAMPIONATO-DEL-TIGULLIO - wp9067|nota]] | https://sportvela.net/blog/2026/09/14/dinghy-12-concluso-il-26-campionato-del-tigullio/ |
+| 14 Settembre 2026 | CAMPIONATO ITALIANO DINGHY 12’ 2026: DE GASPARI CAMPIONE | I Zona | risultati, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - CAMPIONATO-ITALIANO-DINGHY-12-2026-DE-GASPARI-CAMPIONE - wp9061|nota]] | https://sportvela.net/blog/2026/09/14/campionato-italiano-dinghy-12-2026-de-gaspari-campione/ |
+| 13 Settembre 2026 | Trofeo OptiSud, trionfo della V Zona: trionfano Nugnes e Allodi Varriale, CRV Italia miglior Circolo! | V Zona | risultati, giovanile, zone/circoli, america's cup/napoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - Trofeo-OptiSud-trionfo-della-V-Zona-trionfano-Nugnes-e-Allodi-Varriale-CRV-Italia-miglior-Circolo - wp9052|nota]] | https://sportvela.net/blog/2026/09/13/trofeo-optisud-trionfo-della-v-zona-trionfano-nugnes-e-allodi-varriale-crv-italia-miglior-circolo/ |
+| 13 Settembre 2026 | MILLEVELE IREN 2026: 217 BARCHE COLORANO IL GOLFO DI GENOVA | I Zona | zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - MILLEVELE-IREN-2026-217-BARCHE-COLORANO-IL-GOLFO-DI-GENOVA - wp9050|nota]] | https://sportvela.net/blog/2026/09/13/millevele-iren-2026-217-barche-colorano-il-golfo-di-genova/ |
 | 12 Settembre 2026 | Vela: profumo di America’s Cup al CN Torre del Greco | V Zona | risultati, olimpica, zone/circoli, america's cup/napoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Vela-profumo-di-America-s-Cup-al-CN-Torre-del-Greco - wp9043|nota]] | https://sportvela.net/blog/2026/09/12/vela-profumo-di-americas-cup-al-cn-torre-del-greco/ |
 | 12 Settembre 2026 | “1 Golfo x 2 e per tutti”: il 19 e 20 settembre la storica regata costiera a Castellammare | V Zona | zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - 1-Golfo-x-2-e-per-tutti-il-19-e-20-settembre-la-storica-regata-costiera-a-Castellammare - wp9039|nota]] | https://sportvela.net/blog/2026/09/12/1-golfo-x-2-e-per-tutti-il-19-e-20-settembre-la-storica-regata-costiera-a-castellammare/ |
 | 12 Settembre 2026 | Mondiale iQFOiL, Pilloni sesto e Falcioni settima | Copertina, News, Vela Olimpica | risultati, olimpica, giovanile, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Mondiale-iQFOiL-Pilloni-sesto-e-Falcioni-settima - wp9035|nota]] | https://sportvela.net/blog/2026/09/12/mondiale-iqfoil-pilloni-sesto-e-falcioni-settima/ |
