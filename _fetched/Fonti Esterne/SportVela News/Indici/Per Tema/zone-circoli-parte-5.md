@@ -6,6 +6,8 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 25 Luglio 2025 | ANNO INTENSO PER IL CV SANTA MARGHERITA LIGURE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-25 - ANNO-INTENSO-PER-IL-CV-SANTA-MARGHERITA-LIGURE - wp3572|nota]] |
+| 24 Luglio 2025 | Circolo Vela Cesenatico. Al via il Trofeo Rotary – Campionato Zonale Dinghy 12’ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-24 - Circolo-Vela-Cesenatico-Al-via-il-Trofeo-Rotary-Campionato-Zonale-Dinghy-12 - wp3563|nota]] |
 | 23 Luglio 2025 | Corrado Fara presidente della Conferenza Territoriale FIV: “La mia vela tra passione, territorio e programmazione” | III Zona, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - Corrado-Fara-presidente-della-Conferenza-Territoriale-FIV-La-mia-vela-tra-passione-territorio-e-programmazione - wp3532|nota]] |
 | 23 Luglio 2025 | WATERFRONT SAILING CLUB GENOVA: UN MARE DI ATTIVITÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - WATERFRONT-SAILING-CLUB-GENOVA-UN-MARE-DI-ATTIVITA - wp3523|nota]] |
 | 23 Luglio 2025 | IL LIGURE LORENZO SORRENTI ALLA FINALE MONDIALE DI ESAILING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-23 - IL-LIGURE-LORENZO-SORRENTI-ALLA-FINALE-MONDIALE-DI-ESAILING - wp3510|nota]] |

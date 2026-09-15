@@ -6,6 +6,8 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 25 Febbraio 2026 | Trofeo del Timoniere 2026, a Napoli vince Basilico | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - Trofeo-del-Timoniere-2026-a-Napoli-vince-Basilico - wp6115|nota]] |
+| 24 Febbraio 2026 | In acqua a Mondello per il Trofeo del Comitato Optimist | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-24 - In-acqua-a-Mondello-per-il-Trofeo-del-Comitato-Optimist - wp6112|nota]] |
 | 23 Febbraio 2026 | UN SECOLO DI VELA A QUARTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - UN-SECOLO-DI-VELA-A-QUARTO - wp6100|nota]] |
 | 23 Febbraio 2026 | INTERNATIONAL GENOA WINTER CONTEST 2026 – ILCA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - INTERNATIONAL-GENOA-WINTER-CONTEST-2026-ILCA - wp6087|nota]] |
 | 21 Febbraio 2026 | IL COMITATO I ZONA FIV LANCIA IL CORSO AVANZATO SULLO SPINNAKER | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-21 - IL-COMITATO-I-ZONA-FIV-LANCIA-IL-CORSO-AVANZATO-SULLO-SPINNAKER - wp6084|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 5 Ottobre 2025 | Al Club Nautico Rimini al via la VI Nazionale OpenSkiff e la V Nazionale e Campionato Italiano RS Aero | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-05 - Al-Club-Nautico-Rimini-al-via-la-VI-Nazionale-OpenSkiff-e-la-V-Nazionale-e-Campionato-Italiano-RS-Aero - wp4699|nota]] |
 | 5 Ottobre 2025 | Mondiale Formula Kite 2025: Riccardo Pianosi è campione del mondo. Storico oro per Italia | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-05 - Mondiale-Formula-Kite-2025-Riccardo-Pianosi-e-campione-del-mondo-Storico-oro-per-Italia - wp4688|nota]] |
 | 4 Ottobre 2025 | Mondiale Formula Kite: Pianosi in finale | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-04 - Mondiale-Formula-Kite-Pianosi-in-finale - wp4672|nota]] |
-| 4 Ottobre 2025 | EUROSAF INCLUSIVE EUROPEAN CHAMPIONSHIP – GLI ATLETI VENETI DELLA XII ZONA FIV PROTAGONISTI A TRIESTE | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-04 - EUROSAF-INCLUSIVE-EUROPEAN-CHAMPIONSHIP-GLI-ATLETI-VENETI-DELLA-XII-ZONA-FIV-PROTAGONISTI-A-TRIESTE - wp4665|nota]] |
-| 4 Ottobre 2025 | Trieste incorona i nuovi campioni Hansa 303 di Para Sailing: trionfo azzurro all’EUROSAF Inclusive Event | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-04 - Trieste-incorona-i-nuovi-campioni-Hansa-303-di-Para-Sailing-trionfo-azzurro-all-EUROSAF-Inclusive-Event - wp4664|nota]] |

@@ -3,15 +3,6 @@
 Fonte: World Sailing `Results > Overall Results`.
 Uso: accesso rapido alle classifiche finali complete delle maggiori regate Olympic Classes.
 
-## Long Beach Olympic Classes Regatta
-
-| Anno | Classe | Edizione | Equipaggi | Classifica completa | Fonte |
-| --- | --- | --- | --- | --- | --- |
-| 2026 | IQFOiL Women | Long Beach Olympic Classes Regatta | 27 | [[Dati CSV/Long-Beach-OCR__IQFOiL-Women__2026__Long-Beach-Olympic-Classes-Regatta.csv|CSV]] | https://sailing.org/regatta/long-beach-olympic-classes-regatta?ref=USA202507QP4 |
-| 2026 | IQFOiL Men | Long Beach Olympic Classes Regatta | 35 | [[Dati CSV/Long-Beach-OCR__IQFOiL-Men__2026__Long-Beach-Olympic-Classes-Regatta.csv|CSV]] | https://sailing.org/regatta/long-beach-olympic-classes-regatta?ref=USA202507QP4 |
-| 2026 | Formula Kite Women | Long Beach Olympic Classes Regatta | 24 | [[Dati CSV/Long-Beach-OCR__Formula-Kite-Women__2026__Long-Beach-Olympic-Classes-Regatta.csv|CSV]] | https://sailing.org/regatta/long-beach-olympic-classes-regatta?ref=USA202507QP4 |
-| 2026 | Formula Kite Men | Long Beach Olympic Classes Regatta | 33 | [[Dati CSV/Long-Beach-OCR__Formula-Kite-Men__2026__Long-Beach-Olympic-Classes-Regatta.csv|CSV]] | https://sailing.org/regatta/long-beach-olympic-classes-regatta?ref=USA202507QP4 |
-
 ## San Pedro Olympic Classes Regatta
 
 | Anno | Classe | Edizione | Equipaggi | Classifica completa | Fonte |

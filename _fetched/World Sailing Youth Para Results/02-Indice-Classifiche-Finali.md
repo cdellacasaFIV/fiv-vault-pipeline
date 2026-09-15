@@ -28,6 +28,7 @@ Uso: accesso rapido a classifiche finali complete di classi giovanili, RS, Wing/
 
 | Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 2026 | World Championships | ILCA 6 Women | 108 | [[Dati CSV/ILCA-6-Youth__World-Championships__2026__ILCA-6-Women__ILCA-6-Women-s-World-Championship__225b3e33.csv|CSV]] | https://sailing.org/regatta/ilca-6-women-s-world-championship?ref=IRL2026096VV |
 | 2026 | Class Youth World Championship | ILCA 6 Women | 122 | [[Dati CSV/ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Women__ILCA-6-Youth-World-Championships__774549de.csv|CSV]] | https://sailing.org/regatta/ilca-6-youth-world-championships?ref=USA202507AJ8 |
 | 2026 | Class Youth World Championship | ILCA 6 Men | 307 | [[Dati CSV/ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Men__ILCA-6-Youth-World-Championships__f0001562.csv|CSV]] | https://sailing.org/regatta/ilca-6-youth-world-championships?ref=USA202507AJ8 |
 

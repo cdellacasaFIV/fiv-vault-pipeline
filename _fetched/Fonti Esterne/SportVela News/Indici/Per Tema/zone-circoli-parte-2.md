@@ -6,6 +6,8 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 25 Giugno 2026 | Wing Foil, la FIV punta sui giovani: in Sicilia due raduni dedicati alla nuova disciplina | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - Wing-Foil-la-FIV-punta-sui-giovani-in-Sicilia-due-raduni-dedicati-alla-nuova-disciplina - wp7741|nota]] |
+| 25 Giugno 2026 | CVV – CIRCOLO VELE VERNAZZOLESI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - CVV-CIRCOLO-VELE-VERNAZZOLESI - wp7738|nota]] |
 | 24 Giugno 2026 | Prime due regate per l’Italiano Assoluto d’Altura Edison Next 2026 a Gaeta | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-24 - Prime-due-regate-per-l-Italiano-Assoluto-d-Altura-Edison-Next-2026-a-Gaeta - wp7735|nota]] |
 | 24 Giugno 2026 | Siracusa, il gran finale del Nastro Rosa Tour: vince l’Aeronautica Militare dopo una rimonta da applausi | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-24 - Siracusa-il-gran-finale-del-Nastro-Rosa-Tour-vince-l-Aeronautica-Militare-dopo-una-rimonta-da-applausi - wp7730|nota]] |
 | 23 Giugno 2026 | La cerimonia di apertura del Campionato Italiano Assoluto d’Altura Edison Next a Gaeta | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-23 - La-cerimonia-di-apertura-del-Campionato-Italiano-Assoluto-d-Altura-Edison-Next-a-Gaeta - wp7726|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 28 Marzo 2026 | LA STORIA DI AMBROGIO BECCARIA RACCONTATA AL CIRCOLO VELE VERNAZZOLESI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-28 - LA-STORIA-DI-AMBROGIO-BECCARIA-RACCONTATA-AL-CIRCOLO-VELE-VERNAZZOLESI - wp6441|nota]] |
 | 27 Marzo 2026 | Fine settimana all’insegna della formazione per la V Zona FIV | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-27 - Fine-settimana-all-insegna-della-formazione-per-la-V-Zona-FIV - wp6428|nota]] |
 | 26 Marzo 2026 | Selezione Interzonale Optimist di Ancona: la XI Zona protagonista. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - Selezione-Interzonale-Optimist-di-Ancona-la-XI-Zona-protagonista - wp6420|nota]] |
-| 26 Marzo 2026 | IL COMITATO I ZONA FIV PROMUOVE IL CORSO OSR CON UMBERTO VERNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - IL-COMITATO-I-ZONA-FIV-PROMUOVE-IL-CORSO-OSR-CON-UMBERTO-VERNA - wp6418|nota]] |
-| 26 Marzo 2026 | LA LNI CHIAVARI E LAVAGNA SFIDA LA LIGURIA SULLE HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - LA-LNI-CHIAVARI-E-LAVAGNA-SFIDA-LA-LIGURIA-SULLE-HANSA-303 - wp6415|nota]] |

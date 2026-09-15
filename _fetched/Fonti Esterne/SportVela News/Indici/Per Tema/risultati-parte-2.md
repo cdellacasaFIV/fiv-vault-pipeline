@@ -6,6 +6,8 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Giugno 2026 | Al via la Galiola 2026 del Circolo Velico Ravennate. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - Al-via-la-Galiola-2026-del-Circolo-Velico-Ravennate - wp7687|nota]] |
+| 18 Giugno 2026 | A Torre del Greco il Trofeo il 7° Trofeo del Filo D’Oro – Memorial Dalila Concilio | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - A-Torre-del-Greco-il-Trofeo-il-7-Trofeo-del-Filo-D-Oro-Memorial-Dalila-Concilio - wp7669|nota]] |
 | 18 Giugno 2026 | GRANDE SUCCESSO PER IL CORSO “FORMAZIONE MULTIDISCIPLINARE PER LA PERFORMANCE DEL VELISTA” DELLA I ZONA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - GRANDE-SUCCESSO-PER-IL-CORSO-FORMAZIONE-MULTIDISCIPLINARE-PER-LA-PERFORMANCE-DEL-VELISTA-DELLA-I-ZONA - wp7665|nota]] |
 | 18 Giugno 2026 | DA SAINT-TROPEZ A GENOVA: PARTE LA LORO PIANA GIRAGLIA OFFSHORE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - DA-SAINT-TROPEZ-A-GENOVA-PARTE-LA-LORO-PIANA-GIRAGLIA-OFFSHORE - wp7662|nota]] |
 | 17 Giugno 2026 | SailYourMind al raduno 420 di Alpago | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-17 - SailYourMind-al-raduno-420-di-Alpago - wp7658|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Febbraio 2026 | Regata Zonale ILCA – Circolo Velico Ravennate | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - Regata-Zonale-ILCA-Circolo-Velico-Ravennate - wp6135|nota]] |
 | 26 Febbraio 2026 | DIRETTORI SCUOLA VELA: AL VIA IN I ZONA IL PERCORSO SU COMUNICAZIONE, LEADERSHIP E GESTIONE DELLO STAFF | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - DIRETTORI-SCUOLA-VELA-AL-VIA-IN-I-ZONA-IL-PERCORSO-SU-COMUNICAZIONE-LEADERSHIP-E-GESTIONE-DELLO-STAFF - wp6131|nota]] |
 | 25 Febbraio 2026 | A LORENZO DALL’AVA E BIANCA BRESSAN IL 56° MEETING GIOVANILE DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - A-LORENZO-DALL-AVA-E-BIANCA-BRESSAN-IL-56-MEETING-GIOVANILE-DI-ALASSIO - wp6124|nota]] |
-| 25 Febbraio 2026 | Trofeo del Timoniere 2026, a Napoli vince Basilico | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - Trofeo-del-Timoniere-2026-a-Napoli-vince-Basilico - wp6115|nota]] |
-| 24 Febbraio 2026 | In acqua a Mondello per il Trofeo del Comitato Optimist | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-24 - In-acqua-a-Mondello-per-il-Trofeo-del-Comitato-Optimist - wp6112|nota]] |

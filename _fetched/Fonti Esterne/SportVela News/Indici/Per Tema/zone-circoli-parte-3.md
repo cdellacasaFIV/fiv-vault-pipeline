@@ -6,6 +6,8 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Marzo 2026 | IL COMITATO I ZONA FIV PROMUOVE IL CORSO OSR CON UMBERTO VERNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - IL-COMITATO-I-ZONA-FIV-PROMUOVE-IL-CORSO-OSR-CON-UMBERTO-VERNA - wp6418|nota]] |
+| 26 Marzo 2026 | LA LNI CHIAVARI E LAVAGNA SFIDA LA LIGURIA SULLE HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - LA-LNI-CHIAVARI-E-LAVAGNA-SFIDA-LA-LIGURIA-SULLE-HANSA-303 - wp6415|nota]] |
 | 25 Marzo 2026 | Consegna degli attestati al corso “Vela e STEM” al Club Nautico della Vela | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-25 - Consegna-degli-attestati-al-corso-Vela-e-STEM-al-Club-Nautico-della-Vela - wp6400|nota]] |
 | 25 Marzo 2026 | CRESCERE CON LA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-25 - CRESCERE-CON-LA-VELA - wp6412|nota]] |
 | 24 Marzo 2026 | PREMIATI TUTTI I VINCITORI DEL 35° CAMPIONATO INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-24 - PREMIATI-TUTTI-I-VINCITORI-DEL-35-CAMPIONATO-INTERCIRCOLI - wp6410|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 3 Novembre 2025 | MICAELA CONTI NOMINATA NUOVO RESPONSABILE DELLA FORMAZIONE ISTRUTTORI DELLA I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-03 - MICAELA-CONTI-NOMINATA-NUOVO-RESPONSABILE-DELLA-FORMAZIONE-ISTRUTTORI-DELLA-I-ZONA-FIV - wp5206|nota]] |
 | 3 Novembre 2025 | PRIMA GIORNATA PER IL 35° CAMPIONATO INVERNALE DEL PONENTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-03 - PRIMA-GIORNATA-PER-IL-35-CAMPIONATO-INVERNALE-DEL-PONENTE - wp5198|nota]] |
 | 2 Novembre 2025 | Vela Olimpica: Concluso a Palermo il Campionato Italiano Classi Olimpiche Edison Next 2025 | Copertina, e-sailing, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-02 - Vela-Olimpica-Concluso-a-Palermo-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next-2025 - wp5195|nota]] |
-| 2 Novembre 2025 | Barcellona “incorona” Maria Elena Barabino Campionessa europea O’pen Skiff | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-02 - Barcellona-incorona-Maria-Elena-Barabino-Campionessa-europea-O-pen-Skiff - wp5186|nota]] |
-| 1 Novembre 2025 | VELA OLIMPICA: TERZO GIORNO DI REGATE A PALERMO PER IL CAMPIONATO ITALIANO CLASSI OLIMPICHE EDISON NEXT 2025 | Copertina, e-sailing, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-01 - VELA-OLIMPICA-TERZO-GIORNO-DI-REGATE-A-PALERMO-PER-IL-CAMPIONATO-ITALIANO-CLASSI-OLIMPICHE-EDISON-NEXT-2025 - wp5181|nota]] |

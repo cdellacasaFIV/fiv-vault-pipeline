@@ -6,10 +6,39 @@ Uso: memoria profonda per classi giovanili, RS e Para Sailing.
 
 ## File dati completi
 
+- `ILCA-6-Youth__World-Championships__2026__ILCA-6-Women__ILCA-6-Women-s-World-Championship__225b3e33.csv`
 - `ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Women__ILCA-6-Youth-World-Championships__774549de.csv`
 - `ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Men__ILCA-6-Youth-World-Championships__f0001562.csv`
 
 ## Sintesi eventi
+
+### 2026 - World Championships - ILCA 6 Women
+
+Regata: ILCA 6 Women's World Championship
+Fonte: https://sailing.org/regatta/ilca-6-women-s-world-championship?ref=IRL2026096VV
+Date: 2026-09-05 - 2026-09-12
+Sede: Dun Laoghaire, Ireland
+Equipaggi/barche classificati: 108
+
+#### Podio
+
+| rank | country | crew | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 1 | USA | Charlotte Rose | 23 | 48 |
+| 2 | BEL | Emma Plasschaert | 28 | 81 |
+| 3 | DEN | Anna Munch | 34 | 71 |
+
+#### Italiani
+
+| rank | crew | sail_number | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 11 | Chiara Benini Floriani | 211961 | 93 | 179 |
+| 21 | Emma MATTIVI | 221817 | 159 | 235 |
+| 22 | Ginevra Caracciolo | 219116 | 165 | 230 |
+| 25 | Giorgia Della Valle | 226911 | 182 | 260 |
+| 35 | Matilda Talluri | 213019 | 195 | 265 |
+| 38 | Sara Savelli | 213170 | 200 | 272 |
+| 49 | Maria Vittoria Arseni | 211517 | 266 | 346 |
 
 ### 2026 - Class Youth World Championship - ILCA 6 Women
 

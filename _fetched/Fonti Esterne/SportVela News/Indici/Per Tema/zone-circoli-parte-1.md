@@ -6,6 +6,8 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 15 Settembre 2026 | ARENZANO – GIORNATA CONCLUSIVA DEL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-15 - ARENZANO-GIORNATA-CONCLUSIVA-DEL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp9074|nota]] |
+| 14 Settembre 2026 | VELA PARALIMPICA: ARRIVATI A BARCELLONA: SI PARTE! | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - VELA-PARALIMPICA-ARRIVATI-A-BARCELLONA-SI-PARTE - wp9072|nota]] |
 | 14 Settembre 2026 | Alberto Borgognini, per tanti anni Presidente del Circolo Nautico Arma, ci ha lasciati. | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - Alberto-Borgognini-per-tanti-anni-Presidente-del-Circolo-Nautico-Arma-ci-ha-lasciati - wp9070|nota]] |
 | 14 Settembre 2026 | DINGHY 12’: CONCLUSO IL 26° CAMPIONATO DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - DINGHY-12-CONCLUSO-IL-26-CAMPIONATO-DEL-TIGULLIO - wp9067|nota]] |
 | 14 Settembre 2026 | CAMPIONATO ITALIANO DINGHY 12’ 2026: DE GASPARI CAMPIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - CAMPIONATO-ITALIANO-DINGHY-12-2026-DE-GASPARI-CAMPIONE - wp9061|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Giugno 2026 | Augusta capitale della vela: torna la Xifonio Cup, in acqua anche le Hansa 303 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - Augusta-capitale-della-vela-torna-la-Xifonio-Cup-in-acqua-anche-le-Hansa-303 - wp7758|nota]] |
 | 26 Giugno 2026 | 470 Academy: a Pesaro tre giorni per scoprire il doppio olimpico | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - 470-Academy-a-Pesaro-tre-giorni-per-scoprire-il-doppio-olimpico - wp7752|nota]] |
 | 25 Giugno 2026 | Secondo giorno con ben tre regate a Gaeta per i tricolori di Vela d’Altura | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - Secondo-giorno-con-ben-tre-regate-a-Gaeta-per-i-tricolori-di-Vela-d-Altura - wp7747|nota]] |
-| 25 Giugno 2026 | Wing Foil, la FIV punta sui giovani: in Sicilia due raduni dedicati alla nuova disciplina | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - Wing-Foil-la-FIV-punta-sui-giovani-in-Sicilia-due-raduni-dedicati-alla-nuova-disciplina - wp7741|nota]] |
-| 25 Giugno 2026 | CVV – CIRCOLO VELE VERNAZZOLESI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - CVV-CIRCOLO-VELE-VERNAZZOLESI - wp7738|nota]] |

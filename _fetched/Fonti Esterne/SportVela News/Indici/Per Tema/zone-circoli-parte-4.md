@@ -6,6 +6,8 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 2 Novembre 2025 | Barcellona “incorona” Maria Elena Barabino Campionessa europea O’pen Skiff | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-02 - Barcellona-incorona-Maria-Elena-Barabino-Campionessa-europea-O-pen-Skiff - wp5186|nota]] |
+| 1 Novembre 2025 | VELA OLIMPICA: TERZO GIORNO DI REGATE A PALERMO PER IL CAMPIONATO ITALIANO CLASSI OLIMPICHE EDISON NEXT 2025 | Copertina, e-sailing, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-01 - VELA-OLIMPICA-TERZO-GIORNO-DI-REGATE-A-PALERMO-PER-IL-CAMPIONATO-ITALIANO-CLASSI-OLIMPICHE-EDISON-NEXT-2025 - wp5181|nota]] |
 | 1 Novembre 2025 | CAMPIONATO INVERNALE DI MARINA DI LOANO 2025/2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-01 - CAMPIONATO-INVERNALE-DI-MARINA-DI-LOANO-2025-2026 - wp5175|nota]] |
 | 31 Ottobre 2025 | Raduni per le classi ILCA e Optimist | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-31 - Raduni-per-le-classi-ILCA-e-Optimist - wp5167|nota]] |
 | 31 Ottobre 2025 | Campionato Italiano Team Race Under 17. Day 1: brillano il Circolo Velico Ravennate e la Fraglia Vela Riva | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-31 - Campionato-Italiano-Team-Race-Under-17-Day-1-brillano-il-Circolo-Velico-Ravennate-e-la-Fraglia-Vela-Riva - wp5159|nota]] |
@@ -254,5 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Luglio 2025 | CAMPIONATI ITALIANI RS500: ORO E BRONZO UNDER 20 PER IL CLUB NAUTICO SANBÀRT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - CAMPIONATI-ITALIANI-RS500-ORO-E-BRONZO-UNDER-20-PER-IL-CLUB-NAUTICO-SANBART - wp3584|nota]] |
 | 25 Luglio 2025 | Alberto De Amicis, Marco De Amicis e Marco Lombardo sono Campioni Italiani Soling 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-25 - Alberto-De-Amicis-Marco-De-Amicis-e-Marco-Lombardo-sono-Campioni-Italiani-Soling-2025 - wp3581|nota]] |
 | 25 Luglio 2025 | Bronzo alla LNI Mandello al Campionato Italiano a Squadre Optimist | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-25 - Bronzo-alla-LNI-Mandello-al-Campionato-Italiano-a-Squadre-Optimist - wp3577|nota]] |
-| 25 Luglio 2025 | ANNO INTENSO PER IL CV SANTA MARGHERITA LIGURE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-25 - ANNO-INTENSO-PER-IL-CV-SANTA-MARGHERITA-LIGURE - wp3572|nota]] |
-| 24 Luglio 2025 | Circolo Vela Cesenatico. Al via il Trofeo Rotary – Campionato Zonale Dinghy 12’ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-24 - Circolo-Vela-Cesenatico-Al-via-il-Trofeo-Rotary-Campionato-Zonale-Dinghy-12 - wp3563|nota]] |

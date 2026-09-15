@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Settembre 2026 | VELA PARALIMPICA: ARRIVATI A BARCELLONA: SI PARTE! | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - VELA-PARALIMPICA-ARRIVATI-A-BARCELLONA-SI-PARTE - wp9072|nota]] |
 | 12 Settembre 2026 | Mondiale iQFOiL, Pilloni sesto e Falcioni settima | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Mondiale-iQFOiL-Pilloni-sesto-e-Falcioni-settima - wp9035|nota]] |
 | 12 Settembre 2026 | La Para Sailing Academy al Campionato Europeo Hansa di Barcellona | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - La-Para-Sailing-Academy-al-Campionato-Europeo-Hansa-di-Barcellona - wp9025|nota]] |
 | 11 Settembre 2026 | AL VIA SABATO LA IREN UTILITY CUP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-11 - AL-VIA-SABATO-LA-IREN-UTILITY-CUP - wp9010|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 7 Novembre 2025 | GRANDE SUCCESSO PER LO STAGE DI PREPARAZIONE FISICA PRESSO LA LNI DI SESTRI PONENTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-07 - GRANDE-SUCCESSO-PER-LO-STAGE-DI-PREPARAZIONE-FISICA-PRESSO-LA-LNI-DI-SESTRI-PONENTE - wp5253|nota]] |
 | 3 Novembre 2025 | MICAELA CONTI NOMINATA NUOVO RESPONSABILE DELLA FORMAZIONE ISTRUTTORI DELLA I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-03 - MICAELA-CONTI-NOMINATA-NUOVO-RESPONSABILE-DELLA-FORMAZIONE-ISTRUTTORI-DELLA-I-ZONA-FIV - wp5206|nota]] |
 | 2 Novembre 2025 | Vela Olimpica: Concluso a Palermo il Campionato Italiano Classi Olimpiche Edison Next 2025 | Copertina, e-sailing, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-02 - Vela-Olimpica-Concluso-a-Palermo-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next-2025 - wp5195|nota]] |
-| 1 Novembre 2025 | VELA OLIMPICA: TERZO GIORNO DI REGATE A PALERMO PER IL CAMPIONATO ITALIANO CLASSI OLIMPICHE EDISON NEXT 2025 | Copertina, e-sailing, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-01 - VELA-OLIMPICA-TERZO-GIORNO-DI-REGATE-A-PALERMO-PER-IL-CAMPIONATO-ITALIANO-CLASSI-OLIMPICHE-EDISON-NEXT-2025 - wp5181|nota]] |

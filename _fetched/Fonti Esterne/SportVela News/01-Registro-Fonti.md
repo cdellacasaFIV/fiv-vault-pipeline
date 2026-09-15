@@ -1,10 +1,12 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-09-14.
+Aggiornato: 2026-09-15.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 15 Settembre 2026 | ARENZANO – GIORNATA CONCLUSIVA DEL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-15 - ARENZANO-GIORNATA-CONCLUSIVA-DEL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp9074|nota]] | https://sportvela.net/blog/2026/09/15/arenzano-giornata-conclusiva-del-campionato-intercircoli-derive/ |
+| 14 Settembre 2026 | VELA PARALIMPICA: ARRIVATI A BARCELLONA: SI PARTE! | I Zona | risultati, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - VELA-PARALIMPICA-ARRIVATI-A-BARCELLONA-SI-PARTE - wp9072|nota]] | https://sportvela.net/blog/2026/09/14/vela-paralimpica-arrivati-a-barcellona-si-parte/ |
 | 14 Settembre 2026 | Alberto Borgognini, per tanti anni Presidente del Circolo Nautico Arma, ci ha lasciati. | I Zona | zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - Alberto-Borgognini-per-tanti-anni-Presidente-del-Circolo-Nautico-Arma-ci-ha-lasciati - wp9070|nota]] | https://sportvela.net/blog/2026/09/14/alberto-borgognini-per-tanti-anni-presidente-del-circolo-nautico-arma-ci-ha-lasciati/ |
 | 14 Settembre 2026 | DINGHY 12’: CONCLUSO IL 26° CAMPIONATO DEL TIGULLIO | I Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - DINGHY-12-CONCLUSO-IL-26-CAMPIONATO-DEL-TIGULLIO - wp9067|nota]] | https://sportvela.net/blog/2026/09/14/dinghy-12-concluso-il-26-campionato-del-tigullio/ |
 | 14 Settembre 2026 | CAMPIONATO ITALIANO DINGHY 12’ 2026: DE GASPARI CAMPIONE | I Zona | risultati, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - CAMPIONATO-ITALIANO-DINGHY-12-2026-DE-GASPARI-CAMPIONE - wp9061|nota]] | https://sportvela.net/blog/2026/09/14/campionato-italiano-dinghy-12-2026-de-gaspari-campione/ |

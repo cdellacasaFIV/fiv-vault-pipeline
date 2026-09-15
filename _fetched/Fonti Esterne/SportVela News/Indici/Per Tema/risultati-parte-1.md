@@ -6,6 +6,8 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 15 Settembre 2026 | ARENZANO – GIORNATA CONCLUSIVA DEL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-15 - ARENZANO-GIORNATA-CONCLUSIVA-DEL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp9074|nota]] |
+| 14 Settembre 2026 | VELA PARALIMPICA: ARRIVATI A BARCELLONA: SI PARTE! | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - VELA-PARALIMPICA-ARRIVATI-A-BARCELLONA-SI-PARTE - wp9072|nota]] |
 | 14 Settembre 2026 | DINGHY 12’: CONCLUSO IL 26° CAMPIONATO DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - DINGHY-12-CONCLUSO-IL-26-CAMPIONATO-DEL-TIGULLIO - wp9067|nota]] |
 | 14 Settembre 2026 | CAMPIONATO ITALIANO DINGHY 12’ 2026: DE GASPARI CAMPIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - CAMPIONATO-ITALIANO-DINGHY-12-2026-DE-GASPARI-CAMPIONE - wp9061|nota]] |
 | 13 Settembre 2026 | Trofeo OptiSud, trionfo della V Zona: trionfano Nugnes e Allodi Varriale, CRV Italia miglior Circolo! | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - Trofeo-OptiSud-trionfo-della-V-Zona-trionfano-Nugnes-e-Allodi-Varriale-CRV-Italia-miglior-Circolo - wp9052|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 19 Giugno 2026 | Vela e solidarietà a Napoli con “sAILing, Veleggiare nel mare della solidarietà” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-19 - Vela-e-solidarieta-a-Napoli-con-sAILing-Veleggiare-nel-mare-della-solidarieta - wp7682|nota]] |
 | 19 Giugno 2026 | ARCA SGR Vince un Emozionante Duello per il Line Honours della Loro Piana Giraglia | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-19 - ARCA-SGR-Vince-un-Emozionante-Duello-per-il-Line-Honours-della-Loro-Piana-Giraglia - wp7678|nota]] |
 | 18 Giugno 2026 | Venezia, la vela e la memoria del mare | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - Venezia-la-vela-e-la-memoria-del-mare - wp7674|nota]] |
-| 18 Giugno 2026 | Al via la Galiola 2026 del Circolo Velico Ravennate. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - Al-via-la-Galiola-2026-del-Circolo-Velico-Ravennate - wp7687|nota]] |
-| 18 Giugno 2026 | A Torre del Greco il Trofeo il 7° Trofeo del Filo D’Oro – Memorial Dalila Concilio | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - A-Torre-del-Greco-il-Trofeo-il-7-Trofeo-del-Filo-D-Oro-Memorial-Dalila-Concilio - wp7669|nota]] |
