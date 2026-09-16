@@ -2,10 +2,11 @@
 
 Fonte: World Sailing API, risultati `Overall Results`.
 Perimetro: classi giovanili, RS, Wing/Kite e Para Sailing richieste.
-Aggiornato: 2026-09-15.
+Aggiornato: 2026-09-16.
 
 | Gruppo | Classe | Livello | Anno | Evento | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| youth | IQFOiL | World Championships | 2026 | IQFOiL Women | 70 | IQFOiL__World-Championships__2026__IQFOiL-Women__iQFOiL-World-Championships__fddd4aba.csv | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
 | youth | IQFOiL | Continental | 2026 | IQFOiL Men | 13 | IQFOiL__Continental__2026__IQFOiL-Men__iQFOiL-North-American-Championship__6506fe05.csv | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
 | youth | IQFOiL | Continental | 2026 | IQFOiL Women | 14 | IQFOiL__Continental__2026__IQFOiL-Women__iQFOiL-North-American-Championship__dc238c18.csv | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
 | youth | ILCA 4 | Class Youth World Championship | 2026 | ILCA 4 Youth Female | 150 | ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Female__ILCA-4-Youth-World-Championships__0b0f6391.csv | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
@@ -13,6 +14,8 @@ Aggiornato: 2026-09-15.
 | youth | ILCA 6 | World Championships | 2026 | ILCA 6 Women | 108 | ILCA-6-Youth__World-Championships__2026__ILCA-6-Women__ILCA-6-Women-s-World-Championship__225b3e33.csv | https://sailing.org/regatta/ilca-6-women-s-world-championship?ref=IRL2026096VV |
 | youth | ILCA 6 | Class Youth World Championship | 2026 | ILCA 6 Women | 122 | ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Women__ILCA-6-Youth-World-Championships__774549de.csv | https://sailing.org/regatta/ilca-6-youth-world-championships?ref=USA202507AJ8 |
 | youth | ILCA 6 | Class Youth World Championship | 2026 | ILCA 6 Men | 307 | ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Men__ILCA-6-Youth-World-Championships__f0001562.csv | https://sailing.org/regatta/ilca-6-youth-world-championships?ref=USA202507AJ8 |
+| youth | IKA - Formula Kite | Continental | 2026 | IKA - Formula Kite Men | 56 | Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Men__Formula-Kite-European-Championships__1fd55491.csv | https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO |
+| youth | IKA - Formula Kite | Continental | 2026 | IKA - Formula Kite Women | 36 | Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Women__Formula-Kite-European-Championships__fe32a759.csv | https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO |
 | youth | IKA - Formula Kite | Continental | 2026 | IKA - Formula Kite Women | 21 | Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Women__Formula-Kite-North-American-Championships__8c37ee25.csv | https://sailing.org/regatta/formula-kite-north-american-championships?ref=USA2021017CM |
 | youth | IKA - Formula Kite | Continental | 2026 | IKA - Formula Kite Men | 34 | Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Men__Formula-Kite-North-American-Championships__d7981d2e.csv | https://sailing.org/regatta/formula-kite-north-american-championships?ref=USA2021017CM |
 | para | 2.4 Metre | Para World Sailing Competition | 2026 | Para Inclusive One Person Keelboat (2.4 Metre) - Inclusive | 13 | 24-Metre__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-2-4-Metre-Inclusive__Sneekweek-Hansa-Liberty-2-4-Metre__ca936851.csv | https://sailing.org/regatta/sneekweek-hansa-liberty-2-4-metre?ref=NED202607RTS |

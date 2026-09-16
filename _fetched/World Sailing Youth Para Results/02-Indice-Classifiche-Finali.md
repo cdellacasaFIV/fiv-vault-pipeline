@@ -14,6 +14,8 @@ Uso: accesso rapido a classifiche finali complete di classi giovanili, RS, Wing/
 
 | Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 2026 | Continental | IKA - Formula Kite Women | 36 | [[Dati CSV/Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Women__Formula-Kite-European-Championships__fe32a759.csv|CSV]] | https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO |
+| 2026 | Continental | IKA - Formula Kite Men | 56 | [[Dati CSV/Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Men__Formula-Kite-European-Championships__1fd55491.csv|CSV]] | https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO |
 | 2026 | Continental | IKA - Formula Kite Women | 21 | [[Dati CSV/Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Women__Formula-Kite-North-American-Championships__8c37ee25.csv|CSV]] | https://sailing.org/regatta/formula-kite-north-american-championships?ref=USA2021017CM |
 | 2026 | Continental | IKA - Formula Kite Men | 34 | [[Dati CSV/Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Men__Formula-Kite-North-American-Championships__d7981d2e.csv|CSV]] | https://sailing.org/regatta/formula-kite-north-american-championships?ref=USA2021017CM |
 
@@ -36,5 +38,6 @@ Uso: accesso rapido a classifiche finali complete di classi giovanili, RS, Wing/
 
 | Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 2026 | World Championships | IQFOiL Women | 70 | [[Dati CSV/IQFOiL__World-Championships__2026__IQFOiL-Women__iQFOiL-World-Championships__fddd4aba.csv|CSV]] | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
 | 2026 | Continental | IQFOiL Women | 14 | [[Dati CSV/IQFOiL__Continental__2026__IQFOiL-Women__iQFOiL-North-American-Championship__dc238c18.csv|CSV]] | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
 | 2026 | Continental | IQFOiL Men | 13 | [[Dati CSV/IQFOiL__Continental__2026__IQFOiL-Men__iQFOiL-North-American-Championship__6506fe05.csv|CSV]] | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |

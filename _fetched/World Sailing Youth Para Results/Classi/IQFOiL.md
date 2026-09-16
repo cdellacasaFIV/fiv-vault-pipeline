@@ -6,10 +6,38 @@ Uso: memoria profonda per classi giovanili, RS e Para Sailing.
 
 ## File dati completi
 
+- `IQFOiL__World-Championships__2026__IQFOiL-Women__iQFOiL-World-Championships__fddd4aba.csv`
 - `IQFOiL__Continental__2026__IQFOiL-Men__iQFOiL-North-American-Championship__6506fe05.csv`
 - `IQFOiL__Continental__2026__IQFOiL-Women__iQFOiL-North-American-Championship__dc238c18.csv`
 
 ## Sintesi eventi
+
+### 2026 - World Championships - IQFOiL Women
+
+Regata: iQFOiL World Championships
+Fonte: https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C
+Date: 2026-09-04 - 2026-09-12
+Sede:  Weymouth and Portland Sailing Academy, Great Britain
+Equipaggi/barche classificati: 70
+
+#### Podio
+
+| rank | country | crew | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 1 | ISR | Tamar Steinberg | 44 | 111 |
+| 2 | ISR | Sharon Kantor | 72 | 195 |
+| 3 | AUS | Stella Bilger | 114 | 242 |
+
+#### Italiani
+
+| rank | crew | sail_number | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 7 | Medea Marisa Falcioni |  | 105 | 194 |
+| 18 | Marta Maggetti |  | 199 | 325 |
+| 26 | CAROLA COLASANTO |  | 268 | 401 |
+| 39 | Sofia Renna |  | 346 | 497 |
+| 45 | Linda Oprandi |  | 390 | 545 |
+| 70 | Livia Passoni |  | 718 | 929 |
 
 ### 2026 - Continental - IQFOiL Men
 
