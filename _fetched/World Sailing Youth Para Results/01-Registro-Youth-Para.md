@@ -2,10 +2,11 @@
 
 Fonte: World Sailing API, risultati `Overall Results`.
 Perimetro: classi giovanili, RS, Wing/Kite e Para Sailing richieste.
-Aggiornato: 2026-09-16.
+Aggiornato: 2026-09-17.
 
 | Gruppo | Classe | Livello | Anno | Evento | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| youth | IQFOiL | World Championships | 2026 | IQFOiL Men | 109 | IQFOiL__World-Championships__2026__IQFOiL-Men__iQFOiL-World-Championships__fc33197d.csv | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
 | youth | IQFOiL | World Championships | 2026 | IQFOiL Women | 70 | IQFOiL__World-Championships__2026__IQFOiL-Women__iQFOiL-World-Championships__fddd4aba.csv | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
 | youth | IQFOiL | Continental | 2026 | IQFOiL Men | 13 | IQFOiL__Continental__2026__IQFOiL-Men__iQFOiL-North-American-Championship__6506fe05.csv | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
 | youth | IQFOiL | Continental | 2026 | IQFOiL Women | 14 | IQFOiL__Continental__2026__IQFOiL-Women__iQFOiL-North-American-Championship__dc238c18.csv | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |

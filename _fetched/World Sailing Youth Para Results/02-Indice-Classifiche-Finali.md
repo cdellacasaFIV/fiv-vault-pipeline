@@ -39,5 +39,6 @@ Uso: accesso rapido a classifiche finali complete di classi giovanili, RS, Wing/
 | Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |
 | --- | --- | --- | --- | --- | --- |
 | 2026 | World Championships | IQFOiL Women | 70 | [[Dati CSV/IQFOiL__World-Championships__2026__IQFOiL-Women__iQFOiL-World-Championships__fddd4aba.csv|CSV]] | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
+| 2026 | World Championships | IQFOiL Men | 109 | [[Dati CSV/IQFOiL__World-Championships__2026__IQFOiL-Men__iQFOiL-World-Championships__fc33197d.csv|CSV]] | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
 | 2026 | Continental | IQFOiL Women | 14 | [[Dati CSV/IQFOiL__Continental__2026__IQFOiL-Women__iQFOiL-North-American-Championship__dc238c18.csv|CSV]] | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
 | 2026 | Continental | IQFOiL Men | 13 | [[Dati CSV/IQFOiL__Continental__2026__IQFOiL-Men__iQFOiL-North-American-Championship__6506fe05.csv|CSV]] | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
