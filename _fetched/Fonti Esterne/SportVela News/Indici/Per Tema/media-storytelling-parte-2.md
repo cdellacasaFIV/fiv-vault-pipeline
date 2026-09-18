@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Febbraio 2026 | Al via da Napoli il Trofeo del Timoniere Assometeor 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-19 - Al-via-da-Napoli-il-Trofeo-del-Timoniere-Assometeor-2026 - wp6066|nota]] |
 | 18 Febbraio 2026 | 5° CAMPIONATO LIGURE DI VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - 5-CAMPIONATO-LIGURE-DI-VELA-PARALIMPICA - wp6062|nota]] |
 | 18 Febbraio 2026 | LA VELA PARALIMPICA SPIEGA LE VELE AD ANDORA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-18 - LA-VELA-PARALIMPICA-SPIEGA-LE-VELE-AD-ANDORA - wp6049|nota]] |
 | 17 Febbraio 2026 | Velaterapia – Hansa Day / LNI Arona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-17 - Velaterapia-Hansa-Day-LNI-Arona - wp6040|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 27 Luglio 2025 | Aperta con una festosa cerimonia a Crotone la Coppa Primavela Kinder Joy of moving 2025: la grande festa della vela giovanile italiana festeggia i 40 anni | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-27 - Aperta-con-una-festosa-cerimonia-a-Crotone-la-Coppa-Primavela-Kinder-Joy-of-moving-2025-la-grande-festa-della- - wp3648|nota]] |
 | 26 Luglio 2025 | MEETING ZONALE SCUOLE DI VELA LAZIO | IV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - MEETING-ZONALE-SCUOLE-DI-VELA-LAZIO - wp3610|nota]] |
 | 25 Luglio 2025 | Alberto De Amicis, Marco De Amicis e Marco Lombardo sono Campioni Italiani Soling 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-25 - Alberto-De-Amicis-Marco-De-Amicis-e-Marco-Lombardo-sono-Campioni-Italiani-Soling-2025 - wp3581|nota]] |
-| 25 Luglio 2025 | Bronzo alla LNI Mandello al Campionato Italiano a Squadre Optimist | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-25 - Bronzo-alla-LNI-Mandello-al-Campionato-Italiano-a-Squadre-Optimist - wp3577|nota]] |

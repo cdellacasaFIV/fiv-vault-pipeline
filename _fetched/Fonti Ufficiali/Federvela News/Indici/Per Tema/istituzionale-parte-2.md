@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Gennaio 2023 | Informazioni per Rinnovo iscrizione Registro Nazionale Istruttori in attività, Elenco Aspiranti Istruttori ed Elenco Assistenti Didattici 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-01-12 - Informazioni-per-Rinnovo-iscrizione-Registro-Nazionale-Istruttori-in-attivita-Elenco-Aspiranti-Istruttori-ed-E - wp2936|nota]] |
+| 30 Dicembre 2022 | “Team Genova” parteciperà a The Ocean Race VO65 Sprint grazie alla partnership tra Austrian Ocean Racing e alcune eccellenze genovesi e italiane | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-12-30 - Team-Genova-partecipera-a-The-Ocean-Race-VO65-Sprint-grazie-alla-partnership-tra-Austrian-Ocean-Racing-e-alcun - wp2937|nota]] |
 | 29 Dicembre 2022 | Questa sera la rubrica L’Uomo e il mare su Rai Sport | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-12-29 - Questa-sera-la-rubrica-L-Uomo-e-il-mare-su-Rai-Sport - wp2938|nota]] |
 | 24 Dicembre 2022 | Lettera aperta del Presidente Ettorre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-12-24 - Lettera-aperta-del-Presidente-Ettorre - wp2940|nota]] |
 | 23 Dicembre 2022 | Chiusura Uffici federali | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-12-23 - Chiusura-Uffici-federali - wp2941|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 4 Agosto 2020 | Lutto nel mondo della vela: è mancata la mamma del Consigliere Federale Luisa Franza | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-04 - Lutto-nel-mondo-della-vela-e-mancata-la-mamma-del-Consigliere-Federale-Luisa-Franza - wp3335|nota]] |
 | 3 Agosto 2020 | Lutto nel mondo della vela: è mancato il papà del Presidente IV Zona Giuseppe D’Amico | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-03 - Lutto-nel-mondo-della-vela-e-mancato-il-papa-del-Presidente-IV-Zona-Giuseppe-D-Amico - wp3337|nota]] |
 | 29 Luglio 2020 | Lutto nel mondo della vela: è mancato Carlo Alberto Zerboni | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-29 - Lutto-nel-mondo-della-vela-e-mancato-Carlo-Alberto-Zerboni - wp3338|nota]] |
-| 16 Luglio 2020 | Aggiornato il Protocollo di sicurezza Federazione Italiana Vela per la Fase 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-16 - Aggiornato-il-Protocollo-di-sicurezza-Federazione-Italiana-Vela-per-la-Fase-3 - wp3342|nota]] |
-| 1 Luglio 2020 | Stage KiteFoil Gizzeria 13-17 luglio | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-01 - Stage-KiteFoil-Gizzeria-13-17-luglio - wp3345|nota]] |

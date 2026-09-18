@@ -6,6 +6,11 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Settembre 2026 | NO MORE WAR: ALESSANDRO TOSETTI TORNA A DISEGNARE SUL MARE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - NO-MORE-WAR-ALESSANDRO-TOSETTI-TORNA-A-DISEGNARE-SUL-MARE - wp9092|nota]] |
+| 18 Settembre 2026 | I-ZONA FIV PROTAGONISTA AL VILLAGGIO NASTRO ROSA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - I-ZONA-FIV-PROTAGONISTA-AL-VILLAGGIO-NASTRO-ROSA - wp9089|nota]] |
+| 17 Settembre 2026 | NASCE LO YACHT CLUB RIVIERA DEI FIORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-17 - NASCE-LO-YACHT-CLUB-RIVIERA-DEI-FIORI - wp9086|nota]] |
+| 16 Settembre 2026 | WOODEN DRAGON WORLD CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-16 - WOODEN-DRAGON-WORLD-CUP-2026 - wp9084|nota]] |
+| 16 Settembre 2026 | CONCLUSO CON LA REGATA DELLE ISOLE IL CAMPIONATO ITALIANO MINI 6.50 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-16 - CONCLUSO-CON-LA-REGATA-DELLE-ISOLE-IL-CAMPIONATO-ITALIANO-MINI-6-50 - wp9082|nota]] |
 | 15 Settembre 2026 | ARENZANO – GIORNATA CONCLUSIVA DEL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-15 - ARENZANO-GIORNATA-CONCLUSIVA-DEL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp9074|nota]] |
 | 14 Settembre 2026 | VELA PARALIMPICA: ARRIVATI A BARCELLONA: SI PARTE! | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - VELA-PARALIMPICA-ARRIVATI-A-BARCELLONA-SI-PARTE - wp9072|nota]] |
 | 14 Settembre 2026 | Alberto Borgognini, per tanti anni Presidente del Circolo Nautico Arma, ci ha lasciati. | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - Alberto-Borgognini-per-tanti-anni-Presidente-del-Circolo-Nautico-Arma-ci-ha-lasciati - wp9070|nota]] |
@@ -251,8 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 27 Giugno 2026 | Wingfoil, De Amicis (RYCC Savoia) si conferma campione del mondo under 19 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-27 - Wingfoil-De-Amicis-RYCC-Savoia-si-conferma-campione-del-mondo-under-19 - wp7810|nota]] |
 | 27 Giugno 2026 | I 90 ANNI DI TONINO VIRETTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-27 - I-90-ANNI-DI-TONINO-VIRETTI - wp7779|nota]] |
 | 26 Giugno 2026 | Memorial Ballanti-Saiani, il vento si fa attendere nella giornata inaugurale della III tappa della Coppa Italia Techno 293 | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - Memorial-Ballanti-Saiani-il-vento-si-fa-attendere-nella-giornata-inaugurale-della-III-tappa-della-Coppa-Italia - wp7769|nota]] |
-| 26 Giugno 2026 | Meeting Scuola Vela 2026: Tutte le date in Sicilia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - Meeting-Scuola-Vela-2026-Tutte-le-date-in-Sicilia - wp7765|nota]] |
-| 26 Giugno 2026 | Penultimo giorno a Gaeta per i tricolori di Vela d’Altura Edison Next | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - Penultimo-giorno-a-Gaeta-per-i-tricolori-di-Vela-d-Altura-Edison-Next - wp7761|nota]] |
-| 26 Giugno 2026 | Augusta capitale della vela: torna la Xifonio Cup, in acqua anche le Hansa 303 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - Augusta-capitale-della-vela-torna-la-Xifonio-Cup-in-acqua-anche-le-Hansa-303 - wp7758|nota]] |
-| 26 Giugno 2026 | 470 Academy: a Pesaro tre giorni per scoprire il doppio olimpico | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - 470-Academy-a-Pesaro-tre-giorni-per-scoprire-il-doppio-olimpico - wp7752|nota]] |
-| 25 Giugno 2026 | Secondo giorno con ben tre regate a Gaeta per i tricolori di Vela d’Altura | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - Secondo-giorno-con-ben-tre-regate-a-Gaeta-per-i-tricolori-di-Vela-d-Altura - wp7747|nota]] |

@@ -6,6 +6,11 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Giugno 2026 | Meeting Scuola Vela 2026: Tutte le date in Sicilia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - Meeting-Scuola-Vela-2026-Tutte-le-date-in-Sicilia - wp7765|nota]] |
+| 26 Giugno 2026 | Penultimo giorno a Gaeta per i tricolori di Vela d’Altura Edison Next | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - Penultimo-giorno-a-Gaeta-per-i-tricolori-di-Vela-d-Altura-Edison-Next - wp7761|nota]] |
+| 26 Giugno 2026 | Augusta capitale della vela: torna la Xifonio Cup, in acqua anche le Hansa 303 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - Augusta-capitale-della-vela-torna-la-Xifonio-Cup-in-acqua-anche-le-Hansa-303 - wp7758|nota]] |
+| 26 Giugno 2026 | 470 Academy: a Pesaro tre giorni per scoprire il doppio olimpico | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-26 - 470-Academy-a-Pesaro-tre-giorni-per-scoprire-il-doppio-olimpico - wp7752|nota]] |
+| 25 Giugno 2026 | Secondo giorno con ben tre regate a Gaeta per i tricolori di Vela d’Altura | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - Secondo-giorno-con-ben-tre-regate-a-Gaeta-per-i-tricolori-di-Vela-d-Altura - wp7747|nota]] |
 | 25 Giugno 2026 | Wing Foil, la FIV punta sui giovani: in Sicilia due raduni dedicati alla nuova disciplina | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - Wing-Foil-la-FIV-punta-sui-giovani-in-Sicilia-due-raduni-dedicati-alla-nuova-disciplina - wp7741|nota]] |
 | 25 Giugno 2026 | CVV – CIRCOLO VELE VERNAZZOLESI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-25 - CVV-CIRCOLO-VELE-VERNAZZOLESI - wp7738|nota]] |
 | 24 Giugno 2026 | Prime due regate per l’Italiano Assoluto d’Altura Edison Next 2026 a Gaeta | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-24 - Prime-due-regate-per-l-Italiano-Assoluto-d-Altura-Edison-Next-2026-a-Gaeta - wp7735|nota]] |
@@ -251,8 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Marzo 2026 | GENOVA SAILING WEEK – COPPA ANDREA ALBERTI NEL SEGNO DI LISA R | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - GENOVA-SAILING-WEEK-COPPA-ANDREA-ALBERTI-NEL-SEGNO-DI-LISA-R - wp6451|nota]] |
 | 30 Marzo 2026 | WASZP GAMES 2026: DE SANTIS BRILLA A PENSACOLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - WASZP-GAMES-2026-DE-SANTIS-BRILLA-A-PENSACOLA - wp6449|nota]] |
 | 29 Marzo 2026 | PRESENTATA LA LAU CUP 2026 FIRMATA WATERFRONT SAILING CLUB GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-29 - PRESENTATA-LA-LAU-CUP-2026-FIRMATA-WATERFRONT-SAILING-CLUB-GENOVA - wp6447|nota]] |
-| 28 Marzo 2026 | GENOVA SAILING WEEK 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-28 - GENOVA-SAILING-WEEK-2026 - wp6445|nota]] |
-| 28 Marzo 2026 | VINCENZO ALESSI , ENZO PER TUTTI, SE N’È ANDATO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-28 - VINCENZO-ALESSI-ENZO-PER-TUTTI-SE-N-E-ANDATO - wp6443|nota]] |
-| 28 Marzo 2026 | LA STORIA DI AMBROGIO BECCARIA RACCONTATA AL CIRCOLO VELE VERNAZZOLESI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-28 - LA-STORIA-DI-AMBROGIO-BECCARIA-RACCONTATA-AL-CIRCOLO-VELE-VERNAZZOLESI - wp6441|nota]] |
-| 27 Marzo 2026 | Fine settimana all’insegna della formazione per la V Zona FIV | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-27 - Fine-settimana-all-insegna-della-formazione-per-la-V-Zona-FIV - wp6428|nota]] |
-| 26 Marzo 2026 | Selezione Interzonale Optimist di Ancona: la XI Zona protagonista. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - Selezione-Interzonale-Optimist-di-Ancona-la-XI-Zona-protagonista - wp6420|nota]] |

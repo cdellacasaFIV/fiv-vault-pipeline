@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Settembre 2026 | I-ZONA FIV PROTAGONISTA AL VILLAGGIO NASTRO ROSA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - I-ZONA-FIV-PROTAGONISTA-AL-VILLAGGIO-NASTRO-ROSA - wp9089|nota]] |
 | 12 Settembre 2026 | “1 Golfo x 2 e per tutti”: il 19 e 20 settembre la storica regata costiera a Castellammare | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - 1-Golfo-x-2-e-per-tutti-il-19-e-20-settembre-la-storica-regata-costiera-a-Castellammare - wp9039|nota]] |
 | 11 Settembre 2026 | Cesenatico incorona i campioni del mondo Topcat: grande spettacolo al Circolo Vela Cesenatico | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-11 - Cesenatico-incorona-i-campioni-del-mondo-Topcat-grande-spettacolo-al-Circolo-Vela-Cesenatico - wp9013|nota]] |
 | 11 Settembre 2026 | AL VIA SABATO LA IREN UTILITY CUP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-11 - AL-VIA-SABATO-LA-IREN-UTILITY-CUP - wp9010|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 23 Febbraio 2026 | Salerno apre il 7 e l’8 marzo il Trofeo OptiSud 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - Salerno-apre-il-7-e-l-8-marzo-il-Trofeo-OptiSud-2026 - wp6091|nota]] |
 | 20 Febbraio 2026 | VELE SPIEGATE PER IL CAMPIONATO PARALIMPICO 2026 IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-20 - VELE-SPIEGATE-PER-IL-CAMPIONATO-PARALIMPICO-2026-IN-LIGURIA - wp6079|nota]] |
 | 20 Febbraio 2026 | Ufficializzato a Cortina il gemellaggio tra Yacht Club Cortina d’Ampezzo e Lega Navale Italiana – Sezione di Chioggia | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-20 - Ufficializzato-a-Cortina-il-gemellaggio-tra-Yacht-Club-Cortina-d-Ampezzo-e-Lega-Navale-Italiana-Sezione-di-Chi - wp6076|nota]] |
-| 19 Febbraio 2026 | Al via da Napoli il Trofeo del Timoniere Assometeor 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-19 - Al-via-da-Napoli-il-Trofeo-del-Timoniere-Assometeor-2026 - wp6066|nota]] |

@@ -2,7 +2,7 @@
 
 Fonte: World Sailing API, risultati `Overall Results`.
 Perimetro: classi giovanili, RS, Wing/Kite e Para Sailing richieste.
-Aggiornato: 2026-09-17.
+Aggiornato: 2026-09-18.
 
 | Gruppo | Classe | Livello | Anno | Evento | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,5 @@ Aggiornato: 2026-09-17.
 | youth | ILCA 6 | Class Youth World Championship | 2026 | ILCA 6 Men | 307 | ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Men__ILCA-6-Youth-World-Championships__f0001562.csv | https://sailing.org/regatta/ilca-6-youth-world-championships?ref=USA202507AJ8 |
 | youth | IKA - Formula Kite | Continental | 2026 | IKA - Formula Kite Men | 56 | Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Men__Formula-Kite-European-Championships__1fd55491.csv | https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO |
 | youth | IKA - Formula Kite | Continental | 2026 | IKA - Formula Kite Women | 36 | Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Women__Formula-Kite-European-Championships__fe32a759.csv | https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO |
-| youth | IKA - Formula Kite | Continental | 2026 | IKA - Formula Kite Women | 21 | Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Women__Formula-Kite-North-American-Championships__8c37ee25.csv | https://sailing.org/regatta/formula-kite-north-american-championships?ref=USA2021017CM |
-| youth | IKA - Formula Kite | Continental | 2026 | IKA - Formula Kite Men | 34 | Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Men__Formula-Kite-North-American-Championships__d7981d2e.csv | https://sailing.org/regatta/formula-kite-north-american-championships?ref=USA2021017CM |
 | para | 2.4 Metre | Para World Sailing Competition | 2026 | Para Inclusive One Person Keelboat (2.4 Metre) - Inclusive | 13 | 24-Metre__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-2-4-Metre-Inclusive__Sneekweek-Hansa-Liberty-2-4-Metre__ca936851.csv | https://sailing.org/regatta/sneekweek-hansa-liberty-2-4-metre?ref=NED202607RTS |
 | para | 2.4 Metre | Para World Sailing Competition | 2026 | Para Inclusive One Person Keelboat (2.4 Metre) - Para Men | 2 | 24-Metre__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-2-4-Metre-Para-Men__Sneekweek-Hansa-Liberty-2-4-Metre__f9c05f04.csv | https://sailing.org/regatta/sneekweek-hansa-liberty-2-4-metre?ref=NED202607RTS |

@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Aprile 2021 | Mondiale RS:X Cadice, domani le Medal Race con tre azzurri: Mattia Camboni (3) lotta per il podio. Marta Maggetti (6) e Giorgia Speciale (10) per migliorare le posizioni | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-26 - Mondiale-RS-X-Cadice-domani-le-Medal-Race-con-tre-azzurri-Mattia-Camboni-3-lotta-per-il-podio-Marta-Maggetti-6 - wp3161|nota]] |
 | 25 Aprile 2021 | Mondiale RS:X, dopo 6 prove Camboni sale al 2° posto; tra le donne Maggetti all’8°, Speciale al 10° | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-25 - Mondiale-RS-X-dopo-6-prove-Camboni-sale-al-2-posto-tra-le-donne-Maggetti-all-8-Speciale-al-10 - wp3162|nota]] |
 | 24 Aprile 2021 | VELA OLIMPICA: AZZURRI, SFUMA DI UN SOFFIO LA QUALIFICA OLIMPICA ILCA 7 – DAY 6 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-24 - VELA-OLIMPICA-AZZURRI-SFUMA-DI-UN-SOFFIO-LA-QUALIFICA-OLIMPICA-ILCA-7-DAY-6 - wp3163|nota]] |
 | 24 Aprile 2021 | VELA OLIMPICA: CAMPIONATO DEL MONDO WINDSURF RS:X A CADICE – DAY 2 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-24 - VELA-OLIMPICA-CAMPIONATO-DEL-MONDO-WINDSURF-RS-X-A-CADICE-DAY-2 - wp3164|nota]] |

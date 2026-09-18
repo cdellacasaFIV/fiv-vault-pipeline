@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 17 Settembre 2026 | Presentata a Malcesine la prima edizione del Campionato Italiano Classi Foil | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-17 - Presentata-a-Malcesine-la-prima-edizione-del-Campionato-Italiano-Classi-Foil - wp8216|nota]] |
 | 16 Settembre 2026 | La vela italiana protagonista alla III Giornata dello Sport Italiano nel Mondo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-16 - La-vela-italiana-protagonista-alla-III-Giornata-dello-Sport-Italiano-nel-Mondo - wp8212|nota]] |
 | 3 Settembre 2026 | Velando 2, la FIV alla giornata di formazione della seconda edizione del progetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-03 - Velando-2-la-FIV-alla-giornata-di-formazione-della-seconda-edizione-del-progetto - wp8202|nota]] |
 | 28 Agosto 2026 | La Federazione Italiana Vela ricorda Sua Maestà Re Harald V di Norvegia, grande campione della vela mondiale e presidente onorario World Sailing | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-08-28 - La-Federazione-Italiana-Vela-ricorda-Sua-Maesta-Re-Harald-V-di-Norvegia-grande-campione-della-vela-mondiale-e- - wp8197|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 4 Ottobre 2022 | Colombre, il JPK 10.80 di Massimo Juris, si aggiudica il Campionato Italiano Offshore 2022 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-04 - Colombre-il-JPK-10-80-di-Massimo-Juris-si-aggiudica-il-Campionato-Italiano-Offshore-2022 - wp2968|nota]] |
 | 26 Settembre 2022 | La classifica delle Scuole Vela 2022 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-26 - La-classifica-delle-Scuole-Vela-2022 - wp2971|nota]] |
 | 25 Settembre 2022 | Assegnato il titolo italiano eSailing: il campione è Amos Di Benedetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-25 - Assegnato-il-titolo-italiano-eSailing-il-campione-e-Amos-Di-Benedetto - wp2972|nota]] |
-| 24 Settembre 2022 | Progetto Para Sailing: la nuova Academy della Federazione Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-24 - Progetto-Para-Sailing-la-nuova-Academy-della-Federazione-Vela - wp2973|nota]] |

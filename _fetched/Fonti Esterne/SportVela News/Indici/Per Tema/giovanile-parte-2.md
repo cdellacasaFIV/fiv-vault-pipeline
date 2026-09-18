@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 22 Aprile 2026 | FANTASTICA SETTIMANA A SANREMO CON L’ITALIAN GRAND PRIX – DRAGON CUP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-22 - FANTASTICA-SETTIMANA-A-SANREMO-CON-L-ITALIAN-GRAND-PRIX-DRAGON-CUP - wp6760|nota]] |
 | 21 Aprile 2026 | SETTIMANA VELICA INTERNAZIONALE: si apre l’edizione 2026 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - SETTIMANA-VELICA-INTERNAZIONALE-si-apre-l-edizione-2026 - wp6695|nota]] |
 | 21 Aprile 2026 | Torre Annunziata ospita il VI Trofeo Oplonti Marina del Sole | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - Torre-Annunziata-ospita-il-VI-Trofeo-Oplonti-Marina-del-Sole - wp6738|nota]] |
 | 20 Aprile 2026 | Semaine Olympique Française 2026, prima giornata: italiani in evidenza | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Semaine-Olympique-Francaise-2026-prima-giornata-italiani-in-evidenza - wp6721|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Settembre 2025 | 6^ TAPPA DEL CAMPIONATO LIGURE 2025 DI VELA PARALIMPICA HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - 6-TAPPA-DEL-CAMPIONATO-LIGURE-2025-DI-VELA-PARALIMPICA-HANSA-303 - wp4414|nota]] |
 | 18 Settembre 2025 | LA I ZONA RILANCIA IL PROGRAMMA DI PREPARAZIONE ATLETICAPER GIOVANI VELISTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - LA-I-ZONA-RILANCIA-IL-PROGRAMMA-DI-PREPARAZIONE-ATLETICAPER-GIOVANI-VELISTI - wp4411|nota]] |
 | 16 Settembre 2025 | CONCLUSO AD ARENZANO IL CAMPIONATO INTERCIRCOLI 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-16 - CONCLUSO-AD-ARENZANO-IL-CAMPIONATO-INTERCIRCOLI-2025 - wp4365|nota]] |
-| 15 Settembre 2025 | ECCO TUTTI I VINCITORI DEL TROFEO ELVIO BOTTO – COPPA GAVINO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - ECCO-TUTTI-I-VINCITORI-DEL-TROFEO-ELVIO-BOTTO-COPPA-GAVINO-2025 - wp4327|nota]] |

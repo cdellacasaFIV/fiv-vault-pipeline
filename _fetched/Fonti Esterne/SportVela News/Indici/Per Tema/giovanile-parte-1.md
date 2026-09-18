@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Settembre 2026 | I-ZONA FIV PROTAGONISTA AL VILLAGGIO NASTRO ROSA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - I-ZONA-FIV-PROTAGONISTA-AL-VILLAGGIO-NASTRO-ROSA - wp9089|nota]] |
 | 15 Settembre 2026 | ARENZANO – GIORNATA CONCLUSIVA DEL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-15 - ARENZANO-GIORNATA-CONCLUSIVA-DEL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp9074|nota]] |
 | 14 Settembre 2026 | DINGHY 12’: CONCLUSO IL 26° CAMPIONATO DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - DINGHY-12-CONCLUSO-IL-26-CAMPIONATO-DEL-TIGULLIO - wp9067|nota]] |
 | 13 Settembre 2026 | Trofeo OptiSud, trionfo della V Zona: trionfano Nugnes e Allodi Varriale, CRV Italia miglior Circolo! | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - Trofeo-OptiSud-trionfo-della-V-Zona-trionfano-Nugnes-e-Allodi-Varriale-CRV-Italia-miglior-Circolo - wp9052|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 25 Aprile 2026 | UNDER 25 FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-25 - UNDER-25-FIV - wp6809|nota]] |
 | 24 Aprile 2026 | SCHERIACUP 2026: TORNA LA GRANDE VELA A ISCHIA | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-24 - SCHERIACUP-2026-TORNA-LA-GRANDE-VELA-A-ISCHIA - wp6798|nota]] |
 | 23 Aprile 2026 | La XII Zona FIV al Salone Nautico di Venezia 2026 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - La-XII-Zona-FIV-al-Salone-Nautico-di-Venezia-2026 - wp6789|nota]] |
-| 22 Aprile 2026 | FANTASTICA SETTIMANA A SANREMO CON L’ITALIAN GRAND PRIX – DRAGON CUP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-22 - FANTASTICA-SETTIMANA-A-SANREMO-CON-L-ITALIAN-GRAND-PRIX-DRAGON-CUP - wp6760|nota]] |

@@ -6,30 +6,30 @@ Mappa leggera degli indici ufficiali Federvela: per consultare velocemente senza
 
 - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/america-s-cup-napoli|america's cup/napoli]] (56 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/formazione-scuola|formazione/scuola]] (250 news)
-- giovanile (466 news, spezzato in 2 parti):
+- giovanile (467 news, spezzato in 2 parti):
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/giovanile-parte-1|giovanile-parte-1]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/giovanile-parte-2|giovanile-parte-2]]
-- istituzionale (569 news, spezzato in 3 parti):
+- istituzionale (571 news, spezzato in 3 parti):
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/istituzionale-parte-1|istituzionale-parte-1]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/istituzionale-parte-2|istituzionale-parte-2]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/istituzionale-parte-3|istituzionale-parte-3]]
-- [[Fonti Ufficiali/Federvela News/Indici/Per Tema/media-comunicazione|media/comunicazione]] (238 news)
+- [[Fonti Ufficiali/Federvela News/Indici/Per Tema/media-comunicazione|media/comunicazione]] (239 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/memoria-ufficiale|memoria ufficiale]] (27 news)
-- olimpica (431 news, spezzato in 2 parti):
+- olimpica (432 news, spezzato in 2 parti):
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/olimpica-parte-1|olimpica-parte-1]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/olimpica-parte-2|olimpica-parte-2]]
-- [[Fonti Ufficiali/Federvela News/Indici/Per Tema/parasailing-inclusione|parasailing/inclusione]] (217 news)
-- risultati (629 news, spezzato in 3 parti):
+- [[Fonti Ufficiali/Federvela News/Indici/Per Tema/parasailing-inclusione|parasailing/inclusione]] (218 news)
+- risultati (630 news, spezzato in 3 parti):
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/risultati-parte-1|risultati-parte-1]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/risultati-parte-2|risultati-parte-2]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/risultati-parte-3|risultati-parte-3]]
-- zone/circoli (437 news, spezzato in 2 parti):
+- zone/circoli (439 news, spezzato in 2 parti):
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/zone-circoli-parte-1|zone-circoli-parte-1]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/zone-circoli-parte-2|zone-circoli-parte-2]]
 
 ## Anni
 
-- [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2026|2026]] (59 news)
+- [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2026|2026]] (61 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2025|2025]] (86 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2024|2024]] (74 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2023|2023]] (99 news)

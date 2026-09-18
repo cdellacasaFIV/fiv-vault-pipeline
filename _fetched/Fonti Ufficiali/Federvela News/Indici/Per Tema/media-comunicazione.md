@@ -4,6 +4,7 @@ Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 17 Settembre 2026 | Presentata a Malcesine la prima edizione del Campionato Italiano Classi Foil | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-17 - Presentata-a-Malcesine-la-prima-edizione-del-Campionato-Italiano-Classi-Foil - wp8216|nota]] |
 | 16 Settembre 2026 | La vela italiana protagonista alla III Giornata dello Sport Italiano nel Mondo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-16 - La-vela-italiana-protagonista-alla-III-Giornata-dello-Sport-Italiano-nel-Mondo - wp8212|nota]] |
 | 3 Settembre 2026 | Velando 2, la FIV alla giornata di formazione della seconda edizione del progetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-03 - Velando-2-la-FIV-alla-giornata-di-formazione-della-seconda-edizione-del-progetto - wp8202|nota]] |
 | 28 Agosto 2026 | La Federazione Italiana Vela ricorda Sua Maestà Re Harald V di Norvegia, grande campione della vela mondiale e presidente onorario World Sailing | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-08-28 - La-Federazione-Italiana-Vela-ricorda-Sua-Maesta-Re-Harald-V-di-Norvegia-grande-campione-della-vela-mondiale-e- - wp8197|nota]] |

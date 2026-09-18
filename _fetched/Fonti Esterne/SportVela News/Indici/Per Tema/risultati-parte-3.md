@@ -6,6 +6,8 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Febbraio 2026 | DIRETTORI SCUOLA VELA: AL VIA IN I ZONA IL PERCORSO SU COMUNICAZIONE, LEADERSHIP E GESTIONE DELLO STAFF | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - DIRETTORI-SCUOLA-VELA-AL-VIA-IN-I-ZONA-IL-PERCORSO-SU-COMUNICAZIONE-LEADERSHIP-E-GESTIONE-DELLO-STAFF - wp6131|nota]] |
+| 25 Febbraio 2026 | A LORENZO DALL’AVA E BIANCA BRESSAN IL 56° MEETING GIOVANILE DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - A-LORENZO-DALL-AVA-E-BIANCA-BRESSAN-IL-56-MEETING-GIOVANILE-DI-ALASSIO - wp6124|nota]] |
 | 25 Febbraio 2026 | Trofeo del Timoniere 2026, a Napoli vince Basilico | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - Trofeo-del-Timoniere-2026-a-Napoli-vince-Basilico - wp6115|nota]] |
 | 24 Febbraio 2026 | In acqua a Mondello per il Trofeo del Comitato Optimist | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-24 - In-acqua-a-Mondello-per-il-Trofeo-del-Comitato-Optimist - wp6112|nota]] |
 | 23 Febbraio 2026 | UN SECOLO DI VELA A QUARTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-23 - UN-SECOLO-DI-VELA-A-QUARTO - wp6100|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 6 Ottobre 2025 | Nazionale OpenSkiff e RS Aero a Rimini. I vincitori | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-06 - Nazionale-OpenSkiff-e-RS-Aero-a-Rimini-I-vincitori - wp4711|nota]] |
 | 6 Ottobre 2025 | CONCLUSA A IMPERIA LA J/70 CUP 2025 – CAMPIONATO ITALIANO J/70 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-06 - CONCLUSA-A-IMPERIA-LA-J-70-CUP-2025-CAMPIONATO-ITALIANO-J-70 - wp4708|nota]] |
 | 5 Ottobre 2025 | Al Club Nautico Rimini al via la VI Nazionale OpenSkiff e la V Nazionale e Campionato Italiano RS Aero | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-05 - Al-Club-Nautico-Rimini-al-via-la-VI-Nazionale-OpenSkiff-e-la-V-Nazionale-e-Campionato-Italiano-RS-Aero - wp4699|nota]] |
-| 5 Ottobre 2025 | Mondiale Formula Kite 2025: Riccardo Pianosi è campione del mondo. Storico oro per Italia | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-05 - Mondiale-Formula-Kite-2025-Riccardo-Pianosi-e-campione-del-mondo-Storico-oro-per-Italia - wp4688|nota]] |
-| 4 Ottobre 2025 | Mondiale Formula Kite: Pianosi in finale | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-04 - Mondiale-Formula-Kite-Pianosi-in-finale - wp4672|nota]] |

@@ -6,6 +6,8 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 16 Settembre 2026 | WOODEN DRAGON WORLD CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-16 - WOODEN-DRAGON-WORLD-CUP-2026 - wp9084|nota]] |
+| 16 Settembre 2026 | CONCLUSO CON LA REGATA DELLE ISOLE IL CAMPIONATO ITALIANO MINI 6.50 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-16 - CONCLUSO-CON-LA-REGATA-DELLE-ISOLE-IL-CAMPIONATO-ITALIANO-MINI-6-50 - wp9082|nota]] |
 | 15 Settembre 2026 | ARENZANO – GIORNATA CONCLUSIVA DEL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-15 - ARENZANO-GIORNATA-CONCLUSIVA-DEL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp9074|nota]] |
 | 14 Settembre 2026 | VELA PARALIMPICA: ARRIVATI A BARCELLONA: SI PARTE! | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - VELA-PARALIMPICA-ARRIVATI-A-BARCELLONA-SI-PARTE - wp9072|nota]] |
 | 14 Settembre 2026 | DINGHY 12’: CONCLUSO IL 26° CAMPIONATO DEL TIGULLIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - DINGHY-12-CONCLUSO-IL-26-CAMPIONATO-DEL-TIGULLIO - wp9067|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Giugno 2026 | 26-28 giugno 2026: Memorial Ballanti-Saiani 3^ tappa Coppa Italia FIV Techno 293 e Plus, Porto Corsini (RA), | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-21 - 26-28-giugno-2026-Memorial-Ballanti-Saiani-3-tappa-Coppa-Italia-FIV-Techno-293-e-Plus-Porto-Corsini-RA - wp7702|nota]] |
 | 20 Giugno 2026 | “IL MARE CHE CAMBIA”: SOSTENIBILITÀ, INNOVAZIONE E FUTURO DEL MARE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-20 - IL-MARE-CHE-CAMBIA-SOSTENIBILITA-INNOVAZIONE-E-FUTURO-DEL-MARE - wp7691|nota]] |
 | 19 Giugno 2026 | Vela e solidarietà a Napoli con “sAILing, Veleggiare nel mare della solidarietà” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-19 - Vela-e-solidarieta-a-Napoli-con-sAILing-Veleggiare-nel-mare-della-solidarieta - wp7682|nota]] |
-| 19 Giugno 2026 | ARCA SGR Vince un Emozionante Duello per il Line Honours della Loro Piana Giraglia | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-19 - ARCA-SGR-Vince-un-Emozionante-Duello-per-il-Line-Honours-della-Loro-Piana-Giraglia - wp7678|nota]] |
-| 18 Giugno 2026 | Venezia, la vela e la memoria del mare | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - Venezia-la-vela-e-la-memoria-del-mare - wp7674|nota]] |

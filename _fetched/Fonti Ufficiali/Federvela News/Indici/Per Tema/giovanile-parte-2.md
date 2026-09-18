@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 25 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-25 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-3 - wp3085|nota]] |
 | 25 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-25 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-3 - wp3086|nota]] |
 | 24 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 2 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-24 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-2 - wp3087|nota]] |
 | 23 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 1 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-23 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-1 - wp3090|nota]] |

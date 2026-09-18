@@ -1,10 +1,15 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-09-15.
+Aggiornato: 2026-09-18.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 18 Settembre 2026 | NO MORE WAR: ALESSANDRO TOSETTI TORNA A DISEGNARE SUL MARE | I Zona | zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - NO-MORE-WAR-ALESSANDRO-TOSETTI-TORNA-A-DISEGNARE-SUL-MARE - wp9092|nota]] | https://sportvela.net/blog/2026/09/18/no-more-war-alessandro-tosetti-torna-a-disegnare-sul-mare/ |
+| 18 Settembre 2026 | I-ZONA FIV PROTAGONISTA AL VILLAGGIO NASTRO ROSA | I Zona | giovanile, zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - I-ZONA-FIV-PROTAGONISTA-AL-VILLAGGIO-NASTRO-ROSA - wp9089|nota]] | https://sportvela.net/blog/2026/09/18/i-zona-fiv-protagonista-al-villaggio-nastro-rosa/ |
+| 17 Settembre 2026 | NASCE LO YACHT CLUB RIVIERA DEI FIORI | I Zona | zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-17 - NASCE-LO-YACHT-CLUB-RIVIERA-DEI-FIORI - wp9086|nota]] | https://sportvela.net/blog/2026/09/17/nasce-lo-yacht-club-riviera-dei-fiori/ |
+| 16 Settembre 2026 | WOODEN DRAGON WORLD CUP 2026 | I Zona | risultati, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-16 - WOODEN-DRAGON-WORLD-CUP-2026 - wp9084|nota]] | https://sportvela.net/blog/2026/09/16/wooden-dragon-world-cup-2026/ |
+| 16 Settembre 2026 | CONCLUSO CON LA REGATA DELLE ISOLE IL CAMPIONATO ITALIANO MINI 6.50 | I Zona | risultati, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-16 - CONCLUSO-CON-LA-REGATA-DELLE-ISOLE-IL-CAMPIONATO-ITALIANO-MINI-6-50 - wp9082|nota]] | https://sportvela.net/blog/2026/09/16/concluso-con-la-regata-delle-isole-il-campionato-italiano-mini-6-50/ |
 | 15 Settembre 2026 | ARENZANO – GIORNATA CONCLUSIVA DEL CAMPIONATO INTERCIRCOLI DERIVE | I Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-15 - ARENZANO-GIORNATA-CONCLUSIVA-DEL-CAMPIONATO-INTERCIRCOLI-DERIVE - wp9074|nota]] | https://sportvela.net/blog/2026/09/15/arenzano-giornata-conclusiva-del-campionato-intercircoli-derive/ |
 | 14 Settembre 2026 | VELA PARALIMPICA: ARRIVATI A BARCELLONA: SI PARTE! | I Zona | risultati, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - VELA-PARALIMPICA-ARRIVATI-A-BARCELLONA-SI-PARTE - wp9072|nota]] | https://sportvela.net/blog/2026/09/14/vela-paralimpica-arrivati-a-barcellona-si-parte/ |
 | 14 Settembre 2026 | Alberto Borgognini, per tanti anni Presidente del Circolo Nautico Arma, ci ha lasciati. | I Zona | zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-14 - Alberto-Borgognini-per-tanti-anni-Presidente-del-Circolo-Nautico-Arma-ci-ha-lasciati - wp9070|nota]] | https://sportvela.net/blog/2026/09/14/alberto-borgognini-per-tanti-anni-presidente-del-circolo-nautico-arma-ci-ha-lasciati/ |

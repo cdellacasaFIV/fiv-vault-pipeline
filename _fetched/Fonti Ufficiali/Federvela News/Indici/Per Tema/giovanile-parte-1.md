@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 17 Settembre 2026 | Presentata a Malcesine la prima edizione del Campionato Italiano Classi Foil | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-17 - Presentata-a-Malcesine-la-prima-edizione-del-Campionato-Italiano-Classi-Foil - wp8216|nota]] |
 | 16 Settembre 2026 | La vela italiana protagonista alla III Giornata dello Sport Italiano nel Mondo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-16 - La-vela-italiana-protagonista-alla-III-Giornata-dello-Sport-Italiano-nel-Mondo - wp8212|nota]] |
 | 28 Agosto 2026 | La Federazione Italiana Vela ricorda Sua Maestà Re Harald V di Norvegia, grande campione della vela mondiale e presidente onorario World Sailing | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-08-28 - La-Federazione-Italiana-Vela-ricorda-Sua-Maesta-Re-Harald-V-di-Norvegia-grande-campione-della-vela-mondiale-e- - wp8197|nota]] |
 | 28 Luglio 2026 | Presentati i Campionati Italiani Giovanili in Doppio di Manfredonia 2026 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-28 - Presentati-i-Campionati-Italiani-Giovanili-in-Doppio-di-Manfredonia-2026 - wp8004|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 5 Ottobre 2021 | Secondo interminabile giorno per l’Europeo ILCA 6 e ILCA 7 a Varna | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-05 - Secondo-interminabile-giorno-per-l-Europeo-ILCA-6-e-ILCA-7-a-Varna - wp3080|nota]] |
 | 4 Ottobre 2021 | Al via l’Europeo ILCA 6 e ILCA 7 a Varna: tanti gli italiani in gara. Parte Forte Chiara Benini Floriani | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-04 - Al-via-l-Europeo-ILCA-6-e-ILCA-7-a-Varna-tanti-gli-italiani-in-gara-Parte-Forte-Chiara-Benini-Floriani - wp3081|nota]] |
 | 26 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA: TUTTI I VINCITORI | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-26 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-TUTTI-I-VINCITORI - wp3084|nota]] |
-| 25 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-25 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-3 - wp3085|nota]] |

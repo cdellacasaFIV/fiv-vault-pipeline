@@ -6,6 +6,8 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Giugno 2026 | ARCA SGR Vince un Emozionante Duello per il Line Honours della Loro Piana Giraglia | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-19 - ARCA-SGR-Vince-un-Emozionante-Duello-per-il-Line-Honours-della-Loro-Piana-Giraglia - wp7678|nota]] |
+| 18 Giugno 2026 | Venezia, la vela e la memoria del mare | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - Venezia-la-vela-e-la-memoria-del-mare - wp7674|nota]] |
 | 18 Giugno 2026 | Al via la Galiola 2026 del Circolo Velico Ravennate. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - Al-via-la-Galiola-2026-del-Circolo-Velico-Ravennate - wp7687|nota]] |
 | 18 Giugno 2026 | A Torre del Greco il Trofeo il 7° Trofeo del Filo D’Oro – Memorial Dalila Concilio | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - A-Torre-del-Greco-il-Trofeo-il-7-Trofeo-del-Filo-D-Oro-Memorial-Dalila-Concilio - wp7669|nota]] |
 | 18 Giugno 2026 | GRANDE SUCCESSO PER IL CORSO “FORMAZIONE MULTIDISCIPLINARE PER LA PERFORMANCE DEL VELISTA” DELLA I ZONA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-06-18 - GRANDE-SUCCESSO-PER-IL-CORSO-FORMAZIONE-MULTIDISCIPLINARE-PER-LA-PERFORMANCE-DEL-VELISTA-DELLA-I-ZONA - wp7665|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 27 Febbraio 2026 | LA NUOVA FRONTIERA DELLA VELA A IDROGENO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-27 - LA-NUOVA-FRONTIERA-DELLA-VELA-A-IDROGENO - wp6151|nota]] |
 | 26 Febbraio 2026 | A Napoli la riunione degli UdR della V Zona | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - A-Napoli-la-riunione-degli-UdR-della-V-Zona - wp6138|nota]] |
 | 26 Febbraio 2026 | Regata Zonale ILCA – Circolo Velico Ravennate | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - Regata-Zonale-ILCA-Circolo-Velico-Ravennate - wp6135|nota]] |
-| 26 Febbraio 2026 | DIRETTORI SCUOLA VELA: AL VIA IN I ZONA IL PERCORSO SU COMUNICAZIONE, LEADERSHIP E GESTIONE DELLO STAFF | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - DIRETTORI-SCUOLA-VELA-AL-VIA-IN-I-ZONA-IL-PERCORSO-SU-COMUNICAZIONE-LEADERSHIP-E-GESTIONE-DELLO-STAFF - wp6131|nota]] |
-| 25 Febbraio 2026 | A LORENZO DALL’AVA E BIANCA BRESSAN IL 56° MEETING GIOVANILE DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - A-LORENZO-DALL-AVA-E-BIANCA-BRESSAN-IL-56-MEETING-GIOVANILE-DI-ALASSIO - wp6124|nota]] |
