@@ -6,6 +6,14 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Settembre 2025 | iQFoil – III tappa Coppa Italia al Memorial Ballanti-Saiani. I risultati. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-21 - iQFoil-III-tappa-Coppa-Italia-al-Memorial-Ballanti-Saiani-I-risultati - wp4460|nota]] |
+| 20 Settembre 2025 | Trofeo CONI 2025 – La vela veneta protagonista a Lignano Sabbiadoro | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-20 - Trofeo-CONI-2025-La-vela-veneta-protagonista-a-Lignano-Sabbiadoro - wp4438|nota]] |
+| 20 Settembre 2025 | WATERFRONT SAILING CLUB PROTAGONISTA AL 65° SALONE NAUTICO DI GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-20 - WATERFRONT-SAILING-CLUB-PROTAGONISTA-AL-65-SALONE-NAUTICO-DI-GENOVA - wp4430|nota]] |
+| 19 Settembre 2025 | WingFoil: dalla II zona al mondo | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - WingFoil-dalla-II-zona-al-mondo - wp4426|nota]] |
+| 19 Settembre 2025 | Memorial Ballanti-Saiani. Tappa Coppa Italia iQFoil YJ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - Memorial-Ballanti-Saiani-Tappa-Coppa-Italia-iQFoil-YandJ - wp4417|nota]] |
+| 18 Settembre 2025 | 6^ TAPPA DEL CAMPIONATO LIGURE 2025 DI VELA PARALIMPICA HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - 6-TAPPA-DEL-CAMPIONATO-LIGURE-2025-DI-VELA-PARALIMPICA-HANSA-303 - wp4414|nota]] |
+| 18 Settembre 2025 | LA I ZONA RILANCIA IL PROGRAMMA DI PREPARAZIONE ATLETICAPER GIOVANI VELISTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - LA-I-ZONA-RILANCIA-IL-PROGRAMMA-DI-PREPARAZIONE-ATLETICAPER-GIOVANI-VELISTI - wp4411|nota]] |
+| 16 Settembre 2025 | CONCLUSO AD ARENZANO IL CAMPIONATO INTERCIRCOLI 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-16 - CONCLUSO-AD-ARENZANO-IL-CAMPIONATO-INTERCIRCOLI-2025 - wp4365|nota]] |
 | 15 Settembre 2025 | ECCO TUTTI I VINCITORI DEL TROFEO ELVIO BOTTO – COPPA GAVINO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - ECCO-TUTTI-I-VINCITORI-DEL-TROFEO-ELVIO-BOTTO-COPPA-GAVINO-2025 - wp4327|nota]] |
 | 15 Settembre 2025 | YACHT CLUB CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-15 - YACHT-CLUB-CHIAVARI - wp4324|nota]] |
 | 13 Settembre 2025 | iQFOiL U23 World Championships 2025: Tomasini bronzo e tanta Italia nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-13 - iQFOiL-U23-World-Championships-2025-Tomasini-bronzo-e-tanta-Italia-nella-top-ten - wp4318|nota]] |

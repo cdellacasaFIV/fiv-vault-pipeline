@@ -6,6 +6,14 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 27 Aprile 2026 | La XII Zona FIV guarda al futuro: il Wing Foil cresce e premia il lavoro degli atleti veneti | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-27 - La-XII-Zona-FIV-guarda-al-futuro-il-Wing-Foil-cresce-e-premia-il-lavoro-degli-atleti-veneti - wp6853|nota]] |
+| 27 Aprile 2026 | 𝟑𝟖° 𝐓𝐑𝐎𝐅𝐄𝐎 𝐌𝐀𝐑𝐂𝐎 𝐑𝐈𝐙𝐙𝐎𝐓𝐓𝐈 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-27 - 38-TROFEO-MARCO-RIZZOTTI - wp6846|nota]] |
+| 27 Aprile 2026 | A ENRICO CIFERRI DEL CV VERNAZZOLESI LA PRIMA PROVA DI COPPA ITALIA DELLA CLASSE D-ONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-27 - A-ENRICO-CIFERRI-DEL-CV-VERNAZZOLESI-LA-PRIMA-PROVA-DI-COPPA-ITALIA-DELLA-CLASSE-D-ONE - wp6836|nota]] |
+| 26 Aprile 2026 | LE STELLE DELLA VELA | IX Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-26 - LE-STELLE-DELLA-VELA - wp6831|nota]] |
+| 25 Aprile 2026 | A Napoli il Corso OSR – First Aid della Federazione Italiana Vela | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-25 - A-Napoli-il-Corso-OSR-First-Aid-della-Federazione-Italiana-Vela - wp6812|nota]] |
+| 25 Aprile 2026 | UNDER 25 FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-25 - UNDER-25-FIV - wp6809|nota]] |
+| 24 Aprile 2026 | SCHERIACUP 2026: TORNA LA GRANDE VELA A ISCHIA | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-24 - SCHERIACUP-2026-TORNA-LA-GRANDE-VELA-A-ISCHIA - wp6798|nota]] |
+| 23 Aprile 2026 | La XII Zona FIV al Salone Nautico di Venezia 2026 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - La-XII-Zona-FIV-al-Salone-Nautico-di-Venezia-2026 - wp6789|nota]] |
 | 22 Aprile 2026 | FANTASTICA SETTIMANA A SANREMO CON L’ITALIAN GRAND PRIX – DRAGON CUP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-22 - FANTASTICA-SETTIMANA-A-SANREMO-CON-L-ITALIAN-GRAND-PRIX-DRAGON-CUP - wp6760|nota]] |
 | 21 Aprile 2026 | SETTIMANA VELICA INTERNAZIONALE: si apre l’edizione 2026 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - SETTIMANA-VELICA-INTERNAZIONALE-si-apre-l-edizione-2026 - wp6695|nota]] |
 | 21 Aprile 2026 | Torre Annunziata ospita il VI Trofeo Oplonti Marina del Sole | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - Torre-Annunziata-ospita-il-VI-Trofeo-Oplonti-Marina-del-Sole - wp6738|nota]] |
@@ -248,11 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 25 Settembre 2025 | Switch e 69F per la prima volta alla Next Generation FIV Foil Academy powered by Luna Rossa | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-25 - Switch-e-69F-per-la-prima-volta-alla-Next-Generation-FIV-Foil-Academy-powered-by-Luna-Rossa - wp4505|nota]] |
 | 23 Settembre 2025 | Jesolo celebra la Giornata dello Sport con la Vela e la XII Zona FIV protagoniste | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-23 - Jesolo-celebra-la-Giornata-dello-Sport-con-la-Vela-e-la-XII-Zona-FIV-protagoniste - wp4483|nota]] |
 | 22 Settembre 2025 | Circolo Vela Cesenatico. Settembre di sport e successi. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-22 - Circolo-Vela-Cesenatico-Settembre-di-sport-e-successi - wp4470|nota]] |
-| 21 Settembre 2025 | iQFoil – III tappa Coppa Italia al Memorial Ballanti-Saiani. I risultati. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-21 - iQFoil-III-tappa-Coppa-Italia-al-Memorial-Ballanti-Saiani-I-risultati - wp4460|nota]] |
-| 20 Settembre 2025 | Trofeo CONI 2025 – La vela veneta protagonista a Lignano Sabbiadoro | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-20 - Trofeo-CONI-2025-La-vela-veneta-protagonista-a-Lignano-Sabbiadoro - wp4438|nota]] |
-| 20 Settembre 2025 | WATERFRONT SAILING CLUB PROTAGONISTA AL 65° SALONE NAUTICO DI GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-20 - WATERFRONT-SAILING-CLUB-PROTAGONISTA-AL-65-SALONE-NAUTICO-DI-GENOVA - wp4430|nota]] |
-| 19 Settembre 2025 | WingFoil: dalla II zona al mondo | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - WingFoil-dalla-II-zona-al-mondo - wp4426|nota]] |
-| 19 Settembre 2025 | Memorial Ballanti-Saiani. Tappa Coppa Italia iQFoil YJ | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-19 - Memorial-Ballanti-Saiani-Tappa-Coppa-Italia-iQFoil-YandJ - wp4417|nota]] |
-| 18 Settembre 2025 | 6^ TAPPA DEL CAMPIONATO LIGURE 2025 DI VELA PARALIMPICA HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - 6-TAPPA-DEL-CAMPIONATO-LIGURE-2025-DI-VELA-PARALIMPICA-HANSA-303 - wp4414|nota]] |
-| 18 Settembre 2025 | LA I ZONA RILANCIA IL PROGRAMMA DI PREPARAZIONE ATLETICAPER GIOVANI VELISTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-18 - LA-I-ZONA-RILANCIA-IL-PROGRAMMA-DI-PREPARAZIONE-ATLETICAPER-GIOVANI-VELISTI - wp4411|nota]] |
-| 16 Settembre 2025 | CONCLUSO AD ARENZANO IL CAMPIONATO INTERCIRCOLI 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-16 - CONCLUSO-AD-ARENZANO-IL-CAMPIONATO-INTERCIRCOLI-2025 - wp4365|nota]] |

@@ -6,6 +6,17 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 29 Luglio 2025 | EUROPEI 420: ORO PER GLI UNDER 17 MARGARIA E CAVERO (CV Vernazzolesi) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-29 - EUROPEI-420-ORO-PER-GLI-UNDER-17-MARGARIA-E-CAVERO-CV-Vernazzolesi - wp3705|nota]] |
+| 29 Luglio 2025 | COLOMBANUS RACE AD ANDORA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-29 - COLOMBANUS-RACE-AD-ANDORA - wp3702|nota]] |
+| 29 Luglio 2025 | ITALIANI RS500: ORO E BRONZO UNDER 20 PER IL CLUB NAUTICO SANBÀRT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-29 - ITALIANI-RS500-ORO-E-BRONZO-UNDER-20-PER-IL-CLUB-NAUTICO-SANBART - wp3698|nota]] |
+| 29 Luglio 2025 | SECONDO MEETING PROVINCIALE SCUOLA VELA A SANTA MARGHERITA LIGURE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-29 - SECONDO-MEETING-PROVINCIALE-SCUOLA-VELA-A-SANTA-MARGHERITA-LIGURE - wp3694|nota]] |
+| 28 Luglio 2025 | Trofeo Rotary – Campionato Zonale Dinghy 12′. I vincitori | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-28 - Trofeo-Rotary-Campionato-Zonale-Dinghy-12-I-vincitori - wp3673|nota]] |
+| 28 Luglio 2025 | Raduni di avviamento al foil: Waszp e Wingfoil | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-28 - Raduni-di-avviamento-al-foil-Waszp-e-Wingfoil - wp3665|nota]] |
+| 28 Luglio 2025 | Presentazioni ufficiali dei Campionati Italiani Giovanili e 75^ Centomiglia | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-28 - Presentazioni-ufficiali-dei-Campionati-Italiani-Giovanili-e-75-Centomiglia - wp3658|nota]] |
+| 27 Luglio 2025 | Giulia Marella nella storia: ottava al Mondiale ILCA 4 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-27 - Giulia-Marella-nella-storia-ottava-al-Mondiale-ILCA-4 - wp3638|nota]] |
+| 26 Luglio 2025 | WASZP International Games 2025: cinque titoli mondiali per l’Italia a Weymouth | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - WASZP-International-Games-2025-cinque-titoli-mondiali-per-l-Italia-a-Weymouth - wp3616|nota]] |
+| 26 Luglio 2025 | MEETING ZONALE SCUOLE DI VELA LAZIO | IV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - MEETING-ZONALE-SCUOLE-DI-VELA-LAZIO - wp3610|nota]] |
+| 26 Luglio 2025 | FEDERICO BERGAMASCO CAMPIONE MONDIALE OVERALL E U21 NEI WASZP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - FEDERICO-BERGAMASCO-CAMPIONE-MONDIALE-OVERALL-E-U21-NEI-WASZP - wp3604|nota]] |
 | 26 Luglio 2025 | Waszp Worlds 2025 a Weymouth: giovani siciliani sul podio | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - Waszp-Worlds-2025-a-Weymouth-giovani-siciliani-sul-podio - wp3599|nota]] |
 | 26 Luglio 2025 | LNI GENOVA: ATTIVITÀ MARITTIME PER OGNI ETÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - LNI-GENOVA-ATTIVITA-MARITTIME-PER-OGNI-ETA - wp3594|nota]] |
 | 26 Luglio 2025 | CAMPIONATI ITALIANI RS500: ORO E BRONZO UNDER 20 PER IL CLUB NAUTICO SANBÀRT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-26 - CAMPIONATI-ITALIANI-RS500-ORO-E-BRONZO-UNDER-20-PER-IL-CLUB-NAUTICO-SANBART - wp3584|nota]] |

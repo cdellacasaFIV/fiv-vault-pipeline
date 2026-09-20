@@ -4,6 +4,8 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Settembre 2026 | La vela nelle scuole: intesa tra il Liceo Quercia e la V Zona FIV, prima tappa l’America’s Cup | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-19 - La-vela-nelle-scuole-intesa-tra-il-Liceo-Quercia-e-la-V-Zona-FIV-prima-tappa-l-America-s-Cup - wp9155|nota]] |
+| 18 Settembre 2026 | Vela, firmata al RYCC Savoia la partnership tra Mulino Caputo e Louis Vuitton 38a America’s Cup | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - Vela-firmata-al-RYCC-Savoia-la-partnership-tra-Mulino-Caputo-e-Louis-Vuitton-38a-America-s-Cup - wp9149|nota]] |
 | 13 Settembre 2026 | Trofeo OptiSud, trionfo della V Zona: trionfano Nugnes e Allodi Varriale, CRV Italia miglior Circolo! | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - Trofeo-OptiSud-trionfo-della-V-Zona-trionfano-Nugnes-e-Allodi-Varriale-CRV-Italia-miglior-Circolo - wp9052|nota]] |
 | 12 Settembre 2026 | Vela: profumo di America’s Cup al CN Torre del Greco | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-12 - Vela-profumo-di-America-s-Cup-al-CN-Torre-del-Greco - wp9043|nota]] |
 | 10 Settembre 2026 | VELA PARALIMPICA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-10 - VELA-PARALIMPICA - wp8977|nota]] |
