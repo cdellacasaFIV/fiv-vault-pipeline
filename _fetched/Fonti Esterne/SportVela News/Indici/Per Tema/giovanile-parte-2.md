@@ -2,10 +2,14 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 2 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Maggio 2026 | ASPRA SAIL SOSTIENE, CON ASPRA III, IL PORTO MAURIZIO YC 1959 DI IMPERIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-05 - ASPRA-SAIL-SOSTIENE-CON-ASPRA-III-IL-PORTO-MAURIZIO-YC-1959-DI-IMPERIA - wp6918|nota]] |
+| 5 Maggio 2026 | LAU CUP-TROFEO MARINA DEL FEZZANO: TUTTI I VINCITORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-05 - LAU-CUP-TROFEO-MARINA-DEL-FEZZANO-TUTTI-I-VINCITORI - wp6914|nota]] |
+| 30 Aprile 2026 | Fondazione Laureus presenta con Mascalzone Latino il progetto Sailing For Good | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-30 - Fondazione-Laureus-presenta-con-Mascalzone-Latino-il-progetto-Sailing-For-Good - wp6882|nota]] |
+| 27 Aprile 2026 | Trapani non delude. Successo Optimist in Sicilia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-27 - Trapani-non-delude-Successo-Optimist-in-Sicilia - wp6864|nota]] |
 | 27 Aprile 2026 | La XII Zona FIV guarda al futuro: il Wing Foil cresce e premia il lavoro degli atleti veneti | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-27 - La-XII-Zona-FIV-guarda-al-futuro-il-Wing-Foil-cresce-e-premia-il-lavoro-degli-atleti-veneti - wp6853|nota]] |
 | 27 Aprile 2026 | 𝟑𝟖° 𝐓𝐑𝐎𝐅𝐄𝐎 𝐌𝐀𝐑𝐂𝐎 𝐑𝐈𝐙𝐙𝐎𝐓𝐓𝐈 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-27 - 38-TROFEO-MARCO-RIZZOTTI - wp6846|nota]] |
 | 27 Aprile 2026 | A ENRICO CIFERRI DEL CV VERNAZZOLESI LA PRIMA PROVA DI COPPA ITALIA DELLA CLASSE D-ONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-27 - A-ENRICO-CIFERRI-DEL-CV-VERNAZZOLESI-LA-PRIMA-PROVA-DI-COPPA-ITALIA-DELLA-CLASSE-D-ONE - wp6836|nota]] |
@@ -252,7 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 29 Settembre 2025 | AL VIA LA 57° EDIZIONE DELLA COPPA DALLORSO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-29 - AL-VIA-LA-57-EDIZIONE-DELLA-COPPA-DALLORSO - wp4538|nota]] |
 | 29 Settembre 2025 | FORMULA WING FOIL WORLD CHAMPIONSHIPS: L’ITALIANA MADDALENA SPANU VINCE IL PRIMO TITOLO ASSOLUTO NELLA SUA SARDEGNA, CAPPUZZO ARGENTO MASCHILE | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-29 - FORMULA-WING-FOIL-WORLD-CHAMPIONSHIPS-L-ITALIANA-MADDALENA-SPANU-VINCE-IL-PRIMO-TITOLO-ASSOLUTO-NELLA-SUA-SARD - wp4535|nota]] |
 | 27 Settembre 2025 | NEL WEEKEND OTTAVA EDIZIONE DEL TROFEO CAPIZZI A CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-27 - NEL-WEEKEND-OTTAVA-EDIZIONE-DEL-TROFEO-CAPIZZI-A-CHIAVARI - wp4529|nota]] |
-| 26 Settembre 2025 | PROGETTO VELANDO (MINISTERO PER LE DISABILITÀ): | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-26 - PROGETTO-VELANDO-MINISTERO-PER-LE-DISABILITA - wp4520|nota]] |
-| 25 Settembre 2025 | Switch e 69F per la prima volta alla Next Generation FIV Foil Academy powered by Luna Rossa | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-25 - Switch-e-69F-per-la-prima-volta-alla-Next-Generation-FIV-Foil-Academy-powered-by-Luna-Rossa - wp4505|nota]] |
-| 23 Settembre 2025 | Jesolo celebra la Giornata dello Sport con la Vela e la XII Zona FIV protagoniste | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-23 - Jesolo-celebra-la-Giornata-dello-Sport-con-la-Vela-e-la-XII-Zona-FIV-protagoniste - wp4483|nota]] |
-| 22 Settembre 2025 | Circolo Vela Cesenatico. Settembre di sport e successi. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-22 - Circolo-Vela-Cesenatico-Settembre-di-sport-e-successi - wp4470|nota]] |

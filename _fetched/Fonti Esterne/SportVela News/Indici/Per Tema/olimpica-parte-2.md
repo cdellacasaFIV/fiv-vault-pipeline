@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Novembre 2025 | Le attività presenti e future del Comitato di Zona | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Le-attivita-presenti-e-future-del-Comitato-di-Zona - wp5357|nota]] |
 | 19 Novembre 2025 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp5340|nota]] |
 | 17 Novembre 2025 | INTENSA ATTIVITÀ PER LA DIREZIONE TECNICA ZONALE DELLA I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - INTENSA-ATTIVITA-PER-LA-DIREZIONE-TECNICA-ZONALE-DELLA-I-ZONA-FIV - wp5333|nota]] |
 | 10 Novembre 2025 | Campionato Italiano Match Race Desenzano 2025: Rocco Attili è il nuovo Campione Italiano Match Race U23-Open 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-10 - Campionato-Italiano-Match-Race-Desenzano-2025-Rocco-Attili-e-il-nuovo-Campione-Italiano-Match-Race-U23-Open-20 - wp5288|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 16 Maggio 2024 | Formula Kite 2024 World Championships: tre italiani in Gold Fleet | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-16 - Formula-Kite-2024-World-Championships-tre-italiani-in-Gold-Fleet - wp1777|nota]] |
 | 15 Maggio 2024 | Formula Kite 2024 World Championships: seconda giornata con italiani in evidenza | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-15 - Formula-Kite-2024-World-Championships-seconda-giornata-con-italiani-in-evidenza - wp1774|nota]] |
 | 14 Maggio 2024 | Formula Kite 2024 World Championships: inizio con buon vento oggi a Hyères | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-14 - Formula-Kite-2024-World-Championships-inizio-con-buon-vento-oggi-a-Hyeres - wp1768|nota]] |
-| 12 Maggio 2024 | Mixed Dinghy European Championship: Berta-Festo chiudono al sesto posto | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-12 - Mixed-Dinghy-European-Championship-Berta-Festo-chiudono-al-sesto-posto - wp1764|nota]] |

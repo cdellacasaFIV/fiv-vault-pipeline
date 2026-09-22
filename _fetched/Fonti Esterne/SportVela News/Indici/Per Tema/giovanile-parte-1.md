@@ -2,10 +2,14 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 1 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Settembre 2026 | TROFEO BAIETTO LOANO 2026: SEI PROVE TRA VENTO E SPETTACOLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-21 - TROFEO-BAIETTO-LOANO-2026-SEI-PROVE-TRA-VENTO-E-SPETTACOLO - wp9249|nota]] |
+| 21 Settembre 2026 | Cinque velisti siciliani a Gaeta per il Campionato Italiano delle Zone FIV | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-21 - Cinque-velisti-siciliani-a-Gaeta-per-il-Campionato-Italiano-delle-Zone-FIV - wp9237|nota]] |
+| 21 Settembre 2026 | CHIOGGIAVELA 2026 CHIUDE CON UN GRANDE SUCCESSO: LA VELA CONQUISTA LA CITTÀ | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-21 - CHIOGGIAVELA-2026-CHIUDE-CON-UN-GRANDE-SUCCESSO-LA-VELA-CONQUISTA-LA-CITTA - wp9223|nota]] |
+| 20 Settembre 2026 | CAMPIONATO ITALIANO MATCH RACE DI GAETA. Al via anche due team del nuovo progetto sportivo Leeward Lab. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-20 - CAMPIONATO-ITALIANO-MATCH-RACE-DI-GAETA-Al-via-anche-due-team-del-nuovo-progetto-sportivo-Leeward-Lab - wp9215|nota]] |
 | 20 Settembre 2026 | Mondiale Platu25, successo a San Benedetto del Tronto: vince l’Australia | X Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-20 - Mondiale-Platu25-successo-a-San-Benedetto-del-Tronto-vince-l-Australia - wp9174|nota]] |
 | 20 Settembre 2026 | Para Sailing Academy, Alessandra Franchi è bronzo europeo a Barcellona | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-20 - Para-Sailing-Academy-Alessandra-Franchi-e-bronzo-europeo-a-Barcellona - wp9170|nota]] |
 | 20 Settembre 2026 | CAMPIONATO ITALIANO FIREBALL: IL TITOLO 2026 A STEFANINI-BORZANI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-20 - CAMPIONATO-ITALIANO-FIREBALL-IL-TITOLO-2026-A-STEFANINI-BORZANI - wp9168|nota]] |
@@ -252,7 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 6 Maggio 2026 | Progetto FIV Vela STEAM sbarca alla SVC | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-06 - Progetto-FIV-Vela-STEAM-sbarca-alla-SVC - wp6949|nota]] |
 | 5 Maggio 2026 | Matteo Montanari vince la Coppa Italia iQFOiL U19 di Torbole, podio Adriatico Wind Club anche nel Contender. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-05 - Matteo-Montanari-vince-la-Coppa-Italia-iQFOiL-U19-di-Torbole-podio-Adriatico-Wind-Club-anche-nel-Contender - wp6942|nota]] |
 | 5 Maggio 2026 | Club Nautico Rimini sul podio alla 3ª regata nazionale Openskiff all’Isola d’Elba. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-05 - Club-Nautico-Rimini-sul-podio-alla-3a-regata-nazionale-Openskiff-all-Isola-d-Elba - wp6934|nota]] |
-| 5 Maggio 2026 | ASPRA SAIL SOSTIENE, CON ASPRA III, IL PORTO MAURIZIO YC 1959 DI IMPERIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-05 - ASPRA-SAIL-SOSTIENE-CON-ASPRA-III-IL-PORTO-MAURIZIO-YC-1959-DI-IMPERIA - wp6918|nota]] |
-| 5 Maggio 2026 | LAU CUP-TROFEO MARINA DEL FEZZANO: TUTTI I VINCITORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-05 - LAU-CUP-TROFEO-MARINA-DEL-FEZZANO-TUTTI-I-VINCITORI - wp6914|nota]] |
-| 30 Aprile 2026 | Fondazione Laureus presenta con Mascalzone Latino il progetto Sailing For Good | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-30 - Fondazione-Laureus-presenta-con-Mascalzone-Latino-il-progetto-Sailing-For-Good - wp6882|nota]] |
-| 27 Aprile 2026 | Trapani non delude. Successo Optimist in Sicilia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-27 - Trapani-non-delude-Successo-Optimist-in-Sicilia - wp6864|nota]] |

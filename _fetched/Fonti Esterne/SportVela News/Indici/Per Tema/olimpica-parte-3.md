@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Maggio 2024 | Mixed Dinghy European Championship: Berta-Festo chiudono al sesto posto | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-12 - Mixed-Dinghy-European-Championship-Berta-Festo-chiudono-al-sesto-posto - wp1764|nota]] |
 | 12 Maggio 2024 | Nacra 17 Worlds, 49er & 49er:FX Europeans: Tita-Banti d’oro e Ugolini-Giubilei bronzo | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-12 - Nacra-17-Worlds-49er-and-49er-FX-Europeans-Tita-Banti-d-oro-e-Ugolini-Giubilei-bronzo - wp1760|nota]] |
 | 11 Maggio 2024 | Nacra 17 Worlds, 49er & 49er:FX Europeans: in Medal Race Tita-Banti (con medaglia sicura) e Ugolini-Giubilei | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-11 - Nacra-17-Worlds-49er-and-49er-FX-Europeans-in-Medal-Race-Tita-Banti-con-medaglia-sicura-e-Ugolini-Giubilei - wp1757|nota]] |
 | 11 Maggio 2024 | Mixed Dinghy European Championship: domani Medal Race con Berta-Festo | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-11 - Mixed-Dinghy-European-Championship-domani-Medal-Race-con-Berta-Festo - wp1754|nota]] |

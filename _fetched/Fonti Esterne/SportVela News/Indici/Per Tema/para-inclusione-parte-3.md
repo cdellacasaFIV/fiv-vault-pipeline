@@ -6,6 +6,10 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 2 Marzo 2024 | 470 World Championship 2024: concluse le finali, domani Medal Race e regata finale | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-02 - 470-World-Championship-2024-concluse-le-finali-domani-Medal-Race-e-regata-finale - wp1468|nota]] |
+| 15 Febbraio 2024 | La FIV indica quattro equipaggi per i Giochi Olimpici di Parigi 2024 | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-02-15 - La-FIV-indica-quattro-equipaggi-per-i-Giochi-Olimpici-di-Parigi-2024 - wp1395|nota]] |
+| 1 Febbraio 2024 | Spirito di Stella: Il catamarano accessibile approda a Miami per il Progetto WoW | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-02-01 - Spirito-di-Stella-Il-catamarano-accessibile-approda-a-Miami-per-il-Progetto-WoW - wp1348|nota]] |
+| 31 Gennaio 2024 | Corso FISDIR: Formazione esclusiva per Tecnici Para Sailing FIV | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-31 - Corso-FISDIR-Formazione-esclusiva-per-Tecnici-Para-Sailing-FIV - wp1345|nota]] |
 | 19 Gennaio 2024 | La FIV indica due equipaggi per i Giochi Olimpici di Parigi 2024 | Copertina, Mission Paris 2024, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-19 - La-FIV-indica-due-equipaggi-per-i-Giochi-Olimpici-di-Parigi-2024 - wp1248|nota]] |
 | 30 Dicembre 2023 | Francesco Ettorre: “Ogni ambito ha un suo percorso: la crescita passa dalla programmazione” | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-30 - Francesco-Ettorre-Ogni-ambito-ha-un-suo-percorso-la-crescita-passa-dalla-programmazione - wp1219|nota]] |
 | 27 Dicembre 2023 | Marchesini: “2023 anno della solidità e alle Olimpiadi si va per le medaglie” | Copertina, Mission Paris 2024, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-27 - Marchesini-2023-anno-della-solidita-e-alle-Olimpiadi-si-va-per-le-medaglie - wp1212|nota]] |

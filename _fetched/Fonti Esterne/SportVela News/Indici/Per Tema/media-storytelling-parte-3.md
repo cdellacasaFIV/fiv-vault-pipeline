@@ -6,6 +6,10 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Agosto 2025 | Vela Viva 15: torna l’evento diffuso della XV Zona FIV – terza edizione in due tappe, il 23 e il 30 agosto 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-06 - Vela-Viva-15-torna-l-evento-diffuso-della-XV-Zona-FIV-terza-edizione-in-due-tappe-il-23-e-il-30-agosto-2025 - wp3838|nota]] |
+| 4 Agosto 2025 | Coppa Primavela Kinder Joy of Moving 2025: la Sicilia protagonista a Crotone | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-04 - Coppa-Primavela-Kinder-Joy-of-Moving-2025-la-Sicilia-protagonista-a-Crotone - wp3792|nota]] |
+| 3 Agosto 2025 | Kosmos regata: 2 biglietti per la II zona. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-03 - Kosmos-regata-2-biglietti-per-la-II-zona - wp3770|nota]] |
+| 1 Agosto 2025 | SABATO 23 AGOSTO A VENTIMIGLIA IL MEETING PROVINCIALE SCUOLA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-01 - SABATO-23-AGOSTO-A-VENTIMIGLIA-IL-MEETING-PROVINCIALE-SCUOLA-VELA - wp3748|nota]] |
 | 31 Luglio 2025 | Due giovani talenti della XV Zona brillano a Crotone alla Coppa Primavela e alla Coppa del Presidente 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-31 - Due-giovani-talenti-della-XV-Zona-brillano-a-Crotone-alla-Coppa-Primavela-e-alla-Coppa-del-Presidente-2025 - wp3734|nota]] |
 | 29 Luglio 2025 | Coppa Primavela Kinder Joy of moving Crotone 2025, secondo giorno di regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-29 - Coppa-Primavela-Kinder-Joy-of-moving-Crotone-2025-secondo-giorno-di-regate - wp3717|nota]] |
 | 28 Luglio 2025 | Coppa Primavela Kinder Joy of moving Crotone 2025, primo giorno di regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-28 - Coppa-Primavela-Kinder-Joy-of-moving-Crotone-2025-primo-giorno-di-regate - wp3690|nota]] |

@@ -2,10 +2,14 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Settembre 2025 | PROGETTO VELANDO (MINISTERO PER LE DISABILITÀ): | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-26 - PROGETTO-VELANDO-MINISTERO-PER-LE-DISABILITA - wp4520|nota]] |
+| 25 Settembre 2025 | Switch e 69F per la prima volta alla Next Generation FIV Foil Academy powered by Luna Rossa | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-25 - Switch-e-69F-per-la-prima-volta-alla-Next-Generation-FIV-Foil-Academy-powered-by-Luna-Rossa - wp4505|nota]] |
+| 23 Settembre 2025 | Jesolo celebra la Giornata dello Sport con la Vela e la XII Zona FIV protagoniste | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-23 - Jesolo-celebra-la-Giornata-dello-Sport-con-la-Vela-e-la-XII-Zona-FIV-protagoniste - wp4483|nota]] |
+| 22 Settembre 2025 | Circolo Vela Cesenatico. Settembre di sport e successi. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-22 - Circolo-Vela-Cesenatico-Settembre-di-sport-e-successi - wp4470|nota]] |
 | 21 Settembre 2025 | iQFoil – III tappa Coppa Italia al Memorial Ballanti-Saiani. I risultati. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-21 - iQFoil-III-tappa-Coppa-Italia-al-Memorial-Ballanti-Saiani-I-risultati - wp4460|nota]] |
 | 20 Settembre 2025 | Trofeo CONI 2025 – La vela veneta protagonista a Lignano Sabbiadoro | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-20 - Trofeo-CONI-2025-La-vela-veneta-protagonista-a-Lignano-Sabbiadoro - wp4438|nota]] |
 | 20 Settembre 2025 | WATERFRONT SAILING CLUB PROTAGONISTA AL 65° SALONE NAUTICO DI GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-20 - WATERFRONT-SAILING-CLUB-PROTAGONISTA-AL-65-SALONE-NAUTICO-DI-GENOVA - wp4430|nota]] |
@@ -252,4 +256,3 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 8 Novembre 2023 | Si è ufficialmente dato il via al Campionato Europeo Nacra 17, 49er e 49erFX 2023 a Vilamoura, Portogallo | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2023/2023-11-08 - Si-e-ufficialmente-dato-il-via-al-Campionato-Europeo-Nacra-17-49er-e-49erFX-2023-a-Vilamoura-Portogallo - wp800|nota]] |
 | 8 Novembre 2023 | Un’innovativa iniziativa: World Sailing e Federazione Vela insieme a Cagliari per l’Inclusive Development Programme all’interno della Sardinia Sailing Cup | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-11-08 - Un-innovativa-iniziativa-World-Sailing-e-Federazione-Vela-insieme-a-Cagliari-per-l-Inclusive-Development-Progr - wp795|nota]] |
 | 21 Ottobre 2023 | PIANO SVILUPPO TERRITORIO 2023 | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2023/2023-10-21 - PIANO-SVILUPPO-TERRITORIO-2023 - wp509|nota]] |
-| 18 Ottobre 2023 | Cagliari, autunno a gonfie vele: al via nel Golfo degli Angeli la Sardinia Sailing Cup | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-10-18 - Cagliari-autunno-a-gonfie-vele-al-via-nel-Golfo-degli-Angeli-la-Sardinia-Sailing-Cup - wp434|nota]] |

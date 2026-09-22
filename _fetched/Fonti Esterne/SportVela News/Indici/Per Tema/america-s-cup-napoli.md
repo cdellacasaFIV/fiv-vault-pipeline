@@ -4,6 +4,7 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Settembre 2026 | “A vela nel porto”, Ischia celebra i 172 anni dell’apertura del porto | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-21 - A-vela-nel-porto-Ischia-celebra-i-172-anni-dell-apertura-del-porto - wp9226|nota]] |
 | 19 Settembre 2026 | La vela nelle scuole: intesa tra il Liceo Quercia e la V Zona FIV, prima tappa l’America’s Cup | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-19 - La-vela-nelle-scuole-intesa-tra-il-Liceo-Quercia-e-la-V-Zona-FIV-prima-tappa-l-America-s-Cup - wp9155|nota]] |
 | 18 Settembre 2026 | Vela, firmata al RYCC Savoia la partnership tra Mulino Caputo e Louis Vuitton 38a America’s Cup | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - Vela-firmata-al-RYCC-Savoia-la-partnership-tra-Mulino-Caputo-e-Louis-Vuitton-38a-America-s-Cup - wp9149|nota]] |
 | 13 Settembre 2026 | Trofeo OptiSud, trionfo della V Zona: trionfano Nugnes e Allodi Varriale, CRV Italia miglior Circolo! | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-13 - Trofeo-OptiSud-trionfo-della-V-Zona-trionfano-Nugnes-e-Allodi-Varriale-CRV-Italia-miglior-Circolo - wp9052|nota]] |

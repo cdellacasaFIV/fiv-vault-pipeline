@@ -6,6 +6,10 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Marzo 2026 | È online la nuova Web App XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - E-online-la-nuova-Web-App-XV-Zona - wp6202|nota]] |
+| 3 Marzo 2026 | 35a EDIZIONE DELL’INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - 35a-EDIZIONE-DELL-INTERCIRCOLI - wp6194|nota]] |
+| 3 Marzo 2026 | LA I ZONA FIV APRE IL 2026 DELLA FORMAZIONE ISTRUTTORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - LA-I-ZONA-FIV-APRE-IL-2026-DELLA-FORMAZIONE-ISTRUTTORI - wp6191|nota]] |
+| 2 Marzo 2026 | V Zona FIV, consegnata al presidente Orofino la bandiera di Napoli Capitale Europea dello Sport 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-02 - V-Zona-FIV-consegnata-al-presidente-Orofino-la-bandiera-di-Napoli-Capitale-Europea-dello-Sport-2026 - wp6173|nota]] |
 | 26 Febbraio 2026 | Regata Zonale ILCA – Circolo Velico Ravennate | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-26 - Regata-Zonale-ILCA-Circolo-Velico-Ravennate - wp6135|nota]] |
 | 25 Febbraio 2026 | A LORENZO DALL’AVA E BIANCA BRESSAN IL 56° MEETING GIOVANILE DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - A-LORENZO-DALL-AVA-E-BIANCA-BRESSAN-IL-56-MEETING-GIOVANILE-DI-ALASSIO - wp6124|nota]] |
 | 25 Febbraio 2026 | Trofeo del Timoniere 2026, a Napoli vince Basilico | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-25 - Trofeo-del-Timoniere-2026-a-Napoli-vince-Basilico - wp6115|nota]] |
@@ -252,7 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 9 Agosto 2025 | XIV Zona FIV: Successo per il Raduno Settore Altura | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - XIV-Zona-FIV-Successo-per-il-Raduno-Settore-Altura - wp3861|nota]] |
 | 9 Agosto 2025 | Quattro medaglie per l’Italia al Mondiale 29er di Porto | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - Quattro-medaglie-per-l-Italia-al-Mondiale-29er-di-Porto - wp3852|nota]] |
 | 8 Agosto 2025 | Da La spezia al Solent: massimo Gherarducci con team Jolt | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-08 - Da-La-spezia-al-Solent-massimo-Gherarducci-con-team-Jolt - wp3842|nota]] |
-| 6 Agosto 2025 | Vela Viva 15: torna l’evento diffuso della XV Zona FIV – terza edizione in due tappe, il 23 e il 30 agosto 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-06 - Vela-Viva-15-torna-l-evento-diffuso-della-XV-Zona-FIV-terza-edizione-in-due-tappe-il-23-e-il-30-agosto-2025 - wp3838|nota]] |
-| 4 Agosto 2025 | Coppa Primavela Kinder Joy of Moving 2025: la Sicilia protagonista a Crotone | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-04 - Coppa-Primavela-Kinder-Joy-of-Moving-2025-la-Sicilia-protagonista-a-Crotone - wp3792|nota]] |
-| 3 Agosto 2025 | Kosmos regata: 2 biglietti per la II zona. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-03 - Kosmos-regata-2-biglietti-per-la-II-zona - wp3770|nota]] |
-| 1 Agosto 2025 | SABATO 23 AGOSTO A VENTIMIGLIA IL MEETING PROVINCIALE SCUOLA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-01 - SABATO-23-AGOSTO-A-VENTIMIGLIA-IL-MEETING-PROVINCIALE-SCUOLA-VELA - wp3748|nota]] |

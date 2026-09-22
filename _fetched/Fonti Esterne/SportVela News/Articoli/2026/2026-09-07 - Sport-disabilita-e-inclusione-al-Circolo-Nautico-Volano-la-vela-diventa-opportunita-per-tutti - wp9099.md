@@ -1,4 +1,4 @@
-# Sport, disabilità e inclusione: al circolo nautico volano la vela diventa opportunità per tutti
+# Sport, disabilità e inclusione: al Circolo Nautico Volano la vela diventa opportunità per tutti
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Sport, Secondo, Disabilità, Inclusione, La Scuola di Vela, Parasailing, Mauro Rinaldi. Una, Il Circolo Nautico Volano, Meeting, Circolo, Durante, Un’evoluzione, Circolo. Benefici, Alice Rinaldi.
+- Nomi, circoli o luoghi da valutare: Sport, Circolo Nautico Volano, Secondo, Disabilità, Inclusione, La Scuola di Vela, Parasailing, Mauro Rinaldi. Una, Il Circolo Nautico Volano, Meeting, Circolo, Durante, Un’evoluzione, Circolo. Benefici.
 - Numeri/date utili da verificare: 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

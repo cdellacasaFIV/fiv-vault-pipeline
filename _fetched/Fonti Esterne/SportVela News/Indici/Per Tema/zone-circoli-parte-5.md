@@ -6,6 +6,12 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 2 Agosto 2025 | EUROPEI 420:GRANDE FESTA PER L’ORO CONQUISTATO DAGLI U17 MARGARIA E CAVERO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-02 - EUROPEI-420-GRANDE-FESTA-PER-L-ORO-CONQUISTATO-DAGLI-U17-MARGARIA-E-CAVERO - wp3751|nota]] |
+| 1 Agosto 2025 | SABATO 23 AGOSTO A VENTIMIGLIA IL MEETING PROVINCIALE SCUOLA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-01 - SABATO-23-AGOSTO-A-VENTIMIGLIA-IL-MEETING-PROVINCIALE-SCUOLA-VELA - wp3748|nota]] |
+| 1 Agosto 2025 | A VENTIMIGLIA SCUOLA VELA PER PERSONE CON DISABILITÀ DI QUALSIASI ETÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-01 - A-VENTIMIGLIA-SCUOLA-VELA-PER-PERSONE-CON-DISABILITA-DI-QUALSIASI-ETA - wp3744|nota]] |
+| 31 Luglio 2025 | Due giovani talenti della XV Zona brillano a Crotone alla Coppa Primavela e alla Coppa del Presidente 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-31 - Due-giovani-talenti-della-XV-Zona-brillano-a-Crotone-alla-Coppa-Primavela-e-alla-Coppa-del-Presidente-2025 - wp3734|nota]] |
+| 30 Luglio 2025 | Gran finale per la Coppa Primavela Kinder Joy of moving 2025 a Crotone | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-30 - Gran-finale-per-la-Coppa-Primavela-Kinder-Joy-of-moving-2025-a-Crotone - wp3724|nota]] |
+| 30 Luglio 2025 | Stefanini-Querzolo sono bronzo U15 al campionato europeo 420 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-30 - Stefanini-Querzolo-sono-bronzo-U15-al-campionato-europeo-420 - wp3721|nota]] |
 | 29 Luglio 2025 | EUROPEI 420: ORO PER GLI UNDER 17 MARGARIA E CAVERO (CV Vernazzolesi) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-29 - EUROPEI-420-ORO-PER-GLI-UNDER-17-MARGARIA-E-CAVERO-CV-Vernazzolesi - wp3705|nota]] |
 | 29 Luglio 2025 | COLOMBANUS RACE AD ANDORA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-29 - COLOMBANUS-RACE-AD-ANDORA - wp3702|nota]] |
 | 29 Luglio 2025 | ITALIANI RS500: ORO E BRONZO UNDER 20 PER IL CLUB NAUTICO SANBÀRT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-07-29 - ITALIANI-RS500-ORO-E-BRONZO-UNDER-20-PER-IL-CLUB-NAUTICO-SANBART - wp3698|nota]] |

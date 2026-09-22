@@ -6,6 +6,10 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Aprile 2025 | La 56ª Semaine Olympique Française di Hyères: tanti italiani in top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-04-23 - La-56a-Semaine-Olympique-Francaise-di-Hyeres-tanti-italiani-in-top-ten - wp2691|nota]] |
+| 23 Aprile 2025 | Conclusi a Ostia i Campionati Europei giovanili Techno 293 e 293 Plus: grandi risultati per l’Italia | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-04-23 - Conclusi-a-Ostia-i-Campionati-Europei-giovanili-Techno-293-e-293-Plus-grandi-risultati-per-l-Italia - wp2685|nota]] |
+| 22 Aprile 2025 | La 56ª Semaine Olympique Française di Hyères: seconda giornata di regate | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-04-22 - La-56a-Semaine-Olympique-Francaise-di-Hyeres-seconda-giornata-di-regate - wp2682|nota]] |
+| 21 Aprile 2025 | La 56ª Semaine Olympique Française di Hyères il via oggi alla regata | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-04-21 - La-56a-Semaine-Olympique-Francaise-di-Hyeres-il-via-oggi-alla-regata - wp2679|nota]] |
 | 19 Aprile 2025 | Alessandro Cirinei conquista il bronzo all’Europeo Youth ILCA 6 a Vilamoura | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-04-19 - Alessandro-Cirinei-conquista-il-bronzo-all-Europeo-Youth-ILCA-6-a-Vilamoura - wp2664|nota]] |
 | 11 Aprile 2025 | Europeo Giovanile ILCA 6: 41 atleti italiani in gara a Vilamoura | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-04-11 - Europeo-Giovanile-ILCA-6-41-atleti-italiani-in-gara-a-Vilamoura - wp2504|nota]] |
 | 5 Aprile 2025 | 54° Trofeo Princesa Sofía 2025: giornata conclusiva, l’Italia chiude con cinque medaglie | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-04-05 - 54-Trofeo-Princesa-Sofia-2025-giornata-conclusiva-l-Italia-chiude-con-cinque-medaglie - wp2481|nota]] |
