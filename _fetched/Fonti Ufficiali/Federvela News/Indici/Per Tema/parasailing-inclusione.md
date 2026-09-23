@@ -4,6 +4,7 @@ Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 22 Settembre 2026 | Sconto riservato ai tesserati FIV sulla collezione ufficiale AC38 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-22 - Sconto-riservato-ai-tesserati-FIV-sulla-collezione-ufficiale-AC38 - wp8224|nota]] |
 | 18 Settembre 2026 | BLUE MARINA AWARDS 2026: A ROMA LA CERIMONIA CONCLUSIVA DELLA QUINTA EDIZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-18 - BLUE-MARINA-AWARDS-2026-A-ROMA-LA-CERIMONIA-CONCLUSIVA-DELLA-QUINTA-EDIZIONE - wp8219|nota]] |
 | 16 Settembre 2026 | La vela italiana protagonista alla III Giornata dello Sport Italiano nel Mondo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-16 - La-vela-italiana-protagonista-alla-III-Giornata-dello-Sport-Italiano-nel-Mondo - wp8212|nota]] |
 | 3 Settembre 2026 | Velando 2, la FIV alla giornata di formazione della seconda edizione del progetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-03 - Velando-2-la-FIV-alla-giornata-di-formazione-della-seconda-edizione-del-progetto - wp8202|nota]] |

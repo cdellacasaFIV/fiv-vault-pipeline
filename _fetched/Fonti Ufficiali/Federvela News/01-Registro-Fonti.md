@@ -1,10 +1,11 @@
 # Registro fonti Federvela
 
 Stato fonte: **ufficiale FIV / Federvela**.
-Aggiornato: 2026-09-22.
+Aggiornato: 2026-09-23.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 22 Settembre 2026 | Sconto riservato ai tesserati FIV sulla collezione ufficiale AC38 | condivisa, Nazionale | parasailing/inclusione, america's cup/napoli | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-22 - Sconto-riservato-ai-tesserati-FIV-sulla-collezione-ufficiale-AC38 - wp8224|nota]] | https://federvela.it/2026/09/22/sconto-riservato-ai-tesserati-fiv-sulla-collezione-ufficiale-ac38/ |
 | 18 Settembre 2026 | BLUE MARINA AWARDS 2026: A ROMA LA CERIMONIA CONCLUSIVA DELLA QUINTA EDIZIONE | condivisa, Nazionale | parasailing/inclusione, istituzionale, zone/circoli | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-18 - BLUE-MARINA-AWARDS-2026-A-ROMA-LA-CERIMONIA-CONCLUSIVA-DELLA-QUINTA-EDIZIONE - wp8219|nota]] | https://federvela.it/2026/09/18/blue-marina-awards-2026-a-roma-la-cerimonia-conclusiva-della-quinta-edizione/ |
 | 17 Settembre 2026 | Presentata a Malcesine la prima edizione del Campionato Italiano Classi Foil | condivisa, Nazionale | risultati, olimpica, giovanile, istituzionale, zone/circoli, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-17 - Presentata-a-Malcesine-la-prima-edizione-del-Campionato-Italiano-Classi-Foil - wp8216|nota]] | https://federvela.it/2026/09/17/presentata-a-malcesine-la-prima-edizione-del-campionato-italiano-classi-foil/ |
 | 16 Settembre 2026 | La vela italiana protagonista alla III Giornata dello Sport Italiano nel Mondo | condivisa, Nazionale | risultati, olimpica, giovanile, parasailing/inclusione, istituzionale, america's cup/napoli, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-16 - La-vela-italiana-protagonista-alla-III-Giornata-dello-Sport-Italiano-nel-Mondo - wp8212|nota]] | https://federvela.it/2026/09/16/la-vela-italiana-protagonista-alla-iii-giornata-dello-sport-italiano-nel-mondo/ |

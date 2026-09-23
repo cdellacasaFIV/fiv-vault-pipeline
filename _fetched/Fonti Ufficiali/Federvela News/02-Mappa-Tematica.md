@@ -4,7 +4,7 @@ Mappa leggera degli indici ufficiali Federvela: per consultare velocemente senza
 
 ## Temi
 
-- [[Fonti Ufficiali/Federvela News/Indici/Per Tema/america-s-cup-napoli|america's cup/napoli]] (56 news)
+- [[Fonti Ufficiali/Federvela News/Indici/Per Tema/america-s-cup-napoli|america's cup/napoli]] (57 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/formazione-scuola|formazione/scuola]] (250 news)
 - giovanile (467 news, spezzato in 2 parti):
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/giovanile-parte-1|giovanile-parte-1]]
@@ -18,7 +18,7 @@ Mappa leggera degli indici ufficiali Federvela: per consultare velocemente senza
 - olimpica (432 news, spezzato in 2 parti):
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/olimpica-parte-1|olimpica-parte-1]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/olimpica-parte-2|olimpica-parte-2]]
-- [[Fonti Ufficiali/Federvela News/Indici/Per Tema/parasailing-inclusione|parasailing/inclusione]] (218 news)
+- [[Fonti Ufficiali/Federvela News/Indici/Per Tema/parasailing-inclusione|parasailing/inclusione]] (219 news)
 - risultati (630 news, spezzato in 3 parti):
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/risultati-parte-1|risultati-parte-1]]
   - [[Fonti Ufficiali/Federvela News/Indici/Per Tema/risultati-parte-2|risultati-parte-2]]
@@ -29,7 +29,7 @@ Mappa leggera degli indici ufficiali Federvela: per consultare velocemente senza
 
 ## Anni
 
-- [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2026|2026]] (61 news)
+- [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2026|2026]] (62 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2025|2025]] (86 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2024|2024]] (74 news)
 - [[Fonti Ufficiali/Federvela News/Indici/Per Anno/2023|2023]] (99 news)

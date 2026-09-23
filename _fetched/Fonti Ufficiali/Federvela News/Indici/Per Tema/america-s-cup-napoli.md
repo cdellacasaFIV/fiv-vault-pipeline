@@ -4,6 +4,7 @@ Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 22 Settembre 2026 | Sconto riservato ai tesserati FIV sulla collezione ufficiale AC38 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-22 - Sconto-riservato-ai-tesserati-FIV-sulla-collezione-ufficiale-AC38 - wp8224|nota]] |
 | 16 Settembre 2026 | La vela italiana protagonista alla III Giornata dello Sport Italiano nel Mondo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-16 - La-vela-italiana-protagonista-alla-III-Giornata-dello-Sport-Italiano-nel-Mondo - wp8212|nota]] |
 | 27 Maggio 2026 | Fan Zone e Race Village: quattro giorni di vela all’insegna della FIV | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-05-27 - Fan-Zone-e-Race-Village-quattro-giorni-di-vela-all-insegna-della-FIV - wp7745|nota]] |
 | 22 Maggio 2026 | Sport e Salute e Federazione Italiana Vela verso l’America’s Cup Napoli 2027 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-05-22 - Sport-e-Salute-e-Federazione-Italiana-Vela-verso-l-America-s-Cup-Napoli-2027 - wp7731|nota]] |
