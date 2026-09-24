@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 29 Luglio 2020 | Lutto nel mondo della vela: è mancato Carlo Alberto Zerboni | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-29 - Lutto-nel-mondo-della-vela-e-mancato-Carlo-Alberto-Zerboni - wp3338|nota]] |
 | 16 Luglio 2020 | Aggiornato il Protocollo di sicurezza Federazione Italiana Vela per la Fase 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-16 - Aggiornato-il-Protocollo-di-sicurezza-Federazione-Italiana-Vela-per-la-Fase-3 - wp3342|nota]] |
 | 1 Luglio 2020 | Stage KiteFoil Gizzeria 13-17 luglio | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-01 - Stage-KiteFoil-Gizzeria-13-17-luglio - wp3345|nota]] |
 | 30 Giugno 2020 | Contributo a sostegno degli Istruttori iscritti all’Albo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-06-30 - Contributo-a-sostegno-degli-Istruttori-iscritti-all-Albo - wp3346|nota]] |

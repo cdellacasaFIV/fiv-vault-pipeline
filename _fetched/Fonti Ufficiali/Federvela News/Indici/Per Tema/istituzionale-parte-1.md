@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 24 Settembre 2026 | America’s Cup a Napoli, online lo speciale di Sport Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-24 - America-s-Cup-a-Napoli-online-lo-speciale-di-Sport-Vela - wp8227|nota]] |
 | 18 Settembre 2026 | BLUE MARINA AWARDS 2026: A ROMA LA CERIMONIA CONCLUSIVA DELLA QUINTA EDIZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-18 - BLUE-MARINA-AWARDS-2026-A-ROMA-LA-CERIMONIA-CONCLUSIVA-DELLA-QUINTA-EDIZIONE - wp8219|nota]] |
 | 17 Settembre 2026 | Presentata a Malcesine la prima edizione del Campionato Italiano Classi Foil | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-17 - Presentata-a-Malcesine-la-prima-edizione-del-Campionato-Italiano-Classi-Foil - wp8216|nota]] |
 | 16 Settembre 2026 | La vela italiana protagonista alla III Giornata dello Sport Italiano nel Mondo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-16 - La-vela-italiana-protagonista-alla-III-Giornata-dello-Sport-Italiano-nel-Mondo - wp8212|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 1 Marzo 2023 | Stage iQFOiL Youth U17 – Follonica, 23-26 marzo 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-01 - Stage-iQFOiL-Youth-U17-Follonica-23-26-marzo-2023 - wp2930|nota]] |
 | 24 Febbraio 2023 | Stage Kite Foil – Cala Galera, 16-17 marzo 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-02-24 - Stage-Kite-Foil-Cala-Galera-16-17-marzo-2023 - wp2931|nota]] |
 | 24 Febbraio 2023 | CORSO NAZIONALE PER PREPARATORE FISICO DISCIPLINE VELICHE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-02-24 - CORSO-NAZIONALE-PER-PREPARATORE-FISICO-DISCIPLINE-VELICHE - wp2933|nota]] |
-| 30 Gennaio 2023 | La vela non rientra nel programma delle Paralimpiadi di Los Angeles2028 | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-01-30 - La-vela-non-rientra-nel-programma-delle-Paralimpiadi-di-Los-Angeles2028 - wp6696|nota]] |

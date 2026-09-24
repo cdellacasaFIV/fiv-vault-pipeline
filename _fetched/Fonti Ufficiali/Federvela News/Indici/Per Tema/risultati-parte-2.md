@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 25 Settembre 2022 | Assegnato il titolo italiano eSailing: il campione è Amos Di Benedetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-25 - Assegnato-il-titolo-italiano-eSailing-il-campione-e-Amos-Di-Benedetto - wp2972|nota]] |
 | 24 Settembre 2022 | Progetto Para Sailing: la nuova Academy della Federazione Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-24 - Progetto-Para-Sailing-la-nuova-Academy-della-Federazione-Vela - wp2973|nota]] |
 | 23 Settembre 2022 | EDISON NEXT PARTNER DELLA FEDERAZIONE ITALIANA VELA | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-23 - EDISON-NEXT-PARTNER-DELLA-FEDERAZIONE-ITALIANA-VELA - wp2974|nota]] |
 | 23 Settembre 2022 | Genova nel mondo con The Ocean Race in attesa del “Grand Finale” | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-23 - Genova-nel-mondo-con-The-Ocean-Race-in-attesa-del-Grand-Finale - wp2975|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 10 Ottobre 2020 | EUROPEO LASER E RADIAL IN POLONIA-DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-10 - EUROPEO-LASER-E-RADIAL-IN-POLONIA-DAY-3 - wp3290|nota]] |
 | 9 Ottobre 2020 | Europeo Laser, il giorno di Alessio Spadoni | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-09 - Europeo-Laser-il-giorno-di-Alessio-Spadoni - wp3291|nota]] |
 | 8 Ottobre 2020 | LA CLASSIFICA COMPLETA DELLE SCUOLE VELA 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-08 - LA-CLASSIFICA-COMPLETA-DELLE-SCUOLE-VELA-2020 - wp3292|nota]] |
-| 8 Ottobre 2020 | EUROPEO LASER STD E RADIAL IN POLONIA-DAY 1 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-08 - EUROPEO-LASER-STD-E-RADIAL-IN-POLONIA-DAY-1 - wp3294|nota]] |
