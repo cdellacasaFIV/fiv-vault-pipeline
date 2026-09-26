@@ -1,11 +1,12 @@
 # Registro fonti Federvela
 
 Stato fonte: **ufficiale FIV / Federvela**.
-Aggiornato: 2026-09-25.
+Aggiornato: 2026-09-26.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
 | 24 Settembre 2026 | America’s Cup a Napoli, online lo speciale di Sport Vela | condivisa, Nazionale | risultati, giovanile, parasailing/inclusione, istituzionale, america's cup/napoli, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-24 - America-s-Cup-a-Napoli-online-lo-speciale-di-Sport-Vela - wp8227|nota]] | https://federvela.it/2026/09/24/americas-cup-a-napoli-online-lo-speciale-di-sport-vela/ |
+| 23 Settembre 2026 | Studente-Atleta di alto livello 2026/2027: online il modulo FIV per la richiesta dell’attestazione | condivisa, Nazionale | risultati, olimpica, giovanile, formazione/scuola | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-23 - Studente-Atleta-di-alto-livello-2026-2027-online-il-modulo-FIV-per-la-richiesta-dell-attestazione - wp8234|nota]] | https://federvela.it/2026/09/23/studente-atleta-di-alto-livello-2026-2027-online-il-modulo-fiv-per-la-richiesta-dellattestazione/ |
 | 22 Settembre 2026 | Sconto riservato ai tesserati FIV sulla collezione ufficiale AC38 | condivisa, Nazionale | parasailing/inclusione, america's cup/napoli | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-22 - Sconto-riservato-ai-tesserati-FIV-sulla-collezione-ufficiale-AC38 - wp8224|nota]] | https://federvela.it/2026/09/22/sconto-riservato-ai-tesserati-fiv-sulla-collezione-ufficiale-ac38/ |
 | 18 Settembre 2026 | BLUE MARINA AWARDS 2026: A ROMA LA CERIMONIA CONCLUSIVA DELLA QUINTA EDIZIONE | condivisa, Nazionale | parasailing/inclusione, istituzionale, zone/circoli | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-18 - BLUE-MARINA-AWARDS-2026-A-ROMA-LA-CERIMONIA-CONCLUSIVA-DELLA-QUINTA-EDIZIONE - wp8219|nota]] | https://federvela.it/2026/09/18/blue-marina-awards-2026-a-roma-la-cerimonia-conclusiva-della-quinta-edizione/ |
 | 17 Settembre 2026 | Presentata a Malcesine la prima edizione del Campionato Italiano Classi Foil | condivisa, Nazionale | risultati, olimpica, giovanile, istituzionale, zone/circoli, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-17 - Presentata-a-Malcesine-la-prima-edizione-del-Campionato-Italiano-Classi-Foil - wp8216|nota]] | https://federvela.it/2026/09/17/presentata-a-malcesine-la-prima-edizione-del-campionato-italiano-classi-foil/ |

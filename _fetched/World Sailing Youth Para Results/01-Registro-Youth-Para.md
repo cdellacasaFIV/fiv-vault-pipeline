@@ -2,14 +2,12 @@
 
 Fonte: World Sailing API, risultati `Overall Results`.
 Perimetro: classi giovanili, RS, Wing/Kite e Para Sailing richieste.
-Aggiornato: 2026-09-25.
+Aggiornato: 2026-09-26.
 
 | Gruppo | Classe | Livello | Anno | Evento | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | youth | IQFOiL | World Championships | 2026 | IQFOiL Men | 109 | IQFOiL__World-Championships__2026__IQFOiL-Men__iQFOiL-World-Championships__fc33197d.csv | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
 | youth | IQFOiL | World Championships | 2026 | IQFOiL Women | 70 | IQFOiL__World-Championships__2026__IQFOiL-Women__iQFOiL-World-Championships__fddd4aba.csv | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
-| youth | IQFOiL | Continental | 2026 | IQFOiL Men | 13 | IQFOiL__Continental__2026__IQFOiL-Men__iQFOiL-North-American-Championship__6506fe05.csv | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
-| youth | IQFOiL | Continental | 2026 | IQFOiL Women | 14 | IQFOiL__Continental__2026__IQFOiL-Women__iQFOiL-North-American-Championship__dc238c18.csv | https://sailing.org/regatta/iqfoil-north-american-championship?ref=USA202607WN0 |
 | youth | ILCA 4 | Class Youth World Championship | 2026 | ILCA 4 Youth Female | 150 | ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Female__ILCA-4-Youth-World-Championships__0b0f6391.csv | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
 | youth | ILCA 4 | Class Youth World Championship | 2026 | ILCA 4 Youth Male | 298 | ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Male__ILCA-4-Youth-World-Championships__e8565226.csv | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
 | youth | ILCA 6 | World Championships | 2026 | ILCA 6 Women | 108 | ILCA-6-Youth__World-Championships__2026__ILCA-6-Women__ILCA-6-Women-s-World-Championship__225b3e33.csv | https://sailing.org/regatta/ilca-6-women-s-world-championship?ref=IRL2026096VV |

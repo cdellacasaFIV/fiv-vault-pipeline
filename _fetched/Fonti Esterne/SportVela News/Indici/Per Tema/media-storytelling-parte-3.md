@@ -6,6 +6,10 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Agosto 2025 | Open Day Vela e Canottaggio: sul Lago di Santa Croce (BL) | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-10 - Open-Day-Vela-e-Canottaggio-sul-Lago-di-Santa-Croce-BL - wp3871|nota]] |
+| 9 Agosto 2025 | XIV Zona FIV: Successo per il Raduno Settore Altura | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - XIV-Zona-FIV-Successo-per-il-Raduno-Settore-Altura - wp3861|nota]] |
+| 9 Agosto 2025 | Quattro medaglie per l’Italia al Mondiale 29er di Porto | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - Quattro-medaglie-per-l-Italia-al-Mondiale-29er-di-Porto - wp3852|nota]] |
+| 8 Agosto 2025 | Da La spezia al Solent: massimo Gherarducci con team Jolt | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-08 - Da-La-spezia-al-Solent-massimo-Gherarducci-con-team-Jolt - wp3842|nota]] |
 | 6 Agosto 2025 | Vela Viva 15: torna l’evento diffuso della XV Zona FIV – terza edizione in due tappe, il 23 e il 30 agosto 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-06 - Vela-Viva-15-torna-l-evento-diffuso-della-XV-Zona-FIV-terza-edizione-in-due-tappe-il-23-e-il-30-agosto-2025 - wp3838|nota]] |
 | 4 Agosto 2025 | Coppa Primavela Kinder Joy of Moving 2025: la Sicilia protagonista a Crotone | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-04 - Coppa-Primavela-Kinder-Joy-of-Moving-2025-la-Sicilia-protagonista-a-Crotone - wp3792|nota]] |
 | 3 Agosto 2025 | Kosmos regata: 2 biglietti per la II zona. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-03 - Kosmos-regata-2-biglietti-per-la-II-zona - wp3770|nota]] |

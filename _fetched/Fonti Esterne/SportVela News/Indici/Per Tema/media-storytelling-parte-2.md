@@ -6,6 +6,10 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Marzo 2026 | FEDERICO BERGAMASCO: “STELLE NELLO SPORT STIMOLA LA PASSIONE SPORTIVA” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-08 - FEDERICO-BERGAMASCO-STELLE-NELLO-SPORT-STIMOLA-LA-PASSIONE-SPORTIVA - wp6242|nota]] |
+| 6 Marzo 2026 | Europeo 470 a Vilamoura: primo appuntamento della stagione olimpica 2026 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-06 - Europeo-470-a-Vilamoura-primo-appuntamento-della-stagione-olimpica-2026 - wp6229|nota]] |
+| 4 Marzo 2026 | Yacht Club Rimini. Gli Optimist animano la stagione agonistica di Rimini. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-04 - Yacht-Club-Rimini-Gli-Optimist-animano-la-stagione-agonistica-di-Rimini - wp6221|nota]] |
+| 3 Marzo 2026 | Primo raduno ILCA a Crotone e selezioni zonali. Un weekend denso di attività e grande partecipazione | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - Primo-raduno-ILCA-a-Crotone-e-selezioni-zonali-Un-weekend-denso-di-attivita-e-grande-partecipazione - wp6207|nota]] |
 | 3 Marzo 2026 | È online la nuova Web App XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - E-online-la-nuova-Web-App-XV-Zona - wp6202|nota]] |
 | 3 Marzo 2026 | 35a EDIZIONE DELL’INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - 35a-EDIZIONE-DELL-INTERCIRCOLI - wp6194|nota]] |
 | 3 Marzo 2026 | LA I ZONA FIV APRE IL 2026 DELLA FORMAZIONE ISTRUTTORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-03 - LA-I-ZONA-FIV-APRE-IL-2026-DELLA-FORMAZIONE-ISTRUTTORI - wp6191|nota]] |
@@ -252,7 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 11 Agosto 2025 | Marsala ospita il primo raduno promozionale di Wing Foil in Sicilia: un successo per la nuova classe Foil | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Marsala-ospita-il-primo-raduno-promozionale-di-Wing-Foil-in-Sicilia-un-successo-per-la-nuova-classe-Foil - wp3882|nota]] |
 | 11 Agosto 2025 | Tris di medaglie al mondiale RS 500 di Follonica | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Tris-di-medaglie-al-mondiale-RS-500-di-Follonica - wp3878|nota]] |
 | 11 Agosto 2025 | Al via il Campionato Europeo ILCA 2025 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Al-via-il-Campionato-Europeo-ILCA-2025 - wp3874|nota]] |
-| 10 Agosto 2025 | Open Day Vela e Canottaggio: sul Lago di Santa Croce (BL) | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-10 - Open-Day-Vela-e-Canottaggio-sul-Lago-di-Santa-Croce-BL - wp3871|nota]] |
-| 9 Agosto 2025 | XIV Zona FIV: Successo per il Raduno Settore Altura | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - XIV-Zona-FIV-Successo-per-il-Raduno-Settore-Altura - wp3861|nota]] |
-| 9 Agosto 2025 | Quattro medaglie per l’Italia al Mondiale 29er di Porto | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - Quattro-medaglie-per-l-Italia-al-Mondiale-29er-di-Porto - wp3852|nota]] |
-| 8 Agosto 2025 | Da La spezia al Solent: massimo Gherarducci con team Jolt | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-08 - Da-La-spezia-al-Solent-massimo-Gherarducci-con-team-Jolt - wp3842|nota]] |

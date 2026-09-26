@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 4 Ottobre 2021 | Al via l’Europeo ILCA 6 e ILCA 7 a Varna: tanti gli italiani in gara. Parte Forte Chiara Benini Floriani | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-04 - Al-via-l-Europeo-ILCA-6-e-ILCA-7-a-Varna-tanti-gli-italiani-in-gara-Parte-Forte-Chiara-Benini-Floriani - wp3081|nota]] |
 | 26 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA: TUTTI I VINCITORI | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-26 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-TUTTI-I-VINCITORI - wp3084|nota]] |
 | 25 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-25 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-3 - wp3085|nota]] |
 | 25 Settembre 2021 | CICO 2021 FRECCIAROSSA, TRICOLORI DELLA VELA OLIMPICA – DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-09-25 - CICO-2021-FRECCIAROSSA-TRICOLORI-DELLA-VELA-OLIMPICA-DAY-3 - wp3086|nota]] |

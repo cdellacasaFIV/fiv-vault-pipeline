@@ -2,8 +2,11 @@
 
 Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 
+Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Settembre 2026 | Studente-Atleta di alto livello 2026/2027: online il modulo FIV per la richiesta dell’attestazione | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-23 - Studente-Atleta-di-alto-livello-2026-2027-online-il-modulo-FIV-per-la-richiesta-dell-attestazione - wp8234|nota]] |
 | 3 Settembre 2026 | Velando 2, la FIV alla giornata di formazione della seconda edizione del progetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-03 - Velando-2-la-FIV-alla-giornata-di-formazione-della-seconda-edizione-del-progetto - wp8202|nota]] |
 | 16 Luglio 2026 | Il CONI assegna il Collare d’Oro al Presidente Francesco Ettorre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-16 - Il-CONI-assegna-il-Collare-d-Oro-al-Presidente-Francesco-Ettorre - wp7989|nota]] |
 | 13 Luglio 2026 | Donna Sport 2026: aperto il concorso “L’atleta più brava a scuola” | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-13 - Donna-Sport-2026-aperto-il-concorso-L-atleta-piu-brava-a-scuola - wp7985|nota]] |
@@ -253,4 +256,3 @@ Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 | 4 Febbraio 2020 | Corso di aggiornamento Istruttori Tavole a Vela e Kiteboard | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-04 - Corso-di-aggiornamento-Istruttori-Tavole-a-Vela-e-Kiteboard - wp3459|nota]] |
 | 24 Gennaio 2020 | Corso Istruttori II Livello a Torbole | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-01-24 - Corso-Istruttori-II-Livello-a-Torbole - wp3470|nota]] |
 | 10 Gennaio 2020 | Corso Istruttori II Livello B – 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-01-10 - Corso-Istruttori-II-Livello-B-2020 - wp3478|nota]] |
-| 7 Gennaio 2020 | Corso Istruttori II Livello A – 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-01-07 - Corso-Istruttori-II-Livello-A-2020 - wp3480|nota]] |

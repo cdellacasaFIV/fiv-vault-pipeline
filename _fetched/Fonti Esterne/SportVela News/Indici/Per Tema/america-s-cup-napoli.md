@@ -4,6 +4,9 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 24 Settembre 2026 | Vela senza barriere, “Navigare insieme” chiude a Napoli il percorso 2026 | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-24 - Vela-senza-barriere-Navigare-insieme-chiude-a-Napoli-il-percorso-2026 - wp9450|nota]] |
+| 24 Settembre 2026 | America’s Cup, la FIV porta scuole e pubblico in barca alla Rotonda Diaz | News, Speciale America's Cup Napoli, V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-24 - America-s-Cup-la-FIV-porta-scuole-e-pubblico-in-barca-alla-Rotonda-Diaz - wp9443|nota]] |
+| 23 Settembre 2026 | Vela, nasce la Roma Sailing Week: partnership tra Riva di Traiano e RYCC Savoia | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-23 - Vela-nasce-la-Roma-Sailing-Week-partnership-tra-Riva-di-Traiano-e-RYCC-Savoia - wp9435|nota]] |
 | 21 Settembre 2026 | “A vela nel porto”, Ischia celebra i 172 anni dell’apertura del porto | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-21 - A-vela-nel-porto-Ischia-celebra-i-172-anni-dell-apertura-del-porto - wp9226|nota]] |
 | 19 Settembre 2026 | La vela nelle scuole: intesa tra il Liceo Quercia e la V Zona FIV, prima tappa l’America’s Cup | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-19 - La-vela-nelle-scuole-intesa-tra-il-Liceo-Quercia-e-la-V-Zona-FIV-prima-tappa-l-America-s-Cup - wp9155|nota]] |
 | 18 Settembre 2026 | Vela, firmata al RYCC Savoia la partnership tra Mulino Caputo e Louis Vuitton 38a America’s Cup | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - Vela-firmata-al-RYCC-Savoia-la-partnership-tra-Mulino-Caputo-e-Louis-Vuitton-38a-America-s-Cup - wp9149|nota]] |

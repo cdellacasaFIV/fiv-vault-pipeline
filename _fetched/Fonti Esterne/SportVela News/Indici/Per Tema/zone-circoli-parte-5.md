@@ -6,6 +6,14 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Agosto 2025 | Da La spezia al Solent: massimo Gherarducci con team Jolt | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-08 - Da-La-spezia-al-Solent-massimo-Gherarducci-con-team-Jolt - wp3842|nota]] |
+| 6 Agosto 2025 | Vela Viva 15: torna l’evento diffuso della XV Zona FIV – terza edizione in due tappe, il 23 e il 30 agosto 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-06 - Vela-Viva-15-torna-l-evento-diffuso-della-XV-Zona-FIV-terza-edizione-in-due-tappe-il-23-e-il-30-agosto-2025 - wp3838|nota]] |
+| 5 Agosto 2025 | Luigi Cantarelli nominato ufficiale di Regata Benemerito. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-05 - Luigi-Cantarelli-nominato-ufficiale-di-Regata-Benemerito - wp4044|nota]] |
+| 5 Agosto 2025 | Il presidente della regione Toscana in visita a Torre del Lago Puccini | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-05 - Il-presidente-della-regione-Toscana-in-visita-a-Torre-del-Lago-Puccini - wp3823|nota]] |
+| 4 Agosto 2025 | Argento mondiale per Antonio Lambertini nella classe Contender | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-04 - Argento-mondiale-per-Antonio-Lambertini-nella-classe-Contender - wp3818|nota]] |
+| 4 Agosto 2025 | MONDIALI RS FEVA:BRONZO MIXED PER FEDERICO BASTINI E CARLOTTA TRAVERSO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-04 - MONDIALI-RS-FEVA-BRONZO-MIXED-PER-FEDERICO-BASTINI-E-CARLOTTA-TRAVERSO - wp3800|nota]] |
+| 4 Agosto 2025 | Coppa Primavela Kinder Joy of Moving 2025: la Sicilia protagonista a Crotone | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-04 - Coppa-Primavela-Kinder-Joy-of-Moving-2025-la-Sicilia-protagonista-a-Crotone - wp3792|nota]] |
+| 3 Agosto 2025 | Kosmos regata: 2 biglietti per la II zona. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-03 - Kosmos-regata-2-biglietti-per-la-II-zona - wp3770|nota]] |
 | 2 Agosto 2025 | EUROPEI 420:GRANDE FESTA PER L’ORO CONQUISTATO DAGLI U17 MARGARIA E CAVERO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-02 - EUROPEI-420-GRANDE-FESTA-PER-L-ORO-CONQUISTATO-DAGLI-U17-MARGARIA-E-CAVERO - wp3751|nota]] |
 | 1 Agosto 2025 | SABATO 23 AGOSTO A VENTIMIGLIA IL MEETING PROVINCIALE SCUOLA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-01 - SABATO-23-AGOSTO-A-VENTIMIGLIA-IL-MEETING-PROVINCIALE-SCUOLA-VELA - wp3748|nota]] |
 | 1 Agosto 2025 | A VENTIMIGLIA SCUOLA VELA PER PERSONE CON DISABILITÀ DI QUALSIASI ETÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-01 - A-VENTIMIGLIA-SCUOLA-VELA-PER-PERSONE-CON-DISABILITA-DI-QUALSIASI-ETA - wp3744|nota]] |

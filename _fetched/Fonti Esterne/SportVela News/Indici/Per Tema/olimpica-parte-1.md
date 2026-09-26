@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Settembre 2026 | DOMENICA PROSSIMA A VARAZZE L’INAUGURAZIONE DI “LARGO OLIMPIONICI CARATTINO” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-23 - DOMENICA-PROSSIMA-A-VARAZZE-L-INAUGURAZIONE-DI-LARGO-OLIMPIONICI-CARATTINO - wp9269|nota]] |
 | 21 Settembre 2026 | CHIOGGIAVELA 2026 CHIUDE CON UN GRANDE SUCCESSO: LA VELA CONQUISTA LA CITTÀ | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-21 - CHIOGGIAVELA-2026-CHIUDE-CON-UN-GRANDE-SUCCESSO-LA-VELA-CONQUISTA-LA-CITTA - wp9223|nota]] |
 | 19 Settembre 2026 | Dall’Optimist al Mondiale L30: la XIII Zona cresce e vince anche sulle grandi barche | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-19 - Dall-Optimist-al-Mondiale-L30-la-XIII-Zona-cresce-e-vince-anche-sulle-grandi-barche - wp9137|nota]] |
 | 18 Settembre 2026 | SARDINIA GRAND SLAM Formula Kite World Ranking PointsPoetto / Quartu S. Elena / Sardegna / Italia6 – 11 ottobre 2026 | III Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-18 - SARDINIA-GRAND-SLAM-Formula-Kite-World-Ranking-PointsPoetto-Quartu-S-Elena-Sardegna-Italia6-11-ottobre-2026 - wp9106|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 24 Novembre 2025 | iQFOiL Europeans – Prima giornata: una sola prova, Peleg e Goyard-Reuveny davanti | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-24 - iQFOiL-Europeans-Prima-giornata-una-sola-prova-Peleg-e-Goyard-Reuveny-davanti - wp5404|nota]] |
 | 24 Novembre 2025 | Sardinia Challenge 2025: a Villasimius la vela internazionale celebra la prima edizione della “Marathon & Record” | III Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-24 - Sardinia-Challenge-2025-a-Villasimius-la-vela-internazionale-celebra-la-prima-edizione-della-Marathon-and-Reco - wp5388|nota]] |
 | 21 Novembre 2025 | Sferracavallo, la vela non si ferma: dopo Nacra e 49er arriva l’Europeo iQFOiL | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - Sferracavallo-la-vela-non-si-ferma-dopo-Nacra-e-49er-arriva-l-Europeo-iQFOiL - wp5377|nota]] |
-| 21 Novembre 2025 | CALENDARIO SPORTIVO YCI 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - CALENDARIO-SPORTIVO-YCI-2026 - wp5371|nota]] |

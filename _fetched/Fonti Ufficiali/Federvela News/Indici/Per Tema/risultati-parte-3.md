@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Ottobre 2020 | LA CLASSIFICA COMPLETA DELLE SCUOLE VELA 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-08 - LA-CLASSIFICA-COMPLETA-DELLE-SCUOLE-VELA-2020 - wp3292|nota]] |
 | 8 Ottobre 2020 | EUROPEO LASER STD E RADIAL IN POLONIA-DAY 1 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-08 - EUROPEO-LASER-STD-E-RADIAL-IN-POLONIA-DAY-1 - wp3294|nota]] |
 | 6 Ottobre 2020 | GLI EVENTI DELLA FIV AL 60° SALONE NAUTICO | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-06 - GLI-EVENTI-DELLA-FIV-AL-60-SALONE-NAUTICO - wp3296|nota]] |
 | 5 Ottobre 2020 | Lutto nel mondo della vela: ci ha lasciato Marco Rossi | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-05 - Lutto-nel-mondo-della-vela-ci-ha-lasciato-Marco-Rossi - wp3297|nota]] |
