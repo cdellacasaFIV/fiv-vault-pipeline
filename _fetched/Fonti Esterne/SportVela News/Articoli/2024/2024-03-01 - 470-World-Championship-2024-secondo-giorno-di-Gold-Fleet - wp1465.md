@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, zone/circoli.
 - Angoli editoriali: territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: World Championship, Gold Fleet Secondo, Gold, Mallorca, Spagna, Secondo, Spagna. Anche, Isozaki-Seki, Diesch-Markfort, Okada-Yoshioka. Gli, Ferrari-Dubbini, Berta-Festo, Gold Fleet, Di Salle-Bellico.
+- Nomi, circoli o luoghi da valutare: World Championship, Gold Fleet Secondo, Gold, Mallorca, Spagna. Anche, Secondo, Isozaki-Seki, Diesch-Markfort, Okada-Yoshioka. Gli, Ferrari-Dubbini, Berta-Festo, Gold Fleet, Di Salle-Bellico, Silver Fleet.
 - Numeri/date utili da verificare: 470, 2024, 2, 3, 13, 31, 34, 61 equipaggi.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

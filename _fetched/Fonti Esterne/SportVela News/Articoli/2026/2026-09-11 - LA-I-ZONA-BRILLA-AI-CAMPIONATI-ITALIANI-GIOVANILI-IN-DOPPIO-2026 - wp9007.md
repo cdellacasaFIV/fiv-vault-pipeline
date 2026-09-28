@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: ZONA BRILLA AI CAMPIONATI, ITALIANI GIOVANILI IN DOPPIO, Quattro, Manfredonia, Campionati, Campionati Italiani Giovanili, Doppio, Comitato, Zona FIV, RS Feva, Nicolas Margaria e Edoardo, Cavero, Circolo Vele Vernazzolesi, Sempre.
+- Nomi, circoli o luoghi da valutare: ZONA BRILLA AI CAMPIONATI, ITALIANI GIOVANILI IN DOPPIO, Quattro, Manfredonia, Campionati Italiani Giovanili, Doppio, Comitato, Zona FIV, RS Feva, Nicolas Margaria e Edoardo, Cavero, Circolo Vele Vernazzolesi, Sempre, Giancarlo Postiglione e Carolina.
 - Numeri/date utili da verificare: 2026, 11, 420, 3, 2, 1, 4, 17, 14, 72.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

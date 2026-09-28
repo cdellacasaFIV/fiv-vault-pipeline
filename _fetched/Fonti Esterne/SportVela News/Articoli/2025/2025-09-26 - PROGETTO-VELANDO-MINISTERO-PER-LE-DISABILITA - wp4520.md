@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: PROGETTO VELANDO, MINISTERO PER LE DISABILITÀ, Santa Margherita Ligure, Lega, Lega Navale Italiana-ASL Torino, Lago Maggiore, Comune di Santa Margherita, Ligure, Villa Durazzo, Lega Navale Italiana, Sezione di Arona, Sezioni di Ostia, Genova Sestri Ponente, Liguria Orientale e.
+- Nomi, circoli o luoghi da valutare: PROGETTO VELANDO, MINISTERO PER LE DISABILITÀ, Santa Margherita Ligure, Lega Navale Italiana-ASL Torino, Lago Maggiore, Comune di Santa Margherita, Ligure, Villa Durazzo, Lega Navale Italiana, Sezione di Arona, Sezioni di Ostia, Genova Sestri Ponente, Liguria Orientale e, ASL Torino.
 - Numeri/date utili da verificare: 29, 1, 25, 15.00, 10, 44, 28.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

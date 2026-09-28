@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: IL TEAM UNDER, DEL COMITATO, ZONA FIV SI LAUREA, CAMPIONE ITALIANO, DOLPHIN, Eccellenza, Dopo, Miglia, Adriatico, Team del Comitato, Zona FIV, Campione Italiano Under, Classe Dolphin, Un’estate.
+- Nomi, circoli o luoghi da valutare: IL TEAM UNDER, DEL COMITATO, ZONA FIV SI LAUREA, CAMPIONE ITALIANO, DOLPHIN, Eccellenza, Dopo, Miglia, Adriatico, Team, Team del Comitato, Zona FIV, Campione Italiano Under, Classe Dolphin.
 - Numeri/date utili da verificare: 25, 81, 8, 500, 11, 2026, 06, 08.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

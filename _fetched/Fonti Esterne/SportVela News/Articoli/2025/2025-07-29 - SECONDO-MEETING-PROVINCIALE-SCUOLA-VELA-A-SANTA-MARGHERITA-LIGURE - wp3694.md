@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: WingFoil.
-- Nomi, circoli o luoghi da valutare: SECONDO MEETING PROVINCIALE SCUOLA, VELA, SANTA MARGHERITA LIGURE, Meeting Provinciale Scuola Vela, Lega Navale Italiana, Santa Margherita, Comitato, Zona FIV. Grande, Liguria, Levante, Imperia Porto Maurizio YC, San Bartolomeo, Varazze, Rapallo.
+- Nomi, circoli o luoghi da valutare: SECONDO MEETING PROVINCIALE SCUOLA, VELA, SANTA MARGHERITA LIGURE, Meeting Provinciale Scuola Vela, Lega, Lega Navale Italiana, Santa Margherita, Comitato, Zona FIV. Grande, Liguria, Levante, Imperia Porto Maurizio YC, San Bartolomeo, Varazze.
 - Numeri/date utili da verificare: 28, 26, 41, 6, 12 anni, 23.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

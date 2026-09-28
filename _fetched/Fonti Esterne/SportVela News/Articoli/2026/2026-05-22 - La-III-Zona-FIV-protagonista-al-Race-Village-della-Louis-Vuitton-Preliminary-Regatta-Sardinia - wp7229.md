@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: Waszp, Wing Foil.
-- Nomi, circoli o luoghi da valutare: La III Zona FIV, Race Village, Louis Vuitton Preliminary Regatta, Sardinia Prima, III Zona FIV, Cagliari, Prima, Louis Vuitton, America’s Cup Preliminary Regatta, Sardinia, Sport e Salute, Federazione Italiana Vela, Roma, Tutti.
+- Nomi, circoli o luoghi da valutare: La III Zona FIV, Race Village, Louis Vuitton Preliminary Regatta, Sardinia Prima, III Zona FIV, Cagliari, Louis Vuitton, America’s Cup, Prima, America’s Cup Preliminary Regatta, Sardinia, Sport e Salute, Federazione Italiana Vela, Roma.
 - Numeri/date utili da verificare: 2027, 10.00, 15.00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

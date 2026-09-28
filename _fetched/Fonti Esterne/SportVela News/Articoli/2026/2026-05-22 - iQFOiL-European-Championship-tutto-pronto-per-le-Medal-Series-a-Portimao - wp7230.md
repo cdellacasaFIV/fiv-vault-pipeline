@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: European Championship, Medal Series, Portimão Van Opzeeland, Steinberg, Pilloni, Tomasini, Van Opzeeland e Steinberg, Tomasini e Maggetti Si, Series, Portimão. Domani, Under, Luuc, Opzeeland, Grae Morris.
+- Nomi, circoli o luoghi da valutare: European Championship, Medal Series, Portimão Van Opzeeland, Steinberg, Pilloni, Tomasini e Maggetti Si, Series, Van Opzeeland e Steinberg, Portimão. Domani, Under, Luuc, Opzeeland, Grae Morris, Johan Søe..
 - Numeri/date utili da verificare: 2026, 23, 10, 00, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

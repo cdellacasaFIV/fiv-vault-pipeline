@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: SABATO, AGOSTO, VENTIMIGLIA IL MEETING PROVINCIALE, SCUOLA VELA, Spiaggia, Spiaggia di Lungomare Varaldo, Ventimiglia, Meeting Provinciale Scuola Vela, La Festa, Federazione Italiana Vela, Circolo Velico Ventimigliese, L’evento, Scuola Vela FIV, Sarà.
+- Nomi, circoli o luoghi da valutare: SABATO, AGOSTO, VENTIMIGLIA IL MEETING PROVINCIALE, SCUOLA VELA, Spiaggia di Lungomare Varaldo, Ventimiglia, Meeting Provinciale, Meeting Provinciale Scuola Vela, La Festa, Federazione Italiana Vela, Circolo Velico Ventimigliese, L’evento, Scuola Vela FIV, Sarà.
 - Numeri/date utili da verificare: 23, 31, 2025, 6, 13 anni, 9, 30, 10, 16, 21.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

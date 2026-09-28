@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: TRICOLORI RS FEVA, OTTIMI PIAZZAMENTI PER SAN, BART, FORMIA, Campionato Italiano RS, Campionato Italiano RS Feva, Circolo Nautico Caposele, Campionati Italiani Giovanili, Doppio. Quattro, Il Sanbàrt, Edoardo, Biglia, Bastini e Samuele, Masu.
+- Nomi, circoli o luoghi da valutare: TRICOLORI RS FEVA, OTTIMI PIAZZAMENTI PER SAN, BART, FORMIA, Campionato Italiano RS Feva, Circolo Nautico Caposele, Campionati Italiani Giovanili, Doppio. Quattro, Il Sanbàrt, Edoardo, Biglia, Bastini e Samuele, Masu, Bardelli.
 - Numeri/date utili da verificare: 3, 27, 30, 2025, 108 atleti, 14, 09, 03.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

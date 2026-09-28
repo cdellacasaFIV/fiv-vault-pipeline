@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite, Mondiali, Pianosi, Viana, Castelo, Maeder, Domani, Medal Series, Finals, Quinta, Campionato del Mondo, Praia, Cabedelo di Viana, Castelo. Con.
+- Nomi, circoli o luoghi da valutare: Formula Kite, Mondiali, Pianosi, Viana, Castelo, Maeder, Domani, Medal Series, Finals, Quinta, Campionato, Campionato del Mondo, Praia, Cabedelo di Viana.
 - Numeri/date utili da verificare: 2026, 16, 19, 40, 64, 23, 72, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

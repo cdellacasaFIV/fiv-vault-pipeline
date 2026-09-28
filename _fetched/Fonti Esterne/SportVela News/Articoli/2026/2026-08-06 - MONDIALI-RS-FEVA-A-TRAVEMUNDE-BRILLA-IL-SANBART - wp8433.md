@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MONDIALI RS FEVA, TRAVEMÜNDE, BRILLA IL SANBART Bronzo, Bastini-Bardelli, Bardelli-Palermo, Bronzo, Germania, Travemünder Woche, Europa, Baltico, Campionati del Mondo, RS Feva, Campionati Europei, L’evento.
+- Nomi, circoli o luoghi da valutare: MONDIALI RS FEVA, TRAVEMÜNDE, BRILLA IL SANBART Bronzo, Bastini-Bardelli, Bardelli-Palermo, Germania, Bronzo, Travemünder Woche, Europa, Baltico, Campionati del Mondo, RS Feva, Campionati Europei, L’evento.
 - Numeri/date utili da verificare: 5, 500, 15, 22.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

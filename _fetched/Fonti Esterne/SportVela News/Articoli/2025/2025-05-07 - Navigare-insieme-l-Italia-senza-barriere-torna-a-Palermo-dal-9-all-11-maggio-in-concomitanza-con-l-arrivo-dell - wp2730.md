@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Para Sailing.
-- Nomi, circoli o luoghi da valutare: Navigare, Italia, Palermo, Amerigo Vespucci Dopo, Dopo, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Questa, Amerigo Vespucci, L’iniziativa, Siamo, Fabio Colella, Comitato VII Zona FIV.
+- Nomi, circoli o luoghi da valutare: Navigare, Italia, Palermo, Amerigo Vespucci Dopo, Federazione Italiana Vela, UniCredit, Dopo, Fondo Carta Etica, Questa, Amerigo Vespucci, L’iniziativa, Siamo, Fabio Colella, Comitato VII Zona FIV.
 - Numeri/date utili da verificare: 9, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

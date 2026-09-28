@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Il Campionato Primaverile ORC, Django WR Presente, Wally Rocket, Yacht, Presente, Yacht Club Costa Smeralda, Overall, Classe B., First, Enribet, Melges, Wadadli, Classe C. Marina, Ravenna.
+- Nomi, circoli o luoghi da valutare: Il Campionato Primaverile ORC, Django WR Presente, Wally Rocket, Yacht Club Costa Smeralda, Presente, Overall, Classe B., First, Enribet, Melges, Wadadli, Classe C. Marina, Ravenna, E’ Django WR.
 - Numeri/date utili da verificare: 51, 40.7, 24, 20, 2026, 42, 27, 2025, 18, 19.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

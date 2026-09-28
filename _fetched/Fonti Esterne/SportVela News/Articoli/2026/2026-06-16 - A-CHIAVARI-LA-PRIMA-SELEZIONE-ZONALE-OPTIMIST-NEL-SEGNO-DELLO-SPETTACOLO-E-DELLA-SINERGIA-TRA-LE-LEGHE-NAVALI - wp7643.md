@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: CHIAVARI LA PRIMA SELEZIONE, ZONALE OPTIMIST NEL SEGNO, DELLO SPETTACOLO, DELLA SINERGIA TRA LE, LEGHE NAVALI Successo, Tigullio, Campionati ItalianiLo YC Italiano, Successo, Campionati Italiani Lo YC, Italiano, Divisione, Pietro Marziano, Consegnati, Zona Un.
+- Nomi, circoli o luoghi da valutare: CHIAVARI LA PRIMA SELEZIONE, ZONALE OPTIMIST NEL SEGNO, DELLO SPETTACOLO, DELLA SINERGIA TRA LE, LEGHE NAVALI Successo, Tigullio, Campionati ItalianiLo YC Italiano, Divisione, Pietro Marziano, Successo, Campionati Italiani Lo YC, Italiano, Consegnati, Zona Un.
 - Numeri/date utili da verificare: 16, 67, 26, 27, 13 atleti, 1, 11, 8, 00, 2011.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

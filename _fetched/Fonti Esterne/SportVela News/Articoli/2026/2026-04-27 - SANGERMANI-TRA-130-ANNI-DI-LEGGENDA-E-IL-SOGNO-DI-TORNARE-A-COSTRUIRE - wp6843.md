@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: SANGERMANI TRA, ANNI DI LEGGENDA, IL SOGNO DI TORNARE, COSTRUIRE, Dopo, Sangermani, Giacomo Sangermani, Filippo, Centotrent’anni, PressMare.
+- Nomi, circoli o luoghi da valutare: SANGERMANI TRA, ANNI DI LEGGENDA, IL SOGNO DI TORNARE, COSTRUIRE, Dopo, Sangermani, Giacomo, Giacomo Sangermani, Filippo, Centotrent’anni, PressMare.
 - Numeri/date utili da verificare: 130 ANNI, 25, 1896, 2026, 04, 130.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

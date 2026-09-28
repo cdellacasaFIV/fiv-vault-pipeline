@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Para Sailing.
-- Nomi, circoli o luoghi da valutare: Malcesine, Inclusive World Championship, Il Lago di Garda, Fraglia Vela, Fraglia Vela Malcesine, NOD-PARA e OPEN, Organizzato, World Sailing, Federazione Italiana Vela, International, Class Association, Mondiale, Para Sailing, Brisbane.
+- Nomi, circoli o luoghi da valutare: Malcesine, Inclusive World Championship, Il Lago di Garda, Fraglia Vela Malcesine, NOD-PARA e OPEN, Organizzato, World Sailing, Federazione Italiana Vela, International, Class Association, Mondiale, Para Sailing, Brisbane, L’Italia.
 - Numeri/date utili da verificare: 2, 2025, 12, 56 atleti, 17, 2032, 9.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

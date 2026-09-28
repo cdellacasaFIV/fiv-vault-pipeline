@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: Trofeo Princesa Sofía, Medal Series Si, Palma, Palma de Mallorca. Domani, Medal Series, Formula Kite, Sono, Marta Maggetti e Riccardo, Pianosi, Formula Kite Men Riccardo, Marina Militare, Maximilian Maeder. Terzo, Bruno Lobo. Domani Pianosi, Mixed Giacomo Ferrari.
+- Nomi, circoli o luoghi da valutare: Trofeo Princesa Sofía, Medal Series Si, Palma de Mallorca. Domani, Medal, Medal Series, Formula Kite, Sono, Marta Maggetti e Riccardo, Pianosi, Formula Kite Men Riccardo, Marina Militare, Maximilian Maeder. Terzo, Bruno Lobo. Domani Pianosi, Mixed Giacomo Ferrari.
 - Numeri/date utili da verificare: 2026, 55, 4, 11, 00, 470, 6, 7, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: Paris, Marseille, Pianosi, Italia, Vela Olimpica Tredicesimo, Marsiglia, Olimpica, Tredicesimo, Olimpica dei Giochi, Riccardo Pianosi, Kite, Il Presidente Francesco Ettorre, Giochi Olimpici, Consiglio Federale.
+- Nomi, circoli o luoghi da valutare: Paris, Marseille, Pianosi, Italia, Vela Olimpica Tredicesimo, Marsiglia, Olimpica dei Giochi, Tredicesimo, Riccardo Pianosi, Kite, Il Presidente Francesco Ettorre, Giochi Olimpici, Consiglio Federale, Olimpico..
 - Numeri/date utili da verificare: 2024, 13, 7, 6, 470, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

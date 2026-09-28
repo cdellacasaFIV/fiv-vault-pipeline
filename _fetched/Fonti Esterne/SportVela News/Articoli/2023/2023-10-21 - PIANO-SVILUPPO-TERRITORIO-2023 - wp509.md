@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, ILCA 4, Techno 293, 420, Waszp, Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: PIANO SVILUPPO TERRITORIO, Anche, Presidente Francesco Ettorre, Presidenti, Presidenti di Circolo, Associazioni di Classe, Tesserati e Circoli, Classi, Techno, Foil, Ilca, RS Feva, Kite, Kite Foil.
+- Nomi, circoli o luoghi da valutare: PIANO SVILUPPO TERRITORIO, Anche, Presidente Francesco Ettorre, Presidenti di Circolo, Associazioni di Classe, Tesserati e Circoli, Classi, Techno, Foil, Ilca, RS Feva, Kite, Kite Foil, Hobie Cat.
 - Numeri/date utili da verificare: 2023, 259, 420, 293, 4, 4.7, 6, 15, 303, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

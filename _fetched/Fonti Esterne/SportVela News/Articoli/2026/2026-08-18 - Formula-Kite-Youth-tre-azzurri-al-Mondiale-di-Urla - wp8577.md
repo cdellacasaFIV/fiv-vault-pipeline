@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: Formula Kite, WingFoil.
-- Nomi, circoli o luoghi da valutare: Formula Kite Youth, Mondiale di Urla Julio, Luis Houze e Maddalena, Spanu, Turchia, Julio e Luis Houze, Maddalena Spanu, Campionato del Mondo Youth, Campionato del Mondo Juniores, Formula Kite, Urla, Izmir, Julio Houze e Luis, Houze.
+- Nomi, circoli o luoghi da valutare: Formula Kite Youth, Mondiale di Urla Julio, Luis Houze e Maddalena, Spanu, Turchia, Campionato del Mondo Youth, Julio e Luis Houze, Maddalena Spanu, Campionato del Mondo Juniores, Formula Kite, Urla, Izmir, Julio Houze e Luis, Houze.
 - Numeri/date utili da verificare: 17, 23, 16, 18, 19, 2006, 2010, 60, 20, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

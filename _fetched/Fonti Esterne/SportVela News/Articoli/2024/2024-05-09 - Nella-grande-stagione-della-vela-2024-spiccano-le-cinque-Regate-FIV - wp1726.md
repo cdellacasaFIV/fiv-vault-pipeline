@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, Nacra 15, ILCA 7, ILCA 6, ILCA 4, IQFOiL, iQFOiL, Techno 293, 420, 470, Waszp, Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Regate FIV Date, Federvela, Olimpiadi Italiani Altura, Brindisi, Primavela, Date, Primavela e Singoli, Genova, Doppi, Pescara, CICO, Tricolori Classi Olimpiche, Cagliari Format, FIVillage.
+- Nomi, circoli o luoghi da valutare: Regate FIV Date, Federvela, Olimpiadi Italiani Altura, Brindisi, Primavela e Singoli, Genova, Doppi, Pescara, Date, CICO, Tricolori Classi Olimpiche, Cagliari Format, FIVillage, Il Presidente FIV Francesco.
 - Numeri/date utili da verificare: 2024, 8, 25, 29, 26, 28, 30, 2, 5, 50.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

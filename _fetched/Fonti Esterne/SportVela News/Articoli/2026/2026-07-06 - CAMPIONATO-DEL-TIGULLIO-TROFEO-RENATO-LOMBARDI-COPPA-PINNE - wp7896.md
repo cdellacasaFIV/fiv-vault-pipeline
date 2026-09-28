@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 4, Dinghy 12.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO DEL TIGULLIO- TROFEO, RENATO LOMBARDI- COPPA PINNE, Giornata, ILCA, Lega Navale, Presenti, Lega Navale Sezione, Santa, Pianeta Dinghy Regatare, Dinghy, Tigullio, Ovviamente, Ufficiali di Regata, Golfo.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO DEL TIGULLIO- TROFEO, RENATO LOMBARDI- COPPA PINNE, Giornata, ILCA, Lega Navale Sezione, Santa, Pianeta Dinghy Regatare, Presenti, Dinghy, Tigullio, Ovviamente, Ufficiali di Regata, Golfo, Sembra.
 - Numeri/date utili da verificare: 2, 3, 12, 27, 190, 160, 140, 70, 8, 1.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

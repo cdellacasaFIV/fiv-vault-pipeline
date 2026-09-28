@@ -7,7 +7,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 
 - Data SportVela: 24 Settembre 2026
 - Link: https://sportvela.net/blog/2026/09/24/vela-senza-barriere-navigare-insieme-chiude-a-napoli-il-percorso-2026/
-- Categorie: Para Sailing
+- Categorie: Para Sailing, Speciale America's Cup Napoli
 
 ## Perche' tenerla
 

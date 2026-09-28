@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Trofeo Terre, Sirene, Agorà, Meteor All’ Ombra, Vesuvio, Circolo, Arcobaleno, Napoli, Torre Annunziata, Portici e Torre, Greco. Quattordici, Spazi Civici di Comunità, Agorà del Mare, Sport e Salute.
+- Nomi, circoli o luoghi da valutare: Trofeo Terre, Sirene, Agorà, Meteor All’ Ombra, Vesuvio, Sirene., Circolo, Arcobaleno, Napoli, Torre Annunziata, Portici e Torre, Greco. Quattordici, Spazi Civici di Comunità, Agorà del Mare.
 - Numeri/date utili da verificare: 2025, 7, 8, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

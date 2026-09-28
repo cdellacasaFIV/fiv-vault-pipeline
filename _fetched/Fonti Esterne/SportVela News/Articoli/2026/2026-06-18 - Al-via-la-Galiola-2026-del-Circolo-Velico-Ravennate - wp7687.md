@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Galiola, Circolo Velico Ravennate. Marina, Ravenna, Parte, Circolo Velico Ravennate, Marina di Ravenna, Campionato Italiano Offshore, Via Molo Dalmazia, Supportata da UniCredit, Disabitata, Unie, Vinta, Farr, Salvatore Costanzo.
+- Nomi, circoli o luoghi da valutare: Galiola, Circolo Velico Ravennate. Marina, Ravenna, Parte, Circolo Velico Ravennate, Campionato Italiano, Marina di Ravenna, Campionato Italiano Offshore, Via Molo Dalmazia, Supportata da UniCredit, Disabitata, Unie, Vinta, Farr.
 - Numeri/date utili da verificare: 2026, 18, 19, 21, 160, 2022, 2023, 2025, 53, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: LE PROSSIME REGATE, VELEGGIATE IN LIGURIA, S. Margherita Ligure, Trofeo Memorial Soggiu, Optimist, LNI S. Margherita Ligure, Bando, Imperia, The IWR Warm Up, Regatta, YC Imperia Bando, WarmUp, Loano, Campionato Invernale Marina.
+- Nomi, circoli o luoghi da valutare: LE PROSSIME REGATE, VELEGGIATE IN LIGURIA, S. Margherita Ligure, Trofeo Memorial Soggiu, Optimist, LNI S. Margherita, LNI S. Margherita Ligure, Bando, Imperia, The IWR Warm Up, Regatta, YC Imperia Bando, WarmUp, Loano.
 - Numeri/date utili da verificare: 29, 30, 420, 3, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

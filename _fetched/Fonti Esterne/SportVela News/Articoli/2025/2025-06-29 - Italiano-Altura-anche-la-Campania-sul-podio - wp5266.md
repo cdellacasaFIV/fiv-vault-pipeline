@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Italiano Altura, Campania, Campionato Italiano Assoluto Vela, Altura Edison Next, Capo, Orlando. Trentatre, FIVillage, FIV Francesco Ettorre. Si, FIVillage Francesco Federico, Yacht Club Capo, Orlando, Orlando Franco Ingrillì, VII Zona FIV Beppe, Tisci.
+- Nomi, circoli o luoghi da valutare: Italiano Altura, Campania, Campionato Italiano Assoluto Vela, Altura, Altura Edison Next, Capo, Orlando. Trentatre, FIVillage, FIV Francesco Ettorre. Si, FIVillage Francesco Federico, Yacht Club Capo, Orlando, Orlando Franco Ingrillì, VII Zona FIV Beppe.
 - Numeri/date utili da verificare: 11, 2025, 90 anni, 1, 11.98, 46, 42, 2, 3, 45.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Presentato, MED Sailors Genova, Federazione Italiana Vela, Altura Presso, Galata Museo del Mare, Genova, Presso, Mediterranean Experience Dome Sailors, Un’iniziativa, Gran Largo, Casa Vela, Mar Mediterraneo, Presidente, Regione Liguria Marco Bucci.
+- Nomi, circoli o luoghi da valutare: Presentato, MED Sailors Genova, Federazione Italiana Vela, Altura Presso, Galata Museo del Mare, Genova, Mediterranean Experience Dome Sailors, Presso, Un’iniziativa, Gran Largo, Casa Vela, Mar Mediterraneo, Presidente, Regione Liguria Marco Bucci.
 - Numeri/date utili da verificare: 50, 650.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

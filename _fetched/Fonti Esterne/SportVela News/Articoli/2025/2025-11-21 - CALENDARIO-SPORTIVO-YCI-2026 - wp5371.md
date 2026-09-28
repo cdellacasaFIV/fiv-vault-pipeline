@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CALENDARIO SPORTIVO YCI, Undici, Lo Yacht Club Italiano, Calendario Sportivo, Mediterraneo. Con, Club, Apriamo, Presidente, Yacht Club Italiano, Carlo Cameli, Dietro, Loro Piana, Banca Passadore, SIAD e di Rolex.
+- Nomi, circoli o luoghi da valutare: CALENDARIO SPORTIVO YCI, Undici, Lo Yacht Club Italiano, Calendario, Calendario Sportivo, Mediterraneo. Con, Club, Apriamo, Presidente, Yacht Club Italiano, Carlo Cameli, Dietro, Loro Piana, Banca Passadore.
 - Numeri/date utili da verificare: 2026, 20, 11, 25 anni, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: I-ZONA FIV PROTAGONISTA AL, VILLAGGIO NASTRO ROSA Sport, Sport, Villaggio Nastro Rosa, I-Zona, Federazione Italiana Vela, Dalle, L’obiettivo, Simulatore di Vela, Laboratori Vela STEAM, STEAM, Science, Scienza, Esperimenti.
+- Nomi, circoli o luoghi da valutare: I-ZONA FIV PROTAGONISTA AL, VILLAGGIO NASTRO ROSA Sport, Villaggio Nastro Rosa, Sport, I-Zona, Federazione Italiana Vela, Dalle, L’obiettivo, Simulatore di Vela, Laboratori Vela STEAM, STEAM, Science, Scienza, Esperimenti.
 - Numeri/date utili da verificare: 17, 19, 25, 2026, 10, 00, 15, 14, 18, 20.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Prime, Italiano Assoluto, Altura Edison Next, Gaeta, Campionato Italiano Assoluto, Condizioni, Selene Alifax, Gruppo, Sarchiapone Fuoriserie, Yacht Club Gaeta E.V.S.., Sudovest-Ovest, LE PRIME CLASSIFICHE DEL, CAMPIONATO, Swan.
+- Nomi, circoli o luoghi da valutare: Prime, Italiano Assoluto, Altura Edison Next, Gaeta, Campionato Italiano Assoluto, Yacht Club Gaeta E.V.S.., Condizioni, Selene Alifax, Gruppo, Sarchiapone Fuoriserie, Sudovest-Ovest, LE PRIME CLASSIFICHE DEL, CAMPIONATO, Swan.
 - Numeri/date utili da verificare: 2026, 10, 14, 1, 2, 230, 9, 6, 5, 240.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

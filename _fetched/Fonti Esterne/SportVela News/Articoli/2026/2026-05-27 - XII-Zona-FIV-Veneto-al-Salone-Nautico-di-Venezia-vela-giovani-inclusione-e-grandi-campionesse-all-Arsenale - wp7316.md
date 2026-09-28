@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: XII Zona FIV Veneto, Salone Nautico di Venezia, Arsenale La XII Zona, FIV Veneto, La XII Zona FIV, Veneto, Arsenale, Dopo, Presidente del Senato Ignazio, La Russa, Salone, Vela Day XII Zona, Durante, Saranno.
+- Nomi, circoli o luoghi da valutare: XII Zona FIV Veneto, Salone Nautico di Venezia, Arsenale La XII Zona, FIV Veneto, Arsenale, La XII Zona FIV, Veneto, Dopo, Presidente del Senato Ignazio, La Russa, Salone, Vela Day XII Zona, Durante, Saranno.
 - Numeri/date utili da verificare: 2026, 303, 30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

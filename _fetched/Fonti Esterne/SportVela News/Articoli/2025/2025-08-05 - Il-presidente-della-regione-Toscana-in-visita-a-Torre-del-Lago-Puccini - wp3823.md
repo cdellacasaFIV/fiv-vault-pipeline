@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Toscana, Torre del Lago Puccini, Visita, Circolo Velico Torre, Lago Puccinidove, Presidente, Regione Toscana, Lago Puccini, Eugenio Giani, Trofeo Astorri, Classe Optimist, Presidente Giani, Massimo Bertolani, Presidente del Circolo.
+- Nomi, circoli o luoghi da valutare: Toscana, Torre del Lago Puccini, Visita, Circolo Velico Torre, Lago Puccinidove, Presidente, Regione Toscana, Eugenio Giani, Lago Puccini, Trofeo Astorri, Classe Optimist, Presidente Giani, Massimo Bertolani, Presidente del Circolo.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

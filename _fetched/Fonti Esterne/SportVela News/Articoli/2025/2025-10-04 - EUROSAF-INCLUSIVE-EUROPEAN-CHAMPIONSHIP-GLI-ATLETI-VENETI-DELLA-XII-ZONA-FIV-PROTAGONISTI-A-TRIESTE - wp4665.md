@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: EUROSAF INCLUSIVE EUROPEAN CHAMPIONSHIP, GLI ATLETI VENETI DELLA, XII ZONA FIV PROTAGONISTI, TRIESTE Si, Trieste, Barcolana Para, Barcolana Para Sailing, Società Velica di Barcola, Grignano, Eurosaf, L’evento, Europa, Para Sailing, XII Zona FIV.
+- Nomi, circoli o luoghi da valutare: EUROSAF INCLUSIVE EUROPEAN CHAMPIONSHIP, GLI ATLETI VENETI DELLA, XII ZONA FIV PROTAGONISTI, TRIESTE Si, Trieste, Barcolana Para Sailing, Società Velica di Barcola, Grignano, Eurosaf, L’evento, Europa, Para Sailing, XII Zona FIV, Veneto.
 - Numeri/date utili da verificare: 4, 2025, 18, 303.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

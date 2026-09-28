@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: INVERNALE DEL TIGULLIO, GRANDE LOTTA AL VERTICE, DOPPIETTA PER WB IX, Pubblichiamo, Primazona NEWS, Tramontana, Così, Campionato Invernale del Tigullio, VENTI SAILS. Nell’ORC A-B, WB IX di Pietro, Bianchi e Gianclaudio Bassetti, YC Parma, Chestress, Giancarlo Ghislanzoni.
+- Nomi, circoli o luoghi da valutare: INVERNALE DEL TIGULLIO, GRANDE LOTTA AL VERTICE, DOPPIETTA PER WB IX, Pubblichiamo, NEWS, Primazona NEWS, Tramontana, Così, Campionato Invernale del Tigullio, VENTI SAILS. Nell’ORC A-B, WB IX di Pietro, Bianchi e Gianclaudio Bassetti, YC Parma, Chestress.
 - Numeri/date utili da verificare: 50, 10, 2, 2026, 3, 14, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

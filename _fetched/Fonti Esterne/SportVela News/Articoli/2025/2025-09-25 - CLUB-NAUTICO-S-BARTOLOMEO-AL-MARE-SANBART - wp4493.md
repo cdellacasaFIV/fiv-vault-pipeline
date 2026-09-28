@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CLUB NAUTICO S. BARTOLOMEO, AL MARE, SANBÀRT, Liguria, Scuole Vela FIV Il, Club Nautico San, Club Nautico San Bartolomeo, Mare, Italia, Federazione Italiana Vela, Cristina Cambi, Liguria Sport.
+- Nomi, circoli o luoghi da valutare: CLUB NAUTICO S. BARTOLOMEO, AL MARE, SANBÀRT, Liguria, Scuole Vela FIV Il, Club Nautico San Bartolomeo, Mare, Italia, Federazione Italiana Vela, Cristina Cambi, Liguria Sport.
 - Numeri/date utili da verificare: 1998, 2024, 2023, 749, 2025, 09, 24.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

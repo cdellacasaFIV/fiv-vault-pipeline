@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Waszp.
-- Nomi, circoli o luoghi da valutare: EUROCUP, RANKING MONDIALE WASZP, TRIONFO PER FEDERICO BERGAMASCO, Stagione, Waterfront Sailing Genova, Federico Bergamasco, Federico Bergamasco. All’atleta, Barcellona, Eurocup Waszp, Successo, Jacopo Andrian, Matteo Bacigalupo, Pablo Astiazaran, WASZP.
+- Nomi, circoli o luoghi da valutare: EUROCUP, RANKING MONDIALE WASZP, TRIONFO PER FEDERICO BERGAMASCO, Stagione, Waterfront Sailing Genova, Federico Bergamasco. All’atleta, Barcellona, Eurocup Waszp, Successo, Jacopo Andrian, Matteo Bacigalupo, Pablo Astiazaran, Federico Bergamasco, WASZP.
 - Numeri/date utili da verificare: 23, 6.5, 2025, 2026, 8.2, 21.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: INVERNALE DEL TIGULLIO, SABATO INFUOCATO, Solo, Campionato, Campionato Invernale del Tigullio, Nell’ORC, Spirit, Nerina di Federico Borromeo, YC Chiavari, Chestress, Giancarlo Ghislanzoni, Aria di Enzo Algarotti, LNI Bergamo, ORC C. Sease.
+- Nomi, circoli o luoghi da valutare: INVERNALE DEL TIGULLIO, SABATO INFUOCATO, Solo, Campionato Invernale del Tigullio, Nell’ORC, Spirit, Nerina di Federico Borromeo, YC Chiavari, Chestress, Giancarlo Ghislanzoni, Aria di Enzo Algarotti, LNI Bergamo, ORC C. Sease, Tommaso Loro Piana.
 - Numeri/date utili da verificare: 13, 3, 14, 15, 31, 1, 2026, 20.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

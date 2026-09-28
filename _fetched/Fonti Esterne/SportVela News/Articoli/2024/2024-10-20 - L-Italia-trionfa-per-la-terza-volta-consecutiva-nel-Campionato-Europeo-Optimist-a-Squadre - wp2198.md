@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: L’Italia, Campionato Europeo Optimist, Squadre La, Anna Merlo, LNI Mandello, Bianca Marchesini, FV Malcesine, Cristian Castellan, Società Triestina Sport, Mare, Jesper Karlsen, FV Riva, Marcello Meringolo, Squadre.
+- Nomi, circoli o luoghi da valutare: L’Italia, Campionato Europeo Optimist, Squadre La, Anna Merlo, LNI Mandello, Bianca Marchesini, FV Malcesine, Cristian Castellan, Società Triestina Sport, Mare, Jesper, Jesper Karlsen, FV Riva, Marcello Meringolo.
 - Numeri/date utili da verificare: 2024, 15, 19, 16, 2, 0, 2016.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Interzonale Optimist, Zona, CdR Prima, Crotone, Prima, Zona FIV Campania, Calabria, Federazione Italiana Vela, Costabile Palmieri, Comitato, Proteste e Gennaro Rutoli, Comitato di Regata., Zone, VII e VIII.
+- Nomi, circoli o luoghi da valutare: Interzonale Optimist, Zona, CdR Prima, Crotone, Zona FIV Campania, Prima, Calabria, Federazione Italiana Vela, Costabile Palmieri, Comitato, Proteste e Gennaro Rutoli, Comitato di Regata., Zone, VII e VIII.
 - Numeri/date utili da verificare: 120.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

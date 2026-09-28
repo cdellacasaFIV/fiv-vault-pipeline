@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7, ILCA 6.
-- Nomi, circoli o luoghi da valutare: Campionato del Mondo ILCA, Master, Formia, Bronzo, Roberto Giacalone del Circolo, Velico Marsala Dal, Campionati Mondiali Masters ILCA, ILCA, Paesi, Circolo Nautico Caposele, International Laser Class Association, Federazione Italiana Vela, Regione Lazio, Comune di Formia.
+- Nomi, circoli o luoghi da valutare: Campionato del Mondo ILCA, Master, Formia, Bronzo, Roberto Giacalone del Circolo, Velico Marsala Dal, Campionati, Campionati Mondiali Masters ILCA, ILCA, Paesi, Circolo Nautico Caposele, International Laser Class Association, Federazione Italiana Vela, Regione Lazio.
 - Numeri/date utili da verificare: 2025, 19, 28, 6, 7, 455, 38.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

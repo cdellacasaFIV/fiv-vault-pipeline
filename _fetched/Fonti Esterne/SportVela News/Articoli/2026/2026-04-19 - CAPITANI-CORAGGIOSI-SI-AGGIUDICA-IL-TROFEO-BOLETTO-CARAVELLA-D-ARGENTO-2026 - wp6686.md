@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CAPITANI CORAGGIOSI SI AGGIUDICA, IL TROFEO BOLETTO, CARAVELLA D’ARGENTO, Regata dei Due Parchi, Yacht Club Chiavari ASD, Comune di Chiavari., Anche, Golfo Tigullio, Parco, Cinque Terre, Parco di Portofino, Golfo Tigullio. Siamo, Roberto Bosè, Presidente.
+- Nomi, circoli o luoghi da valutare: CAPITANI CORAGGIOSI SI AGGIUDICA, IL TROFEO BOLETTO, CARAVELLA D’ARGENTO, Regata dei Due, Regata dei Due Parchi, Yacht Club Chiavari ASD, Comune di Chiavari., Anche, Golfo Tigullio, Parco, Cinque Terre, Parco di Portofino, Golfo Tigullio. Siamo, Roberto Bosè.
 - Numeri/date utili da verificare: 2026, 19, 18, 2023, 1973, 7,5, 4,5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

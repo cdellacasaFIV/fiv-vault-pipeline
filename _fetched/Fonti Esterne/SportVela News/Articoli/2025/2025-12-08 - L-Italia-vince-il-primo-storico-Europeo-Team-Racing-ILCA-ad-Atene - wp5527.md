@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, giovanile, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: L’Italia, Europeo Team Racing ILCA, Atene La, Italia, Campionato Europeo Team, Campionato Europeo Team Racing, ILCA, Atene, Alberto Avanzini, Enrico Morina, Sofia Berteotti, Martina Corno, Mauro Berteotti, Sono.
+- Nomi, circoli o luoghi da valutare: L’Italia, Europeo Team Racing ILCA, Atene La, Italia, Campionato Europeo Team Racing, ILCA, Atene, Alberto Avanzini, Enrico Morina, Sofia Berteotti, Martina Corno, Mauro Berteotti, Sono, L’unica.
 - Numeri/date utili da verificare: 1, 4, 7, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

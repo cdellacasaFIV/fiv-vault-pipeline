@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA, SUCCESSO PER LA PRIMA, TAPPA DI SESTRI, All’insegna, Campionato Regionale, Campionato Regionale Ligure, Vela Paralimpica Hansa, Lega Navale Italiana, Sestri Ponente. Del, Dopo, Andora, Ilario Simonetta, Genova, Cristina Lodi.
+- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA, SUCCESSO PER LA PRIMA, TAPPA DI SESTRI, All’insegna, Campionato Regionale Ligure, Vela Paralimpica Hansa, Lega Navale Italiana, Sestri Ponente. Del, Dopo, Andora, Ilario Simonetta, Genova, Cristina Lodi, Hansa.
 - Numeri/date utili da verificare: 31, 303, 2026, 03.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

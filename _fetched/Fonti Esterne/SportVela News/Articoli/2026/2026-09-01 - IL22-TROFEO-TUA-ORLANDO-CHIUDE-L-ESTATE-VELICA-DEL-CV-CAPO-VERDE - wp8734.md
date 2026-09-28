@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: TROFEO TUA-ORLANDO CHIUDE L’ESTATE, VELICA DEL CV CAPO, VERDE Grande, Circolo, Grande, Circolo Velico Capo Verde, Marco Alvise Tua, Giorgio Orlando, Ponente Ligure. Un, Golfo di Sanremo, CV Capo Verde, CRABX di Roberto Bosio, Joker di Massimo Castiglia, Gorilla Gang di Andrea.
+- Nomi, circoli o luoghi da valutare: TROFEO TUA-ORLANDO CHIUDE L’ESTATE, VELICA DEL CV CAPO, VERDE Grande, Circolo Velico Capo Verde, Marco, Grande, Marco Alvise Tua, Giorgio Orlando, Ponente Ligure. Un, Golfo di Sanremo, CV Capo Verde, CRABX di Roberto Bosio, Joker di Massimo Castiglia, Gorilla Gang di Andrea.
 - Numeri/date utili da verificare: 1, 22, 18, 10, 15, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

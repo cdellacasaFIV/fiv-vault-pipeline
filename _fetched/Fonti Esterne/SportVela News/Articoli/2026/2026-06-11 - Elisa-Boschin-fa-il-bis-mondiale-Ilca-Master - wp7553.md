@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, 420.
-- Nomi, circoli o luoghi da valutare: Elisa Boschin, Ilca Master Dalla XIII, Zona FIV, L’intervista, Dalla XIII Zona FIV, Dopo, Società Nautica Pietas Julia, Campionessa del Mondo ILCA, Master, Atene. Un, XIII Zona FIV, ILCA Master. Dopo, Formia, Mondiali ILCA.
+- Nomi, circoli o luoghi da valutare: Elisa Boschin, Ilca Master Dalla XIII, Zona FIV, L’intervista, Dopo, Dalla XIII Zona FIV, Società Nautica Pietas Julia, Campionessa del Mondo ILCA, Master, Atene. Un, XIII Zona FIV, ILCA Master. Dopo, Formia, Mondiali ILCA.
 - Numeri/date utili da verificare: 2025, 6, 10, 45, 29, 28, 19, 1, 2, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

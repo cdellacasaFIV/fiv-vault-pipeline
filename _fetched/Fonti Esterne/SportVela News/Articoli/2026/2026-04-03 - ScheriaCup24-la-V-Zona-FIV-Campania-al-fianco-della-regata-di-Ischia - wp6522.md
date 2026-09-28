@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, america's cup/napoli.
 - Angoli editoriali: territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: ScheriaCup, Zona FIV Campania, Ischia Torna, Torna, Lega Navale Italiana Sezione, Isola, Ischia, Circolo Nautico Punta Imperatore., Giunta, Golfo di Napoli, Forio, Ischia e Procida. L’obiettivo, Accanto, ScheriaCupXS.
+- Nomi, circoli o luoghi da valutare: ScheriaCup, Zona FIV Campania, Ischia Torna, Lega Navale Italiana Sezione, Isola, Ischia, Torna, Circolo Nautico Punta Imperatore., Giunta, Golfo di Napoli, Forio, Ischia e Procida. L’obiettivo, Accanto, ScheriaCupXS.
 - Numeri/date utili da verificare: 25, 26, 24, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

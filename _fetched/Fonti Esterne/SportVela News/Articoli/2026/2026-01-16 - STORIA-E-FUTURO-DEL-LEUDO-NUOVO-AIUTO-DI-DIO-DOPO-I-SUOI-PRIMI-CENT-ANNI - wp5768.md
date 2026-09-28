@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: STORIA, FUTURO DEL LEUDO, NUOVO AIUTO DI DIO, DOPO, SUOI PRIMI CENT’ANNI Martedì, Aula San Salvatore, Sarzano, Martedì, Compagna, Gianfilippo Noceti, XIII, Gian Renzo Traversaro, Emiliano Beri, Leudo.
+- Nomi, circoli o luoghi da valutare: STORIA, FUTURO DEL LEUDO, NUOVO AIUTO DI DIO, DOPO, SUOI PRIMI CENT’ANNI Martedì, Aula San Salvatore, Sarzano, Compagna, Martedì, Gianfilippo Noceti, XIII, Gian Renzo Traversaro, Emiliano Beri, Leudo.
 - Numeri/date utili da verificare: 20, 2026, 17.00, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

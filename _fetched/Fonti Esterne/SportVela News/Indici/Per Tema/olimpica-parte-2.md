@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 24 Novembre 2025 | Sardinia Challenge 2025: a Villasimius la vela internazionale celebra la prima edizione della “Marathon & Record” | III Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-24 - Sardinia-Challenge-2025-a-Villasimius-la-vela-internazionale-celebra-la-prima-edizione-della-Marathon-and-Reco - wp5388|nota]] |
+| 21 Novembre 2025 | Sferracavallo, la vela non si ferma: dopo Nacra e 49er arriva l’Europeo iQFOiL | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - Sferracavallo-la-vela-non-si-ferma-dopo-Nacra-e-49er-arriva-l-Europeo-iQFOiL - wp5377|nota]] |
 | 21 Novembre 2025 | CALENDARIO SPORTIVO YCI 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - CALENDARIO-SPORTIVO-YCI-2026 - wp5371|nota]] |
 | 19 Novembre 2025 | Le attività presenti e future del Comitato di Zona | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Le-attivita-presenti-e-future-del-Comitato-di-Zona - wp5357|nota]] |
 | 19 Novembre 2025 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp5340|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 19 Maggio 2024 | Formula Kite 2024 World Championships: Pianosi argento chiude un ottimo mondiale | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-19 - Formula-Kite-2024-World-Championships-Pianosi-argento-chiude-un-ottimo-mondiale - wp1786|nota]] |
 | 18 Maggio 2024 | Formula Kite 2024 World Championships: domani le Medal Series con Pianosi e Boschetti | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-18 - Formula-Kite-2024-World-Championships-domani-le-Medal-Series-con-Pianosi-e-Boschetti - wp1783|nota]] |
 | 17 Maggio 2024 | Formula Kite 2024 World Championships: primo giorno di Gold Fleet | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-17 - Formula-Kite-2024-World-Championships-primo-giorno-di-Gold-Fleet - wp1780|nota]] |
-| 16 Maggio 2024 | Formula Kite 2024 World Championships: tre italiani in Gold Fleet | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-16 - Formula-Kite-2024-World-Championships-tre-italiani-in-Gold-Fleet - wp1777|nota]] |
-| 15 Maggio 2024 | Formula Kite 2024 World Championships: seconda giornata con italiani in evidenza | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-15 - Formula-Kite-2024-World-Championships-seconda-giornata-con-italiani-in-evidenza - wp1774|nota]] |

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: World Championship, Gold Fleet Giornata, Lanzarote, Giornata, Vento, Wilson, Kantor, Lamadrid Trueba. Le, Maggetti, Renna, Speciale, Gold Fleet, Oprandi, Colasanto..
+- Nomi, circoli o luoghi da valutare: World Championship, Gold Fleet Giornata, Lanzarote, Vento, Giornata, Wilson, Kantor, Lamadrid Trueba. Le, Maggetti, Renna, Speciale, Gold Fleet, Oprandi, Colasanto..
 - Numeri/date utili da verificare: 2024, 7, 18, 10, 32, 39, 50, 54, 4, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

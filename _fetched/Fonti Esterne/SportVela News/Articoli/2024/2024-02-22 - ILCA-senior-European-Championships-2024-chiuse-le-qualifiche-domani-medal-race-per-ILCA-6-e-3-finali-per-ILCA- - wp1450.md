@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7, ILCA 6.
-- Nomi, circoli o luoghi da valutare: ILCA, European Championships, Atene, Grecia, Grecia. Oggi, Medal Race, Emma Mattivi, Fraglia Vela Riva, Discorso, Carolina Albano, Fiamme Gialle, Chiara Benini Floriani, Maria Vittoria Arseni, Tognazzi Marine Village.
+- Nomi, circoli o luoghi da valutare: ILCA, European Championships, Atene, Grecia. Oggi, Medal Race, Emma Mattivi, Fraglia Vela Riva, Discorso, Carolina Albano, Fiamme Gialle, Chiara Benini Floriani, Maria Vittoria Arseni, Tognazzi Marine Village, Matilda Talluri.
 - Numeri/date utili da verificare: 2024, 6, 3, 7, 5, 18, 22, 23, 107, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

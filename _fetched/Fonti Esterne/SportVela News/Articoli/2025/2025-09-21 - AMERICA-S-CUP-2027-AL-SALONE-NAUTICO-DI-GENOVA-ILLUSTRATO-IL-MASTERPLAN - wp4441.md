@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: AMERICA’S CUP, AL SALONE NAUTICO DI, GENOVA ILLUSTRATO IL MASTERPLAN, Orgoglio, Salone Nautico di Genova, Confindustria Nautica., Napoli, Italia, Oltre, CEO di Team New, Zealand, Grant Delton, Sindaco di Napoli Gaetano, Manfredi.
+- Nomi, circoli o luoghi da valutare: AMERICA’S CUP, AL SALONE NAUTICO DI, GENOVA ILLUSTRATO IL MASTERPLAN, Orgoglio, Salone Nautico, Salone Nautico di Genova, Confindustria Nautica., Napoli, Italia, Oltre, CEO di Team New, Zealand, Grant Delton, Sindaco di Napoli Gaetano.
 - Numeri/date utili da verificare: 2027, 20, 2025, 09.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

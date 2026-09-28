@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: FOCUS YeM, MARINA DELLA FIERA DI, GENOVA Formazione, Zona FIV, Presso, Marina, Fiera di Genova, Formazione, Focus, L’evento, Fabio Costa.
+- Nomi, circoli o luoghi da valutare: FOCUS YeM, MARINA DELLA FIERA DI, GENOVA Formazione, Zona FIV, Presso, Marina, Fiera di Genova, Focus, Formazione, L’evento, Fabio Costa.
 - Numeri/date utili da verificare: 25, 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

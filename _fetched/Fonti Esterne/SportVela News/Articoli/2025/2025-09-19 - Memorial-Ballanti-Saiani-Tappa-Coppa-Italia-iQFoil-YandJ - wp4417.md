@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL, Techno 293.
-- Nomi, circoli o luoghi da valutare: Memorial Ballanti-Saiani. Tappa Coppa, Italia, Coppa Italia, J.Dal, Adriatico Wind Club, J. Dal, Porto Corsini, Memorial Ballanti, Saiani Chi, Italia. Proprio, Ostia e Torbole. L’AWC, Giovanni Forani, Dalia Saiani e Lorenza, Ballanti.
+- Nomi, circoli o luoghi da valutare: Memorial Ballanti-Saiani. Tappa Coppa, Italia, Coppa Italia, J.Dal, Adriatico Wind Club, Porto Corsini, J. Dal, Memorial Ballanti, Saiani Chi, Italia. Proprio, Ostia e Torbole. L’AWC, Giovanni Forani, Dalia Saiani e Lorenza, Ballanti.
 - Numeri/date utili da verificare: 19, 21, 293, 10 giorni, 15, 40 atleti, 12.00, 13.00, 8.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

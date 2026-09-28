@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Concluso, Campionato Italiano Assoluto Vela, Altura Edison Next, Finalmente, Capo, Orlando, Campionato Italiano Assoluto, Ovest, Ponente, L’Italiano Altura Inshore, Gruppi, FIVillage, FIV Francesco Ettorre, CONI.
+- Nomi, circoli o luoghi da valutare: Concluso, Campionato Italiano Assoluto Vela, Altura Edison Next, Finalmente, Capo, Orlando, Ovest, Ponente, L’Italiano Altura Inshore, Gruppi, FIVillage, FIV Francesco Ettorre, CONI, Giunta.
 - Numeri/date utili da verificare: 2025, 11, 8, 10, 33, 90 anni, 31 anni, 1994, 1, 42.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

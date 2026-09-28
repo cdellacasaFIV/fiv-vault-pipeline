@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Corrado Fara, Conferenza Territoriale FIV, Avvocato, Conferenza, Zona. Con, III Zona, Sardegna, Fara, Quando, Alghero. Poi, Coppa America del Moro, Venezia, Quel, Zona.
+- Nomi, circoli o luoghi da valutare: Corrado Fara, Conferenza Territoriale FIV, Avvocato, Zona. Con, III Zona, Sardegna, Fara, Quando, Alghero. Poi, Coppa America del Moro, Venezia, Quel, Zona, Conferenza Territoriale.
 - Numeri/date utili da verificare: 2025, 2028, 360.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: GLI ATLETI DELLA, ZONA SUL PODIO DEI, CAMPIONATI ITALIANI CLASSI IN, DOPPIO, CLASSE, Podio Italiani Under, Nicolas Margaria, Nicolas Margaria e Edoardo, Cavero, CV Vernazzolesi, Alessio Cindolo e Sara, Valente, YC Italiano, Podio Italiano.
+- Nomi, circoli o luoghi da valutare: GLI ATLETI DELLA, ZONA SUL PODIO DEI, CAMPIONATI ITALIANI CLASSI IN, DOPPIO, CLASSE, Podio Italiani Under, Nicolas Margaria e Edoardo, Cavero, CV Vernazzolesi, Alessio Cindolo e Sara, Valente, YC Italiano, Podio Italiano, Podio.
 - Numeri/date utili da verificare: 2025, 420, 90, 7, 172, 17, 2, 19, 1, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

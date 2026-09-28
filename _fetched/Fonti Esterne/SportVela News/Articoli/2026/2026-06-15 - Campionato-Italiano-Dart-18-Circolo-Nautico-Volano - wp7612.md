@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano Dart, Circolo Nautico Volano QUATTRO, GIORNI DI GRANDE VELA, AL CIRCOLO NAUTICO VOLANO, TRA SPETTACOLO, AGONISMO, CONVIVIALITÀ Si, QUATTRO GIORNI DI GRANDE, VELA AL CIRCOLO NAUTICO, VOLANO TRA SPETTACOLO, Circolo Nautico Volano, Federazione Italiana Vela, Italia, Campionato Italiano Single-Handed.
+- Nomi, circoli o luoghi da valutare: Campionato Italiano Dart, Circolo Nautico Volano QUATTRO, GIORNI DI GRANDE VELA, AL CIRCOLO NAUTICO VOLANO, TRA SPETTACOLO, AGONISMO, CONVIVIALITÀ Si, Campionato, QUATTRO GIORNI DI GRANDE, VELA AL CIRCOLO NAUTICO, VOLANO TRA SPETTACOLO, Circolo Nautico Volano, Federazione Italiana Vela, Italia.
 - Numeri/date utili da verificare: 18, 14, 11, 20 equipaggi, 12, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

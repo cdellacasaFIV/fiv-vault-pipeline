@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: L’Italia, Admiral’s Cup, Team Django, Yacht Club Costa Smeralda, Cowes, Dopo, Admiral’s, Royal Ocean Racing Club, Italia, Yacht Club Costa Smeralda., Giovanni Lombardi Stronati, Django, Michele Ivaldi, Guillermo Parada.
+- Nomi, circoli o luoghi da valutare: L’Italia, Admiral’s Cup, Team Django, Yacht Club Costa Smeralda, Cowes, Dopo, Royal Ocean Racing Club, Italia, Yacht Club Costa Smeralda., Giovanni Lombardi Stronati, Django, Michele Ivaldi, Guillermo Parada, Vasco Vascotto e Juan.
 - Numeri/date utili da verificare: 2025, 19, 1180, 15, 1995.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Alla LNI Salerno, No Matter Where, Fabrizio Marotta Domenica, Salerno, Lega Navale, Domenica, Lega Navale Italiana, Fabrizio Marotta, L’iniziativa, LNI Salerno, Porto Masuccio Salernitano, Arenile di Santa Teresa, Alle, Porto Masuccio.
+- Nomi, circoli o luoghi da valutare: Alla LNI Salerno, No Matter Where, Fabrizio Marotta Domenica, Salerno, Lega Navale Italiana, Fabrizio, Domenica, Fabrizio Marotta, L’iniziativa, LNI Salerno, Porto Masuccio Salernitano, Arenile di Santa Teresa, Alle, Lega Navale.
 - Numeri/date utili da verificare: 14, 9.00, 9.30, 10.30, 11.00, 19.30, 20.30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

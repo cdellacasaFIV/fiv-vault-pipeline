@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: SECONDO POSTO REDAELLI ALL’EURILCA, NEUCHATEL Festa LNI Santa, Margherita Ligure, Lorenzo Redaelli, Lega Navale Santa Margherita, Ligure, Festa LNI Santa Margherita, EurI LCA Europa Cup, Neuchatel. Una, Ilca, Svizzera, Ottimo, Simone Fargnoli, Liguria Sport.
+- Nomi, circoli o luoghi da valutare: SECONDO POSTO REDAELLI ALL’EURILCA, NEUCHATEL Festa LNI Santa, Margherita Ligure, Lorenzo Redaelli, Lega Navale Santa Margherita, Ligure, EurILCA Europa Cup, Neuchatel, Festa LNI Santa Margherita, EurI LCA Europa Cup, Neuchatel. Una, Ilca, Svizzera, Ottimo.
 - Numeri/date utili da verificare: 27.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Vela Viva, XV Zona FIV, XV Zona, Lago Ceresio, Maggiore, Como, Orta, Viverone, Iseo, Oasi, Airone Cenerino. Coordinata, Comitato XV Zona, Veleggiate, Attività.
+- Nomi, circoli o luoghi da valutare: Vela Viva, XV Zona FIV, XV Zona. Per, XV Zona, Lago Ceresio, Maggiore, Como, Orta, Viverone, Iseo, Oasi, Airone Cenerino. Coordinata, Comitato XV Zona, Veleggiate.
 - Numeri/date utili da verificare: 15, 23, 30, 2025, 50, 1, 2, 3, 2023.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

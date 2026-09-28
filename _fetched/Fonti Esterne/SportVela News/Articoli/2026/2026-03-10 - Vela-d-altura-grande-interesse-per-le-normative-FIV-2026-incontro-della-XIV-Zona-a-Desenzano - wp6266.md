@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: XIV Zona, Desenzano Grande, Fraglia Vela Desenzano, Comitato XIV Zona, Grande, Federazione Italiana Vela, Normative Altura FIV, ORC. All’incontro, Garda. Una, Relatori, Maurizio Buscemi, Consigliere Federale FIV, Fabrizio Gagliardi, Unione Vela.
+- Nomi, circoli o luoghi da valutare: XIV Zona, Desenzano Grande, Fraglia Vela Desenzano, Comitato XIV Zona, Federazione Italiana Vela, Grande, Normative Altura FIV, ORC. All’incontro, Garda. Una, Relatori, Maurizio Buscemi, Consigliere Federale FIV, Fabrizio Gagliardi, Unione Vela.
 - Numeri/date utili da verificare: 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

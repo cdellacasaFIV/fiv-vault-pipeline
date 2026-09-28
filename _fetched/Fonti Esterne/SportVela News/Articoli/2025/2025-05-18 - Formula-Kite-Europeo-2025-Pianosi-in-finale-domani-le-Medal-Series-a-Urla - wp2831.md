@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite Europeo, Pianosi, Medal Series, Urla Ultima, Gold Fleet, Urla, Turchia, Campionato, Ultima, Campionato Europeo Formula Kite., Domani, Riccardo Pianosi, L’azzurro, Marina Militare.
+- Nomi, circoli o luoghi da valutare: Formula Kite Europeo, Pianosi, Medal Series, Urla Ultima, Gold Fleet, Urla, Turchia, Campionato Europeo Formula Kite., Domani, Ultima, Riccardo Pianosi, L’azzurro, Marina Militare, Alle.
 - Numeri/date utili da verificare: 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

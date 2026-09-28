@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: LA ROLEX MIDDLE SEA, RACE, DI ADRIGOLE II, CV Vernazzolesi, Siamo, Socio Francesco, Socio Francesco Giordano, Rolex Middle Sea Race, Francesco, Adrigole II, Maurino Carminati. Siamo, Buona, Giornale.
+- Nomi, circoli o luoghi da valutare: LA ROLEX MIDDLE SEA, RACE, DI ADRIGOLE II, CV Vernazzolesi, Siamo, Socio Francesco Giordano, Rolex Middle Sea Race, Francesco, Adrigole II, Maurino Carminati. Siamo, Buona, Giornale.
 - Numeri/date utili da verificare: 2025, 4, 41, 11, 04.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

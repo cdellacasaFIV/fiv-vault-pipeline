@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: ASSEMBLEA ZONALE, IL BILANCIO DEL PRESIDENTE, PEZZOLI, Alessandro Pezzoli, I-Zona, I-Zona FIV, Comitato, Assemblea, Video, Marco Callai, Liguria Sport.
+- Nomi, circoli o luoghi da valutare: ASSEMBLEA ZONALE, IL BILANCIO DEL PRESIDENTE, PEZZOLI, Alessandro Pezzoli, I-Zona FIV, Comitato, Assemblea, Video, Marco Callai, Liguria Sport.
 - Numeri/date utili da verificare: 2026, 27, 25, 02.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

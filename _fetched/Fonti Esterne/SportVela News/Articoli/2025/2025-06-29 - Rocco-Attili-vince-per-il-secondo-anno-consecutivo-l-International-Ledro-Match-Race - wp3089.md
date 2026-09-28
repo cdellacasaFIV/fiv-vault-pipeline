@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Rocco Attili, International Ledro Match Race, Lago di Ledro, Trento, International Ledro Match, World Match Racing Tour, Associazione Vela Lago, Ledro, Federazione Italiana Vela. Dodici, Lennard Bal, Attili, Dopo, Round Robin, Mati Sepp.
+- Nomi, circoli o luoghi da valutare: Rocco Attili, International Ledro Match Race, Lago di Ledro, Trento, World Match, World Match Racing Tour, Associazione Vela Lago, Ledro, Federazione Italiana Vela. Dodici, Lennard Bal, Attili, Dopo, Round Robin, Mati Sepp.
 - Numeri/date utili da verificare: 22, 0, 2, 3, 1, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

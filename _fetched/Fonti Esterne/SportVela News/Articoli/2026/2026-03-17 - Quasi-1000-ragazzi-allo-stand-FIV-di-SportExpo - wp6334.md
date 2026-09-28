@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Waszp.
-- Nomi, circoli o luoghi da valutare: Quasi, FIV di SportExpo La, Federazione Italiana Vela, Comitato XIV Zona-, Sport, Sport Expo Week, XIV Zona FIV, Veronafiere, Significa, Verona, Circolo Nautico Brenzone, Tommaso Villa, Fraglia Vela Desenzano, Cristian Di Rocco.
+- Nomi, circoli o luoghi da valutare: Quasi, FIV di SportExpo La, Federazione Italiana Vela, Comitato XIV Zona-, Sport Expo Week, XIV Zona FIV, Veronafiere, Significa, Verona, Circolo Nautico Brenzone, Tommaso Villa, Fraglia Vela Desenzano, Cristian Di Rocco, Fraglia Vela Malcesine.
 - Numeri/date utili da verificare: 1000, 2026, 40.000, 800, 900, 48, 9.596, 2025, 60, 25.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

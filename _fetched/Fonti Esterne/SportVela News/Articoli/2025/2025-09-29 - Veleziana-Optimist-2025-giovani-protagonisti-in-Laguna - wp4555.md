@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Veleziana Optimist, Laguna La Veleziana Optimist, La Veleziana Optimist, Lido di Venezia. Dopo, Optimist, B. Se, Niccolò Basso, Edoardo Gobbo, Brillanti, Caterina Vesco e Lucrezia, Eulisse, Compagnia, Diporto Velico Veneziano, Circolo Nautico Chioggia.
+- Nomi, circoli o luoghi da valutare: Veleziana Optimist, Laguna La Veleziana Optimist, Lido di Venezia. Dopo, La Veleziana Optimist, Optimist, B. Se, Niccolò Basso, Edoardo Gobbo, Brillanti, Caterina Vesco e Lucrezia, Eulisse, Compagnia, Diporto Velico Veneziano, Circolo Nautico Chioggia.
 - Numeri/date utili da verificare: 2025, 41, 10, 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

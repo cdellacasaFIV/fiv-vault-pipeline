@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Regata Interzonale OpenSkiff, Club Nautico Rimini, Interzonale OpenSkiff di Castiglione, Lago, Trasimeno. Per, Ilca, Laser, Federico Poli, Italia Cup di Crotone., Interzonale, Trasimeno, Under, Samuele Taddei, Giulio Antonazzo.
+- Nomi, circoli o luoghi da valutare: Regata Interzonale OpenSkiff, Club Nautico Rimini, Interzonale OpenSkiff, Interzonale OpenSkiff di Castiglione, Lago, Trasimeno. Per, Ilca, Laser, Federico Poli, Italia Cup di Crotone., Interzonale, Trasimeno, Under, Samuele Taddei.
 - Numeri/date utili da verificare: 11 atleti, 6, 13, 5, 17, 7, 14, 19, 22, 25.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

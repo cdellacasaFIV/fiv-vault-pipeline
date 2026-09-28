@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: Europei, Nacra, Eckernförde Domenica, Eckernförde, Domenica, Final Race, Il Nacra, Seb Menzies-George Lee Rush, Nuova Zelanda, Gran Bretagna di James, Grummett-Rhos Hawes, Open, Canada di Georgia, Antonia Lewin-Lafrance.
+- Nomi, circoli o luoghi da valutare: Europei, Nacra, Eckernförde Domenica, Eckernförde, Final Race, Domenica, Il Nacra, Seb Menzies-George Lee Rush, Nuova Zelanda, Gran Bretagna di James, Grummett-Rhos Hawes, Open, Canada di Georgia, Antonia Lewin-Lafrance.
 - Numeri/date utili da verificare: 17, 12, 11, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

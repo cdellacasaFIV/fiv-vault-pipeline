@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Techno 293.
-- Nomi, circoli o luoghi da valutare: Europeo Techno, Under, Alessandra Porcu, Francesco Cao, Sopot, Quarto, L’Italia, Vittoria Maria Grosso, Chiara Marras, Polonia, Campionato Europeo Techno, Techno, Plus di Sopot. Alessandra, Sasha.
+- Nomi, circoli o luoghi da valutare: Europeo Techno, Under, Alessandra Porcu, Francesco Cao, Sopot, Quarto, Vittoria Maria Grosso, L’Italia, Chiara Marras, Polonia, Campionato Europeo Techno, Techno, Plus di Sopot. Alessandra, Sasha.
 - Numeri/date utili da verificare: 293, 15, 17, 17 atleti, 19, 24, 2026, 2025, 13, 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

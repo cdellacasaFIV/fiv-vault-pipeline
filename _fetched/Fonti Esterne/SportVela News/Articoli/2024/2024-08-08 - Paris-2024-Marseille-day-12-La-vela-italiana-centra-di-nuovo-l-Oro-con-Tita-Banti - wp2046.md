@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: Paris, Marseille, Tita-Banti Dodicesimo, Marsiglia, Olimpica, Dodicesimo, Olimpica dei Giochi, Ruggero Tita e Caterina, Banti, Olimpica e, Giochi, Riccardo Pianosi, Kite, Il Presidente Francesco Ettorre.
+- Nomi, circoli o luoghi da valutare: Paris, Marseille, Tita-Banti Dodicesimo, Marsiglia, Olimpica dei Giochi, Dodicesimo, Ruggero Tita e Caterina, Banti, Olimpica e, Giochi, Riccardo Pianosi, Kite, Il Presidente Francesco Ettorre, Oggi.
 - Numeri/date utili da verificare: 2024, 12, 8, 7, 6, 470, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

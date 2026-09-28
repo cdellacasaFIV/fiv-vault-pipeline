@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Vela Day, Campania Dal, Federazione Italiana, Federazione Italiana Vela, Kinder Joy, Moving, Italia, Anche, Zona FIV Campania, Club Velico Salernitano, LNI Portici, LNI Castellammare di Stabia, Marina di Salerno, Black Dolphin di Pozzuoli.
+- Nomi, circoli o luoghi da valutare: Vela Day, Campania Dal, Federazione Italiana Vela, Kinder, Kinder Joy, Moving, Italia, Anche, Zona FIV Campania, Club Velico Salernitano, LNI Portici, LNI Castellammare di Stabia, Marina di Salerno, Black Dolphin di Pozzuoli.
 - Numeri/date utili da verificare: 2026, 29, 2, 6 anni.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

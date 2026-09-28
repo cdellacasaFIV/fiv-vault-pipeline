@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: AD ALESSANDRO FERRUA LA, GIRONDA ALBENGANESE, Alessandro Ferrua del Circolo, Nautico Albenga, Gironda, Giovanni Venerucci, Matteo Rivaroli. La, Optimist, Juniores, Matteo Vigo, Cadetti, Gregorio Poggi. Alle, CN Albenga, Direttivo.
+- Nomi, circoli o luoghi da valutare: AD ALESSANDRO FERRUA LA, GIRONDA ALBENGANESE, Alessandro Ferrua del Circolo, Nautico Albenga, Giovanni Venerucci, Matteo Rivaroli. La, Optimist, Juniores, Matteo Vigo, Cadetti, Gregorio Poggi. Alle, CN Albenga, Gironda, Direttivo.
 - Numeri/date utili da verificare: 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

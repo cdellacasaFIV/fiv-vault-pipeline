@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MEETING ZONALE SCUOLE DI, VELA LAZIO Si, Ostia, Lega Navale Italiana Sezione, Meeting Zonale, Scuole di Vela, Lazio. Un, Federazione Italiana Vela IV, Zona, Lazio, L’obiettivo, L’ospitalità, Lega Navale Italiana, Istruttori.
+- Nomi, circoli o luoghi da valutare: MEETING ZONALE SCUOLE DI, VELA LAZIO Si, Ostia, Lega Navale Italiana Sezione, Meeting Zonale, Scuole, Scuole di Vela, Lazio. Un, Federazione Italiana Vela IV, Zona, Lazio, L’obiettivo, L’ospitalità, Lega Navale Italiana.
 - Numeri/date utili da verificare: 26, 2025, 6, 13 anni.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

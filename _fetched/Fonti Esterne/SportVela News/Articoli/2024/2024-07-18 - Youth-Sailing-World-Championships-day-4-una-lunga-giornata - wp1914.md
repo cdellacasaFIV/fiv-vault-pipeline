@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, IQFOiL, iQFOiL, 420.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Quarto, Garda, Riva, Arco, Torbole, Penultimo, Mondiali Giovanili, Garda Regate, Classifiche, Grecia, Federico Pilloni, Carola Colasanto, Lisa Vucetti e Vittorio.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Quarto, Garda, Riva, Arco, Torbole e Malcesine, Youth, Penultimo, Mondiali Giovanili, Garda Regate, Classifiche, Grecia, Federico Pilloni, Carola Colasanto.
 - Numeri/date utili da verificare: 4, 420, 18, 70, 8, 13, 15, 17, 6, 19.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

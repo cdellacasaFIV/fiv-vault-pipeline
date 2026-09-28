@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano Giovanile, Classi In Doppio, XI Zona Sabato, Campionato Italiano, Giovanile, Classi, Sabato, Doppio, Formia. Ecco, Emilia-Romagna. CLASSE RS FEVA, Prima Under, Femminile, Elisa Marullo e Carlotta, Ricciardi.
+- Nomi, circoli o luoghi da valutare: Campionato Italiano Giovanile, Classi In Doppio, XI Zona Sabato, Campionato Italiano, Giovanile, Classi, Doppio, Formia. Ecco, Sabato, Emilia-Romagna. CLASSE RS FEVA, Prima Under, Femminile, Elisa Marullo e Carlotta, Ricciardi.
 - Numeri/date utili da verificare: 2025, 30, 54, 8, 17, 14, 7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

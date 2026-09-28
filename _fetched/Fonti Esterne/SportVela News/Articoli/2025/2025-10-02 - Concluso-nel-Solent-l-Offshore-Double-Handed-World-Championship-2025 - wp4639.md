@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Concluso, Solent, Offshore Double Handed World, Championship, Il Mondiale, RORC, Arianna Liconti e Francesco, Farci, Caterina Rota e Corrado, Di Nicola Ciaranca, Théa Khelif e Thomas, André, Cowes, ODHWC.
+- Nomi, circoli o luoghi da valutare: Concluso, Solent, Offshore Double Handed World, Championship, Il Mondiale, RORC, Arianna Liconti, Arianna Liconti e Francesco, Farci, Caterina Rota e Corrado, Di Nicola Ciaranca, Théa Khelif e Thomas, André, Cowes.
 - Numeri/date utili da verificare: 2025, 13, 18, 22, 21, 15, 1, 2, 2024, 50.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

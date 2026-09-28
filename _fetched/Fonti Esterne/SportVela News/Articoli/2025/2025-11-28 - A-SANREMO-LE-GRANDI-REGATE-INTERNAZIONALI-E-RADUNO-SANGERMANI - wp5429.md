@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: SANREMO LE GRANDI REGATE, INTERNAZIONALI, RADUNO SANGERMANI, Tornano, Sanremo, Grandi Regate, Grandi Regate Internazionali, Yacht Club Sanremo, Circolo Velico Capo Verde, AIVE. Previsto, Yacht, Epoca, Yacht Classici, Open.
+- Nomi, circoli o luoghi da valutare: SANREMO LE GRANDI REGATE, INTERNAZIONALI, RADUNO SANGERMANI, Tornano, Sanremo, Grandi Regate Internazionali, Yacht Club Sanremo, Circolo Velico Capo Verde, AIVE. Previsto, Yacht, Epoca, Yacht Classici, Open, Classic IOR.
 - Numeri/date utili da verificare: 27, 21, 23, 2026, 130 anni, 1896, 1934, 1946, 230, 300.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: INTERNATIONAL GENOA WINTER CONTEST, OPTIMIST, Genova, International Genoa Winter, Yacht Club Italiano, Divisioni, B. La, Divisione, Gianluca Zorzettig, SN Pietas Julia, Alessandro Antonio Menghini, CV Trasimeno, Roman Vyevyenko, Fraglia Vela Riva.
+- Nomi, circoli o luoghi da valutare: INTERNATIONAL GENOA WINTER CONTEST, OPTIMIST, Genova, Yacht Club Italiano, Divisioni, B. La, Divisione, Gianluca Zorzettig, SN Pietas Julia, Alessandro Antonio Menghini, CV Trasimeno, Roman Vyevyenko, Fraglia Vela Riva, Comitato di Regata.
 - Numeri/date utili da verificare: 1, 150 atleti, 6, 20, 5, 9, 3, 2, 4, 14.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

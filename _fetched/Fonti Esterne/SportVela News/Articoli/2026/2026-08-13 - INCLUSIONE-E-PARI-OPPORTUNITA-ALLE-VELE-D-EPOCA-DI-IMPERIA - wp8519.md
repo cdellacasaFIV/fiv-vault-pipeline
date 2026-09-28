@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: INCLUSIONE, PARI OPPORTUNITÀ ALLE VELE, D’EPOCA DI IMPERIA, Porto di Imperia. Questo, Cadamà, Vele, Epoca di Imperia, Ponente, Comune di Imperia, Assonautica Imperia, Yacht Club di Imperia, Sanremo. Costruita, Cantieri Navali di La, Spezia.
+- Nomi, circoli o luoghi da valutare: INCLUSIONE, PARI OPPORTUNITÀ ALLE VELE, D’EPOCA DI IMPERIA, Porto di Imperia. Questo, Cadamà, Vele, Epoca, Epoca di Imperia, Ponente, Comune di Imperia, Assonautica Imperia, Yacht Club di Imperia, Sanremo. Costruita, Cantieri Navali di La.
 - Numeri/date utili da verificare: 12, 28, 6, 1971, 22.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

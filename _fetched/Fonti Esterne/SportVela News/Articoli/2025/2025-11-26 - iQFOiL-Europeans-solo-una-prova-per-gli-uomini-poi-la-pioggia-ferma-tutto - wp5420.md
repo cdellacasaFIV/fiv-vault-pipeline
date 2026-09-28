@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: Europeans, Sferracavallo, Oggi, Gold e Silver Fleet, L’unica, Nicolas Goyard, Luuc, Opzeeland, Scende, Andy Brown, Finn Hawkins, Pawe, Tarnowski, Dietro.
+- Nomi, circoli o luoghi da valutare: Europeans, Sferracavallo, Oggi, Gold, Gold e Silver Fleet, L’unica, Nicolas Goyard, Luuc, Opzeeland, Scende, Andy Brown, Finn Hawkins, Pawe, Tarnowski.
 - Numeri/date utili da verificare: 10, 19.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

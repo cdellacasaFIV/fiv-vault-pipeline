@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Gaeta, Italiano Assoluto di Vela, Altura Edison Next, Campionato Italiano Assoluto, Altura, Assegnati, Ancona Si, Yacht Club Gaeta E.V.S., FIVillage, Trofeo dei Tre Mari, Trofeo Carlo De Zerbi, Trofeo Armatore Timoniere., PODI DEL CAMPIONATO Gruppo, Classe.
+- Nomi, circoli o luoghi da valutare: Gaeta, Italiano Assoluto di Vela, Altura Edison Next, Campionato Italiano Assoluto, Yacht Club, Assegnati, Altura, Ancona Si, Yacht Club Gaeta E.V.S., FIVillage, Trofeo dei Tre Mari, Trofeo Carlo De Zerbi, Trofeo Armatore Timoniere., PODI DEL CAMPIONATO Gruppo.
 - Numeri/date utili da verificare: 2026, 8, 5 titoli, 2027, 9, 14, 2, 31, 9.98, 998.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

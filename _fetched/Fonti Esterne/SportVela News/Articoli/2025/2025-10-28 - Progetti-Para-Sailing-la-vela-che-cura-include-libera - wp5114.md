@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Progetti Para Sailing, Dott.ssa, Dott.ssa Manuela Chiodetti, Psicologa, Sviluppo, Master, Psicodiagnostica, Para Sailing Team, Federazione Italiana Vela, Tecnici FIV, Para Sailing. In, Come, Consigliere Federale, Para Sailing.
+- Nomi, circoli o luoghi da valutare: Progetti Para Sailing, Dott.ssa Manuela Chiodetti, Psicologa, Sviluppo, Master, Psicodiagnostica, Para Sailing Team, Federazione Italiana Vela, Tecnici FIV, Para Sailing. In, Come, Consigliere Federale, Para Sailing, Fabio Colella.
 - Numeri/date utili da verificare: 48, 360, 2024, 303, 2032.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

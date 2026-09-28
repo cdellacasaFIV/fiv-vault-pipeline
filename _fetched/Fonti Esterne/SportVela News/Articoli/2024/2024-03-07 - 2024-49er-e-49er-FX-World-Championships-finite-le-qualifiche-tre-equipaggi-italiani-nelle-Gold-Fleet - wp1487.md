@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er.
-- Nomi, circoli o luoghi da valutare: FX World Championships, Gold Fleet Si, Lanzarote, FX World, Giornata, FX di, Gold Fleet e Silver, Fleet, Italia, Flotte Gold, Ferrarese-Chistè, Germani-Bertuzzi, Giunchiglia-Schio, FX. In.
+- Nomi, circoli o luoghi da valutare: FX World Championships, Gold Fleet Si, Lanzarote, Giornata, FX di, Gold Fleet e Silver, Fleet, Italia, Flotte Gold, Ferrarese-Chistè, Germani-Bertuzzi, Giunchiglia-Schio, FX. In, Fisher-Pequin.
 - Numeri/date utili da verificare: 2024, 2, 3, 24, 26, 67, 1, 47, 71, 51.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6.
-- Nomi, circoli o luoghi da valutare: CERIALE LA PONENTIVA VA, RIVAROLI, DILDA, L’alassino Matteo Rivaroli, Ponentina, Circolo Nautico Ceriale. Alla, Marco Claveri, Riviera di Ponente. Rivaroli, CNAM Alassio, Alice Secco e Laura, Selvaggio, CN Albenga, Ginevra Poggi, Nell’altro.
+- Nomi, circoli o luoghi da valutare: CERIALE LA PONENTIVA VA, RIVAROLI, DILDA, L’alassino Matteo Rivaroli, Ponentina, Circolo Nautico Ceriale, Circolo Nautico Ceriale. Alla, Marco Claveri, Riviera di Ponente. Rivaroli, CNAM Alassio, Alice Secco e Laura, Selvaggio, CN Albenga, Ginevra Poggi.
 - Numeri/date utili da verificare: 11, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

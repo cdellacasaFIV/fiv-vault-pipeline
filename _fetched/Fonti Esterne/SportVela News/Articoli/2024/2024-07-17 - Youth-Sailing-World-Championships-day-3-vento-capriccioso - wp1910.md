@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, IQFOiL, iQFOiL, 420.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Terzo, Campionato, Vela Giovanile, Programma, Azzurrini, Federico Pilloni, Carola Colasanto, Lisa Vucetti e Vittorio, Bonifacio, Lorenzo Sirena, Alice Dessy, Nacra, Classifiche.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Terzo, Campionato, Vela Giovanile di World, Sailing, Programma, Azzurrini, Federico Pilloni, Carola Colasanto, Lisa Vucetti e Vittorio, Bonifacio, Lorenzo Sirena, Alice Dessy, Nacra.
 - Numeri/date utili da verificare: 3, 10, 420, 15, 418, 19, 70, 18, 8, 00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

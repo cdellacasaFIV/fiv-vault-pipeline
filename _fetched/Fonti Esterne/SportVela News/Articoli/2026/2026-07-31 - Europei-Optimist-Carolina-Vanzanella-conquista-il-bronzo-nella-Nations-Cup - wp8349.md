@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Europei Optimist, Carolina Vanzanella, Nations Cup Carolina Maria, Vanzanella, Nations Cup, Campionati, Carolina Maria Vanzanella, Optimist, Gdynia, Polonia. La, Reale Yacht Club Canottieri, Savoia, Italia, Spagna e Turchia. Vanzanella.
+- Nomi, circoli o luoghi da valutare: Europei Optimist, Carolina Vanzanella, Nations Cup Carolina Maria, Vanzanella, Nations Cup, Campionati, Optimist, Gdynia, Polonia, Carolina Maria Vanzanella, Polonia. La, Reale Yacht Club Canottieri, Savoia, Italia.
 - Numeri/date utili da verificare: 49, 122, 32, 170, 65, 2026, 292 atleti, 50, 229.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

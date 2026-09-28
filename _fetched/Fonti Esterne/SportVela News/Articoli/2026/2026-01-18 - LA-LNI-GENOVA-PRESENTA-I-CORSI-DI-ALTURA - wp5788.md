@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: LA LNI GENOVA PRESENTA, CORSI DI ALTURA, Martedi, LNI Genova, Bacini di Carenaggio, Corso di Vela, Altura, Tutte, Marco Callai, Liguria Sport.
+- Nomi, circoli o luoghi da valutare: LA LNI GENOVA PRESENTA, CORSI DI ALTURA, Martedi, LNI Genova, Bacini, Bacini di Carenaggio, Corso di Vela, Altura, Tutte, Marco Callai, Liguria Sport.
 - Numeri/date utili da verificare: 18, 27, 21,30, 335, 77, 64, 728, 010, 24, 61.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

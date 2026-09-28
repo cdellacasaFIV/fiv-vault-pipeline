@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Optimist, Nugnes, LNI Napoli, Vanzanella, RYCC Savoia, Europeo, Doppia, Campionato Europeo, Seconda, Seconda Selezione Nazionale, Gaeta, Raffaele Nugnes, Lega Navale Italiana, Napoli e Maria Carolina.
+- Nomi, circoli o luoghi da valutare: Optimist, Nugnes, LNI Napoli, Vanzanella, RYCC Savoia, Europeo, Doppia, Campionato Europeo, Seconda Selezione Nazionale, Gaeta, Raffaele Nugnes, Lega Navale Italiana, Napoli e Maria Carolina, Vanzanella del Reale Yacht.
 - Numeri/date utili da verificare: 2026, 10, 24, 31.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

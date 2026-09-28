@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 17.
-- Nomi, circoli o luoghi da valutare: Nacra, Figlia di Granara, Sedmak, Campionato Europeo Federico Figlia, Granara e Caterina Sedmak, Campionato Europeo, Federico Figlia di Granara, Caterina Sedmak, Campionato Europeo Nacra, Eckernförde, Germania. Un, L’atleta del Circolo, Remo e, Vela Italia.
+- Nomi, circoli o luoghi da valutare: Nacra, Figlia di Granara, Sedmak, Campionato Europeo Federico Figlia, Granara e Caterina Sedmak, Campionato Europeo Nacra, Eckernförde, Germania, Federico Figlia di Granara, Caterina Sedmak, Germania. Un, L’atleta del Circolo, Remo e, Vela Italia.
 - Numeri/date utili da verificare: 17, 2025, 24.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Bronzo, LNI Mandello, Campionato Italiano, Squadre Optimist Dal, Cagliari, Squadre, Squadre Optimist, La XV Zona, Lega Navale Italiana, Mandello, Matteo Adduci, Filippo Osti, Lorenzo di Camillo, Roberto Itocchi e Alessandro.
+- Nomi, circoli o luoghi da valutare: Bronzo, LNI Mandello, Campionato Italiano, Squadre Optimist Dal, Cagliari, Squadre Optimist, La XV Zona, Lega Navale Italiana, Mandello, Matteo Adduci, Filippo Osti, Lorenzo di Camillo, Roberto Itocchi e Alessandro, Magra.
 - Numeri/date utili da verificare: 17, 20, 2025, 2, 1, 16, 141, 7, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

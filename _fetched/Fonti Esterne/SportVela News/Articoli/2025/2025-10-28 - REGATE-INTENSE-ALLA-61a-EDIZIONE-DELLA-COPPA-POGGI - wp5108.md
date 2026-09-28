@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7, ILCA 6, ILCA 4, 420.
-- Nomi, circoli o luoghi da valutare: REGATE INTENSE ALLA, EDIZIONE DELLA COPPA POGGI, Genova, Coppa, Coppa Poggi, Yacht Club Italiano, ILCA, Lido, Albaro. Due, Cinque, Comitato di Regata, Classe, Giuseppe Morandini, Alba Ianni.
+- Nomi, circoli o luoghi da valutare: REGATE INTENSE ALLA, EDIZIONE DELLA COPPA POGGI, Genova, Coppa Poggi, Yacht Club, Yacht Club Italiano, ILCA, Lido, Albaro. Due, Cinque, Comitato di Regata, Classe, Giuseppe Morandini, Alba Ianni.
 - Numeri/date utili da verificare: 27, 25, 26, 420, 7, 6, 4, 8, 1936, 1948.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

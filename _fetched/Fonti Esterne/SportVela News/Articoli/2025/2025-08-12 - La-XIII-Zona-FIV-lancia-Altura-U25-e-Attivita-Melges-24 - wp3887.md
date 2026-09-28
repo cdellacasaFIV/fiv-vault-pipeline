@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: La XIII Zona FIV, Altura, Attività Melges, La XIII Zona, Federazione Italiana Vela, Friuli Venezia Giulia, Grazie, Yacht Club Adriaco, XIII Zona FIV, Lorenzo Bressani e Gianfranco, L’obiettivo, Adriano Filippi, Presidente, Comitato di Zona.
+- Nomi, circoli o luoghi da valutare: La XIII Zona FIV, Altura, Attività Melges, Federazione Italiana Vela, Friuli Venezia, Friuli Venezia Giulia, Grazie, Yacht Club Adriaco, XIII Zona FIV, Lorenzo Bressani e Gianfranco, L’obiettivo, Adriano Filippi, Presidente, Comitato di Zona.
 - Numeri/date utili da verificare: 24, 1, 5, 7, 332, 10,30, 2010, 2, 2002, 22.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

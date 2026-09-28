@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: VELE D’EPOCA D’IMPERIA Ancora, Classe Libera, Classe Libera e Gran, Crociera, Vele, Epoca e Classiche, IRC e ORC, Mini, Mediterraneo. Gli, Alessio Marziano, Porto Maurizio Yacht Club, Deve, Quest’anno, Imperia.
+- Nomi, circoli o luoghi da valutare: VELE D’EPOCA D’IMPERIA Ancora, Classe Libera e Gran, Crociera, Vele, Epoca e Classiche, IRC e ORC, Mini, Mediterraneo. Gli, Alessio Marziano, Porto Maurizio Yacht Club, Deve, Quest’anno, Imperia, Tino.
 - Numeri/date utili da verificare: 16, 2, 6.50.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Campionato Europeo, Hansa, Buono, Giulio e Corrado Guerrini., Para Sailing Hansa, Kakapo, Hansa Class, Hansa Class European Championships, L’equipaggio, Giulio e Corrado Guerrini, Marinando, Aps-Asd, XI Zona, Barcellona.
+- Nomi, circoli o luoghi da valutare: Campionato Europeo, Hansa, Buono, Giulio e Corrado Guerrini., Para Sailing Hansa, Kakapo, Hansa Class European Championships, L’equipaggio, Giulio e Corrado Guerrini, Marinando, Aps-Asd, XI Zona, Barcellona, Classe Hansa.
 - Numeri/date utili da verificare: 2026, 303, 2.0, 13, 19, 65 equipaggi, 5, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

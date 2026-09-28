@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Il Presidente, Federazione Italiana Vela, Francesco Ettorre, Consigliera Federale, Caterina Banti, Gedda, Amerigo Vespucci, Presidente, Villaggio Italia. L’evento, Presidente Ettorre, Guido Fienga, Gioacchino Alfano, Difesa Servizi, Durante.
+- Nomi, circoli o luoghi da valutare: Il Presidente, Federazione Italiana Vela, Francesco Ettorre, Consigliera Federale, Caterina Banti, Gedda, Amerigo Vespucci, Presidente, Federazione Italiana, Villaggio Italia. L’evento, Presidente Ettorre, Guido Fienga, Gioacchino Alfano, Difesa Servizi.
 - Numeri/date utili da verificare: 360, 1, 2023, 30, 28, 2025, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

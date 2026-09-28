@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4, IQFOiL, iQFOiL, Techno 293, Waszp.
-- Nomi, circoli o luoghi da valutare: Primo, Campionati Italiani Giovanili, Singolo Kinder Joy, Garda Trentino Inizio, Inizio, Garda Trentino, Peler, Nord, Ora da Sud, Comitati di Regata, Roberto Lachi Il Peler, Dalle, Optimist, ILCA.
+- Nomi, circoli o luoghi da valutare: Primo, Campionati Italiani Giovanili, Singolo Kinder Joy, Garda Trentino Inizio, Garda Trentino, Inizio, Peler, Nord, Ora da Sud, Comitati di Regata, Roberto Lachi Il Peler, Dalle, Optimist, ILCA.
 - Numeri/date utili da verificare: 2025, 18, 20, 25, 7, 6, 8, 12, 13, 150.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

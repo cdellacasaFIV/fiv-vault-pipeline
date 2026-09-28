@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA, ELEONORA FERRONI Rotta, Campionato Europeo Hansa, Grazie, Zona, Europeo, Europeo di Barcellona, Hansa, Hansa Liberty. Ogni, ELEONORA FERRONI, Chiavari, Hansa Liberty, Sarà, Italiana.
+- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA, ELEONORA FERRONI Rotta, Campionato Europeo Hansa, Grazie, Zona, Europeo di Barcellona, Hansa, Hansa Liberty. Ogni, ELEONORA FERRONI, Chiavari, Hansa Liberty, Sarà, Italiana, Europeo. Costretta.
 - Numeri/date utili da verificare: 19, 10, 20, 303, 1, 2017, 2019, 2021, 2023, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

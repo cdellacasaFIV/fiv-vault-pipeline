@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Chiavarini, Medal Race, Borio, Dublin Bay Si, Dublin Bay, ILCA, Men’s World Championship, Dopo, Gold Fleet, Medal Series, Elliot Hanson, Alle, Ryan Lo.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Chiavarini, Medal Race, Borio, Dublin Bay Si, Dublin Bay, ILCA, Men’s World Championship. Dopo, Men’s World Championship, Dopo, Gold Fleet, Medal Series, Elliot Hanson, Alle.
 - Numeri/date utili da verificare: 7, 2026, 11, 30, 62, 64, 65, 76, 83, 86.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

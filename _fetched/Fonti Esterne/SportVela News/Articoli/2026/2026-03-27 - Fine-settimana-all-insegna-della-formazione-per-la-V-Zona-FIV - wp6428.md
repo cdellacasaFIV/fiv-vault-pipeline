@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Fine, Zona FIV Il, Zona Fiv Campania, Pasquale Orofino, Corso Istruttori FIV, Federazione Italiana Vela, Scuola Vela Mascalzone Latino., Riprendono, Zona, Maurizio Iovino, Cristiano Panada. Sono, UdR Giuseppe Lallai, Regolamento, Normativa Safeguarding e.
+- Nomi, circoli o luoghi da valutare: Fine, Zona FIV Il, Zona Fiv Campania, Pasquale Orofino, Corso Istruttori FIV, Federazione Italiana, Federazione Italiana Vela, Scuola Vela Mascalzone Latino., Riprendono, Zona, Maurizio Iovino, Cristiano Panada. Sono, UdR Giuseppe Lallai, Regolamento.
 - Numeri/date utili da verificare: 15, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

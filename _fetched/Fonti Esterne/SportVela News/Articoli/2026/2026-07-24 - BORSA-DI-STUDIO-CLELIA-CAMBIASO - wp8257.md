@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: BORSA DI STUDIO CLELIA, CAMBIASO Ricordiamo, Zona, Ricordiamo, Cambiaso, Ranking Nazionale, Coloro, Ex Presidente Antonio Viretti, Clelia Cambiaso. Le, Comitato, Zona FIV, Viale Padre Santo, Genova, I-ZONA.
+- Nomi, circoli o luoghi da valutare: BORSA DI STUDIO CLELIA, CAMBIASO Ricordiamo, Zona, Borsa, Ricordiamo, Cambiaso, Ranking Nazionale, Coloro, Ex Presidente Antonio Viretti, Clelia Cambiaso. Le, Comitato, Zona FIV, Viale Padre Santo, Genova.
 - Numeri/date utili da verificare: 31, 2026, 1000, 10, 1.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

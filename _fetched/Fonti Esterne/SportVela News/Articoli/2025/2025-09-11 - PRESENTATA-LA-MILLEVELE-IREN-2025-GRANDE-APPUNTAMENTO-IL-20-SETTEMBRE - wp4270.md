@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: PRESENTATA LA MILLEVELE IREN, GRANDE APPUNTAMENTO IL, SETTEMBRE, Sabato, Genova, Millevele IREN, Yacht Club Italiano, Liguria Regione Europea, Sport, Salone Nautico Internazionale, IREN, Title Sponsor. La Millevele, Trofeo Intercircoli Boero Bartolomeo., Genova e.
+- Nomi, circoli o luoghi da valutare: PRESENTATA LA MILLEVELE IREN, GRANDE APPUNTAMENTO IL, SETTEMBRE, Sabato, Genova, Millevele IREN, Yacht, Yacht Club Italiano, Liguria Regione Europea, Sport, Salone Nautico Internazionale, IREN, Title Sponsor. La Millevele, Trofeo Intercircoli Boero Bartolomeo..
 - Numeri/date utili da verificare: 2025, 20, 10, 09.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, 470.
-- Nomi, circoli o luoghi da valutare: Semaine Olympique Française, Hyères, Arriva, Pianosi Oggi, Medal Series, Oggi, Kite, Hyères. Le, Riccardo Pianosi, Boschetti, Medal Race., Ferrari, Dubbini, Berta.
+- Nomi, circoli o luoghi da valutare: Semaine Olympique Française, Hyères, Arriva, Pianosi Oggi, Medal Series, Kite, Semaine, Oggi, Hyères. Le, Riccardo Pianosi, Boschetti, Medal Race., Ferrari, Dubbini.
 - Numeri/date utili da verificare: 25, 470, 6, 8, 2, 7, 4, 5, 17, 26.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

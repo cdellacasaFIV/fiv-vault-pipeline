@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4.
-- Nomi, circoli o luoghi da valutare: Raduno Tecnico Zonale Classe, ILCA Una, XII e XIV Zona, FIV Dal, Circolo Vela Arco, ILCA, L’iniziativa, XII Zona FIV, Consigliere e Responsabile Sportivo, Guido Turra, Veneto, XIV Zona FIV, Garda, Tecnico Federale Matteo Raveglia.
+- Nomi, circoli o luoghi da valutare: Raduno Tecnico Zonale Classe, ILCA Una, XII e XIV Zona, FIV Dal, Circolo Vela, Circolo Vela Arco, ILCA, L’iniziativa, XII Zona FIV, Consigliere e Responsabile Sportivo, Guido Turra, Veneto, XIV Zona FIV, Garda.
 - Numeri/date utili da verificare: 27, 29, 2025, 4, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

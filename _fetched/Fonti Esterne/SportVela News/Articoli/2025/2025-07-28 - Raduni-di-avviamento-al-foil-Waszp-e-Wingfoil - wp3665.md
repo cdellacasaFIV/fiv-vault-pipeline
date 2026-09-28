@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Waszp, WingFoil.
-- Nomi, circoli o luoghi da valutare: Raduni, Waszp e Wingfoil Sempre, Sempre, Foil, La XIV Zona FIV, Waszp, WingFoil, Segue, Campione, XIV Zona FIV, Univela, Marco Francalancia, Torbole, XIV Zona FIV Il.
+- Nomi, circoli o luoghi da valutare: Raduni, Waszp e Wingfoil Sempre, Foil, Sempre, La XIV Zona FIV, Waszp, WingFoil, Segue, Campione, XIV Zona FIV, Univela, Marco Francalancia, Torbole, XIV Zona FIV Il.
 - Numeri/date utili da verificare: 15, 16, 1, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

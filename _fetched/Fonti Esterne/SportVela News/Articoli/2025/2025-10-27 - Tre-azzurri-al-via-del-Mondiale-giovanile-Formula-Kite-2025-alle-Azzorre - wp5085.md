@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Mondiale, Formula Kite, Azzorre Scatta, Praia da Vitória, Terceira, Azzorre, Portogallo, Campionato del Mondo, Scatta, L’Italia, Riccardo Pianosi, Marina Militare, Julio Houze e Giuseppe, Paolillo.
+- Nomi, circoli o luoghi da valutare: Mondiale, Formula Kite, Azzorre Scatta, Praia da Vitória, Terceira, Azzorre, Portogallo, Campionato del Mondo, L’Italia, Scatta, Riccardo Pianosi, Marina Militare, Julio Houze e Giuseppe, Paolillo.
 - Numeri/date utili da verificare: 2025, 1, 21, 2028, 28, 31, 17, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

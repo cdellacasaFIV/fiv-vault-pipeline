@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 17, Nacra 15, ILCA 6, ILCA 4, 420, 470, Waszp.
-- Nomi, circoli o luoghi da valutare: LA XIII ZONA FIV, AI VERTICI DELLA VELA, GIOVANILE INTERNAZIONALE Titoli, Nacra, Titoli, WASZP, Friuli Venezia Giulia. La, Mondiali ILCA, Formula Wing Trieste, XIII Zona FIV, Campionati Mondiali, Europei, Friuli Venezia Giulia, Plymouth.
+- Nomi, circoli o luoghi da valutare: LA XIII ZONA FIV, AI VERTICI DELLA VELA, GIOVANILE INTERNAZIONALE Titoli, Nacra, WASZP, Titoli, Friuli Venezia Giulia. La, Mondiali ILCA, Formula Wing Trieste, XIII Zona FIV, Campionati Mondiali, Europei, Friuli Venezia Giulia, Plymouth.
 - Numeri/date utili da verificare: 15, 17, 470, 420, 4, 6, 7, 2026, 19, 26.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

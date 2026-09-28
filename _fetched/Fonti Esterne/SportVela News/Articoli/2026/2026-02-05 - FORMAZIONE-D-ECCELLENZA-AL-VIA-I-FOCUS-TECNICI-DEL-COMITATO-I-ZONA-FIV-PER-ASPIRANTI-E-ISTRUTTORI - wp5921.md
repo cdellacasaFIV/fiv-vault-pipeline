@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 420, Hansa.
-- Nomi, circoli o luoghi da valutare: FORMAZIONE D’ECCELLENZA, AL VIA, FOCUS TECNICI DEL COMITATO, ZONA FIV PER ASPIRANTI, ISTRUTTORI, Il Comitato, Zona, Focus, Focus Tecnici e Didattici, Aspiranti Istruttori, Organizzati, Staff, Formazione Istruttori, Focus Tecnico.
+- Nomi, circoli o luoghi da valutare: FORMAZIONE D’ECCELLENZA, AL VIA, FOCUS TECNICI DEL COMITATO, ZONA FIV PER ASPIRANTI, ISTRUTTORI, Il Comitato, Zona, Focus Tecnici e Didattici, Aspiranti Istruttori, Organizzati, Staff, Formazione Istruttori, Focus Tecnico, North Sails di Genova.
 - Numeri/date utili da verificare: 4, 09, 00, 18, 6, 7, 8, 28, 420, 6.50.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

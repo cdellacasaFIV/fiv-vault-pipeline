@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: Filippo Osti e Roberto, Itocchi, Biscarrosse Filippo Osti, Roberto Itocchi, Under, L’equipaggio, Campionati del Mondo, Biscarrosse, LNI Mandello, Francia, Campionato Mondiale, Il Mondiale, Temperature, XV Zona FIV.
+- Nomi, circoli o luoghi da valutare: Filippo Osti e Roberto, Itocchi, Biscarrosse Filippo Osti, Roberto Itocchi, Under, L’equipaggio, Campionati, Campionati del Mondo, Biscarrosse, LNI Mandello, Francia, Campionato Mondiale, Il Mondiale, Temperature.
 - Numeri/date utili da verificare: 420, 17, 2026, 6, 8.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

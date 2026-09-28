@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica.
 - Angoli editoriali: classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL, Formula Kite.
-- Nomi, circoli o luoghi da valutare: Fortaleza, World Sailing Championships Test, Event, Pianosi, Brasile Il Test Event, Il Test Event, Italia, Riccardo Pianosi, Gruppo Sportivo Marina Militare, In Brasile, Mondiali World Sailing, Poche, ILCA, Formula Kite.
+- Nomi, circoli o luoghi da valutare: Fortaleza, World Sailing Championships Test, Event, Pianosi, Brasile Il Test Event, Italia, Il Test Event, Riccardo Pianosi, Gruppo Sportivo Marina Militare, In Brasile, Mondiali World Sailing, Poche, ILCA, Formula Kite.
 - Numeri/date utili da verificare: 2027, 24, 31, 26, 30, 11, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

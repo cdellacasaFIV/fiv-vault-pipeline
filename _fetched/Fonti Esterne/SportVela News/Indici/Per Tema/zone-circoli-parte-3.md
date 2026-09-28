@@ -6,6 +6,8 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Aprile 2026 | TECHNO 293 WORLD CHAMPIONSHIPS – DUE MEDAGLIE PER L’ITALIA A FOÇA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-10 - TECHNO-293-WORLD-CHAMPIONSHIPS-DUE-MEDAGLIE-PER-L-ITALIA-A-FOCA - wp6567|nota]] |
+| 9 Aprile 2026 | A VARAZZE LE VELEGGIATE “EASY SAILING SERIES” 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-09 - A-VARAZZE-LE-VELEGGIATE-EASY-SAILING-SERIES-2026 - wp6558|nota]] |
 | 8 Aprile 2026 | Al via a Napoli il Campionato Europeo Formula Wing | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-08 - Al-via-a-Napoli-il-Campionato-Europeo-Formula-Wing - wp6554|nota]] |
 | 7 Aprile 2026 | Trionfo della II Zona al Meeting del Garda Optimist: Valerio Pucci vince la Divisione B | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-07 - Trionfo-della-II-Zona-al-Meeting-del-Garda-Optimist-Valerio-Pucci-vince-la-Divisione-B - wp6545|nota]] |
 | 7 Aprile 2026 | Cervia. Il J24 Jorè dei fratelli Errani vince il Campionato Invernale XX Memorial Stefano Pirini. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-07 - Cervia-Il-J24-Jore-dei-fratelli-Errani-vince-il-Campionato-Invernale-XX-Memorial-Stefano-Pirini - wp6549|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 19 Novembre 2025 | DUE BARCHE SUL PODIO PER IL REVEL SAILING TEAM ALLA 1001VELACUP 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - DUE-BARCHE-SUL-PODIO-PER-IL-REVEL-SAILING-TEAM-ALLA-1001VELACUP-2025 - wp5345|nota]] |
 | 19 Novembre 2025 | 50° INVERNALE DEL TIGULLIO: SECONDO WEEK END ALLE PORTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - 50-INVERNALE-DEL-TIGULLIO-SECONDO-WEEK-END-ALLE-PORTE - wp5342|nota]] |
 | 19 Novembre 2025 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp5340|nota]] |
-| 17 Novembre 2025 | INTENSA ATTIVITÀ PER LA DIREZIONE TECNICA ZONALE DELLA I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - INTENSA-ATTIVITA-PER-LA-DIREZIONE-TECNICA-ZONALE-DELLA-I-ZONA-FIV - wp5333|nota]] |
-| 17 Novembre 2025 | Napoli, la Coppa Knight a Raffica di Pasquale Orofino | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - Napoli-la-Coppa-Knight-a-Raffica-di-Pasquale-Orofino - wp5330|nota]] |

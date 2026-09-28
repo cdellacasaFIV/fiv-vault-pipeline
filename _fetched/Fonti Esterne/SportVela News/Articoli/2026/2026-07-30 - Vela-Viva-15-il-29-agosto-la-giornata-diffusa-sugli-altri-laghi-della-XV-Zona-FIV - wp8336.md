@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Vela Viva, XV Zona FIV Dopo, Ceresio, Lago Maggiore, Como, Orta, Viverone, Iseo, Dopo, Oasi, Airone Cenerino. Il, XV Zona, Dal Lago Maggiore, Lago di Como.
+- Nomi, circoli o luoghi da valutare: Vela Viva, XV Zona FIV Dopo, Ceresio, Lago Maggiore, Como, Orta, Viverone, Iseo, Oasi, Airone Cenerino. Il, Dopo, XV Zona, Dal Lago Maggiore, Lago di Como.
 - Numeri/date utili da verificare: 15, 29, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

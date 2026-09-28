@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 420.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Vilamoura, Portogallo, L’evento, World Sailing, Questa, Formula Kite, Anche, Italia, Atleti, Misto Matteo Mioni, SVB Grignano, Noah Samuel Barbiero, Sirena Klub Nautico.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Vilamoura, Portogallo, Youth Sailing, L’evento, World Sailing, Questa, Formula Kite, Anche, Italia, Atleti, Misto Matteo Mioni, SVB Grignano, Noah Samuel Barbiero.
 - Numeri/date utili da verificare: 2025, 12, 20, 18 anni, 420, 2008, 2007, 2010, 2009, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

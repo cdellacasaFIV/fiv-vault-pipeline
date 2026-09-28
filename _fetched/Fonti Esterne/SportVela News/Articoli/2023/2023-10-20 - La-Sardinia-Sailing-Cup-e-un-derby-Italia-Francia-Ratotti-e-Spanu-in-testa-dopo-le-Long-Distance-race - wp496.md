@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare.
 - Classi/discipline citate: WingFoil.
-- Nomi, circoli o luoghi da valutare: La Sardinia Sailing Cup, Italia-Francia, Ratotti e Spanu, Long Distance, Nizza, Nicolò Spanu, Nicolò Spanu e Francesco, Cappuzzo. Fra, Maddalena Maria Spanu, Ghio, Wylde, Sardinia Sailing Cup, Wingfoil Racing World Cup, Italia e Francia. Una.
+- Nomi, circoli o luoghi da valutare: La Sardinia Sailing Cup, Italia-Francia, Ratotti e Spanu, Long Distance, Nizza, Nicolò Spanu e Francesco, Cappuzzo. Fra, Maddalena, Maddalena Maria Spanu, Ghio, Wylde, Sardinia Sailing Cup, Wingfoil Racing World Cup, Italia e Francia. Una.
 - Numeri/date utili da verificare: 12, 17, 1, 17 anni, 1,5, 2, 4, 3, 4,5, 7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

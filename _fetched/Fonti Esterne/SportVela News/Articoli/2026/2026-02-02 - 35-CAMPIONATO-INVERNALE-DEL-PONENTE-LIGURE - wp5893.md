@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO INVERNALE DEL PONENTE, LIGURE Ipoteche di Velasquez, Manicchia e Whiz, Ipoteche di Velasquez, Ligure, Varazze CN, CN Celle e LNI, Savona. La, Invece, Pertanto, Comitato di Regata, Stefano Carattino, Fabio Casula, Salvatore De Caro.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO INVERNALE DEL PONENTE, LIGURE Ipoteche di Velasquez, Manicchia e Whiz, Campionato, Ipoteche di Velasquez, Ligure, Varazze CN, CN Celle e LNI, Savona. La, Invece, Pertanto, Comitato di Regata, Stefano Carattino, Fabio Casula.
 - Numeri/date utili da verificare: 35, 1, 31, 18, 23, 25, 30, 10, 41, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

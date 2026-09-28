@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: Coppa Italia, Memorial Ballanti-Saiani., PORTO CORSINI, Ravenna, L’Adriatico Wind Club, Memorial, L’ Adriatico Wind Club, Memorial Ballanti-Saiani, Italia, Youth e Junior. Meteo, Lorenza e Dalia, Sabato, Domenica, Under.
+- Nomi, circoli o luoghi da valutare: Coppa Italia, Memorial Ballanti-Saiani., PORTO CORSINI, Ravenna, L’Adriatico Wind Club, Memorial Ballanti-Saiani, L’ Adriatico Wind Club, Italia, Youth e Junior. Meteo, Lorenza e Dalia, Sabato, Domenica, Under, Dopo.
 - Numeri/date utili da verificare: 42 atleti, 10, 11, 21, 17, 19, 7, 8, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MONDIALE, S.I., LA PRIMA GIORNATA PARLA, GENOVESE, Comitato, Comitato di Regata, Campionato del Mondo, Stazza Internazionale. La Riviera, Ponente, Coppa, Sud-Ovest, Andrea Bianchedi, Yacht Club Italiano, Pietro D’Alì.
+- Nomi, circoli o luoghi da valutare: MONDIALE, S.I., LA PRIMA GIORNATA PARLA, GENOVESE, Comitato di Regata, Campionato del Mondo, Stazza Internazionale. La Riviera, Ponente, Coppa, Sud-Ovest, Andrea Bianchedi, Yacht Club Italiano, Pietro D’Alì, America’s Cup.
 - Numeri/date utili da verificare: 29, 13, 12, 10, 5, 30, 21.30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

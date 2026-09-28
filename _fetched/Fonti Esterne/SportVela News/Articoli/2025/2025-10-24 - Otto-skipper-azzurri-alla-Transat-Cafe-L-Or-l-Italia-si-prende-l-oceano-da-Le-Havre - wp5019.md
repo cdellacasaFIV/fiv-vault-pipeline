@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Otto, Transat Café L’Or, Italia, Le Havre Da Le, Havre, Da Le Havre, Atlantico, Transat Café L’Or Le, Havre Normandie, IMOCA, Ambrogio Beccaria, Thomas Ruyant, Allagrande Mapei e Francesca, Clapcich.
+- Nomi, circoli o luoghi da valutare: Otto, Transat Café L’Or, Italia, Le Havre Da Le, Havre, Atlantico, Transat Café L’Or Le, Da Le Havre, Havre Normandie, IMOCA, Ambrogio Beccaria, Thomas Ruyant, Allagrande Mapei e Francesca, Clapcich.
 - Numeri/date utili da verificare: 60, 2, 26, 2025, 4.000, 14, 00, 15, 30, 45.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

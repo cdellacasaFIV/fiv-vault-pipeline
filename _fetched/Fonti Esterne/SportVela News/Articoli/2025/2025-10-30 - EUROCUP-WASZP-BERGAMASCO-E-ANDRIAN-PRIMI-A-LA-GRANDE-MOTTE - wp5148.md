@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Waszp, Wing Foil.
-- Nomi, circoli o luoghi da valutare: EUROCUP WASZP, BERGAMASCO, ANDRIAN PRIMI, LA GRANDE MOTTE Il, Waterfront Sailing Club Genova, Francia, Federico Bergamasco, Il Waterfront Sailing Club, Genova, Federico Bergamasco e Jacopo, Andrian, Simone Malagugini, Federico, Jacopo.
+- Nomi, circoli o luoghi da valutare: EUROCUP WASZP, BERGAMASCO, ANDRIAN PRIMI, LA GRANDE MOTTE Il, Waterfront Sailing Club Genova, Francia, Federico Bergamasco e Jacopo, Andrian, Il Waterfront Sailing Club, Genova, Simone Malagugini, Federico, Jacopo, La Grande Motte.
 - Numeri/date utili da verificare: 30, 21, 8.2, 6.9, 5, 4, 2025, 65, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

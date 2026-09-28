@@ -19,8 +19,8 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 17, Nacra 15, ILCA 6, IQFOiL, iQFOiL, 420, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, L’Italia, Garda Trentino, Garda Trentino Tutti, Alessandra Sensini Il, Garda, Youth Sailing World Championship, Mondiale Giovanile, Federvela, World Sailing, Youth, Italia, Lago di Garda, Numeri.
-- Numeri/date utili da verificare: 12, 19, 13, 2024, 421, 19 anni, 53 anni, 1971, 313 equipaggi, 71.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, L’Italia, Garda, Garda Trentino, Garda Trentino Tutti, Alessandra Sensini Il, Youth Sailing World Championship, Mondiale Giovanile, Federvela, World Sailing, Youth, Italia, Lago di Garda, Numeri.
+- Numeri/date utili da verificare: 12, 19, 2024, 13, 421, 19 anni, 53 anni, 1971, 313 equipaggi, 71.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

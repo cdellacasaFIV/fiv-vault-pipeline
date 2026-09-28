@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: Paris, Marseille, Skiff Domenica di, Giochi Olimpici di Parigi, Domenica di, Marsiglia, Germani-Bertuzzi, FX. Per Renna, Maggetti, Condizioni, Skiff, Italia, Paesi Bassi e Francia, Nuova Zelanda.
+- Nomi, circoli o luoghi da valutare: Paris, Marseille, Skiff Domenica di, Giochi Olimpici di Parigi, Marsiglia, Domenica di, Germani-Bertuzzi, FX. Per Renna, Maggetti, Condizioni, Skiff, Italia, Paesi Bassi e Francia, Nuova Zelanda.
 - Numeri/date utili da verificare: 2024, 12, 9, 5, 7, 6, 470, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

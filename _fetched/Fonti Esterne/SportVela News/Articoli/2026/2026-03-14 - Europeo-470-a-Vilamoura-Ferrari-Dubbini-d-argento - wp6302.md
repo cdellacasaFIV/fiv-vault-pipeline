@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: Europeo, Vilamoura, Ferrari-Dubbini, Italia, Campionato Europeo, Portogallo. Dopo, Medal Series, Giacomo Ferrari, Marina Militare, Alessandra Dubbini, Guardia di Finanza, Martin Wrigley, Bettine Harris, Jordi Xammar Hernández.
+- Nomi, circoli o luoghi da valutare: Europeo, Vilamoura, Ferrari-Dubbini, Italia, Campionato Europeo, Portogallo, Portogallo. Dopo, Medal Series, Giacomo Ferrari, Marina Militare, Alessandra Dubbini, Guardia di Finanza, Martin Wrigley, Bettine Harris.
 - Numeri/date utili da verificare: 470, 21, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

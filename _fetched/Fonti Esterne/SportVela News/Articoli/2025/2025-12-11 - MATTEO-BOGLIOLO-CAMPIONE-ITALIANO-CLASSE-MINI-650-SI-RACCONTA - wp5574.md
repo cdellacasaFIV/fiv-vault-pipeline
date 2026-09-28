@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MATTEO BOGLIOLO, CAMPIONE ITALIANO CLASSE MINI, SI RACCONTA, Sabato, Circolo Nautico, Circolo Nautico Rapallo, Langano, Rapallo, Campione Italiano Classe, A. R..
+- Nomi, circoli o luoghi da valutare: MATTEO BOGLIOLO, CAMPIONE ITALIANO CLASSE MINI, SI RACCONTA, Sabato, Circolo Nautico Rapallo, Langano, Rapallo, Campione Italiano Classe, A. R..
 - Numeri/date utili da verificare: 650, 10, 13, 16, 00, 21.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

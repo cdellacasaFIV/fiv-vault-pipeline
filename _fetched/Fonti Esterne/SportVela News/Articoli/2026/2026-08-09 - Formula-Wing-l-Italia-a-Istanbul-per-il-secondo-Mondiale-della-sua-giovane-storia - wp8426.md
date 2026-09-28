@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL, Techno 293, WingFoil.
-- Nomi, circoli o luoghi da valutare: Formula Wing, Italia, Istanbul, Mondiale, Cinque, Mattia Camboni, Maddalena Spanu, Francesco Cappuzzo, Turchia, Fenerbahçe Sailing Club, Dalle, La Federazione Italiana Vela, Alessandro José Tomasi, Fraglia Vela Riva.
+- Nomi, circoli o luoghi da valutare: Formula Wing, Italia, Istanbul, Mondiale, Cinque, Mattia Camboni, Maddalena, Maddalena Spanu, Francesco Cappuzzo, Turchia, Fenerbahçe Sailing Club, Dalle, La Federazione Italiana Vela, Alessandro José Tomasi.
 - Numeri/date utili da verificare: 10, 15, 100 atleti, 21, 7, 2026, 100, 2025, 1976, 293.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

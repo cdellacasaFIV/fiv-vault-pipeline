@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, IQFOiL, iQFOiL, 420.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Cardi, Tognocchi, Mix Quan Cardi, Mattia Tognocchi, Youth Sailing World, Quan Cardi e Mattia, Buzios, Maschile, Mista Quan Cardi, Femminile Ottavo, Emma Maltese e Elena, Sofia Urti., Femminile Continua.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Cardi, Tognocchi, Mix Quan Cardi, Mattia Tognocchi, Quan Cardi e Mattia, Buzios, Maschile, Mista Quan Cardi, Femminile Ottavo, Emma Maltese e Elena, Sofia Urti., Femminile Continua, Malika Bellomi e Beatrice.
 - Numeri/date utili da verificare: 420, 6, 15, 34, 44, 65, 18, 22, 25, 30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

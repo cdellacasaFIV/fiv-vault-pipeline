@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MESE RICCO DI IMPEGNI, PER LA LNI CHIAVARI, LAVAGNA, Chiavari, Chiavari e Lavagna, Lega Navale, Partenza, Ilaria Alpi, Filarmonica, A-B-C, D-E-F, Carta dei, Panathlon. Il, FARA.
+- Nomi, circoli o luoghi da valutare: MESE RICCO DI IMPEGNI, PER LA LNI CHIAVARI, LAVAGNA, Chiavari e Lavagna, Lega Navale, Partenza, Ilaria Alpi, Filarmonica, A-B-C, D-E-F, Carta dei, Panathlon. Il, FARA, GENTE di MARE.
 - Numeri/date utili da verificare: 14, 13, 19, 5, 22, 26, 7, 250 bambini, 29, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

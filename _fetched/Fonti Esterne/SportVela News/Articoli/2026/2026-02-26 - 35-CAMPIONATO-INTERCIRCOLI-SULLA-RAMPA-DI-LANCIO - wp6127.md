@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO INTERCIRCOLI SULLA RAMPA, DI LANCIO Prime, Genova, Prime, Campionato Intercircoli, Scatta, Insieme, Gran Crociera e Metrica, Rating FIV, Levante, Ponente, Varazze, D-Marin, Marina di Varazze. Sabato.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO INTERCIRCOLI SULLA RAMPA, DI LANCIO Prime, Genova, Campionato Intercircoli, Scatta, Prime, Insieme, Gran Crociera e Metrica, Rating FIV, Levante, Ponente, Varazze, D-Marin, Marina di Varazze. Sabato.
 - Numeri/date utili da verificare: 35, 25, 2 giorni, 28, 1, 7, 8, 21, 22, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

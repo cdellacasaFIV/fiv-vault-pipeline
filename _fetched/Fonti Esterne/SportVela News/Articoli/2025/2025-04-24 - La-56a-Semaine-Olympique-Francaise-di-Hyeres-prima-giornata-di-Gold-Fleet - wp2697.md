@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: Semaine Olympique Française, Hyères, Gold Fleet Oggi, Gold Fleet, Oggi, Hyères. Le, Ferrari, Dubbini, Berta, Calabrò, Pezzilli, Torroni, FX Germani, Caruso.
+- Nomi, circoli o luoghi da valutare: Semaine Olympique Française, Hyères, Gold Fleet Oggi, Gold Fleet, Hyères. Le, Oggi, Ferrari, Dubbini, Berta, Calabrò, Pezzilli, Torroni, FX Germani, Caruso.
 - Numeri/date utili da verificare: 24, 470, 8, 6, 1, 2, 7, 14, 10, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, 420, 470, Waszp, WingFoil.
-- Nomi, circoli o luoghi da valutare: Comitato di Zona Formazione, XIII Zona FIV, Formazione, La XIII Zona, Federazione Italiana Vela, Presso, TPK CNT Sirena, Presidente di Zona Adriano, Filippi, Direttrice Sportiva Zonale Giulia, Pignolo, Alberto Bazzeo, L’attività, XIII Zona.
+- Nomi, circoli o luoghi da valutare: Comitato di Zona Formazione, XIII Zona FIV, La XIII Zona, Federazione Italiana Vela, Formazione, Presso, TPK CNT Sirena, Presidente di Zona Adriano, Filippi, Direttrice Sportiva Zonale Giulia, Pignolo, Alberto Bazzeo, L’attività, XIII Zona.
 - Numeri/date utili da verificare: 2026, 2025, 34, 10, 20, 420, 15, 470, 14, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

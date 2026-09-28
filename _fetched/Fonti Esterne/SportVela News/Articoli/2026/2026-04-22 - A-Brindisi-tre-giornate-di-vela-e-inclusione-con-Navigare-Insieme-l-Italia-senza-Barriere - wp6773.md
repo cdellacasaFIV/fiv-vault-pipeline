@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Brindisi, Navigare Insieme, Italia, Barriere, Lega Navale Italiana, Sezione di Brindisi, Federazione Italiana Vela, UniCredit, Fondo Carta Etica. Il, Dopo, Para Sailing., Carmelo Forastieri, Team Nazionale Para Sailing, Associazione Italiana Classe Hansa.
+- Nomi, circoli o luoghi da valutare: Brindisi, Navigare Insieme, Italia, Barriere, Lega Navale Italiana, Sezione di Brindisi, Navigare, Federazione Italiana Vela, UniCredit, Fondo Carta Etica. Il, Dopo, Para Sailing., Carmelo Forastieri, Team Nazionale Para Sailing.
 - Numeri/date utili da verificare: 21, 23, 2025, 11, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

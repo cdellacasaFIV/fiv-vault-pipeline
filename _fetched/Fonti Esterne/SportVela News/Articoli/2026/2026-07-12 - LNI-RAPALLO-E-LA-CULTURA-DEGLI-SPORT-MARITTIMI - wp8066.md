@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: LNI RAPALLO, LA CULTURA DEGLI SPORT, MARITTIMI, Pierangelo Paganini, LNI Rapallo. Tutte, Tutte, Liguria Sport, Video, Simone Fargnoli.
+- Nomi, circoli o luoghi da valutare: LNI RAPALLO, LA CULTURA DEGLI SPORT, MARITTIMI, Pierangelo Paganini, LNI Rapallo. Tutte, Liguria Sport.Video, Tutte, Liguria Sport, Video, Simone Fargnoli.
 - Numeri/date utili da verificare: 2, 2026, 07, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

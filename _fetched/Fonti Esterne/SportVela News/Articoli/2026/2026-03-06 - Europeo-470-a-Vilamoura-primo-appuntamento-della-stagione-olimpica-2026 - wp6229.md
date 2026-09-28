@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, para/inclusione, media/storytelling.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: Europeo, Vilamoura, Equipaggi, Marina de Vilamoura, Portogallo. Dal, Campionato Europeo, Italia, Algarve, Capable Planet Clube Nautico, International, Class Association, L’evento, Medal Series, La Federazione Italiana Vela.
+- Nomi, circoli o luoghi da valutare: Europeo, Vilamoura, Equipaggi, Marina de Vilamoura, Portogallo, Portogallo. Dal, Campionato Europeo, Italia, Algarve, Capable Planet Clube Nautico, International, Class Association, L’evento, Medal Series.
 - Numeri/date utili da verificare: 470, 2026, 9, 21, 6, 14, 7, 8, 11, 00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

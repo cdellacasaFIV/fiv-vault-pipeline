@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: VELE D’EPOCA DELL’ALTO TIRRENO, TROFEO VALDETTARO Terza, Grazie di Portovenere, Terza, Lega Navale Italiana Sezione, Spezia, Sezione Velica, Marina Militare, Cantiere Valdettaro, Golfo, Grazie di Porto Venere, Coppa AIVE del Tirreno, Trofeo Artiglio, Alle.
+- Nomi, circoli o luoghi da valutare: VELE D’EPOCA DELL’ALTO TIRRENO, TROFEO VALDETTARO Terza, Grazie di Portovenere, Lega, Terza, Lega Navale Italiana Sezione, Spezia, Sezione Velica, Marina Militare, Cantiere Valdettaro, Golfo, Grazie di Porto Venere, Coppa AIVE del Tirreno, Trofeo Artiglio.
 - Numeri/date utili da verificare: 11, 14, 16, 2026, 60, 70, 80, 100 anni, 5.50, 1949.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

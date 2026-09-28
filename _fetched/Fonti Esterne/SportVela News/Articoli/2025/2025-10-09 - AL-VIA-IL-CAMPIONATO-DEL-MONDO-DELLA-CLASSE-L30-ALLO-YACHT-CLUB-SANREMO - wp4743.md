@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, 470, RS21.
-- Nomi, circoli o luoghi da valutare: AL VIA IL CAMPIONATO, DEL MONDO DELLA CLASSE, ALLO YACHT CLUB SANREMO, Prende, Campionato del Mondo, Classe, Yacht Club Sanremo. L’evento, Stati Uniti, Ancora, Yacht Club Sanremo, Regione Liguria e, Comune di Sanremo. La, DAARI, Campione.
+- Nomi, circoli o luoghi da valutare: AL VIA IL CAMPIONATO, DEL MONDO DELLA CLASSE, ALLO YACHT CLUB SANREMO, Prende, Campionato del Mondo, Classe, Yacht Club, Yacht Club Sanremo. L’evento, Stati Uniti, Ancora, Yacht Club Sanremo, Regione Liguria e, Comune di Sanremo. La, DAARI.
 - Numeri/date utili da verificare: 7, 11, 470, 2004, 15, 19, 23, 24, 26.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

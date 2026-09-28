@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Nacra 15, 420.
-- Nomi, circoli o luoghi da valutare: ITALIANI GIOVANILI CLASSI IN, DOPPIO, PESCARA, Primo, Campionati Italiani Giovanili, Grande, RSFeva, Nacra, Hobie Cat, Spi e Hobie Dragoon, Eventi, Regata FIV, Club Nautico Pescara, Svagamente e.
+- Nomi, circoli o luoghi da valutare: ITALIANI GIOVANILI CLASSI IN, DOPPIO, PESCARA, Primo, Campionati Italiani Giovanili, Regata FIV, Grande, RSFeva, Nacra, Hobie Cat, Spi e Hobie Dragoon, Eventi, Club Nautico Pescara, Svagamente e.
 - Numeri/date utili da verificare: 1, 420, 15, 16, 281, 562, 13, 8, 10, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

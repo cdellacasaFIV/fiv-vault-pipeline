@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 420, 470.
-- Nomi, circoli o luoghi da valutare: IMPERIA WINTER REGATTA, VENTO, TANTE REGATE CHIUDONO L’EDIZIONE, NUMERO, Chiusura, Yacht, Yacht Club Imperia, Regione Liguria e, Comune di Imperia, Assonautica, Marina di Imperia, Come, Spagna, Slovenia.
+- Nomi, circoli o luoghi da valutare: IMPERIA WINTER REGATTA, VENTO, TANTE REGATE CHIUDONO L’EDIZIONE, NUMERO, Chiusura, Yacht Club Imperia, Regione, Regione Liguria e, Comune di Imperia, Assonautica, Marina di Imperia, Come, Spagna, Slovenia.
 - Numeri/date utili da verificare: 36, 8, 2025, 420, 470, 8.30, 19, 17, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

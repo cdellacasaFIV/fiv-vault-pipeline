@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite, Europei di Akyaka, Pianosi, In Turchia, Riccardo Pianosi, Gruppo Sportivo Marina Militare, Tiana Laporte, Giorgia Speciale e Maddalena, Spanu, Dopo, Campionati Europei di Formula, Kite di Akyaka, Turchia, Prova.
+- Nomi, circoli o luoghi da valutare: Formula Kite, Europei di Akyaka, Pianosi, In Turchia, Riccardo Pianosi, Gruppo Sportivo, Gruppo Sportivo Marina Militare, Tiana Laporte, Giorgia Speciale e Maddalena, Spanu, Dopo, Campionati Europei di Formula, Kite di Akyaka, Turchia.
 - Numeri/date utili da verificare: 15, 20, 6, 2, 1, 7, 8, 12, 13, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

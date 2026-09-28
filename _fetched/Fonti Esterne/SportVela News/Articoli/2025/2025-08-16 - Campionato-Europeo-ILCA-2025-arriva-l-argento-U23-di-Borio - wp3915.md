@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7, ILCA 6.
-- Nomi, circoli o luoghi da valutare: Campionato Europeo ILCA, Borio Oggi, Oggi, Marstrand, Svezia. Le, L’Italia, Attilio Borio, ILCA, Maschile, Classifica Finale, Michael Beckett, George Gautrey, Duko Bos, Ethan McAullay.
+- Nomi, circoli o luoghi da valutare: Campionato Europeo ILCA, Borio Oggi, Marstrand, Svezia. Le, Oggi, L’Italia, Attilio Borio, ILCA, Maschile, Classifica Finale, Michael Beckett, George Gautrey, Duko Bos, Ethan McAullay.
 - Numeri/date utili da verificare: 2025, 7, 10, 6, 9.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

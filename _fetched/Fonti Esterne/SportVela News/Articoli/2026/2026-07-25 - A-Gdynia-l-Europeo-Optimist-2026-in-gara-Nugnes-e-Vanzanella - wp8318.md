@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Gdynia, Europeo Optimist, Nugnes e Vanzanella Fino, Polonia, Mar Baltico, Fino, Campionato Europeo Optimist, Saranno, Paesi, Optimist. Il Campionato Europeo, Optimist, Campionato Europeo Maschile, Campionato Europeo Femminile, Campione Europeo Maschile.
+- Nomi, circoli o luoghi da valutare: Gdynia, Europeo Optimist, Nugnes e Vanzanella Fino, Polonia, Mar Baltico, Campionato Europeo Optimist, Fino, Saranno, Paesi, Optimist. Il Campionato Europeo, Optimist, Campionato Europeo Maschile, Campionato Europeo Femminile, Campione Europeo Maschile.
 - Numeri/date utili da verificare: 2026, 31, 35, 15, 292, 50, 229, 63, 170, 122.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

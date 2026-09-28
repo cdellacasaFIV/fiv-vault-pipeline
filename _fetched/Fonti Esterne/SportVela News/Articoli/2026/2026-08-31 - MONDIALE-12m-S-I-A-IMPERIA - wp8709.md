@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MONDIALE, S.I., IMPERIA Seconda, Campionato, Seconda, Campionato del Mondo, Stazza Internazionale di Imperia, Yacht Club Italiano, Andrea Bianchedi, Merito, Pietro D’Alì, Flavio Favini e Tiziano, Nava. Seguono Kookaburra II, Patrizio Bertelli.
+- Nomi, circoli o luoghi da valutare: MONDIALE, S.I., IMPERIA Seconda, Campionato del Mondo, Stazza Internazionale di Imperia, Seconda, Yacht Club Italiano, Andrea Bianchedi, Merito, Pietro D’Alì, Flavio Favini e Tiziano, Nava. Seguono Kookaburra II, Patrizio Bertelli, Prada e Luna Rossa.
 - Numeri/date utili da verificare: 30, 12, 21.30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Roberto Zanasi, Campionato Italiano, Marblehead. Un, Ravenna, Campionato, Marblehead. Dal, Italia, La Vela Radiocomandata, Marblehead, Massimo Morin, Yacht Club Monfalcone, Elio Cavallo.
+- Nomi, circoli o luoghi da valutare: Roberto Zanasi, Campionato Italiano, Marblehead. Un, Ravenna, Marblehead. Dal, Italia, La Vela Radiocomandata, Marblehead, Massimo Morin, Yacht Club Monfalcone, Elio Cavallo.
 - Numeri/date utili da verificare: 5, 7, 20, 24, 1,28.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

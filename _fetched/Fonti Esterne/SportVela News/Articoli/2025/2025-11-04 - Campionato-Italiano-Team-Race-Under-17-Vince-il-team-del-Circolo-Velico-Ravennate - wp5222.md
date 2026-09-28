@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano Team Race, Under, Vince, Circolo Velico Ravennate Marina, Ravenna, Circolo Velico Ravennate, Marina di Ravenna, Team Race Under, Nicola Bissi, Fraglia Vela Riva, Federazione Italiana Vela, RS Feva, Circolo Nautico del Savio, Sant Bart.
+- Nomi, circoli o luoghi da valutare: Campionato Italiano Team Race, Under, Vince, Circolo Velico Ravennate Marina, Ravenna, Circolo Velico Ravennate, Team Race Under, Marina di Ravenna, Nicola Bissi, Fraglia Vela Riva, Federazione Italiana Vela, RS Feva, Circolo Nautico del Savio, Sant Bart.
 - Numeri/date utili da verificare: 17, 3, 2025, 2, 2026, 31.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

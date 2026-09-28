@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Luigi Cantarelli, Regata Benemerito. Luigi Cantarelli, Regata Benemerito, Federazione Italiana Vela, Federazione Italiana Vela. Conosciuto, Gigi, Circolo Velico Ravennate. Un, Crediti, Facebook del Circolo Velico, Ravennate..
+- Nomi, circoli o luoghi da valutare: Luigi Cantarelli, Regata Benemerito. Luigi Cantarelli, Regata Benemerito, Federazione Italiana Vela. Conosciuto, Gigi, Circolo Velico Ravennate. Un, Crediti, Facebook del Circolo Velico, Ravennate..
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Il Mondiale O’Pen Skiff, Calasetta Il Campionato Europeo, Sardegna, Il Campionato Europeo, Importante, O’Pen Skiff, Campionato Europeo, Calasetta, Campionato del Mondo, Tahe Outdoors France, Tribunale Commerciale di Vannes, Francia. La, Australia, Campionato Europeo di Calasetta.
+- Nomi, circoli o luoghi da valutare: Il Mondiale O’Pen Skiff, Calasetta Il Campionato Europeo, Sardegna, Importante, Il Campionato Europeo, O’Pen Skiff, Campionato Europeo, Calasetta, Campionato del Mondo, Tahe Outdoors France, Tribunale Commerciale di Vannes, Francia. La, Australia, Campionato Europeo di Calasetta.
 - Numeri/date utili da verificare: 2026, 25, 31, 27.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

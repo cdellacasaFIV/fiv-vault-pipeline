@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: Campionato Europeo Nacra, Vilamoura, Portogallo Oggi, Oggi, Portogallo. La, Marina di Vilamoura, Medal Race., Nacra, Jana Germani, Primo, Usciamo, Avevamo, Siamo, Gianluigi Ugolini.
+- Nomi, circoli o luoghi da valutare: Campionato Europeo Nacra, Vilamoura, Portogallo Oggi, Portogallo. La, Oggi, Marina di Vilamoura, Medal Race., Nacra, Jana Germani, Primo, Usciamo, Avevamo, Siamo, Gianluigi Ugolini.
 - Numeri/date utili da verificare: 17, 2023, 400, 34, 100, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: Mixed Dinghy European Championship, Berta Festo, Secondo, Campionato Europeo Mixed Dinghy, Yacht Club de Cannes, Yacht Club de Cannes., L’evento, Giochi Olimpici di Parigi, Giornata, Ferrari Dubbini, Olimpiadi, Campionato Europeo, Europa, Oltre.
+- Nomi, circoli o luoghi da valutare: Mixed Dinghy European Championship, Berta Festo, Secondo, Campionato Europeo Mixed Dinghy, Yacht Club de Cannes., L’evento, Giochi Olimpici di Parigi, Giornata, Ferrari Dubbini, Olimpiadi, Campionato Europeo, Europa, Oltre, Cannes. Si.
 - Numeri/date utili da verificare: 470, 12, 2024, 80 giorni.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

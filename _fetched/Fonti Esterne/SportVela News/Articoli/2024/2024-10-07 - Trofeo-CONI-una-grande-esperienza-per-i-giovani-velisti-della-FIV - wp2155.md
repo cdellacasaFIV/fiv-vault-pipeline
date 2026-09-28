@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Trofeo CONI, FIV Catania, Catania, Italia. L’evento, La Federazione Italiana Vela, Optimist, RS Feva, Alessandra Sensini, Direttore Tecnico, Squadra Giovanile, Il Trofeo CONI, Quest’anno, Voglio, Circolo Nautico Nic.
+- Nomi, circoli o luoghi da valutare: Trofeo CONI, FIV Catania, Italia. L’evento, Catania, La Federazione Italiana Vela, Optimist, RS Feva, Alessandra Sensini, Direttore Tecnico, Squadra Giovanile, Il Trofeo CONI, Quest’anno, Voglio, Circolo Nautico Nic.
 - Numeri/date utili da verificare: 2024, 17, 4, 5, 14, 15, 11, 14 anni.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

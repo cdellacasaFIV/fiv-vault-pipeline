@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Waszp.
-- Nomi, circoli o luoghi da valutare: FEDERICO BERGAMASCO CAMPIONE MONDIALE, OVERALL, NEI WASZP JACOPO ANDRIAN, LEADER NEI, Weymouth, Federico Bergamasco, JACOPO ANDRIAN LEADER NEI, WASZP, L’atleta del Waterfront Sailing, Club Genova e, Team Dry Laps, Simone Malagugini, Pablo Astiazaran, Under.
+- Nomi, circoli o luoghi da valutare: FEDERICO BERGAMASCO CAMPIONE MONDIALE, OVERALL, NEI WASZP JACOPO ANDRIAN, LEADER NEI, Weymouth, Federico Bergamasco, WASZP, L’atleta, JACOPO ANDRIAN LEADER NEI, L’atleta del Waterfront Sailing, Club Genova e, Team Dry Laps, Simone Malagugini, Pablo Astiazaran.
 - Numeri/date utili da verificare: 6.9, 26, 21, 214, 20, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

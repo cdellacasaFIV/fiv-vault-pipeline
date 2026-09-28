@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Penultimo, Gaeta, Altura Edison Next, Campionato Italiano Assoluto, Velisti, Gruppo, Sabato, Yacht Club Gaeta E.V.S.., Partita, Regata, Golfo di Gaeta, Campania, Minturno, Punta Stendardo. Da.
+- Nomi, circoli o luoghi da valutare: Penultimo, Gaeta, Altura Edison Next, Campionato Italiano Assoluto, Yacht Club Gaeta E.V.S.., Velisti, Gruppo, Sabato, Partita, Regata, Golfo di Gaeta, Campania, Minturno, Punta Stendardo. Da.
 - Numeri/date utili da verificare: 2026, 1, 2, 27, 25, 12, 00, 17, 8, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

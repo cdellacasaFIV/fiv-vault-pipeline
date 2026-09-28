@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6.
-- Nomi, circoli o luoghi da valutare: CHIOGGIAVELA, CHIUDE CON UN GRANDE, SUCCESSO, LA VELA CONQUISTA LA, CITTÀ Entusiasmo, Quarantacinque, Entusiasmo, Trofeo ChioggiaVela, Bacino di Vigo, Circoli, Chioggia, Un’edizione, BARCHE PER IL TROFEO, CHIOGGIAVELA Sabato.
+- Nomi, circoli o luoghi da valutare: CHIOGGIAVELA, CHIUDE CON UN GRANDE, SUCCESSO, LA VELA CONQUISTA LA, CITTÀ Entusiasmo, Quarantacinque, Trofeo ChioggiaVela, Bacino, Entusiasmo, Bacino di Vigo, Circoli, Chioggia, Un’edizione, BARCHE PER IL TROFEO.
 - Numeri/date utili da verificare: 2026, 35, 29, 20, 45, 50, 2025, 48, 2020, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

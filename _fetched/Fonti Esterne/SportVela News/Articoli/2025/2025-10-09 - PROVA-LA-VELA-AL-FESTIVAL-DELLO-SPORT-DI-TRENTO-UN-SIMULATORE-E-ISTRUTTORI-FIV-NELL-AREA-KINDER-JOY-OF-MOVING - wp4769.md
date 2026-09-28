@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: PROVA LA VELA AL, FESTIVAL DELLO SPORT DI, TRENTO, UN SIMULATORE, ISTRUTTORI FIV NELL’AREA KINDER, JOY OF MOVING La, Federazione Italiana Vela, Festival, Sport di Trento, La Federazione Italiana Vela, XIV Zona, Kinder Joy, Moving, Piazza Dante.
+- Nomi, circoli o luoghi da valutare: PROVA LA VELA AL, FESTIVAL DELLO SPORT DI, TRENTO, UN SIMULATORE, ISTRUTTORI FIV NELL’AREA KINDER, JOY OF MOVING La, Federazione Italiana Vela, Festival, Sport di Trento, XIV Zona, La Federazione Italiana Vela, Kinder Joy, Moving, Piazza Dante.
 - Numeri/date utili da verificare: 350, 9, 10, 1000, 9,00, 13,00, 14,00, 15,00, 18,00, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

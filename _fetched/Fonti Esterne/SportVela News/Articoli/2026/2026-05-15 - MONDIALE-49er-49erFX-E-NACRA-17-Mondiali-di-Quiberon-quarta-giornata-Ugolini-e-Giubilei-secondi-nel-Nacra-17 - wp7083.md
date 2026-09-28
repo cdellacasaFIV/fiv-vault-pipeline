@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: MONDIALE, NACRA, Mondiali di Quiberon, Ugolini e Giubilei, Prima, Finals, Baia di Quiberon. Tutte, Tiered Finals, Campionato del Mondo, Tutte, Baia di Quiberon., Cambio, Seb Menzies e George, Lee Rush.
+- Nomi, circoli o luoghi da valutare: MONDIALE, NACRA, Mondiali di Quiberon, Ugolini e Giubilei, Prima, Finals, Baia di Quiberon. Tutte, Tiered Finals, Campionato, Campionato del Mondo, Tutte, Baia di Quiberon., Cambio, Seb Menzies e George.
 - Numeri/date utili da verificare: 17, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

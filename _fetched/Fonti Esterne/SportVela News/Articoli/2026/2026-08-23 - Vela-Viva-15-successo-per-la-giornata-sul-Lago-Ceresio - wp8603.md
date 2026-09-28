@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Vela Viva, Lago Ceresio Sabato, Lago Ceresio, Sabato, XV Zona, Circolo Velico Ceresio, SICS, Accanto, Scuola Vela, Ceresio, Il Comitato XV Zona, Dopo, Lago Maggiore, Lago di Como.
+- Nomi, circoli o luoghi da valutare: Vela Viva, Lago Ceresio Sabato, Lago Ceresio, XV Zona, Sabato, Circolo Velico Ceresio, SICS, Accanto, Scuola Vela, Ceresio, Il Comitato XV Zona, Dopo, Lago Maggiore, Lago di Como.
 - Numeri/date utili da verificare: 15, 22, 2026, 29.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

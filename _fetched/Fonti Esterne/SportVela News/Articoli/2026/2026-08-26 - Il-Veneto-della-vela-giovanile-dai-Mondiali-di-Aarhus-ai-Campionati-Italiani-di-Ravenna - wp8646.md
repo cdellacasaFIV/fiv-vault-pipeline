@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4.
-- Nomi, circoli o luoghi da valutare: Il Veneto, Mondiali di Aarhus, Campionati Italiani di Ravenna, XII Zona FIV Veneto., Prima Alba Maria, Prima Alba Maria Zardetto, Martino Paone Mittner, Mondiali ILCA, Giulia Marella, Mondiale ILCA, Marina di Ravenna, Campionati Italiani Giovanili, Singolo Kinder Joy, Moving.
+- Nomi, circoli o luoghi da valutare: Il Veneto, Mondiali di Aarhus, Campionati Italiani di Ravenna, XII Zona FIV Veneto., Prima Alba Maria Zardetto, Martino Paone Mittner, Mondiali, Mondiali ILCA, Giulia Marella, Mondiale ILCA, Marina di Ravenna, Campionati Italiani Giovanili, Singolo Kinder Joy, Moving.
 - Numeri/date utili da verificare: 4, 6, 29, 1, 2026, 9, 448, 52, 298, 150.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

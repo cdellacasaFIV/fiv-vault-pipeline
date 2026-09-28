@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7, ILCA 6.
-- Nomi, circoli o luoghi da valutare: Campionato Europeo ILCA, Marstrand, Svezia, ILCA, Femminile e ILCA, Maschile. La, Federazione Europea. Una, Under, Classifiche Provvisorie, Duko Bos, George Gautrey, Willem Wiersema, Chiara Benini Floriani, Emma Plasschaert.
+- Nomi, circoli o luoghi da valutare: Campionato Europeo ILCA, Marstrand, Svezia, ILCA, Femminile, Femminile e ILCA, Maschile. La, Federazione Europea. Una, Under, Classifiche Provvisorie, Duko Bos, George Gautrey, Willem Wiersema, Chiara Benini Floriani.
 - Numeri/date utili da verificare: 2025, 7, 6, 16, 288, 45, 32, 23, 1, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

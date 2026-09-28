@@ -20,7 +20,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: IQFOiL, iQFOiL, WingFoil.
 - Nomi, circoli o luoghi da valutare: Napoli, Campionato Europeo Formula Wing, Golfo di Napoli, Formula Wing, Presente, Maddalena Spanu, Sono, Campionati Europei Formula Wing, Reale Yacht Club Canottieri, Savoia, International Wing Sports Association, IWSA, Open, L’Italia.
-- Numeri/date utili da verificare: 12, 100 atleti, 16, 7, 2026, 100, 4, 18, 2027, 2024.
+- Numeri/date utili da verificare: 12, 100, 100 atleti, 16, 7, 2026, 4, 18, 2027, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

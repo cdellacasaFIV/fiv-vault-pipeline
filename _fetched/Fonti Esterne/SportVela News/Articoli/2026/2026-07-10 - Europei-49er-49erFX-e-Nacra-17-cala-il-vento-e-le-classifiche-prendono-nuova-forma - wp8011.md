@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: Europei, Nacra, Quarta, Eckernförde, Serie, Serie di Finale, Canada di Georgia, Antonia Lewin-Lafrance, Polonia di Aleksandra Melzacka, Sandra Jankowiak. Terza, Italia di Jana Germani, Marina Militare, Giorgia Bertuzzi, Fraglia Vela Malcesine.
+- Nomi, circoli o luoghi da valutare: Europei, Nacra, Quarta, Eckernförde, Serie di Finale, Canada di Georgia, Antonia Lewin-Lafrance, Polonia di Aleksandra Melzacka, Sandra Jankowiak. Terza, Italia di Jana Germani, Marina Militare, Giorgia Bertuzzi, Fraglia Vela Malcesine, Sofia Giunchiglia e Giulia.
 - Numeri/date utili da verificare: 17, 10, 11, 1, 2, 3, 4, 5, 6, 7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

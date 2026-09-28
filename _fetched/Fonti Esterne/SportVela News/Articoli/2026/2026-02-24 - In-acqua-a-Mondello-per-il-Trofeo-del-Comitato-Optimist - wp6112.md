@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Mondello, Trofeo del Comitato Optimist, Prima Tappa del Trofeo, Comitato, Comitato Optimist, Velaclub Palermo, Mondello. Un, Sicilia, Optimist, Renato Riolo, Zona, Beppe Tisci, Divisione, Luca Cuccia Ferrer.
+- Nomi, circoli o luoghi da valutare: Mondello, Trofeo del Comitato Optimist, Prima Tappa del Trofeo, Comitato Optimist, Velaclub Palermo, Mondello. Un, Sicilia, Optimist, Renato Riolo, Zona, Beppe Tisci, Divisione, Luca Cuccia Ferrer, Circolo.
 - Numeri/date utili da verificare: 2017, 2015.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

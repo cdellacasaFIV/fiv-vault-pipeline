@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, IQFOiL, iQFOiL, 420.
-- Nomi, circoli o luoghi da valutare: Mondiale Youth, Italia, Nations Trophy, Vilamoura Vilamoura, Portogallo, Youth World, Vilamoura, Youth World Sailing Championships, Mondiale, Lorenzo Sirena e Alice, Dessy, Youth, Garda, Dominio.
+- Nomi, circoli o luoghi da valutare: Mondiale Youth, Italia, Nations Trophy, Vilamoura Vilamoura, Portogallo, Youth World Sailing Championships, Vilamoura, Mondiale, Lorenzo Sirena e Alice, Dessy, Youth, Garda, Dominio, Medea Falcioni.
 - Numeri/date utili da verificare: 15, 2024, 13, 6, 420, 30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

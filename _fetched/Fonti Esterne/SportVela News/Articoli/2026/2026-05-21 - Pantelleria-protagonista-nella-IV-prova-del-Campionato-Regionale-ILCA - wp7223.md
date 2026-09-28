@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4.
-- Nomi, circoli o luoghi da valutare: Pantelleria, Campionato Regionale ILCA Pantelleria, La IV, Campionato, Campionato Regionale Classe ILCA, Scauri, Comitato di Regata, Circolo di Pantelleria, VII Zona FIV Giuseppe, Tisci, Classe ILCA, Gilda Nasti del Circolo, Vela Sicilia, Alle.
+- Nomi, circoli o luoghi da valutare: Pantelleria, Campionato Regionale ILCA Pantelleria, La IV, Campionato Regionale Classe ILCA, Scauri, Comitato di Regata, Circolo di Pantelleria, VII Zona FIV Giuseppe, Tisci, Classe ILCA, Gilda Nasti del Circolo, Vela Sicilia, Alle, Damiano Livoti del Circolo.
 - Numeri/date utili da verificare: 58 atleti, 150, 18, 20, 16, 4, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

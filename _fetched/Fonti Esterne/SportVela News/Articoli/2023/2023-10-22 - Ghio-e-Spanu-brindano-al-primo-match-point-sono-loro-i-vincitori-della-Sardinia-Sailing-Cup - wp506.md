@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: WingFoil.
-- Nomi, circoli o luoghi da valutare: Ghio e Spanu, Sardinia Sailing Cup L’asso, Cagliari, L’asso, Coppa del Mondo, Wingfoil Racing, Spettacolare, De Amicis, Ratotti. Le, Ceris e Pianazza, La Marsigliese, Inno di Mameli, Mathis Ghio e Maddalena, Maria Spanu.
+- Nomi, circoli o luoghi da valutare: Ghio e Spanu, Sardinia Sailing Cup L’asso, Cagliari, Coppa del Mondo, Wingfoil Racing, L’asso, Spettacolare, De Amicis, Ratotti. Le, Ceris e Pianazza, La Marsigliese, Inno di Mameli, Mathis Ghio e Maddalena, Maria Spanu.
 - Numeri/date utili da verificare: 2024, 11, 14, 1, 2, 3, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

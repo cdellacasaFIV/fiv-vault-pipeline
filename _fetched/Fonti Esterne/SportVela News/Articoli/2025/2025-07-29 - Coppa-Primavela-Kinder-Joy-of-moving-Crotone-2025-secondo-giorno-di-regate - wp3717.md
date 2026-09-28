@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio.
 - Classi/discipline citate: Techno 293.
-- Nomi, circoli o luoghi da valutare: Coppa Primavela Kinder Joy, Crotone, Secondo, Club, Club Velico Crotone, Techno, O’Pen Skiff, Optimist, Comitati di Regata, Nord Est, Domani, Nord, Questi, Primavela.
+- Nomi, circoli o luoghi da valutare: Coppa Primavela Kinder Joy, Crotone, Secondo, Club Velico Crotone, Techno, O’Pen Skiff, Optimist, Comitati di Regata, Nord Est, Domani, Nord, Questi, Primavela, Giulio Calligaris.
 - Numeri/date utili da verificare: 2025, 293, 25, 10, 12, 300, 30, 11, 00, 63.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

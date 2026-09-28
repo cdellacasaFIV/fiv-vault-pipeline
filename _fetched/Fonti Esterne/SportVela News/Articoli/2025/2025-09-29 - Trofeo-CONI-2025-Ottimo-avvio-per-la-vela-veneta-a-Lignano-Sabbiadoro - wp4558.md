@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Trofeo CONI, Ottimo, Lignano Sabbiadoro La, Lignano, Lignano Sabbiadoro, Anna Marzollo, CdVM, Filippo Isani, Mariclea, RS Feva, XII Zona FIV, Margherita Cartoni, Fraglia Vela Peschiera, Optimist.
+- Nomi, circoli o luoghi da valutare: Trofeo CONI, Ottimo, Lignano Sabbiadoro La, Lignano Sabbiadoro, Anna Marzollo, CdVM, Filippo Isani, Mariclea, RS Feva, XII Zona FIV, Margherita Cartoni, Fraglia Vela Peschiera, Optimist, XIV Zona.
 - Numeri/date utili da verificare: 2025, 4.600 atleti, 37, 44, 14, 11, 3, 7, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

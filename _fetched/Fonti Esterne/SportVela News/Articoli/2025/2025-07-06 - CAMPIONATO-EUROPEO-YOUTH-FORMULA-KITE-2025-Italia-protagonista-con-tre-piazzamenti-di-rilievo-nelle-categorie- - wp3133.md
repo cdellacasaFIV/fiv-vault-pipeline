@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO EUROPEO YOUTH FORMULA, KITE, Italia, Gizzeria, Campionato Europeo Youth, Formula, Formula Kite, Hang Loose Beach, Under, Julio Houze, Medaglia, Massimo Chieffo, Ottimo, Elisa Houze.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO EUROPEO YOUTH FORMULA, KITE, Italia, Gizzeria, Campionato Europeo Youth, Formula Kite, Hang, Hang Loose Beach, Under, Julio Houze, Medaglia, Massimo Chieffo, Ottimo, Elisa Houze.
 - Numeri/date utili da verificare: 2025, 6, 19, 17, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Roma Sailing Week, Riva di Traiano, RYCC Savoia La, Roma, Golfo di Napoli. Il, Circolo, Golfo di Napoli, Il Circolo Nautico Riva, Traiano, Reale Yacht Club Canottieri, Savoia, Riva, Salone Nautico di Genova, Louis Vuitton.
+- Nomi, circoli o luoghi da valutare: Roma Sailing Week, Riva di Traiano, RYCC Savoia La, Roma, Golfo di Napoli. Il, Circolo Nautico Riva, Traiano, Reale, Golfo di Napoli, Il Circolo Nautico Riva, Reale Yacht Club Canottieri, Savoia, Riva, Salone Nautico di Genova.
 - Numeri/date utili da verificare: 2027, 10, 18, 3, 66, 317, 540, 220, 2026, 1994.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

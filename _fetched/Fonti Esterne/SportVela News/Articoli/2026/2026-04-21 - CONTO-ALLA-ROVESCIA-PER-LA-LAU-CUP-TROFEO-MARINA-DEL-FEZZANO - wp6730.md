@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CONTO ALLA ROVESCIA PER, LA LAU CUP, TROFEO MARINA DEL FEZZANO, Tutto, Lau Cup, Trofeo Marina, Antonio Umberto Lo Monaco, Organizzata da Waterfront Sailing, Club Genova, Marina del Fezzano, Genova, Golfo di La Spezia, Rating FIV Light. La, Marina di Fezzano.
+- Nomi, circoli o luoghi da valutare: CONTO ALLA ROVESCIA PER, LA LAU CUP, TROFEO MARINA DEL FEZZANO, Tutto, Lau Cup, Antonio Umberto Lo Monaco, Organizzata da Waterfront Sailing, Club Genova, Marina del Fezzano, Genova, Golfo di La Spezia, Rating FIV Light. La, Marina di Fezzano, Trofeo Marina del Fezzano..
 - Numeri/date utili da verificare: 20, 7.5, 1, 2, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

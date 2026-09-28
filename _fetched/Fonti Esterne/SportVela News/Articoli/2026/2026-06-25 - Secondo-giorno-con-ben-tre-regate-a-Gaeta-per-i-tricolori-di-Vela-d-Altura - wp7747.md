@@ -19,8 +19,8 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Secondo, Gaeta, Altura Il, Campionato Italiano Assoluto, Gruppo, Venerdì, Edison Next, Altura Edison Next, Yacht Club Gaeta E.V.S.., Comitato di Regata, Costanzo Villa, Dalla, Punta Stendardo, Montagna Spaccata.
-- Numeri/date utili da verificare: 1, 2, 26, 25, 2026, 10, 12, 32, 230, 7.
+- Nomi, circoli o luoghi da valutare: Secondo, Gaeta, Altura Il, Campionato Italiano Assoluto, Altura Edison Next, Gruppo, Venerdì, Edison Next, Yacht Club Gaeta E.V.S.., Comitato di Regata, Costanzo Villa, Dalla, Punta Stendardo, Montagna Spaccata.
+- Numeri/date utili da verificare: 2026, 1, 2, 26, 25, 10, 12, 32, 230, 7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

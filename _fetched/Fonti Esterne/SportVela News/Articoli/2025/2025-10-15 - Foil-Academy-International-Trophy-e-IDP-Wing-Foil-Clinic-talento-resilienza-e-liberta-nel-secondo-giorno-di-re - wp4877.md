@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17, IQFOiL, iQFOiL, Waszp, Para Sailing, Wing Foil.
-- Nomi, circoli o luoghi da valutare: Foil Academy International Trophy, IDP Wing Foil Clinic, Cagliari Vento, FIV., Clinic, Vento, Guillaume e Lancellotti, Seconda, Cagliari, Sardinia Sailing Cup, Le Classi, Waszp, Wing Foil, Federazione Italiana Vela.
+- Nomi, circoli o luoghi da valutare: Foil Academy International Trophy, IDP Wing Foil Clinic, Cagliari Vento, FIV., Clinic, Guillaume e Lancellotti, Vento, Seconda, Cagliari, Sardinia Sailing Cup, Le Classi, Waszp, Wing Foil, Federazione Italiana Vela.
 - Numeri/date utili da verificare: 16, 2015, 23, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

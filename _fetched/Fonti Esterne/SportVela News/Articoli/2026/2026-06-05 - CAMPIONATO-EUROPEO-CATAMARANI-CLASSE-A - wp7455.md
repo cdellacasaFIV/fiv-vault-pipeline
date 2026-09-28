@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO EUROPEO CATAMARANI CLASSE, SUL PODIO UN ABRUZZESE, Pierpaolo Cirese, A-Cat European, A-Cat European Championship, Spagna, Mar Menor, Murcia, Classic Master. L’atleta, Trofeo Nazionale Catamarani Classe, Costa dei Trabocchi, Circolo Nautico Vasto, Classe, Classic e Open. Cirese.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO EUROPEO CATAMARANI CLASSE, SUL PODIO UN ABRUZZESE, Pierpaolo Cirese, A-Cat European Championship, Spagna, Mar Menor, Murcia, Classic Master. L’atleta, Trofeo Nazionale Catamarani Classe, Costa dei Trabocchi, Circolo Nautico Vasto, Classe, Classic e Open. Cirese, Europa.
 - Numeri/date utili da verificare: 29, 5, 16, 20, 2027.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

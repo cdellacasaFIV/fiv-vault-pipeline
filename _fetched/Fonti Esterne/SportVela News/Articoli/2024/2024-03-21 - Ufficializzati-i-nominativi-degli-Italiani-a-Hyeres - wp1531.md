@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, 470.
-- Nomi, circoli o luoghi da valutare: Ufficializzati, Italiani, Hyères Il Direttore Tecnico, Michele Marchesini, Il Direttore Tecnico Michele, Marchesini, Semaine Olympique Francaise, Hyères. La, SOF di Hyères, Classiche Monumento, Olimpica, Nazioni, SOF QN, Last Chance Regatta.
+- Nomi, circoli o luoghi da valutare: Ufficializzati, Italiani, Hyères Il Direttore Tecnico, Michele Marchesini, Semaine Olympique Francaise, Il Direttore Tecnico Michele, Marchesini, Hyères. La, SOF di Hyères, Classiche Monumento, Olimpica, Nazioni, SOF QN, Last Chance Regatta.
 - Numeri/date utili da verificare: 2024, 470, 17, 7, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

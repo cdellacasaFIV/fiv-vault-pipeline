@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: Gran, Veleziana Sailing Week, Venezia, Serenissima Si, Veleziana, XVIII, Regata Veleziana, L’eccezionalità, Bacino di San Marco, Barcolana, Sailing Week, Compagnia, Vela di Venezia, Sotto.
+- Nomi, circoli o luoghi da valutare: Gran, Veleziana Sailing Week, Venezia, Serenissima Si, XVIII, Regata Veleziana, L’eccezionalità, Bacino di San Marco, Veleziana, Barcolana, Sailing Week, Compagnia, Vela di Venezia, Sotto.
 - Numeri/date utili da verificare: 2025, 16, 19, 300, 27, 28, 41, 15, 303, 285.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

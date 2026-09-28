@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: Trofeo Princesa Sofía, La Baia di Palma, Grand Slam, Mancano, Baia di Palma, Maiorca, Giochi di Los Angeles, Medal Series, Sono, Trofeo Princesa Sofía Mallorca, Sailing Grand Slam, Palma, Semaine Olympique Française, Hyères.
+- Nomi, circoli o luoghi da valutare: Trofeo Princesa Sofía, La Baia di Palma, Grand Slam, Mancano, Baia, Baia di Palma, Maiorca, Giochi di Los Angeles, Medal Series, Sono, Trofeo Princesa Sofía Mallorca, Sailing Grand Slam, Palma, Semaine Olympique Française.
 - Numeri/date utili da verificare: 2026, 30, 2028, 4, 900, 62, 1.100, 55, 470, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

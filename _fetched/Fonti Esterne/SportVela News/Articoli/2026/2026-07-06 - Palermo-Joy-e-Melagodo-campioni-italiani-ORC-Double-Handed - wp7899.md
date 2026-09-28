@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Palermo, Joy e Melagodo, ORC Double Handed Assegnati, Campionato, Assegnati, Campionato Italiano Open ORC, Double Handed, Centro Velico Siciliano, Federazione Italiana Vela. Ventidue, Italia, Golfo di Palermo, San Vito Lo Capo, Giuseppe Cascino e Manfredi, Rizzuto.
+- Nomi, circoli o luoghi da valutare: Palermo, Joy e Melagodo, ORC Double Handed Assegnati, Campionato Italiano Open ORC, Double Handed, Assegnati, Centro Velico Siciliano, Federazione Italiana Vela. Ventidue, Italia, Golfo di Palermo, San Vito Lo Capo, Giuseppe Cascino e Manfredi, Rizzuto, Secondi Giuseppe Fornich.
 - Numeri/date utili da verificare: 2, 70, 1, 34.7, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

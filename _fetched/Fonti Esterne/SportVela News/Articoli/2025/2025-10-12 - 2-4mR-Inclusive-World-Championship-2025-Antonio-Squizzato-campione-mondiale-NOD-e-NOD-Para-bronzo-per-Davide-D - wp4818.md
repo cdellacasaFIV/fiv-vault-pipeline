@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Inclusive World Championship, Antonio Squizzato, NOD e NOD Para, Davide Di Maria Si, Italia, Fraglia Vela, Fraglia Vela Malcesine, Dopo, Ora e Peler, Società Canottieri Garda Salò, NOD Para e NOD, Para Sailing, Open, Jeffrey Linton.
+- Nomi, circoli o luoghi da valutare: Inclusive World Championship, Antonio Squizzato, NOD e NOD Para, Davide Di Maria Si, Italia, Fraglia Vela Malcesine. Dopo, Fraglia Vela Malcesine, Dopo, Ora e Peler, Società Canottieri Garda Salò, NOD Para e NOD, Para Sailing, Open, Jeffrey Linton.
 - Numeri/date utili da verificare: 2, 2025, 303, 2032, 17, 50 atleti.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

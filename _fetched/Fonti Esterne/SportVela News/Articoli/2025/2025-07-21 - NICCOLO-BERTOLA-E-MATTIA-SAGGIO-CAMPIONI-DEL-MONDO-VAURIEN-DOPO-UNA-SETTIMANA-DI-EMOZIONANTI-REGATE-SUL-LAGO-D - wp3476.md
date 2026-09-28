@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: Vaurien.
-- Nomi, circoli o luoghi da valutare: NICCOLÒ BERTOLA, MATTIA SAGGIO CAMPIONI DEL, MONDO VAURIEN DOPO UNA, SETTIMANA DI EMOZIONANTI REGATE, SUL LAGO DI BRACCIANO, Niccolò Bertola e Mattia, Saggio, Campionato del Mondo Vaurien, Bracciano, Centro Vela Bracciano. Dopo, Sezione Vela Aeronautica Militare, Pablo e Isabel Cabello., La Classe Vaurien, Bertola e Saggio.
+- Nomi, circoli o luoghi da valutare: NICCOLÒ BERTOLA, MATTIA SAGGIO CAMPIONI DEL, MONDO VAURIEN DOPO UNA, SETTIMANA DI EMOZIONANTI REGATE, SUL LAGO DI BRACCIANO, Niccolò Bertola e Mattia, Saggio, Campionato del Mondo Vaurien, Bracciano, Centro Vela Bracciano, Centro Vela Bracciano. Dopo, Sezione Vela Aeronautica Militare, Pablo e Isabel Cabello., La Classe Vaurien.
 - Numeri/date utili da verificare: 2025, 94.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

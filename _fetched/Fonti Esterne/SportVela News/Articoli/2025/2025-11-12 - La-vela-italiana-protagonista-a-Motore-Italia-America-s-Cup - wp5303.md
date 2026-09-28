@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, america's cup/napoli.
 - Angoli editoriali: territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Motore Italia, America’s Cup, Napoli, Federazione Italiana Vela, Coppa America Venerdì, Università Federico II, Edizione America’s Cup, Milano Finanza, La Federazione Italiana Vela, L’appuntamento, Aula Magna del Centro, Congressi, Partenope, Alessandro Mei.
+- Nomi, circoli o luoghi da valutare: Motore Italia, America’s Cup, Napoli, Federazione Italiana Vela, Coppa America Venerdì, Università, Università Federico II, Edizione America’s Cup, Milano Finanza, La Federazione Italiana Vela, L’appuntamento, Aula Magna del Centro, Congressi, Partenope.
 - Numeri/date utili da verificare: 14, 2025, 2027.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

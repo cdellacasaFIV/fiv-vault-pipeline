@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7, ILCA 6.
-- Nomi, circoli o luoghi da valutare: ILCA, European Championships, Primo, Atene, Grecia, Grecia. Il, Medal Race, Benini Floriani, Fiamme Gialle, Rizzardi, Soc. Vela Oscar Cosulich, Albano, Della Valle, Yacht Club Italiano.
+- Nomi, circoli o luoghi da valutare: ILCA, European Championships, Primo, Atene, Grecia. Il, Medal Race, Benini Floriani, Fiamme Gialle, Rizzardi, Soc. Vela Oscar Cosulich, Albano, Della Valle, Yacht Club Italiano, Savelli.
 - Numeri/date utili da verificare: 2024, 6, 7, 18, 22, 23, 107, 11, 140, 50.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

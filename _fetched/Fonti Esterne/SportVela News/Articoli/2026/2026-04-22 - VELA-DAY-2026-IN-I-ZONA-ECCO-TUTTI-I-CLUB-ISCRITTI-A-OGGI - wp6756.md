@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: VELA DAY, IN I-ZONA, ECCO TUTTI, CLUB ISCRITTI, OGGI Termine, Federazione, Termine, Federazione Italiana Vela, Kinder Joy, Moving, Italia. L’evento, Società Affiliate, Associazioni e Società Sportive, Affiliate.
+- Nomi, circoli o luoghi da valutare: VELA DAY, IN I-ZONA, ECCO TUTTI, CLUB ISCRITTI, OGGI Termine, Federazione Italiana Vela, Kinder Joy, Termine, Moving, Italia. L’evento, Società Affiliate, Associazioni e Società Sportive, Affiliate, I-Zona.
 - Numeri/date utili da verificare: 2026, 13, 21, 29, 2, 1948.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

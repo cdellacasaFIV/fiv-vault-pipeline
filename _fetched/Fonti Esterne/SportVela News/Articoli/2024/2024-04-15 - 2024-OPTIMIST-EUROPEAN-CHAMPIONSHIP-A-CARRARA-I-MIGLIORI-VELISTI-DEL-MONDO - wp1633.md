@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: OPTIMIST EUROPEAN CHAMPIONSHIP, CARRARA, MIGLIORI VELISTI DEL MONDO, IL CLUB NAUTICO MARINA, DI CARRARA FIRMA LA, REGIA DEL PRESTIGIOSO EVENTO, SPORTIVO INTERNAZIONALE. Optimist, SPORTIVO INTERNAZIONALE. Optimist European, Championship, Club Nautico Marina, Regate, Luglio OPTIMIST EUROPEAN CHAMPIONSHIP, Siamo, Queste.
+- Nomi, circoli o luoghi da valutare: OPTIMIST EUROPEAN CHAMPIONSHIP, CARRARA, MIGLIORI VELISTI DEL MONDO, IL CLUB NAUTICO MARINA, DI CARRARA FIRMA LA, REGIA DEL PRESTIGIOSO EVENTO, SPORTIVO INTERNAZIONALE. Optimist European, Championship, Nautico Marina di Carrara, Club Nautico Marina, Regate, Luglio OPTIMIST EUROPEAN CHAMPIONSHIP, Siamo, Queste.
 - Numeri/date utili da verificare: 2024, 29, 05, 01, 1953, 470, 2023, 300, 46, 14.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

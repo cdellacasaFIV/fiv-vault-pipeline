@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Techno 293.
-- Nomi, circoli o luoghi da valutare: Tabo Surf Center, Vento, XV Zona, Gera Lario, Comune, Mario Orio e Mattia, Cavallari, Il Tabo Surf Center, Windsurf Per Tutti, Sottolineiamo, Techno, Circuito del Nord Italia, Trieste, Garda e Caldaro. La.
+- Nomi, circoli o luoghi da valutare: Tabo Surf Center, Vento, XV Zona, Tabo Surf, Gera Lario, Comune, Mario Orio e Mattia, Cavallari, Il Tabo Surf Center, Windsurf Per Tutti, Sottolineiamo, Techno, Circuito del Nord Italia, Trieste.
 - Numeri/date utili da verificare: 9 anni, 293, 27, 28.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

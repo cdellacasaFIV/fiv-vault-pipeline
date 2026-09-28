@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, IQFOiL, iQFOiL, 420.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Buzios, Azzurro., Ultimo, ILCA, Mattia Cesana, Emma Mattivi, Argento, Alex Demurtas e Giovanni, Santi, Stessa, Leonardo Tomasini, Terzo, Riccardo Pianosi.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Buzios, Azzurro., Ultimo, Youth Sailing, ILCA, Mattia Cesana, Emma Mattivi, Argento, Alex Demurtas e Giovanni, Santi, Stessa, Leonardo Tomasini, Terzo.
 - Numeri/date utili da verificare: 6 medaglie, 6, 420, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

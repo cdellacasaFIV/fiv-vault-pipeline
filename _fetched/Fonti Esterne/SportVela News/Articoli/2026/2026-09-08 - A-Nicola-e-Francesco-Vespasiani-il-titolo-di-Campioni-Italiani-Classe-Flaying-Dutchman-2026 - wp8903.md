@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Nicola e Francesco Vespasiani, Campioni Italiani Classe Flaying, Dutchman, Campioni Italiani, Flying Dutchman, Nicola e Francesco, Bracciano, Pescara, Open, Szabalcs Majthanyi e Andrds, Domokos, Terzi, Campionato Italiano FD, Matteo Pincherle e Carlo.
+- Nomi, circoli o luoghi da valutare: Nicola e Francesco Vespasiani, Campioni Italiani Classe Flaying, Dutchman, Campioni Italiani, Flying Dutchman, Bracciano, Pescara, Open, Szabalcs Majthanyi e Andrds, Domokos, Terzi, Campionato Italiano FD, Matteo Pincherle e Carlo, Carincola.
 - Numeri/date utili da verificare: 2026, 2018, 27, 54, 34, 35.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

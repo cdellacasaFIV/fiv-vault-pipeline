@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Sport., Federazioni, S. Siro, Arianna Fontana, Daniele Cassioli, Don Patriciello e Federica, Picchi Milano, Olimpiadi Arianna Fontana, Milano, Caivano, Don Maurizio Patriciello, Giornata Giovani Lombardia, Sottosegretario, Sport e Giovani Federica.
+- Nomi, circoli o luoghi da valutare: Sport., Federazioni, S. Siro, Arianna Fontana, Daniele Cassioli, Don Patriciello e Federica, Picchi Milano, Olimpiadi Arianna Fontana, Caivano, Don Maurizio Patriciello, Milano, Giornata Giovani Lombardia, Sottosegretario, Sport e Giovani Federica.
 - Numeri/date utili da verificare: 63, 13, 2026, 5, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

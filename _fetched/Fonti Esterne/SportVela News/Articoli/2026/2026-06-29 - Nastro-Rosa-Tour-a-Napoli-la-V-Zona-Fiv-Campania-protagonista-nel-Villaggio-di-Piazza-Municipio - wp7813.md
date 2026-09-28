@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: Waszp, WingFoil.
-- Nomi, circoli o luoghi da valutare: Nastro Rosa Tour, Napoli, Zona Fiv Campania, Villaggio di Piazza Municipio, Il Marina Militare Nastro, Rosa Tour, Zona, Federazione, Federazione Italiana Vela, Villaggio, Municipio. Il Giro, Italia, Bénéteau Figaro, Inshore dei Waszp.
+- Nomi, circoli o luoghi da valutare: Nastro Rosa Tour, Napoli, Zona Fiv Campania, Villaggio di Piazza Municipio, Il Marina Militare Nastro, Rosa Tour, Zona, Federazione Italiana Vela, Villaggio, Municipio. Il Giro, Italia, Bénéteau Figaro, Inshore dei Waszp, Wingfoil. Accanto.
 - Numeri/date utili da verificare: 30, 3, 1.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

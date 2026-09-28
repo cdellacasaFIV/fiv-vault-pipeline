@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, Wing Foil.
-- Nomi, circoli o luoghi da valutare: FORMULA WING FOIL WORLD, CHAMPIONSHIPS, L’ITALIANA MADDALENA SPANU VINCE, IL PRIMO TITOLO ASSOLUTO, NELLA SUA SARDEGNA, CAPPUZZO ARGENTO MASCHILE Italia, Francia, Formula Wing World Championships, Italia e Francia, Sardinia Sailing Cup, Federazione Italiana Vela. Oro, Maddalena Spanu, Viana Picot, Aimilia Kosti.
+- Nomi, circoli o luoghi da valutare: FORMULA WING FOIL WORLD, CHAMPIONSHIPS, L’ITALIANA MADDALENA SPANU VINCE, IL PRIMO TITOLO ASSOLUTO, NELLA SUA SARDEGNA, CAPPUZZO ARGENTO MASCHILE Italia, Francia, Formula Wing World Championships, Sardinia, Italia e Francia, Sardinia Sailing Cup, Federazione Italiana Vela. Oro, Maddalena Spanu, Viana Picot.
 - Numeri/date utili da verificare: 18 anni, 15 anni, 6, 16, 17, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Waszp, Foiling Week.
-- Nomi, circoli o luoghi da valutare: Foiling Week, WASZP, Malcesine, Billè, Under, Volare, Alla Foiling Week, Lago, Lago di Garda, VII Zona FIV, Riccardo Billè, Pietro Moncada, Positivi, Alberto Palermo.
+- Nomi, circoli o luoghi da valutare: Foiling Week, WASZP, Malcesine, Billè, Under, Volare, Alla Foiling Week, Lago di Garda, VII Zona FIV, Riccardo Billè, Pietro Moncada, Positivi, Alberto Palermo, Junior e Alfredo Salerno.
 - Numeri/date utili da verificare: 17, 7.5, 8.2, 6.9.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

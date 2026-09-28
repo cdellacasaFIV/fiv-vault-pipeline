@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: Mondiale, Biscarrosse Ottimi, Campionato Mondiale, Biscarrosse, Francia, Ottimi, Reale Yacht Club Canottieri, Savoia, Gold Fleet, Emanuele Napolitano e Riccardo, Allodi Varriale, Gold, Buona, Andrea Tramontano e Santiago.
+- Nomi, circoli o luoghi da valutare: Mondiale, Biscarrosse Ottimi, Campionato Mondiale, Biscarrosse, Francia, Reale Yacht Club Canottieri, Ottimi, Savoia, Gold Fleet, Emanuele Napolitano e Riccardo, Allodi Varriale, Gold, Buona, Andrea Tramontano e Santiago.
 - Numeri/date utili da verificare: 420, 14, 150, 17, 23, 110.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

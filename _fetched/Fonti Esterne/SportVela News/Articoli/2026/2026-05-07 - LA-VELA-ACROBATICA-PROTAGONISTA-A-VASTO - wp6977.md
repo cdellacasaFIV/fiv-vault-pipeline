@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: LA VELA ACROBATICA PROTAGONISTA, VASTO Arriva, Trofeo Nazionale Catamarani Classe, Costa dei Trabocchi Il, Costa, Arriva, Costa dei Trabocchi, Formula Uno, Vasto, Federazione Italiana Vela, Circolo Nautico di Vasto, Centro Nautico Le Vele, Comune di Vasto, Sono.
+- Nomi, circoli o luoghi da valutare: LA VELA ACROBATICA PROTAGONISTA, VASTO Arriva, Trofeo Nazionale Catamarani Classe, Costa dei Trabocchi Il, Costa dei Trabocchi, Arriva, Formula Uno, Vasto, Federazione Italiana Vela, Circolo Nautico di Vasto, Centro Nautico Le Vele, Comune di Vasto, Sono, Classe.
 - Numeri/date utili da verificare: 1, 9, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

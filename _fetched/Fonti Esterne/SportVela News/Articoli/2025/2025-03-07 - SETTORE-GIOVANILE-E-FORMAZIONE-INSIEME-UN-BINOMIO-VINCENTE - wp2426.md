@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: Wing Foil.
-- Nomi, circoli o luoghi da valutare: SETTORE GIOVANILE, FORMAZIONE INSIEME, UN BINOMIO VINCENTE La, Federazione Italiana Vela, La Federazione Italiana Vela, Wing Foil, Staff Nazionale, L’iniziativa, Il Wing Foil, La Formazione FIV, Un’iniziativa.
+- Nomi, circoli o luoghi da valutare: SETTORE GIOVANILE, FORMAZIONE INSIEME, UN BINOMIO VINCENTE La, Federazione Italiana Vela, Wing Foil, La Federazione Italiana Vela, Staff Nazionale, L’iniziativa, Il Wing Foil, La Formazione FIV, Un’iniziativa.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

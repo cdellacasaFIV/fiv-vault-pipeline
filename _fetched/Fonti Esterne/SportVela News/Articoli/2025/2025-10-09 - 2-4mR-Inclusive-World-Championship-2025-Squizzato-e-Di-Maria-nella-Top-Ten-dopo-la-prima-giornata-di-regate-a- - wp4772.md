@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Para Sailing.
-- Nomi, circoli o luoghi da valutare: Inclusive World Championship, Squizzato e Di Maria, Top Ten, Malcesine Esordio, Esordio, Vento, Dopo, Jeffrey Linton, Davis Island Yacht Club, Alle, Frank Huth, Megan Pascoe, Brillante, Antonio Squizzato.
+- Nomi, circoli o luoghi da valutare: Inclusive World Championship, Squizzato e Di Maria, Top Ten, Malcesine Esordio, Vento, Esordio, Dopo, Jeffrey Linton, Davis Island Yacht Club, Alle, Frank Huth, Megan Pascoe, Brillante, Antonio Squizzato.
 - Numeri/date utili da verificare: 2, 2025, 1, 4, 17, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

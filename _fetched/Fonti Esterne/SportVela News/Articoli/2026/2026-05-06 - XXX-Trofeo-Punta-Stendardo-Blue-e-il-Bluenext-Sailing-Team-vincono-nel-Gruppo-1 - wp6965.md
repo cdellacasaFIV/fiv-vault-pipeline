@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: XXX Trofeo Punta Stendardo., Blue, Bluenext Sailing Team, Gruppo, Gaeta, Inizia, Bluenext Sailing, Trofeo Punta Stendardo, Yacht Club Gaeta E.V.S., Base Nautica Flavio Gioia, Bonfiglio Mariotti, Swan, Ulika. Merito, Protagonista.
+- Nomi, circoli o luoghi da valutare: XXX Trofeo Punta Stendardo., Blue, Bluenext Sailing Team, Gruppo, Gaeta, Inizia, Trofeo Punta Stendardo, Yacht Club Gaeta E.V.S., Base Nautica Flavio Gioia, Bonfiglio Mariotti, Swan, Ulika. Merito, Protagonista, Afonso Domingos.
 - Numeri/date utili da verificare: 1, 4, 2026, 45, 20, 11.98, 3, 2, 9.98, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Techno 293.
-- Nomi, circoli o luoghi da valutare: Gran, Coppa Primavela Kinder Joy, Crotone Conclusione, Conclusione, Club Velico Crotone, Nord, Comitati, Optimist, Coppa Cadetti e Coppa, Presidente, O’Pen Kiff, Techno, Coppa Primavela, Alla.
+- Nomi, circoli o luoghi da valutare: Gran, Coppa Primavela Kinder Joy, Crotone Conclusione, Club Velico Crotone, Conclusione, Nord, Comitati, Optimist, Coppa Cadetti e Coppa, Presidente, O’Pen Kiff, Techno, Coppa Primavela, Alla.
 - Numeri/date utili da verificare: 2025, 14, 18, 293, 24, 2026, 1, 2, 3, 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

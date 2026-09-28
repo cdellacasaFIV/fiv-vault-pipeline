@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Incontri, Sicurezza, Monfalcone e Trieste Conclusi, Monfalcone e Trieste, Comitato, Conclusi, Comitato di Zona Friuli, Venezia Giulia-Federazione Italiana Vela, Capitaneria di Porto, ARPA Due, Comitato XIII Zona Friuli, Venezia Giulia, Federazione Italiana Vela, ARPA. Il.
+- Nomi, circoli o luoghi da valutare: Incontri, Sicurezza, Monfalcone e Trieste Conclusi, Monfalcone e Trieste, Comitato di Zona Friuli, Venezia Giulia-Federazione Italiana Vela, Conclusi, Capitaneria di Porto, ARPA Due, Comitato XIII Zona Friuli, Venezia Giulia, Federazione Italiana Vela, ARPA. Il, Società Velica Oscar Cosulich.
 - Numeri/date utili da verificare: 24, 25.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

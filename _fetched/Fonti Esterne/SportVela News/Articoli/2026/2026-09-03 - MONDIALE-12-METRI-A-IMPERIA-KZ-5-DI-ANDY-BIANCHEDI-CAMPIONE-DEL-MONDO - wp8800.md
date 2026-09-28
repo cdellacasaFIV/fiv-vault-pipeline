@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MONDIALE, METRI, IMPERIA, DI ANDY BIANCHEDI CAMPIONE, DEL MONDO Kookaburra II, Bertelli, Kookaburra II di Bertelli, Andy Bianchedi, Campionato del Mondo, Metri Grand Prix, Kookaburra II di Patrizio, Kiwi Magic, Kookaburra III di Maurizio, Vecchiola.
+- Nomi, circoli o luoghi da valutare: MONDIALE, METRI, IMPERIA, DI ANDY BIANCHEDI CAMPIONE, DEL MONDO Kookaburra II, Bertelli, Andy Bianchedi, Kookaburra II di Bertelli, Campionato del Mondo, Metri Grand Prix, Kookaburra II di Patrizio, Kiwi Magic, Kookaburra III di Maurizio, Vecchiola.
 - Numeri/date utili da verificare: 12, 5, 1, 7, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

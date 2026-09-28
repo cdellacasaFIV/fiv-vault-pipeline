@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: PROTAGONISTI AL XXXV CAMPIONATO, INVERNALE DEL PONENTE Il, Be Beef, Francesco Nucara, Campionato Invernale del Ponente, Varazze e Celle Ligure, Comitato dei Circoli, Ponente, Varazze CN, CN Celle e LNI, Savona-, Considerando, Comitato di Regata, Stefano Carattino.
+- Nomi, circoli o luoghi da valutare: PROTAGONISTI AL XXXV CAMPIONATO, INVERNALE DEL PONENTE Il, Be Beef, Francesco Nucara, Campionato Invernale, Campionato Invernale del Ponente, Varazze e Celle Ligure, Comitato dei Circoli, Ponente, Varazze CN, CN Celle e LNI, Savona-, Considerando, Comitato di Regata.
 - Numeri/date utili da verificare: 22, 35, 18, 26, 30, 2026, 25, 2009, 2006, 2005.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

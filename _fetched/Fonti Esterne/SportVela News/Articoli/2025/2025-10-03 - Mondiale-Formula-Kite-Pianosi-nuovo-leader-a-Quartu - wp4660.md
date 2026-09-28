@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Mondiale Formula Kite, Pianosi, Quartu Prima, Final Series, Sardinia Grand Slam, Campionato, Prima, Campionato del Mondo, Formula Kite, Quartu Sant’Elena. Riccardo Pianosi, Gold Fleet, Max Maeder, Alle, Toni Vodisek.
+- Nomi, circoli o luoghi da valutare: Mondiale Formula Kite, Pianosi, Quartu Prima, Final Series, Sardinia Grand Slam, Campionato del Mondo, Formula Kite, Prima, Quartu Sant’Elena. Riccardo Pianosi, Gold Fleet, Max Maeder, Alle, Toni Vodisek, Gian Stragiotti.
 - Numeri/date utili da verificare: 12, 18, 23, 4, 14, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, IQFOiL, iQFOiL, Waszp, Para Sailing, Wing Foil.
-- Nomi, circoli o luoghi da valutare: Next Generation Foil Academy, International Trophy, Luna Rossa, Cagliari La Sardinia Sailing, La Sardinia Sailing Cup, Para Wing, Cagliari, Sardinia Sailing Cup, IDP Wing Foil Clinic, Federazione Italiana Vela, World Sailing, Classi Waszp, Pernille Ban Eftang, Maria Vittoria Marchesini.
+- Nomi, circoli o luoghi da valutare: Next Generation Foil Academy, International Trophy, Luna Rossa, Cagliari La Sardinia Sailing, Para Wing, La Sardinia Sailing Cup, Cagliari, Sardinia Sailing Cup, IDP Wing Foil Clinic, Federazione Italiana Vela, World Sailing, Classi Waszp, Pernille Ban Eftang, Maria Vittoria Marchesini.
 - Numeri/date utili da verificare: 16, 17, 2032, 23.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

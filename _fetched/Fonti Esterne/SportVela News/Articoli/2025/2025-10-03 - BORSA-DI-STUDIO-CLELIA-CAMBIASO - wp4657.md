@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7, 420.
-- Nomi, circoli o luoghi da valutare: BORSA DI STUDIO CLELIA, CAMBIASO Tonino Viretti, Tonino Viretti, Montessori, Loro, Martina Gallo, Classe, Ranking List, Mondiale, Dario Burlando, ILCA, Gold, Mondiali, Video.
+- Nomi, circoli o luoghi da valutare: BORSA DI STUDIO CLELIA, CAMBIASO Tonino Viretti, Montessori, Tonino Viretti, Loro, Martina Gallo, Classe, Ranking List, Mondiale, Dario Burlando, ILCA, Gold, Mondiali, Video.
 - Numeri/date utili da verificare: 420, 7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

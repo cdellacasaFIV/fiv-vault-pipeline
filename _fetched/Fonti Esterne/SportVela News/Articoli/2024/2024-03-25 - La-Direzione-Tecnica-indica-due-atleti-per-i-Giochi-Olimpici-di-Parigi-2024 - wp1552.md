@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: La Direzione Tecnica, Giochi Olimpici di Parigi, Il Direttore Tecnico, Federazione Italiana Vela Michele, Marchesini, Consiglio Federale, Italia, Olimpiadi, Formula Kite Maschile, Formula Kite Femminile. Le, Comitato Olimpico Nazionale Italiano, Michele Marchesini, Olimpica, Paris.
+- Nomi, circoli o luoghi da valutare: La Direzione Tecnica, Giochi Olimpici di Parigi, Il Direttore Tecnico, Federazione Italiana Vela Michele, Marchesini, Consiglio, Consiglio Federale, Italia, Olimpiadi, Formula Kite Maschile, Formula Kite Femminile. Le, Comitato Olimpico Nazionale Italiano, Michele Marchesini, Olimpica.
 - Numeri/date utili da verificare: 2024, 123 giorni, 470, 2023.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

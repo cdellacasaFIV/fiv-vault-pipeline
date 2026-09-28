@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6.
-- Nomi, circoli o luoghi da valutare: GIOVANNI GALLEGO DEL CN, ANDORA VINCE L’ITALIANO MASTER, CATEGORIA APPRENTICE Secondo Nicolò, Elena, Giovanni Gallego, Circolo Nautico, Secondo Nicolò Elena, Circolo Nautico di Andora, Campionato Italiano Master, ILCA, Apprentice, Nicolò Elena, Circolo Nautico di Andora., Il Campionato Italiano.
+- Nomi, circoli o luoghi da valutare: GIOVANNI GALLEGO DEL CN, ANDORA VINCE L’ITALIANO MASTER, CATEGORIA APPRENTICE Secondo Nicolò, Elena, Giovanni Gallego, Circolo Nautico di Andora, Campionato Italiano, Secondo Nicolò Elena, Campionato Italiano Master, ILCA, Apprentice, Nicolò Elena, Circolo Nautico di Andora., Il Campionato Italiano.
 - Numeri/date utili da verificare: 25, 30, 44 anni, 22, 24, 6, 8, 60 atleti, 30 anni, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

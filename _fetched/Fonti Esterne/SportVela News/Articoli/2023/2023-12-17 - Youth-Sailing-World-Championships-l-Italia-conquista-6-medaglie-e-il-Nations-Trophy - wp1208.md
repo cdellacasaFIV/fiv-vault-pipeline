@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, IQFOiL, iQFOiL, 420.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Italia, Nations Trophy Nell’ultimo, Buzios, Nell’ultimo, Youth Sailing World Championships., Dopo, Nations Trophy, Mancava, Francia. La, Mattia Cesana, ILCA, M. Cesana, Emma Mattivi.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Italia, Nations Trophy Nell’ultimo, Buzios, Youth, Nell’ultimo, Youth Sailing World Championships., Dopo, Nations Trophy, Mancava, Francia. La, Mattia Cesana, ILCA, M. Cesana.
 - Numeri/date utili da verificare: 6 medaglie, 2023, 2017, 6, 420, 2024, 9, 30, 3 anni, 100.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

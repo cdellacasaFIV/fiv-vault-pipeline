@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Para Sailing.
-- Nomi, circoli o luoghi da valutare: Navigare Insieme, Italia, Barriere, Prima, Palermo, Navigare, Federazione Italiana Vela, UniCredit, Fondo Carta Etica., Attraverso, Siamo, Paese. In, Dichiara Fabio Colella, La Vela.
+- Nomi, circoli o luoghi da valutare: Navigare Insieme, Italia, Barriere, Prima, Palermo, Federazione, Federazione Italiana Vela, UniCredit, Fondo Carta Etica., Attraverso, Siamo, Paese. In, Dichiara Fabio Colella, La Vela.
 - Numeri/date utili da verificare: 10, 11, 2025, 11.00, 14.00, 15.00, 18.00, 9.00, 13.00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

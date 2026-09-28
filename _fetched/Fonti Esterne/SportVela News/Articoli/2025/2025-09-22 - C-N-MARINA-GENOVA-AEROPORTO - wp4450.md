@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: C.N. MARINA GENOVA AEROPORTO, Dopo, Ernesto Moresino, Monica, Monica Alterisio, Continua, Campionato, Lanterna, Circolo Nautico Mandraccio, Cristina Cambi, Liguria Sport.
+- Nomi, circoli o luoghi da valutare: C.N. MARINA GENOVA AEROPORTO, Dopo, Ernesto Moresino, Monica Alterisio, Continua, Campionato, Lanterna, Circolo Nautico Mandraccio, Cristina Cambi, Liguria Sport.
 - Numeri/date utili da verificare: 21, 12 anni, 2023, 2025, 09, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

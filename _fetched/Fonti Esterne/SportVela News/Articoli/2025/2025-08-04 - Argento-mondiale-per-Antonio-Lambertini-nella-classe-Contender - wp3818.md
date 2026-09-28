@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Argento, Antonio Lambertini, Contender La XV Zona, La XV Zona, Associazione Velica Alto Lario, Gravedona, Campionato Mondiale Contender, Lago di Garda, Lambertini, Mark Bulka, Graeme Willcox, Dopo.
+- Nomi, circoli o luoghi da valutare: Argento, Antonio Lambertini, Contender La XV Zona, Associazione Velica Alto Lario, Gravedona, La XV Zona, Campionato Mondiale Contender, Lago di Garda, Lambertini, Mark Bulka, Graeme Willcox, Dopo.
 - Numeri/date utili da verificare: 2025, 26, 30, 3, 2, 12, 170.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

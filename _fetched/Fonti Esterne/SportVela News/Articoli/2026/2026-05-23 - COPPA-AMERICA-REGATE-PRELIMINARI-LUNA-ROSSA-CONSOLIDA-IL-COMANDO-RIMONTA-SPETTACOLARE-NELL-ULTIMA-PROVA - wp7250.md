@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 17.
-- Nomi, circoli o luoghi da valutare: COPPA AMERICA, REGATE PRELIMINARI, LUNA ROSSA CONSOLIDA IL, COMANDO. RIMONTA SPETTACOLARE NELL’ULTIMA, PROVA Gradoni, Porro, Giubilei e Santi, New Zealand. Luna Rossa, Gradoni, Domani, Luna Rossa, Marco Gradoni, Margherita Porro, Maria Giubilei e Giovanni.
+- Nomi, circoli o luoghi da valutare: COPPA AMERICA, REGATE PRELIMINARI, LUNA ROSSA CONSOLIDA IL, COMANDO. RIMONTA SPETTACOLARE NELL’ULTIMA, PROVA Gradoni, Porro, Giubilei e Santi, New Zealand. Luna Rossa, Domani, Gradoni, Luna Rossa, Marco Gradoni, Margherita Porro, Maria Giubilei e Giovanni.
 - Numeri/date utili da verificare: 55, 8, 44, 2024, 17, 6, 47, 25, 23, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

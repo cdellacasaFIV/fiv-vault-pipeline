@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Roma, Scuola, Scuola Vela, Vela Scuola, Federazione Italiana Vela, Italia. Alla, Consigliere Federale Antonietta De, Falco, Particolare, STEAM, Science, Technology, Engineering, Mathematics.
+- Nomi, circoli o luoghi da valutare: Roma, Scuola Vela, Vela Scuola, Federazione Italiana Vela, Italia. Alla, Consigliere Federale Antonietta De, Falco, Particolare, STEAM, Science, Technology, Engineering, Mathematics, Creatività.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

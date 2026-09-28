@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: J70.
-- Nomi, circoli o luoghi da valutare: CONCLUSA, GENOVA L’EDIZIONE, DI THE GENTLEMEN CHALLENGE, The Gentlemen Challenge, Yacht Club Italiano, Società del Casino, Italia. La, Yacht Club Italiano., Scirocco, Società del Whist, Circolo degli Scacchi., Circolo, Caccia. La, L’edizione.
+- Nomi, circoli o luoghi da valutare: CONCLUSA, GENOVA L’EDIZIONE, DI THE GENTLEMEN CHALLENGE, The Gentlemen Challenge, Yacht Club, Yacht Club Italiano, Società del Casino, Italia. La, Yacht Club Italiano., Scirocco, Società del Whist, Circolo degli Scacchi., Circolo, Caccia. La.
 - Numeri/date utili da verificare: 2026, 20, 12 equipaggi, 8, 12, 30, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

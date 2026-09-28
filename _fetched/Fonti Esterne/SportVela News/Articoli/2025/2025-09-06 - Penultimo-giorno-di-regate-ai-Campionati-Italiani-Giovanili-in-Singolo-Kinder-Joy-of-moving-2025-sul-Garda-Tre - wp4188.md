@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4, IQFOiL, iQFOiL, Techno 293, Waszp.
-- Nomi, circoli o luoghi da valutare: Penultimo, Campionati Italiani Giovanili, Singolo Kinder Joy, Garda Trentino, Garda, Nord, Waszp, Techno, Under, Intorno, ILCA, Optimist, L’attesa, Gold.
+- Nomi, circoli o luoghi da valutare: Penultimo, Campionati Italiani Giovanili, Singolo Kinder Joy, Garda Trentino, Nord, Waszp, Techno, Under, Intorno, ILCA, Optimist, L’attesa, Gold, Sud Est.
 - Numeri/date utili da verificare: 2025, 28, 30, 293, 13, 15, 7, 8, 4, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

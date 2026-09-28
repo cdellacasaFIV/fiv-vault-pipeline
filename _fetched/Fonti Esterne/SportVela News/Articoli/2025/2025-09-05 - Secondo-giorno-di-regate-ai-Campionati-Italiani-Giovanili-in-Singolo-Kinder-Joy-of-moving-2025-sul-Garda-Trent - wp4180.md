@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4, IQFOiL, iQFOiL, Techno 293, Waszp.
-- Nomi, circoli o luoghi da valutare: Secondo, Campionati Italiani Giovanili, Singolo Kinder Joy, Garda Trentino Seconda, Seconda, Garda Trentino, Optimist, ILCA e Techno, Peler, Circolo Vela Arco, Nord, Sud. Al Circolo Surf, Torbole, Techno.
+- Nomi, circoli o luoghi da valutare: Secondo, Campionati Italiani Giovanili, Singolo Kinder Joy, Garda Trentino Seconda, Garda Trentino, Seconda, Optimist, ILCA e Techno, Peler, Circolo Vela Arco, Nord, Sud. Al Circolo Surf, Torbole, Techno.
 - Numeri/date utili da verificare: 2025, 8, 00, 293, 12, 15, 13, 6, 4, 6.9.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

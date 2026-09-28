@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Ufficializzato, Cortina, Yacht Club Cortina, Ampezzo e Lega Navale, Italiana, Sezione di Chioggia Mercoledì, Casa Veneto, Ampezzo, Mercoledì, YCCA, Lega Navale Italiana, Sezione di Chioggia, Alla, Presidente.
+- Nomi, circoli o luoghi da valutare: Ufficializzato, Cortina, Yacht Club Cortina, Ampezzo e Lega Navale, Italiana, Sezione di Chioggia Mercoledì, Casa Veneto, Ampezzo, YCCA, Lega Navale Italiana, Sezione, Mercoledì, Sezione di Chioggia, Alla.
 - Numeri/date utili da verificare: 18, 2026, 22, 10, 31.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

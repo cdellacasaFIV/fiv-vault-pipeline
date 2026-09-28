@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO DEL MONDO MELGES, MELGINA di PAOLO BRESCIA, YC Italiano, SFIORA IL PODIO, Dopo, Golfo di Trieste, Melgina, Paolo Brescia, Filippo Vulcanile, Matija Succi, Stefano Cherin e Jas, Farneti, L’equipaggio, Yacht Club Italiano.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO DEL MONDO MELGES, MELGINA di PAOLO BRESCIA, YC Italiano, SFIORA IL PODIO, Dopo, Golfo di Trieste, Campionato, Melgina, Paolo Brescia, Filippo Vulcanile, Matija Succi, Stefano Cherin e Jas, Farneti, L’equipaggio.
 - Numeri/date utili da verificare: 24, 1, 71 equipaggi, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

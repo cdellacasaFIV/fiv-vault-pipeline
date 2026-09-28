@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Progetto FIV Vela STEAM, SVC Scienza e Vela, Caorle, SVC Lunedì, Scienza e Vela, Società Velica Caorle, Istituto, Istruzione Superiore Scarpa-Mattei, San Stino di Livenza, Un’iniziativa, Progetto Speciale FIV, Vela e STEAM, Federazione Italiana Vela, STEAM.
+- Nomi, circoli o luoghi da valutare: Progetto FIV Vela STEAM, SVC Scienza e Vela, Caorle, SVC Lunedì, Società Velica, Scienza e Vela, Società Velica Caorle, Istituto, Istruzione Superiore Scarpa-Mattei, San Stino di Livenza, Un’iniziativa, Progetto Speciale FIV, Vela e STEAM, Federazione Italiana Vela.
 - Numeri/date utili da verificare: 4, 5, 2026, 360, 1987.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

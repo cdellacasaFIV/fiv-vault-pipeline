@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA, LUCA PRISTER Rotta, Campionato Europeo Hansa, Grazie, Zona, Europeo, Europeo di Barcellona, Hansa, Hansa Liberty. Ogni, LUCA PRISTER Gli, Istituto Nautico, Sturla e Luca, Quasi, Pietra.
+- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA, LUCA PRISTER Rotta, Campionato Europeo Hansa, Grazie, Zona, Europeo di Barcellona, Hansa, Hansa Liberty. Ogni, LUCA PRISTER Gli, Istituto Nautico, Sturla e Luca, Quasi, Pietra, Sono.
 - Numeri/date utili da verificare: 3, 10, 20, 303, 2025, 31 anni, 2023, 5, 70.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

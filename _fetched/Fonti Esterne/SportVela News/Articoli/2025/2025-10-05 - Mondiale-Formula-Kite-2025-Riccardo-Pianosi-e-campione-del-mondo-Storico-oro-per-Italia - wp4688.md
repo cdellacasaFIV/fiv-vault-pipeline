@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Mondiale Formula Kite, Riccardo Pianosi, Storico, Italia, L’Italia, Formula Kite, L’impresa, Grand Final del Sardinia, Grand Slam, Poetto, Quartu Sant’Elena, Maximilian Maeder, Benoit Gomez, Per Pianosi.
+- Nomi, circoli o luoghi da valutare: Mondiale Formula Kite, Riccardo Pianosi, Storico, Italia, Formula Kite, L’Italia, L’impresa, Grand Final del Sardinia, Grand Slam, Poetto, Quartu Sant’Elena, Maximilian Maeder, Benoit Gomez, Per Pianosi.
 - Numeri/date utili da verificare: 2025, 5, 14, 20, 2028.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

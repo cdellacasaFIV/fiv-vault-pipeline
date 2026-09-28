@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: 420, 470.
-- Nomi, circoli o luoghi da valutare: Lisa Vucetti e Vittorio, Bonifacio, DOPPIETTA D’ORO NEL, JUNIOR, Dopo, Società Velica di Barcola, Grignano, Golfo di Trieste, XIII Zona FIV, L’allenatore Matja, Antonaz, Possono, Olimpiadi, Campionato del Mondo Junior.
+- Nomi, circoli o luoghi da valutare: Lisa Vucetti e Vittorio, Bonifacio, DOPPIETTA D’ORO NEL, JUNIOR, Dopo, Società, Società Velica di Barcola, Grignano, Golfo di Trieste, XIII Zona FIV, L’allenatore Matja, Antonaz, Possono, Olimpiadi.
 - Numeri/date utili da verificare: 470, 21, 55 equipaggi, 18, 420, 2025, 17, 2028, 2026, 2032.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

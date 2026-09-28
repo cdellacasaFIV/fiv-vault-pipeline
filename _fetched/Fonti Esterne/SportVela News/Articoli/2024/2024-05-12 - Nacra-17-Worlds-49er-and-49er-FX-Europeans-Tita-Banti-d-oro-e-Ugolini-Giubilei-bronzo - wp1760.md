@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: Nacra, Worlds, FX Europeans, Tita-Banti, Ugolini-Giubilei, Ultimo, Grande, Grande Motte International Regatta, Men’s Skiff, Women’s Skiff, Mixed Multihull, Solo, Oggi, Campionato del Mondo.
+- Nomi, circoli o luoghi da valutare: Nacra, Worlds, FX Europeans, Tita-Banti, Ugolini-Giubilei, Ultimo, Grande Motte International Regatta, Men’s Skiff, Women’s Skiff, Mixed Multihull, Solo, Oggi, Campionato del Mondo, Olimpiadi. Ottima.
 - Numeri/date utili da verificare: 17, 2024, 142, 32, 7, 20, 9998, 49.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

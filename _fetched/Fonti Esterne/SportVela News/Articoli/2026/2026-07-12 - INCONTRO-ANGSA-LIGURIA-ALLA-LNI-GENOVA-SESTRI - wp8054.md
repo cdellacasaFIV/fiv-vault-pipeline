@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: INCONTRO ANGSA LIGURIA ALLA, LNI GENOVA SESTRI, Associazione ANGSA, Associazione ANGSA Liguria, Associazione Nazionale Genitori Soggetti, Autistici, Brigantino Nave Italia, Marina Militare, Fondazione Tender, Nave Italia, L’iniziativa, Valeria Lubrano, Sezione., Francesco Raggi e Livio.
+- Nomi, circoli o luoghi da valutare: INCONTRO ANGSA LIGURIA ALLA, LNI GENOVA SESTRI, Associazione ANGSA Liguria, Associazione Nazionale Genitori Soggetti, Autistici, Brigantino Nave Italia, Marina Militare, Fondazione Tender, Nave Italia, L’iniziativa, Valeria Lubrano, Sezione., Francesco Raggi e Livio, De Falco.
 - Numeri/date utili da verificare: 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

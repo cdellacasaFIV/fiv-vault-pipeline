@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: Waszp.
-- Nomi, circoli o luoghi da valutare: MESI DI GRANDE IMPEGNO, PER IL WATERFRONT SAILING, GENOVA, Dopo, Lau Cup, Waterfront Sailing, Waterfront Sailing Club Genova, Garda, Waterfront, Campione del Garda, Europa, Switch Grand Prix, Federico Bergamasco, WASZP. Leggi.
+- Nomi, circoli o luoghi da valutare: MESI DI GRANDE IMPEGNO, PER IL WATERFRONT SAILING, GENOVA, Dopo, Lau Cup, Waterfront Sailing Club Genova, Garda, Waterfront, Campione del Garda, Europa, Switch Grand Prix, Federico Bergamasco, WASZP. Leggi, Liguria Sport.
 - Numeri/date utili da verificare: 12, 22, 24, 2026, 06, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

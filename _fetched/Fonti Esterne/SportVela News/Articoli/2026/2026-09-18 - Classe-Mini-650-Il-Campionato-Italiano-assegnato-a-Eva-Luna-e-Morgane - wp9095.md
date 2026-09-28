@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Classe Mini, Il Campionato Italiano, Eva Luna e Morgane, La Regata, Isole, Campionato Italiano Classe, Campionato Italiano Classe Mini, Arcipelago, Roma, ARCI, Organizzata, Club Riviera dei Fiori, Circolo Velico Capo Verde, Italiana Mini.
+- Nomi, circoli o luoghi da valutare: Classe Mini, Il Campionato Italiano, Eva Luna e Morgane, La Regata, Isole, Campionato Italiano Classe Mini, Arcipelago, Roma, ARCI, Organizzata, Club Riviera dei Fiori, Circolo Velico Capo Verde, Italiana Mini, Regata.
 - Numeri/date utili da verificare: 650, 6.50, 1800, 9, 2, 7, 40, 1078, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

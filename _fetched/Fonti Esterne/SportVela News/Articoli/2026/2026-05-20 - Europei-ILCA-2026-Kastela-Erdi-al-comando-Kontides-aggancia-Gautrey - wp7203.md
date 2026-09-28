@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7, ILCA 6.
-- Nomi, circoli o luoghi da valutare: Europei ILCA, Erdi, Kontides, Gautrey Chiavarini, ILCA, Caracciolo, Donne, Under, Chiavarini, Final Series, ILCA Senior European Championships, Open European Trophy, Le Gold, Nell’ILCA.
+- Nomi, circoli o luoghi da valutare: Europei ILCA, Erdi, Kontides, Gautrey Chiavarini, ILCA, Caracciolo, Donne, Under, Final Series, Chiavarini, ILCA Senior European Championships, Open European Trophy, Le Gold, Nell’ILCA.
 - Numeri/date utili da verificare: 2026, 7, 6, 23, 12, 00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

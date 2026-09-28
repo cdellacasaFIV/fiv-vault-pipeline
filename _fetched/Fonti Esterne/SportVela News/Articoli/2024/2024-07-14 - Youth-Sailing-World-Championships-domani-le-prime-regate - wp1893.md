@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 420.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Domenica, Practice Race, Regate-test, Mondiali, Vela Giovanile, Garda, Classe, Link, Campionato, Vela Giovanile di World, Sailing, Italia, Opening Ceremony.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Domenica, Practice Race, Youth Sailing World, Regate-test, Mondiali, Vela Giovanile, Garda, Classe, Link, Campionato, Vela Giovanile di World, Sailing, Italia.
 - Numeri/date utili da verificare: 418, 70, 15, 12, 420, 14, 13, 6, 7, 8.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

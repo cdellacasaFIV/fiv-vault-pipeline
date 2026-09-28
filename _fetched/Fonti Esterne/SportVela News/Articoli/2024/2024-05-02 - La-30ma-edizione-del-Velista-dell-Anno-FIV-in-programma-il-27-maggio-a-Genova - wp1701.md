@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, ILCA 6.
-- Nomi, circoli o luoghi da valutare: Velista, Anno FIV, Genova, Oscar, Ambrogio Beccaria, Mattia Cesana, Francesca Clapcich, Nicolò Renna, Ruggero Tita e Caterina, Banti, L’evento, Barca, Anno, Trofeo Confindustria Nautica.
+- Nomi, circoli o luoghi da valutare: Velista, Anno FIV, Genova, Oscar, Ambrogio Beccaria, Mattia Cesana, Francesca Clapcich, Nicolò Renna, Ruggero Tita e Caterina, Banti. L’evento, Banti, L’evento, Barca, Anno.
 - Numeri/date utili da verificare: 27, 2023, 2, 2024, 18, 30, 1991, 93, 15,98, 26.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

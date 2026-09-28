@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: 420, 470.
-- Nomi, circoli o luoghi da valutare: Oltre, Cesenatico. Si, Coppa Uniqua Classe, III Regata Nazionale Classe, Circolo Vela Cesenatico, Circolo Nautico Cesenatico, Cesenatico, Italia e, Cuore, Ponente, Particolarmente, Grazie, Comitato di Regata, Matteo Mioni e Noah.
+- Nomi, circoli o luoghi da valutare: Oltre, Cesenatico. Si, Coppa Uniqua Classe, III RegataNazionale Classe, III Regata Nazionale Classe, Circolo Vela Cesenatico, Circolo Nautico Cesenatico, Cesenatico, Italia e, Cuore, Ponente, Particolarmente, Grazie, Comitato di Regata.
 - Numeri/date utili da verificare: 80 equipaggi, 420, 470, 2, 30, 300.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: IL PRINCIPE DI BORBONE, DOMA AD ALASSIO LA, FLOTTA SMERALDA, Vamos, Trofeo Luigi Carpaneda, Trofeo Luigi Carpaneda. Ad, Bloody Mathilde, Nicolò Saidelli, Svizzera, Principe di Borbone, YC Monaco, Alessandro Zampori, Monaco, Carlo di Borbone.
+- Nomi, circoli o luoghi da valutare: IL PRINCIPE DI BORBONE, DOMA AD ALASSIO LA, FLOTTA SMERALDA, Vamos, Trofeo Luigi Carpaneda, Trofeo Luigi, Trofeo Luigi Carpaneda. Ad, Bloody Mathilde, Nicolò Saidelli, Svizzera, Principe di Borbone, YC Monaco, Alessandro Zampori, Monaco.
 - Numeri/date utili da verificare: 888, 12, 4, 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

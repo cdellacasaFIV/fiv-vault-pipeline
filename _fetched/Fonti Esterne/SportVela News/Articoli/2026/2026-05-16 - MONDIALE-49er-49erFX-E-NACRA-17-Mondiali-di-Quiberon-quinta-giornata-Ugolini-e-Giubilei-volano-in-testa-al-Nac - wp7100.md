@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: MONDIALE, NACRA, Mondiali di Quiberon, Ugolini e Giubilei, Seconda, Finals, Campionato del Mondo, Baia, Baia di Quiberon. Tutte, Seb Menzies e George, Lee Rush, Nuova Zelanda, Secondi, Harry Price e Max.
+- Nomi, circoli o luoghi da valutare: MONDIALE, NACRA, Mondiali di Quiberon, Ugolini e Giubilei, Seconda, Finals, Campionato del Mondo, Baia di Quiberon. Tutte, Seb Menzies e George, Lee Rush, Nuova Zelanda, Secondi, Harry Price e Max, Paul. Terzi.
 - Numeri/date utili da verificare: 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

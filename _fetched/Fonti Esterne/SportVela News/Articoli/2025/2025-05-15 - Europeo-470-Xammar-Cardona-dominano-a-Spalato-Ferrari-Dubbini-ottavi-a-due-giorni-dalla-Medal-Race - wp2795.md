@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: Europeo, Xammar, Cardona, Spalato, Ferrari, Dubbini, Medal Race Penultima, Open European Championship, Spalato. La, Penultima, Race, Medal Race. Al, Jordi Xammar e Marta, Martin Wrigley e Bettine.
+- Nomi, circoli o luoghi da valutare: Europeo, Xammar, Cardona, Spalato, Ferrari, Dubbini, Medal Race Penultima, Open European Championship, Spalato. La, Race, Penultima, Medal Race. Al, Jordi Xammar e Marta, Martin Wrigley e Bettine.
 - Numeri/date utili da verificare: 470, 8, 9, 1, 2, 13, 27, 3, 6, 22.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

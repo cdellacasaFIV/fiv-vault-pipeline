@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er.
-- Nomi, circoli o luoghi da valutare: Pezzilli e Torroni, Under, Rungsted, Danimarca, Lorenzo Pezzilli e Tobia, Torroni, Lorenzo Bianchini, Ottima, Pezzilli, Veronelli, Gold, Demurtas, Santi e Battaglia, Cerulli.
+- Nomi, circoli o luoghi da valutare: Pezzilli e Torroni, Under, Rungsted, Danimarca, Lorenzo Pezzilli, Lorenzo Pezzilli e Tobia, Torroni, Lorenzo Bianchini, Ottima, Pezzilli, Veronelli, Gold, Demurtas, Santi e Battaglia.
 - Numeri/date utili da verificare: 23, 2025, 25, 100.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

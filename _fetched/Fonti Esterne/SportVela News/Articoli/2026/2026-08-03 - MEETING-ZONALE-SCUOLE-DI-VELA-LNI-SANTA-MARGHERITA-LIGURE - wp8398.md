@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MEETING ZONALE SCUOLE DI, VELA LNI SANTA MARGHERITA, LIGURE Sabato, Scuole di Vela, Zona FIV, Sabato, LNI di Santa Margherita, Ligure, Meeting Zonale. Sarà, Meeting, Prima Zona FIV, Circoli Velici, Zona, Programma.
+- Nomi, circoli o luoghi da valutare: MEETING ZONALE SCUOLE DI, VELA LNI SANTA MARGHERITA, LIGURE Sabato, Scuole di Vela, Zona FIV, LNI di Santa Margherita, Ligure, Meeting Zonale.Sarà, Sabato, Meeting Zonale. Sarà, Meeting, Prima Zona FIV, Circoli Velici, Zona.
 - Numeri/date utili da verificare: 8.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: Para Sailing.
-- Nomi, circoli o luoghi da valutare: Interventi, Consiglio Federale FIV, Roma, Presidente del CONI Luciano, Buonfiglio, Presidente del CIP Marco, Giunio De Sanctis, Sala Giunta del Palazzo, CONI, Palazzo CONI, Consiglio Federale, Federazione Italiana Vela, Consiglio, Presidente del Comitato Italiana.
+- Nomi, circoli o luoghi da valutare: Interventi, Consiglio Federale FIV, Roma, Presidente del CONI Luciano, Buonfiglio, Presidente del CIP Marco, Giunio De Sanctis, Sala Giunta del Palazzo, CONI, Consiglio Federale, Federazione, Palazzo CONI, Federazione Italiana Vela, Consiglio.
 - Numeri/date utili da verificare: 12, 2026, 2027, 2025, 100 anni, 100.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

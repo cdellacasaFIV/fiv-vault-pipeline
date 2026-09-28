@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Waszp.
-- Nomi, circoli o luoghi da valutare: Switch, Next Generation FIV Foil, Academy, Luna Rossa Next Generation, FIV Foil Academy, Luna Rossa, XIV Zona FIV, Campionati Italiani Giovanili, Singolo, Garda, Malcesine, L’equipaggio, Emma Mattivi, Giovanni Santi.
+- Nomi, circoli o luoghi da valutare: Switch, Next Generation FIV Foil, Academy, Luna Rossa Next Generation, FIV Foil Academy, Luna Rossa, XIV Zona FIV, Campionati Italiani, Campionati Italiani Giovanili, Singolo, Garda, Malcesine, L’equipaggio, Emma Mattivi.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

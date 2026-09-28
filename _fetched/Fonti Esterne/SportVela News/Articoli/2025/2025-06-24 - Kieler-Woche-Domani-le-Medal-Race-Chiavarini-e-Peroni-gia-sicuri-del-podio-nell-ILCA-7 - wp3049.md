@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, ILCA 7, ILCA 6.
-- Nomi, circoli o luoghi da valutare: Kieler Woche, Domani, Medal Race, Chiavarini e Peroni, ILCA, Ultima, Gold, L’Italia, Lorenzo Brando Chiavarini, Dimitri Peroni, Chiavarini, Fiamme Oro, Peroni, Sezione Vela Guardia.
+- Nomi, circoli o luoghi da valutare: Kieler Woche, Domani, Medal Race, Chiavarini e Peroni, ILCA, Ultima, Gold, Medal, L’Italia, Lorenzo Brando Chiavarini, Dimitri Peroni, Chiavarini, Fiamme Oro, Peroni.
 - Numeri/date utili da verificare: 7, 13, 25, 6, 1, 3, 36, 46.6, 30.7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: Mondiali, Nacra, Italia, Ugolini-Giubilei. Da, Campionati del Mondo, Golfo degli Angeli. Condizioni, Protagonisti, Gianluigi Ugolini e Maria, Giubilei, Gold Fleet., Finalmente, Ugolini, Abbiamo, Alle.
+- Nomi, circoli o luoghi da valutare: Mondiali, Nacra, Italia, Ugolini-Giubilei. Da, Campionati del Mondo, Golfo, Golfo degli Angeli. Condizioni, Protagonisti, Gianluigi Ugolini e Maria, Giubilei, Gold Fleet., Finalmente, Ugolini, Abbiamo.
 - Numeri/date utili da verificare: 17, 3, 7, 10, 12, 2025, 49.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

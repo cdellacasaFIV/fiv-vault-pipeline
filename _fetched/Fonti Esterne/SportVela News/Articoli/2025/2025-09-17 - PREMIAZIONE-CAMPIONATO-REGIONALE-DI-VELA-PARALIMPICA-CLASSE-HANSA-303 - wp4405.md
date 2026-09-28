@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: PREMIAZIONE CAMPIONATO REGIONALE DI, VELA PARALIMPICA CLASSE HANSA, Teatro, Teatro del Mare, Salone Nautico, Promosso, Comitato Italiano Paralimpico, Liguria, Prismyan, Circolo Nautico Andora, Lega Navale Italiana, Savona, Genova Sestri Ponente, Santa Margherita Ligure.
+- Nomi, circoli o luoghi da valutare: PREMIAZIONE CAMPIONATO REGIONALE DI, VELA PARALIMPICA CLASSE HANSA, Teatro del Mare, Salone Nautico, Promosso, Comitato Italiano Paralimpico, Liguria, Prismyan, Circolo Nautico Andora, Lega Navale Italiana, Savona, Genova Sestri Ponente, Santa Margherita Ligure, Chiavari e Lavagna.
 - Numeri/date utili da verificare: 303, 19, 17, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

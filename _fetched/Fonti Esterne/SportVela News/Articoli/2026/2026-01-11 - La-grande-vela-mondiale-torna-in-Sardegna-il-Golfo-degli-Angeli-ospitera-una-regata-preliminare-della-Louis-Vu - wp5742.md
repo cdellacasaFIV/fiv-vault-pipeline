@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Sardegna, Golfo degli Angeli, Louis Vuitton Cup La, Come, La Sardegna, La Nuova Sardegna, Louis Vuitton Cup, America’s Cup, Napoli. Un, Isola, America’s Cup. La, Regata Preliminare, Louis Vuitton, Assessore.
+- Nomi, circoli o luoghi da valutare: Sardegna, Golfo degli Angeli, Louis Vuitton Cup La, Come, La Nuova Sardegna, La Sardegna, Louis Vuitton Cup, America’s Cup, Napoli. Un, Isola, America’s Cup. La, Regata Preliminare, Louis Vuitton, Assessore.
 - Numeri/date utili da verificare: 2027, 38, 16, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

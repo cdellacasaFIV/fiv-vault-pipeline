@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: Dinghy 12.
-- Nomi, circoli o luoghi da valutare: DINGHY, RANKING LIST, ZONA, Regata dei Santi, CN Rapallo, Foto, Trofeo Siad, Photo, Roberta Roccati, Blue Passion Photo, Copyright., Regate Liguri, Classe DINGHY, Eventi.
+- Nomi, circoli o luoghi da valutare: DINGHY, RANKING LIST, ZONA, Regata dei Santi, CN Rapallo, Regate Liguri, Classe, Foto, Trofeo Siad, Photo, Roberta Roccati, Blue Passion Photo, Copyright., Classe DINGHY.
 - Numeri/date utili da verificare: 12, 2025, 3, 11, 54, 51.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

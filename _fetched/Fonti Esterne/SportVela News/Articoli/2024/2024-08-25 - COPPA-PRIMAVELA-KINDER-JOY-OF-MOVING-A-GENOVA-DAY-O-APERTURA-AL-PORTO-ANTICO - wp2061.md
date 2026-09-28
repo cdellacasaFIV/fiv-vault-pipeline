@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Techno 293, Waszp.
-- Nomi, circoli o luoghi da valutare: COPPA PRIMAVELA KINDER JOY, OF MOVING, GENOVA, APERTURA AL PORTO ANTICO, Piazza De Ferrari, Porto, Porto Antico Il Presidente, FIV Francesco Ettorre, Emozionati, Sergio Gambino, Giuramenti di Atleta, Allenatore e UDR, Fiera di Genova Una, Porto Antico.
+- Nomi, circoli o luoghi da valutare: COPPA PRIMAVELA KINDER JOY, OF MOVING, GENOVA, APERTURA AL PORTO ANTICO, Piazza De Ferrari, Porto Antico Il Presidente, FIV Francesco Ettorre, Emozionati, Sergio Gambino, Giuramenti di Atleta, Allenatore e UDR, Fiera di Genova Una, Porto Antico, Tensostruttura Ponte Embriaco.
 - Numeri/date utili da verificare: 2024, 15, 26, 28, 2004, 2015, 293, 2014, 2013, 292.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

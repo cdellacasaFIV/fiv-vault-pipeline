@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6.
-- Nomi, circoli o luoghi da valutare: Europeo Giovanile ILCA, Vilamoura Dal, Vilamoura, Portogallo, EurILCA, Youth, Youth European Championships, Open European Trophy, ILCA, L’Italia, Alessandro Cirinei, Nicolò Maria Cassitta, Marina Murri e Clara, Lorenzi.
+- Nomi, circoli o luoghi da valutare: Europeo Giovanile ILCA, Vilamoura Dal, Vilamoura, Portogallo, EurILCA, Youth European Championships, Open European Trophy, ILCA, L’Italia, Alessandro Cirinei, Nicolò Maria Cassitta, Marina Murri e Clara, Lorenzi, Federazione Italiana Vela.
 - Numeri/date utili da verificare: 6, 41 atleti, 12, 19, 2025, 360, 40, 13, 14.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

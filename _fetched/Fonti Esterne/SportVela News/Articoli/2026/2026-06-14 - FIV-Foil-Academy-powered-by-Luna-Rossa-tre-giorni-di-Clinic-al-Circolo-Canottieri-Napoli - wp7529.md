@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli, america's cup/napoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: FIV Foil Academy, Luna Rossa, Clinic, Circolo Canottieri Napoli Si, Circolo Canottieri Napoli, Federazione Italiana Vela, L’appuntamento, Federazione, Fly Test, Training e Stage.
+- Nomi, circoli o luoghi da valutare: FIV Foil Academy, Luna Rossa, Clinic, Circolo Canottieri Napoli Si, Circolo Canottieri Napoli, Luna, Federazione Italiana Vela, L’appuntamento, Federazione, Fly Test, Training e Stage.
 - Numeri/date utili da verificare: 8, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

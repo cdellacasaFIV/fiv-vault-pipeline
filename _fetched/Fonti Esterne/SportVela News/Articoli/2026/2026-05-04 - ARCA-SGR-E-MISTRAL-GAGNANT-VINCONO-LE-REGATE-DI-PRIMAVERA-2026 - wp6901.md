@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: ARCA SGR, MISTRAL GAGNANT VINCONO LE, REGATE DI PRIMAVERA, Golfo, Golfo del Tigullio. Un, Il Comitato di Regata, Dopo, Sud-Ovest, Golfo del Tigullio, Open, Regate di Primavera Portofino, Marta Benussi, Furio Benussi, MOONSHINE.
+- Nomi, circoli o luoghi da valutare: ARCA SGR, MISTRAL GAGNANT VINCONO LE, REGATE DI PRIMAVERA, Golfo del Tigullio. Un, Il Comitato di Regata, Dopo, Sud-Ovest, Golfo del Tigullio, Open, Regate di Primavera Portofino, Marta Benussi, Furio Benussi, MOONSHINE, Frers.
 - Numeri/date utili da verificare: 2026, 3, 8, 11.30, 100, 60, 61, 50, 80, 79.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

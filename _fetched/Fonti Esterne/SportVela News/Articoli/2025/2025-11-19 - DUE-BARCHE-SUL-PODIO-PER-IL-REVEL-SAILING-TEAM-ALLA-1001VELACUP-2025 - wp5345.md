@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: DUE BARCHE SUL PODIO, PER IL REVEL SAILING, TEAM ALLA, Lago di Como, Circolo, Circolo Vela Bellano, Revel Sailing Team, Campus Universitario di La, Spezia, Polisportiva Universitaria CUS Genova, Università degli Studi, Genova, Lega Navale di La, Spezia e da Promostudi..
+- Nomi, circoli o luoghi da valutare: DUE BARCHE SUL PODIO, PER IL REVEL SAILING, TEAM ALLA, Lago di Como, Circolo Vela Bellano, Revel Sailing Team, Campus Universitario di La, Spezia, Polisportiva Universitaria CUS Genova, Università degli Studi, Genova, Lega Navale di La, Spezia e da Promostudi., Corsara.
 - Numeri/date utili da verificare: 2025, 18, 2005, 2009, 2024, 2023, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

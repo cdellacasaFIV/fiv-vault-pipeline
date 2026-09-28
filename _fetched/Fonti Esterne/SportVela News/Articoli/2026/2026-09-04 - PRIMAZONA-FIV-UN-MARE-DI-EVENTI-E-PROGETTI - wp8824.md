@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: PRIMAZONA FIV, MARE, DI EVENTI, PROGETTI, Calata Anselmi, Imperia, Vele, Epoca, Alessandro Pezzoli, Comitato Primazona, Federvela, Liguria, Epoca. Un, Il Comitato.
+- Nomi, circoli o luoghi da valutare: PRIMAZONA FIV, MARE, DI EVENTI, PROGETTI, Calata Anselmi, Imperia, Vele, Epoca, Alessandro Pezzoli, Comitato, Comitato Primazona, Federvela, Liguria, Epoca. Un.
 - Numeri/date utili da verificare: 3, 40, 12, 80, 90, 25, 2026, 09, 03.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

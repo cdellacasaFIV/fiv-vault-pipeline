@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Novembre 2025 | Premiazioni Zonali 2025 della XII Zona FIV Veneto | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-30 - Premiazioni-Zonali-2025-della-XII-Zona-FIV-Veneto - wp5449|nota]] |
+| 28 Novembre 2025 | Vela inclusiva, l’Italia pronta per Mussanah. World Sailing crea la Classification Sub-Committee | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - Vela-inclusiva-l-Italia-pronta-per-Mussanah-World-Sailing-crea-la-Classification-Sub-Committee - wp5435|nota]] |
 | 28 Novembre 2025 | A SANREMO LE GRANDI REGATE INTERNAZIONALI E RADUNO SANGERMANI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - A-SANREMO-LE-GRANDI-REGATE-INTERNAZIONALI-E-RADUNO-SANGERMANI - wp5429|nota]] |
 | 24 Novembre 2025 | WEEKEND DI ATTIVITA’ DEDICATO AGLI ASPIRANTI YEM PER L’AREA FORMAZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-24 - WEEKEND-DI-ATTIVITA-DEDICATO-AGLI-ASPIRANTI-YEM-PER-L-AREA-FORMAZIONE - wp5402|nota]] |
 | 20 Novembre 2025 | Formazione e scuola: il progetto con il Liceo Sportivo di Castelletto di Brenzone | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - Formazione-e-scuola-il-progetto-con-il-Liceo-Sportivo-di-Castelletto-di-Brenzone - wp5368|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 13 Aprile 2024 | Lettera del Presidente Ettorre per i 97 anni della FIV | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-13 - Lettera-del-Presidente-Ettorre-per-i-97-anni-della-FIV - wp1636|nota]] |
 | 6 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: la squadra italiana vince il medagliere. Quattro medaglie: due ori e due argenti | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-la-squadra-italiana-vince-il-medagliere-Quattro-medaglie-due-ori-e-due-arg - wp1624|nota]] |
 | 6 Aprile 2024 | Corsi di Specializzazione Istruttori Para sailing 2024: date, sedi e informazioni essenziali | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - Corsi-di-Specializzazione-Istruttori-Para-sailing-2024-date-sedi-e-informazioni-essenziali - wp1621|nota]] |
-| 24 Marzo 2024 | Formula Kite Europeans 2024: Pianosi d’argento, Pescetto nona | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-24 - Formula-Kite-Europeans-2024-Pianosi-d-argento-Pescetto-nona - wp1546|nota]] |
-| 23 Marzo 2024 | Oro e bronzo italiano ai 2024 ILCA Under 21 European Championships | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-23 - Oro-e-bronzo-italiano-ai-2024-ILCA-Under-21-European-Championships - wp1543|nota]] |

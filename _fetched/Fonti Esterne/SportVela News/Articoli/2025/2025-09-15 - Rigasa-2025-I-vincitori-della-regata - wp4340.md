@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Rigasa, Circolo Velico, Circolo Velico Riminese, Adriatico, Oltre, Orizzonte, Line, Farr, Circolo Velico Ravennate, Rimini, Gagliola, Sansego. La, Wattamarano, ISAL.
+- Nomi, circoli o luoghi da valutare: Rigasa, Circolo Velico Riminese, Adriatico, Oltre, Orizzonte, Line, Farr, Circolo Velico Ravennate, Rimini, Gagliola, Sansego. La, Wattamarano, ISAL, Marco Carlini.
 - Numeri/date utili da verificare: 2025, 14, 20.08, 41, 53, 12, 17, 850, 170, 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

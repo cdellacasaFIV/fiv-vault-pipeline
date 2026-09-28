@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: VELA DAY IN LIGURIA, EMOZIONI, NON FINIRE Video, Vela Day, Zona, Video, Marco Callai, Liguria Sport.
+- Nomi, circoli o luoghi da valutare: VELA DAY IN LIGURIA, EMOZIONI, NON FINIRE Video, Vela Day, Zona, Marco, Video, Marco Callai, Liguria Sport.
 - Numeri/date utili da verificare: 41.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

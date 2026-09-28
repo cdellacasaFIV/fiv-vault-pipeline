@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Caccia, Catania, Optimist, Circolo Nic, VII Zona, Definiti, Coppa Primavela di Gaeta, Campionati Giovanili, Trofeo CONI. Chi, Circolo Nic di Catania, Optimist. Il, Eppure, Comitato, Quattro.
+- Nomi, circoli o luoghi da valutare: Caccia, Catania, Optimist, Circolo Nic, VII Zona, Definiti, Coppa Primavela, Coppa Primavela di Gaeta, Campionati Giovanili, Trofeo CONI. Chi, Circolo Nic di Catania, Optimist. Il, Eppure, Comitato.
 - Numeri/date utili da verificare: 60, 27, 28, 2017, 2016.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

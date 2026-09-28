@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: Trofeo Princesa Sofía, Sulla Baia di Palma, Mixed, ILCA, Nacra, Sono, Cinque, Mixed Elena Berta, Centro Sportivo Aeronautica Militare, Giulio Calabrò, Centro Sportivo Marina Militare, Settimi Giacomo Ferrari, Marina Militare, Alessandra Dubbini.
+- Nomi, circoli o luoghi da valutare: Trofeo Princesa Sofía, Sulla, Sulla Baia di Palma, Mixed, ILCA, Nacra, Sono, Cinque, Mixed Elena Berta, Centro Sportivo Aeronautica Militare, Giulio Calabrò, Centro Sportivo Marina Militare, Settimi Giacomo Ferrari, Marina Militare.
 - Numeri/date utili da verificare: 2026, 55, 470, 6, 7, 17, 900, 62, 1.100, 77.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

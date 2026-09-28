@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano, Finale del Campionato Italiano, Cagliari, Campionato Italiano Classi Olimpiche, Edison Next, Olympic Virtual Series, Olympic, Series di Singapore, IOC Comitato Olimpico Internazionale., Antonio D’Angelo, Lorenzo Sorrenti, Anna Cuccia. Ecco, Varazze Club Nautico ASD, Luca Coslovich.
+- Nomi, circoli o luoghi da valutare: Campionato Italiano, Finale del Campionato Italiano, Cagliari, Campionato Italiano Classi Olimpiche, Edison, Edison Next, Olympic Virtual Series, Olympic, Series di Singapore, IOC Comitato Olimpico Internazionale., Antonio D’Angelo, Lorenzo Sorrenti, Anna Cuccia. Ecco, Varazze Club Nautico ASD.
 - Numeri/date utili da verificare: 1881, 12, 2024, 28, 2021, 2023, 20, 634, 24, 710.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

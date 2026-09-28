@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: LA I-ZONA FIV VERSO, L’ASSEMBLEA DEI CIRCOLI Appuntamento, Il Comitato, Zona, Federazione Italiana, Appuntamento, Federazione Italiana Vela, Assemblea dei Circoli Affiliati, L’evento, La Casa, Federazioni, Padre Santo, Genova, L’Assemblea.
+- Nomi, circoli o luoghi da valutare: LA I-ZONA FIV VERSO, L’ASSEMBLEA DEI CIRCOLI Appuntamento, Il Comitato, Zona, Federazione Italiana Vela, Assemblea, Appuntamento, Assemblea dei Circoli Affiliati, L’evento, La Casa, Federazioni, Padre Santo, Genova, L’Assemblea.
 - Numeri/date utili da verificare: 25, 29, 2026, 20.30, 1, 2025, 360.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

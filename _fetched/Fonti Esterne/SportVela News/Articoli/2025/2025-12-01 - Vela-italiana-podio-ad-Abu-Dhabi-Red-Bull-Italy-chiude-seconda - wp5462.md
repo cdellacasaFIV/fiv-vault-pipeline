@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Abu Dhabi, Red Bull Italy, Storico, Stagione, SailGP Il, SailGP Il Red Bull, Italy SailGP Team, Decisivo, FIV Jana Germani, Jimmy Spithill, Phil Robertson, Denmark SailGP Team, Francia, Sabato.
+- Nomi, circoli o luoghi da valutare: Abu Dhabi, Red Bull Italy, Storico, Stagione, SailGP Il Red Bull, Italy SailGP Team, Decisivo, FIV Jana Germani, Jimmy Spithill, Phil Robertson, Denmark SailGP Team, Francia, Sabato, Italia.
 - Numeri/date utili da verificare: 5, 8, 4, 3, 7, 6, 17, 18, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

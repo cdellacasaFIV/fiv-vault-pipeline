@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: Mondiale, Enoshima Recuperate, Qualifying Series, Bene, Ferrari-Dubbini, Recuperate, Berta-Calabrò, Il Mondiale, Enoshima, Dopo, Yves Mermod e Maja, Siegenthaler, Alle, Roy Levy e Ariel.
+- Nomi, circoli o luoghi da valutare: Mondiale, Enoshima Recuperate, Qualifying Series, Bene, Ferrari-Dubbini, Berta-Calabrò, Recuperate, Il Mondiale, Enoshima, Dopo, Yves Mermod e Maja, Siegenthaler, Alle, Roy Levy e Ariel.
 - Numeri/date utili da verificare: 470, 74 equipaggi, 3, 8, 17, 2026, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Navigare Insieme, Italia, Cagliari, Sardinia Sailing Cup Avvio, Federazione Italiana Vela, UniCredit, Avvio, Fondo Carta Etica, Navigare, Sardinia Sailing Cup, Golfo degli Angeli, L’evento, Sport, Fabio Colella.
+- Nomi, circoli o luoghi da valutare: Navigare Insieme, Italia, Cagliari, Sardinia Sailing Cup Avvio, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Avvio, Navigare, Sardinia Sailing Cup, Golfo degli Angeli, L’evento, Sport, Fabio Colella.
 - Numeri/date utili da verificare: 14, 15, 303, 2005, 2, 1000.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

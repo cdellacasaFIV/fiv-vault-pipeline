@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Trofeo CONI, Lignano Sabbiadoro Veneto, XII e XIV Zona, Feva, XII Zona Il Trofeo, Veneto, CONI, Lignano Sabbiadoro, XII Zona FIV, XIV Zona FIV, Lago di Garda, RS Feva, Anna Marzollo, Circolo.
+- Nomi, circoli o luoghi da valutare: Trofeo CONI, Lignano Sabbiadoro Veneto, XII e XIV Zona, Feva, XII Zona Il Trofeo, CONI, Lignano Sabbiadoro, Veneto, XII Zona FIV, XIV Zona FIV, Lago di Garda, RS Feva, Anna Marzollo, Circolo.
 - Numeri/date utili da verificare: 2025, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

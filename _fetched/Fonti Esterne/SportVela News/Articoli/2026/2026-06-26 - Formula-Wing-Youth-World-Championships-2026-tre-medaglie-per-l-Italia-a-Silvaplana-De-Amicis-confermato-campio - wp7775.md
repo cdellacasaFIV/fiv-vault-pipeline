@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio.
 - Classi/discipline citate: WingFoil.
-- Nomi, circoli o luoghi da valutare: Formula Wing Youth World, Championships, Italia, Silvaplana, De Amicis, Under, Engadina, Mondiali, Formula, Formula Wing., Ernesto De Amicis, RYCC Savoia, Azzorre, Michele Capitani.
+- Nomi, circoli o luoghi da valutare: Formula Wing Youth World, Championships, Italia, Silvaplana, De Amicis, Under, Engadina, Mondiali, Formula Wing., Ernesto De Amicis, RYCC Savoia, Azzorre, Michele Capitani, Tognazzi Marine Village.
 - Numeri/date utili da verificare: 2026, 19, 2025, 15, 17, 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

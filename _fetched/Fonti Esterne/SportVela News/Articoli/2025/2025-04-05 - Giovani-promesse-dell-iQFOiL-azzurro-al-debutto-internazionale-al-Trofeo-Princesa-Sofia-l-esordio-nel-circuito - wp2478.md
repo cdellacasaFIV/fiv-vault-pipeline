@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: Giovani, Trofeo Princesa Sofía, Palma di Maiorca, Trofeo Princesa, Mattia Saoncella, Medea Falcioni e Francesca, Maria Salerno, Nonostante, Falcioni e Saoncella, Salerno, FIV Antonio Cangemi., L’esordio, Alessandra Sensini, Vedere.
+- Nomi, circoli o luoghi da valutare: Giovani, Trofeo Princesa Sofía, Palma di Maiorca, Mattia Saoncella, Medea Falcioni e Francesca, Maria Salerno, Nonostante, Falcioni e Saoncella, Salerno, FIV Antonio Cangemi., L’esordio, Alessandra Sensini, Vedere, Palma.
 - Numeri/date utili da verificare: 5, 2025, 6, 8, 15, 18, 16 anni, 18 anni, 69, 41.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

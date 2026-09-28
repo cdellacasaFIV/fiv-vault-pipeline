@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: La Superba, Svezia, Concluso, European Championship, Trelleborgs Båtsällskap. Il, Marina Militare, Vittoria, Ninja del Capo Flotta, Golfo dei Poeti Francesco, Nucara, Pilgrim, Capo Flotta del Lario, Mauro Benfatto. Premiato, Stefano Fasoli.
+- Nomi, circoli o luoghi da valutare: La Superba, Svezia, Concluso, European Championship, Trelleborgs Båtsällskap. Il, Marina, Marina Militare, Vittoria, Ninja del Capo Flotta, Golfo dei Poeti Francesco, Nucara, Pilgrim, Capo Flotta del Lario, Mauro Benfatto. Premiato.
 - Numeri/date utili da verificare: 2026, 30, 15, 2,1, 1,2, 9,3, 3,2, 1, 2012, 2019.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

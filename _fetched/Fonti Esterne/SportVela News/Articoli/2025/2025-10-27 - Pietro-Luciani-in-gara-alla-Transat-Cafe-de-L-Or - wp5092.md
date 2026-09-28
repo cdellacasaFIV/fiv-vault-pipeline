@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Pietro Luciani, Transat Café de L’Or, XII Zona FIV Veneto, Pietro, Compagnia, Vela di Venezia, Route, Café, Class, Francia, Atlantico, Caraibi. Nata, William Mathelin-Moreaux, Les Invincibles.
+- Nomi, circoli o luoghi da valutare: Pietro Luciani, Transat Café de L’Or, XII Zona FIV Veneto, Compagnia, Vela di Venezia, Route, Café, Class, Francia, Atlantico, Caraibi. Nata, William Mathelin-Moreaux, Les Invincibles, La XII Zona FIV.
 - Numeri/date utili da verificare: 40, 90.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Europeo, Pestifera, LNI Napoli, Scheveningen, Paesi Bassi, Campionato Europeo, North Sea, North Sea Regatta, Europa., Mare del Nord, Olanda, Francia, Italia e Germania. Per, Italia.
+- Nomi, circoli o luoghi da valutare: Europeo, Pestifera, LNI Napoli, Scheveningen, Paesi Bassi, Campionato Europeo, North Sea Regatta, Europa., Mare del Nord, Olanda, Francia, Italia e Germania. Per, Italia, Lega Navale Italiana.
 - Numeri/date utili da verificare: 22, 17 equipaggi, 87, 1373, 1444.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

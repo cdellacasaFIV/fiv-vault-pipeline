@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: ILCA 4.
-- Nomi, circoli o luoghi da valutare: Campionati Italiani Giovanili, Zona, Nugnes, Optimist, Cozzolino, ILCA, Ai Campionati Italiani Giovanili, Singolo Kinder, Singolo Kinder Joy, Ravenna, Raffaele Nugnes e Irene, Lega Navale Italiana, Napoli, Zona FIV.
+- Nomi, circoli o luoghi da valutare: Campionati Italiani Giovanili, Zona, Nugnes, Optimist, Cozzolino, ILCA, Ai Campionati Italiani Giovanili, Singolo Kinder Joy, Ravenna, Raffaele Nugnes, Raffaele Nugnes e Irene, Lega Navale Italiana, Napoli, Zona FIV.
 - Numeri/date utili da verificare: 4, 16, 473 atleti, 13, 19 anni, 105, 10, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -6,6 +6,8 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Luglio 2026 | Palermo incorona i campioni italiani della vela d’altura in doppio | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-05 - Palermo-incorona-i-campioni-italiani-della-vela-d-altura-in-doppio - wp7890|nota]] |
+| 5 Luglio 2026 | L’Adriatico Wind Club torna sul podio della Techno 293 con Lorenzo Innocenti, secondo nella categoria CH4 alla Coppa del Presidente FIV di Gaeta. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-05 - L-Adriatico-Wind-Club-torna-sul-podio-della-Techno-293-con-Lorenzo-Innocenti-secondo-nella-categoria-CH4-alla- - wp7914|nota]] |
 | 5 Luglio 2026 | Club Nautico Rimini in festa: Sviatoslav Yasnolobov campione italiano giovanile U17 OpenSkiff. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-05 - Club-Nautico-Rimini-in-festa-Sviatoslav-Yasnolobov-campione-italiano-giovanile-U17-OpenSkiff - wp7907|nota]] |
 | 5 Luglio 2026 | LNI CHIAVARI – LAVAGNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-05 - LNI-CHIAVARI-LAVAGNA - wp7885|nota]] |
 | 4 Luglio 2026 | Il vento di Gaeta per il gran finale della Coppa Primavela Kinder Joy of moving | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-04 - Il-vento-di-Gaeta-per-il-gran-finale-della-Coppa-Primavela-Kinder-Joy-of-moving - wp7882|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 12 Aprile 2026 | Salerno: la cerimonia di premiazione del 44° Campionato Invernale di vela d’altura | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-12 - Salerno-la-cerimonia-di-premiazione-del-44-Campionato-Invernale-di-vela-d-altura - wp6593|nota]] |
 | 11 Aprile 2026 | NEL TIGULLIO TORNA IL TROFEO BOLETTO – REGATA DEI DUE PARCHI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-11 - NEL-TIGULLIO-TORNA-IL-TROFEO-BOLETTO-REGATA-DEI-DUE-PARCHI - wp6590|nota]] |
 | 10 Aprile 2026 | Banchi a vela: il progetto della XI Zona tra formazione e cultura del mare. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-10 - Banchi-a-vela-il-progetto-della-XI-Zona-tra-formazione-e-cultura-del-mare - wp6585|nota]] |
-| 10 Aprile 2026 | TECHNO 293 WORLD CHAMPIONSHIPS – DUE MEDAGLIE PER L’ITALIA A FOÇA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-10 - TECHNO-293-WORLD-CHAMPIONSHIPS-DUE-MEDAGLIE-PER-L-ITALIA-A-FOCA - wp6567|nota]] |
-| 9 Aprile 2026 | A VARAZZE LE VELEGGIATE “EASY SAILING SERIES” 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-09 - A-VARAZZE-LE-VELEGGIATE-EASY-SAILING-SERIES-2026 - wp6558|nota]] |

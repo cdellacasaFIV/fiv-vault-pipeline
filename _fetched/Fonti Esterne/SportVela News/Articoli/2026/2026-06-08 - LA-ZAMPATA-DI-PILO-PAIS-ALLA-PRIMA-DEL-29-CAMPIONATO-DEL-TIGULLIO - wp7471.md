@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: LA ZAMPATA DI PILO, PAIS ALLA PRIMA DEL, CAMPIONATO DEL TIGULLIO, Debutto, Campionato del Tigullio- Trofeo, Renato Lombardi, Coppa Pinne del Circolo, Velico Santa Margherita Ligure, Presidente, Gianni Castellaro. Ben, Dinghy, Circolo Silvia Scaramuzza. Una, Campionato Andrea Falciola, Superpippo.
+- Nomi, circoli o luoghi da valutare: LA ZAMPATA DI PILO, PAIS ALLA PRIMA DEL, CAMPIONATO DEL TIGULLIO, Debutto, Campionato del Tigullio- Trofeo, Renato Lombardi, Coppa Pinne del Circolo, Velico Santa Margherita, Velico Santa Margherita Ligure, Presidente, Gianni Castellaro. Ben, Dinghy, Circolo Silvia Scaramuzza. Una, Campionato Andrea Falciola.
 - Numeri/date utili da verificare: 29, 8, 3, 4, 145, 160, 2, 6, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

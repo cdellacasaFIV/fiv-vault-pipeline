@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Wing Foil.
-- Nomi, circoli o luoghi da valutare: Pantelleria, Cappuzzo, Wing Foil C’è, Campionato Italiano Wing, Campionato Italiano Wing Foil, Pantelleria. Un, Francesco Cappuzzo, Michele Capitani, Vento, Otto, Michele Capitani. Sul, Gioele Incani, Pantelleria. Il Circolo Velico, Isola di Pantelleria.
+- Nomi, circoli o luoghi da valutare: Pantelleria, Cappuzzo, Wing Foil C’è, Campionato Italiano Wing Foil, Pantelleria. Un, Francesco Cappuzzo, Michele Capitani, Vento, Otto, Michele Capitani. Sul, Gioele Incani, Pantelleria. Il Circolo Velico, Isola di Pantelleria, Molti.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

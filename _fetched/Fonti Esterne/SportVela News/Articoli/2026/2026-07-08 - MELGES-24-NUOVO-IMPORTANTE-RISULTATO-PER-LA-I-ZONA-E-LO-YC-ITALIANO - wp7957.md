@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MELGES, NUOVO IMPORTANTE RISULTATO PER, ZONA, LO YC ITALIANO, Riva del Garda, Melges Reunion, European, European Sailing Series, Melgina, Paolo Brescia, Filippo Vulcanile, Giancarlo Borghero, Lorenzo e Leonardo Centuori, Corinthian.
+- Nomi, circoli o luoghi da valutare: MELGES, NUOVO IMPORTANTE RISULTATO PER, ZONA, LO YC ITALIANO, Riva del Garda, Melges Reunion, European Sailing Series, Melgina, Paolo Brescia, Filippo Vulcanile, Giancarlo Borghero, Lorenzo e Leonardo Centuori, Corinthian, Austria.
 - Numeri/date utili da verificare: 24, 8, 2026, 30 equipaggi, 3, 29, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

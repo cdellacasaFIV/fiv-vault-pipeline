@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Liceo Quercia, Zona FIV, America’s Cup Marcianise, Napoli, Sottoscritto, Marcianise, Federico Quercia, Tiziana D’Errico, Federazione, Pasquale Orofino. L’accordo, Steam, L’articolo, Mattino.
+- Nomi, circoli o luoghi da valutare: Liceo Quercia, Zona FIV, America’s Cup Marcianise, Napoli, Sottoscritto, Federico Quercia, Marcianise, Tiziana D’Errico, Federazione, Pasquale Orofino. L’accordo, Steam, L’articolo, Mattino.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

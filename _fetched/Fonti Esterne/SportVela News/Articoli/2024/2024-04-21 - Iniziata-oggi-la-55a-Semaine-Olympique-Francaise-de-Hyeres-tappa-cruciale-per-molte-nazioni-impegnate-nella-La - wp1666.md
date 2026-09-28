@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, ILCA 7, ILCA 6, IQFOiL, iQFOiL, 470.
-- Nomi, circoli o luoghi da valutare: Iniziata, Semaine Olympique Française, Hyères, Last Chance Regatta Oggi, Toulon Provence, Oggi, Toulon Provence Méditerranée, Infatti, Giochi Olimpici di Parigi, Last Chance Regatta, Qualified Nations Regatta, Italia, Mixed Dinghy, Men’s Skiff.
+- Nomi, circoli o luoghi da valutare: Iniziata, Semaine Olympique Française, Hyères, Last Chance Regatta Oggi, Toulon Provence Méditerranée, Oggi, Infatti, Giochi Olimpici di Parigi, Last Chance Regatta, Qualified Nations Regatta, Italia, Mixed Dinghy, Men’s Skiff, Parigi.
 - Numeri/date utili da verificare: 100 giorni, 2024, 800 atleti, 89, 470, 7, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

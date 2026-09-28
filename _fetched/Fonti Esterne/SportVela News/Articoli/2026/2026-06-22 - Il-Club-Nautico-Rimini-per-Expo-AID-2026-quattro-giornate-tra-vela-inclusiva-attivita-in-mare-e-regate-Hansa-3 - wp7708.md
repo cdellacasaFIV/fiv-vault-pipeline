@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Il Club Nautico Rimini, Expo AID, Hansa, Club, Il Mare, Tutti, Expo, Campionato Interzonale Hansa, Medio Adriatico, Comitato XI Zona, L’iniziativa, Club Nautico Rimini, Federazione Italiana Vela, Comitato XI Zona FIV.
+- Nomi, circoli o luoghi da valutare: Il Club Nautico Rimini, Expo AID, Hansa, Club, Il Mare, Tutti, Campionato Interzonale Hansa, Medio Adriatico, Comitato XI Zona, L’iniziativa, Club Nautico Rimini, Federazione Italiana Vela, Comitato XI Zona FIV, Comitato Italiano Paralimpico.
 - Numeri/date utili da verificare: 2026, 303, 25, 28, 26, 14.30, 27, 0541.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

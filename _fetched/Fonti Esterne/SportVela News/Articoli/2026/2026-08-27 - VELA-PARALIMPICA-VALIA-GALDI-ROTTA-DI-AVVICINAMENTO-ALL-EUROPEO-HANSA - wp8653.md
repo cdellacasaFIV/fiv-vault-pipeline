@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA, VALIA GALDI, ROTTA DI AVVICINAMENTO ALL’, EUROPEO HANSA, Grazie, Zona, Europeo, Europeo di Barcellona, Hansa, Hansa Liberty. Ogni, Universal Design e, Alice., Genova. Trasferitami, Chiavari.
+- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA, VALIA GALDI, ROTTA DI AVVICINAMENTO ALL’, EUROPEO HANSA, Grazie, Zona, Europeo di Barcellona, Hansa, Hansa Liberty. Ogni, Universal Design e, Alice., Genova. Trasferitami, Chiavari, Polo.
 - Numeri/date utili da verificare: 26, 10, 20, 303, 2018, 2021, 2023, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

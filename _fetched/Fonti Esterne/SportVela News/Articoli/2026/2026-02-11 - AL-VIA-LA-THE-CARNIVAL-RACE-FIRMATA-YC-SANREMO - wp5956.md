@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: 420, 470.
-- Nomi, circoli o luoghi da valutare: AL VIA LA, THE CARNIVAL RACE, FIRMATA YC SANREMO, The Carnival, Ungheria, Germania, Gran Bretagna, Paesi, Marina degli Aregai, D-Marin, Gruppo Cozzo Parodi. Due, Gold e Silver. Tra, Quindi, Lo Yacht Club Sanremo.
+- Nomi, circoli o luoghi da valutare: AL VIA LA, THE CARNIVAL RACE, FIRMATA YC SANREMO, Ungheria, Germania, Gran Bretagna, Paesi, Marina degli Aregai, D-Marin, Gruppo Cozzo Parodi. Due, Gold e Silver. Tra, Quindi, Lo Yacht Club Sanremo, Marco Callai.
 - Numeri/date utili da verificare: 10, 140 equipaggi, 11, 420, 470, 2, 3, 20.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

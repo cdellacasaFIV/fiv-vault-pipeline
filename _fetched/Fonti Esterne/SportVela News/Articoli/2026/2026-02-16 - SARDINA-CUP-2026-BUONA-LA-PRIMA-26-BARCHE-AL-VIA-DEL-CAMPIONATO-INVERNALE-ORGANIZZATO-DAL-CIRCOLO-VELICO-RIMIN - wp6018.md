@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: SARDINA CUP, BUONA LA PRIMA, BARCHE AL VIA DEL, CAMPIONATO INVERNALE ORGANIZZATO DAL, CIRCOLO VELICO RIMINESE, Campionato Invernale Sardina Cup, Circolo Velico, XI Zona Fiv. Ventisei, Rimini, Adriatico, La Sardina Cup, Mario Benzi, Vedere, Circolo.
+- Nomi, circoli o luoghi da valutare: SARDINA CUP, BUONA LA PRIMA, BARCHE AL VIA DEL, CAMPIONATO INVERNALE ORGANIZZATO DAL, CIRCOLO VELICO RIMINESE, Campionato Invernale Sardina Cup, XI Zona Fiv. Ventisei, Rimini, Adriatico, La Sardina Cup, Mario Benzi, Vedere, Circolo, Il Campionato Invernale.
 - Numeri/date utili da verificare: 2026, 26, 15, 1, 18, 22.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

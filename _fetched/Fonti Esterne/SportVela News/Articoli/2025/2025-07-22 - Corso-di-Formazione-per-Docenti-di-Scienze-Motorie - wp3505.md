@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Para Sailing.
-- Nomi, circoli o luoghi da valutare: Corso di Formazione, Docenti di Scienze Motorie, Corso, Veneto, Identificativo, Titolo, XII Zona FIV Veneto, Promuovere, Scuole, Introduzione La XII Zona, Circolo, Vela Mestre, Scienze Motorie, L’iniziativa.
+- Nomi, circoli o luoghi da valutare: Corso di Formazione, Docenti di Scienze Motorie, Corso, Veneto, Identificativo, XII Zona FIV Veneto, Titolo, Promuovere, Scuole, Introduzione La XII Zona, Circolo, Vela Mestre, Scienze Motorie, L’iniziativa.
 - Numeri/date utili da verificare: 30, 2025, 3, 08, 45, 12, 09, 00, 10, 20.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

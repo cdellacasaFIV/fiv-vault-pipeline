@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Youth, Lorenzo Ghirotti, Aarhus, Fraglia Vela Riva, Final Series, Titoli, Erik Scheidt e Hermionie, Ghicas. Marina Murri, Giulia Marella, Danimarca, Campionato del Mondo ILCA, Youth di Aarhus, Mondiale. Leader.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Youth, Lorenzo Ghirotti, Aarhus, Fraglia Vela Riva, Final Series, Titoli, Erik Scheidt, Erik Scheidt e Hermionie, Ghicas. Marina Murri, Giulia Marella, Danimarca, Campionato del Mondo ILCA, Youth di Aarhus.
 - Numeri/date utili da verificare: 6, 19, 2026, 18, 25, 32, 3, 9, 2023, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano Assoluto, Altura Edison Next, Gaeta Ha, Cerimonia, FIVillage, Regate, Programma, Yacht Club Gaeta E.V.S., Presidente FIV Francesco Ettorre, Gaeta, Trentadue, Siamo, Altura, Giovanni Brianza.
+- Nomi, circoli o luoghi da valutare: Campionato Italiano Assoluto, Altura Edison Next, Gaeta Ha, Cerimonia, FIVillage, Yacht Club Gaeta E.V.S., Regate, Programma, Presidente FIV Francesco Ettorre, Gaeta, Trentadue, Siamo, Altura, Giovanni Brianza.
 - Numeri/date utili da verificare: 24, 27, 32, 2026, 30 giorni, 12, 0, 3.200, 110, 2.000.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

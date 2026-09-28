@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: DOMENICA, LA COPPA BERGAMASCHI ALLA, LNI GENOVA Un, Fondazione Gigi Ghirotti, Ritorna, Coppa Bergamaschi, Lega Navale Italiana, Sezione di Genova., Dopo, Veleggiata Sociale, L’evento, Roberta Bergamaschi Cesana, Pallavolista, Volley Ball Club Genova.
+- Nomi, circoli o luoghi da valutare: DOMENICA, LA COPPA BERGAMASCHI ALLA, LNI GENOVA Un, Fondazione Gigi Ghirotti, Ritorna, Coppa, Coppa Bergamaschi, Lega Navale Italiana, Sezione di Genova., Dopo, Veleggiata Sociale, L’evento, Roberta Bergamaschi Cesana, Pallavolista.
 - Numeri/date utili da verificare: 28, 18, 11, 29, 80, 10.45, 15,00, 50, 2025, 09.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

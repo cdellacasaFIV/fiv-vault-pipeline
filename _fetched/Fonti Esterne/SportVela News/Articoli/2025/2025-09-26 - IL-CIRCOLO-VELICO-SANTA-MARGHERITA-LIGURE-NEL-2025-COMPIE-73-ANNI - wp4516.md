@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: Dinghy 12.
-- Nomi, circoli o luoghi da valutare: IL CIRCOLO VELICO SANTA, MARGHERITA LIGURE NEL, COMPIE, ANNI Tra, Luigi, Gigetto, Maragliano, Andrea e Luigi Scettro, Roberto Squintani, Bugin, Guido Carbone, Dinghy, Ambarabbà Cicci Cocò, Francia.
+- Nomi, circoli o luoghi da valutare: IL CIRCOLO VELICO SANTA, MARGHERITA LIGURE NEL, COMPIE, ANNI Tra, Luigi, Gigetto, Maragliano, Andrea e Luigi Scettro, Roberto Squintani, Bugin, Guido, Guido Carbone, Dinghy, Ambarabbà Cicci Cocò.
 - Numeri/date utili da verificare: 2025, 73 ANNI, 1992, 82 anni, 12, 5.50, 1913, 70 anni, 5,50, 888.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

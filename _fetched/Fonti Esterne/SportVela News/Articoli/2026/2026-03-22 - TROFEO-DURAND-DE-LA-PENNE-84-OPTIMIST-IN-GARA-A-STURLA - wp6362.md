@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: TROFEO DURAND DE LA, PENNE, OPTIMIST IN GARA, STURLA, Trofeo Ammiraglio Luigi, Trofeo Ammiraglio Luigi Durand, Trofeo Andrea Gelmi, Liguria. L’evento, Circolo Vele Vernazzolesi, Club Nautico Bogliasco, Yacht Club Italiano, Club Vela Sori, CAVM Recco, Golfo di Sturla. La.
+- Nomi, circoli o luoghi da valutare: TROFEO DURAND DE LA, PENNE, OPTIMIST IN GARA, STURLA, Trofeo Ammiraglio Luigi Durand, Trofeo Andrea Gelmi, Liguria. L’evento, Circolo Vele Vernazzolesi, Club Nautico Bogliasco, Yacht Club Italiano, Club Vela Sori, CAVM Recco, Golfo di Sturla. La, Optimist.
 - Numeri/date utili da verificare: 84, 20, 84 equipaggi, 2015.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

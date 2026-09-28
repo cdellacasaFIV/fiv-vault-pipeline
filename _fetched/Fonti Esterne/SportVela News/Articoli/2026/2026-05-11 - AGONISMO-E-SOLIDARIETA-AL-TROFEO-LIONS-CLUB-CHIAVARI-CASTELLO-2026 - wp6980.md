@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: AGONISMO, SOLIDARIETÀ AL TROFEO LIONS, CLUB CHIAVARI CASTELLO, Trofeo Lions Club, Trofeo Lions Club Chiavari, Castello, Comune di Chiavari Assessorato, Sport. La, Lions Club Chiavari Castello, Yacht Club Chiavari, Fondazione Istituto, Baliatico, Chiavari, Corso Garibaldi.
+- Nomi, circoli o luoghi da valutare: AGONISMO, SOLIDARIETÀ AL TROFEO LIONS, CLUB CHIAVARI CASTELLO, Trofeo Lions Club Chiavari, Castello, Comune, Comune di Chiavari Assessorato, Sport. La, Lions Club Chiavari Castello, Yacht Club Chiavari, Fondazione Istituto, Baliatico, Chiavari, Corso Garibaldi.
 - Numeri/date utili da verificare: 2026, 9, 35, 1921, 5, 1,8, 38, 05, 09.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

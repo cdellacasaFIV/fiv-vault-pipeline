@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: PORTO MAURIZIO OSPITA CON, SUCCESSO IL MEETING PROVINCIALE, SCUOLA VELA, Sabato, Porto Maurizio Yacht Club, Meeting Provinciale Scuola Vela, Zona FIV, L’iniziativa, Il Comitato, Zona, Presidente Alessio Marziano, LNI Sanremo, LNI Noli e CN, San Bartolomeo.
+- Nomi, circoli o luoghi da valutare: PORTO MAURIZIO OSPITA CON, SUCCESSO IL MEETING PROVINCIALE, SCUOLA VELA, Sabato, Porto Maurizio Yacht Club, Meeting Provinciale Scuola Vela, Zona, Zona FIV, L’iniziativa, Il Comitato, Presidente Alessio Marziano, LNI Sanremo, LNI Noli e CN, San Bartolomeo.
 - Numeri/date utili da verificare: 19, 18, 25.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

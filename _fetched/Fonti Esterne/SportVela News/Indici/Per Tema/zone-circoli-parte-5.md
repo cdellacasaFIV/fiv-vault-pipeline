@@ -6,6 +6,8 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Agosto 2025 | Open Day Vela e Canottaggio: sul Lago di Santa Croce (BL) | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-10 - Open-Day-Vela-e-Canottaggio-sul-Lago-di-Santa-Croce-BL - wp3871|nota]] |
+| 9 Agosto 2025 | XIV Zona FIV: Successo per il Raduno Settore Altura | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - XIV-Zona-FIV-Successo-per-il-Raduno-Settore-Altura - wp3861|nota]] |
 | 8 Agosto 2025 | Da La spezia al Solent: massimo Gherarducci con team Jolt | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-08 - Da-La-spezia-al-Solent-massimo-Gherarducci-con-team-Jolt - wp3842|nota]] |
 | 6 Agosto 2025 | Vela Viva 15: torna l’evento diffuso della XV Zona FIV – terza edizione in due tappe, il 23 e il 30 agosto 2025 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-06 - Vela-Viva-15-torna-l-evento-diffuso-della-XV-Zona-FIV-terza-edizione-in-due-tappe-il-23-e-il-30-agosto-2025 - wp3838|nota]] |
 | 5 Agosto 2025 | Luigi Cantarelli nominato ufficiale di Regata Benemerito. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-05 - Luigi-Cantarelli-nominato-ufficiale-di-Regata-Benemerito - wp4044|nota]] |

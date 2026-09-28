@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, para/inclusione, media/storytelling.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, WingFoil.
-- Nomi, circoli o luoghi da valutare: SARDINIA SAILING CUP AL, VIA OGGI AL POETTO, LO SPETTACOLO DELLA FORMULA, WING WORLD CHAMPIONSHIPS NELLA, PRIMA SETTIMANA PROTAGONISTI, ATLETI, AL POETTO LO SPETTACOLO, DELLA FORMULA WING WORLD, CHAMPIONSHIPS NELLA PRIMA SETTIMANA, PROTAGONISTI, ATLETI DA TUTTO IL, MONDO In, Cagliari, Sardinia Sailing Cup.
+- Nomi, circoli o luoghi da valutare: SARDINIA SAILING CUP AL, VIA OGGI AL POETTO, LO SPETTACOLO DELLA FORMULA, WING WORLD CHAMPIONSHIPS NELLA, PRIMA SETTIMANA PROTAGONISTI, ATLETI DA TUTTO IL, MONDO In, AL POETTO LO SPETTACOLO, DELLA FORMULA WING WORLD, CHAMPIONSHIPS NELLA PRIMA SETTIMANA, PROTAGONISTI, Cagliari, Sardinia Sailing Cup, Federazione Italiana Vela.
 - Numeri/date utili da verificare: 100 ATLETI, 23, 16, 18, 00, 24, 30, 6, 17, 600 atleti.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

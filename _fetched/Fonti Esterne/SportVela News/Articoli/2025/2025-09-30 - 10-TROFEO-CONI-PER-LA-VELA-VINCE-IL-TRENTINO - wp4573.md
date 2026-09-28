@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: TROFEO CONI, PER LA VELA VINCE, IL TRENTINO, Optimist e RS Feva, Trentino, Marche, Emilia, Emilia Romagna Lignano Sabbiadoro, Friuli Venezia Giulia, Italia, Comitato Olimpico Nazionale Italiano., CONI, Federazione Italiana Vela, Comitato XIII Zona FIV.
+- Nomi, circoli o luoghi da valutare: TROFEO CONI, PER LA VELA VINCE, IL TRENTINO, Optimist e RS Feva, Trentino, Marche, Emilia Romagna Lignano Sabbiadoro, Friuli Venezia Giulia, Italia, Comitato Olimpico Nazionale Italiano., CONI, Federazione Italiana Vela, Comitato XIII Zona FIV, Yacht Club Lignano.
 - Numeri/date utili da verificare: 10, 30, 2025, 4.500, 44, 17, 20, 1, 3, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

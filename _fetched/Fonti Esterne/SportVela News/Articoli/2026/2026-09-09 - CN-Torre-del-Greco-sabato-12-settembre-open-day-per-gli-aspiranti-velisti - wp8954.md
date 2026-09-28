@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CN Torre del Greco, Un’intera, Circolo Nautico di Torre, Greco, L’appuntamento, Gianluigi Ascione. In, Greco. Per.
+- Nomi, circoli o luoghi da valutare: CN Torre del Greco, Un’intera, Circolo Nautico, Circolo Nautico di Torre, Greco, L’appuntamento, Gianluigi Ascione. In, Greco. Per.
 - Numeri/date utili da verificare: 12, 9.30, 13, 2026, 27, 50, 60.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

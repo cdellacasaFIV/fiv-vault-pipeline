@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Nacra 15.
-- Nomi, circoli o luoghi da valutare: Mondiale Nacra, Plymouth Dal, La FIV, Alessandro Vargiu e Noa, Lisci, Mattia Di Martino, Nina Cittar. La, III Zona FIV Sardegna, XIII Zona Friuli Venezia, Giulia, IV Zona Lazio, XI Zona FIV Emilia-Romagna., Tredici, Plymouth.
+- Nomi, circoli o luoghi da valutare: Mondiale Nacra, Plymouth Dal, La FIV, Alessandro Vargiu e Noa, Lisci, Mattia, Mattia Di Martino, Nina Cittar. La, III Zona FIV Sardegna, XIII Zona Friuli Venezia, Giulia, IV Zona Lazio, XI Zona FIV Emilia-Romagna., Tredici.
 - Numeri/date utili da verificare: 15, 25, 1, 58 equipaggi, 11, 2025, 19, 2023, 17, 28.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

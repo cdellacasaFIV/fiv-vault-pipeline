@@ -19,8 +19,8 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: PRESENTAZIONE, INVERNALE DEL TIGULLIO Mercoledì, Trasparenza Regione LiguriaPiazza De, Ferrari, Mercoledì, Sala Trasparenza Regione Liguria, Piazza De Ferrari, Palazzo, Regione, Alla, Campionato Invernale del Tigullio, Liguria, Regione Europea, Sport.
-- Numeri/date utili da verificare: 50, 29, 11, 1, 30, 23, 2025.
+- Nomi, circoli o luoghi da valutare: PRESENTAZIONE, INVERNALE DEL TIGULLIO Mercoledì, Trasparenza Regione LiguriaPiazza De, Ferrari, Palazzo, Regione, Alla, Mercoledì, Sala Trasparenza Regione Liguria, Piazza De Ferrari, Campionato Invernale del Tigullio, Liguria, Regione Europea, Sport.
+- Numeri/date utili da verificare: 50, 29, 11, 1, 23, 30, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Poker, Riccardo Pianosi, Formula Kite, Azzorre Riccardo Pianosi, Marina Militare, Praia da Vitória, Terceira, Azzorre, Portogallo, Grand Final, Condizioni, Pianosi, Entrato, Oggi.
+- Nomi, circoli o luoghi da valutare: Poker, Riccardo Pianosi, Formula Kite, Azzorre Riccardo Pianosi, Marina Militare, Formula, Praia da Vitória, Terceira, Azzorre, Portogallo, Grand Final, Condizioni, Pianosi, Entrato.
 - Numeri/date utili da verificare: 2025, 11, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

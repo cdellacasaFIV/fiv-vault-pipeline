@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MARTEDÌ, APRILE, PEOPLE, SU PRIMOCANALE UNO SPECIALE, DEDICATO, SPORTABILITY, Domani, Primocanale, Tiziana, Tiziana Oberti, Stelle, Sport, Alle, Terrazza Colombo.
+- Nomi, circoli o luoghi da valutare: MARTEDÌ, APRILE, PEOPLE, SU PRIMOCANALE UNO SPECIALE, DEDICATO, SPORTABILITY, Domani, Primocanale, Tiziana Oberti, Stelle, Sport, Alle, Terrazza Colombo, Michele Corti e Marco.
 - Numeri/date utili da verificare: 14, 13, 21, 00, 27 anni, 6, 10, 5 atleti, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

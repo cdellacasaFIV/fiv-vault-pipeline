@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite Europeans, Gold Fleet Terzo, Campionato Europeo di Formula, Kite, Terzo, Mar Menor, Europa, Spagna. Oggi, Pescetto, Tomasoni, Pianosi, Boschetti. Con, Dopo, Nolot.
+- Nomi, circoli o luoghi da valutare: Formula Kite Europeans, Gold Fleet Terzo, Campionato Europeo di Formula, Kite, Mar Menor, Terzo, Europa, Spagna. Oggi, Pescetto, Tomasoni, Pianosi, Boschetti. Con, Dopo, Nolot.
 - Numeri/date utili da verificare: 2024, 1, 2, 3, 10, 25, 13, 76, 137 atleti, 39.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

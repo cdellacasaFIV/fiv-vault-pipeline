@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Navigare Insieme, Porto San Giorgio Fino, Porto San Giorgio, Navigare, Fino, Italia, Federazione Italiana Vela, UniCredit, Fondo Carta Etica. Dopo, Marche, L’evento, Comitato, ASD Liberi, Vento.
+- Nomi, circoli o luoghi da valutare: Navigare Insieme, Porto San Giorgio Fino, Porto San Giorgio, Navigare, Italia, Fino, Federazione Italiana Vela, UniCredit, Fondo Carta Etica. Dopo, Marche, L’evento, Comitato, ASD Liberi, Vento.
 - Numeri/date utili da verificare: 21, 2026, 303.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

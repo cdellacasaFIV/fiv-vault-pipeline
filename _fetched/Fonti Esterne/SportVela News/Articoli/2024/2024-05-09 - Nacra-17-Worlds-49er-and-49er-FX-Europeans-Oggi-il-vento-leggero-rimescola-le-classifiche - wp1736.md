@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: Nacra, Worlds, FX Europeans, Oggi, Terzo, Grande, Grande Motte International Regatta, Men’s Skiff, Women’s Skiff, Mixed Multihull, Giornata, Ancora, Tita Banti, Meer.
+- Nomi, circoli o luoghi da valutare: Nacra, Worlds, FX Europeans, Oggi, Terzo, Grande Motte International Regatta, Men’s Skiff, Women’s Skiff, Mixed Multihull, Giornata, Ancora, Tita Banti, Meer, Bouwer.
 - Numeri/date utili da verificare: 17, 2024, 9, 2, 3, 1, 5, 142, 32, 7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

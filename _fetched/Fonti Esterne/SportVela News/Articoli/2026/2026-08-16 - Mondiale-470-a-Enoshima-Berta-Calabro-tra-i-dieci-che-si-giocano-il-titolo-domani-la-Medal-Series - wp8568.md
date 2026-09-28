@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: Mondiale, Enoshima, Berta-Calabrò, Medal Series Si, Final Series del Campionato, Mondo, Mixed, Gold Fleet, Medal Series, Buone, Elena Berta e Giulio, Calabrò, Chiude, Giacomo Ferrari.
+- Nomi, circoli o luoghi da valutare: Mondiale, Enoshima, Berta-Calabrò, Medal Series Si, Final Series del Campionato, Mondo, Mixed, Gold, Gold Fleet, Medal Series, Buone, Elena Berta e Giulio, Calabrò, Chiude.
 - Numeri/date utili da verificare: 470, 16, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

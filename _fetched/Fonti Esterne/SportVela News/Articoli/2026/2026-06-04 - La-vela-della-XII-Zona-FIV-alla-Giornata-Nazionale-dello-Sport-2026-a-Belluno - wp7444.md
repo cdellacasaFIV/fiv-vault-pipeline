@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: XII Zona FIV, Giornata Nazionale, Sport, Belluno Sabato, Piazza dei Martiri, XII Zona FIV Veneto, Lega, Sabato, Lega Navale Italiana, Sezione di Belluno, CONI Belluno, Sport. La, Belluno, Comune di Belluno.
+- Nomi, circoli o luoghi da valutare: XII Zona FIV, Giornata Nazionale, Sport, Belluno Sabato, Piazza dei Martiri, XII Zona FIV Veneto, Lega Navale Italiana, Sezione di Belluno, Sabato, CONI Belluno, Sport. La, Belluno, Comune di Belluno, Federazioni Sportive.
 - Numeri/date utili da verificare: 2026, 6, 9.00, 13.30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

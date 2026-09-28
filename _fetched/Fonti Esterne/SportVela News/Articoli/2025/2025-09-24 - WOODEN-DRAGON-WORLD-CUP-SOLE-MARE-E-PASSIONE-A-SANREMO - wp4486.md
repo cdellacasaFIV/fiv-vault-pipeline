@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: WOODEN DRAGON WORLD CUP, SOLE, MARE, PASSIONE, SANREMO, Yacht Club, Yacht Club Sanremo, Wooden Dragon World Cup., L’alta, Mediterraneo, Comitato di Regata. Malgrado, Royal Hotel, Villaggio, Casinò Municipale.
+- Nomi, circoli o luoghi da valutare: WOODEN DRAGON WORLD CUP, SOLE, MARE, PASSIONE, SANREMO, Yacht Club Sanremo, Wooden Dragon World Cup., L’alta, Mediterraneo, Comitato di Regata. Malgrado, Royal Hotel, Villaggio, Casinò Municipale, METEOR DOMINA IN MARE.
 - Numeri/date utili da verificare: 23, 1963, 1950, 1952, 75 anni, 12, 16, 1954, 80, 1957.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

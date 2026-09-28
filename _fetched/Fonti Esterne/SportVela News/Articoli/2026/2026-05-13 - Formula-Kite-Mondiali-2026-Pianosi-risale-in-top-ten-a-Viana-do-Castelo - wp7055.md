@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite, Mondiali, Pianosi, Viana, Castelo Il, Terza, Campionato del Mondo, Praia, Cabedelo di Viana, Castelo. Riccardo Pianosi, Gruppo Sportivo Marina Militare, Maximilian Maeder di Singapore, Gian Stragiotti. Una, Castelo.
+- Nomi, circoli o luoghi da valutare: Formula Kite, Mondiali, Pianosi, Viana, Castelo Il, Terza, Campionato, Campionato del Mondo, Praia, Cabedelo di Viana, Castelo. Riccardo Pianosi, Gruppo Sportivo Marina Militare, Maximilian Maeder di Singapore, Gian Stragiotti. Una.
 - Numeri/date utili da verificare: 2026, 14, 2022, 10, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

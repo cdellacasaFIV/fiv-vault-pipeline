@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Dinghy 12.
-- Nomi, circoli o luoghi da valutare: DINGHY, NONNO, NIPOTE, VITTORIA DI FEDERICO PILO, PAIS, Nicolò, White, Gigio Bianchi, Erano, Nonno e Nipote, Circolo Velico Santa Margherita, Ligure. Una, Michele, Sezione di Santa Margherita.
+- Nomi, circoli o luoghi da valutare: DINGHY, NONNO, NIPOTE, VITTORIA DI FEDERICO PILO, PAIS, Nicolò, White, Gigio Bianchi, Erano, Nonno e Nipote, Circolo Velico, Circolo Velico Santa Margherita, Ligure. Una, Michele.
 - Numeri/date utili da verificare: 12, 3, 2, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

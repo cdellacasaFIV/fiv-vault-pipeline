@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Podio, XV Zona, Campionato Italiano Formula, Viganò Podio, XV Zona FIV, Campionato Italiano Catamarani Formula, Centro Velico Punta Ala., Matteo e Andrea Viganò, Centro Vela Dervio, Decisiva, La Classe Formula, Viganò, Alle, Maurizio Stella e Davide.
+- Nomi, circoli o luoghi da valutare: Podio, XV Zona, Campionato Italiano Formula, Viganò Podio, XV Zona FIV, Campionato Italiano Catamarani Formula, Centro Velico, Centro Velico Punta Ala., Matteo e Andrea Viganò, Centro Vela Dervio, Decisiva, La Classe Formula, Viganò, Alle.
 - Numeri/date utili da verificare: 18, 2026, 17, 20, 11, 303, 15, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

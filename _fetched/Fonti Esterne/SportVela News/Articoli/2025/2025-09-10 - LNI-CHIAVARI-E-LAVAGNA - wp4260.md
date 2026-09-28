@@ -20,7 +20,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
 - Nomi, circoli o luoghi da valutare: LNI CHIAVARI, LAVAGNA, La Lega Navale, Chiavari-Lavagna, Chiavari, Monica Corte, Oggi, Centro di Istruzione Nautica, Costa. Le, C.O.N.I., Cristina Cambi, Liguria Sport.
-- Numeri/date utili da verificare: 5, 117, 117 anni, 26, 1908, 12, 2025, 09.
+- Numeri/date utili da verificare: 5, 117 anni, 26, 1908, 12, 2025, 09.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili

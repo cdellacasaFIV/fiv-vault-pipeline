@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: SUCCESSO, SANTA MARGHERITA LIGURE PER, TROFEO CHALLENGE PRESIDENTE LNI, Lega Navale Italiana Sezione, Santa Margherita Ligure, Trofeo Challenge Presidente LNI., L’evento, Classe Fireball, Sezione, Circolo Velico di Santa, Margherita Ligure. Il, Sabato, Ovest, Nord.
+- Nomi, circoli o luoghi da valutare: SUCCESSO, SANTA MARGHERITA LIGURE PER, TROFEO CHALLENGE PRESIDENTE LNI, Lega Navale Italiana Sezione, Santa Margherita, Santa Margherita Ligure, Trofeo Challenge Presidente LNI., L’evento, Classe Fireball, Sezione, Circolo Velico di Santa, Margherita Ligure. Il, Sabato, Ovest.
 - Numeri/date utili da verificare: 1, 22, 2, 6, 15, 14, 18, 2026, 25.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

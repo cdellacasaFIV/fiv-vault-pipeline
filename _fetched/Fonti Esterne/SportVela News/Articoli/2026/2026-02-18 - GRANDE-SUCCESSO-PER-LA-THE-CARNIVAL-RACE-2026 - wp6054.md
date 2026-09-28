@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: 420, 470.
-- Nomi, circoli o luoghi da valutare: GRANDE SUCCESSO PER LA, THE CARNIVAL RACE, Organizzata, YC Sanremo, Marina degli AregaiOro, CV Vernazzolesi, Marina degli Aregai Oro, Quasi, Paesi, Aregai, Quattro, Sabato, Veleria Zaoli. Chiusura, Ema Samar.
+- Nomi, circoli o luoghi da valutare: GRANDE SUCCESSO PER LA, THE CARNIVAL RACE, Organizzata, YC Sanremo, Marina degli AregaiOro, CV Vernazzolesi, Quasi, Paesi, Marina degli Aregai Oro, Aregai, Quattro, Sabato, Veleria Zaoli. Chiusura, Ema Samar.
 - Numeri/date utili da verificare: 2026, 17, 140, 280 atleti, 13, 12, 15, 40, 470, 420.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

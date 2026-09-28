@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: Spirito di Stella, Miami, Progetto WoW Il, Lo Spirito di Stella, Sottosegretario di Stato, Difesa, Senatrice Isabella Rauti, Sottocapo di Stato Maggiore, Generale di Corpo, Armata Carmine Masiello. Questa, Andrea Stella, Onlus, L’evento, Progetto.
+- Nomi, circoli o luoghi da valutare: Spirito di Stella, Miami, Progetto WoW Il, Lo Spirito di Stella, Sottosegretario, Sottosegretario di Stato, Difesa, Senatrice Isabella Rauti, Sottocapo di Stato Maggiore, Generale di Corpo, Armata Carmine Masiello. Questa, Andrea Stella, Onlus, L’evento.
 - Numeri/date utili da verificare: 2023, 2025, 18, 20 anni, 2024, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

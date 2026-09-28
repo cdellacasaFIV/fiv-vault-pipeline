@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: WingFoil.
-- Nomi, circoli o luoghi da valutare: Wingfoil Racing, Spanu, Coppa del Mondo, Tomasi, Jericoacoara, Wingfoil Racing.Maddalena Spanu, Wingfoil Racing. Maddalena Spanu, Italia, Alessandro Tomasi, Maddalena Spanu, Yacht Club Costa Smeralda, Young Azzurra, In Brasile, World Cup.
+- Nomi, circoli o luoghi da valutare: Wingfoil Racing, Spanu, Coppa del Mondo, Tomasi, Jericoacoara, Wingfoil Racing.Maddalena Spanu, Italia, Coppa, Wingfoil Racing. Maddalena Spanu, Alessandro Tomasi, Maddalena Spanu, Yacht Club Costa Smeralda, Young Azzurra, In Brasile.
 - Numeri/date utili da verificare: 2025, 19 anni, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

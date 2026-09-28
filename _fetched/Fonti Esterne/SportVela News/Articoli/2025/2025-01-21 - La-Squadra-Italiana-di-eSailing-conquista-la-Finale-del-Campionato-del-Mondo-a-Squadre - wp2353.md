@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: La Squadra Italiana, Finale del Campionato, Mondo, Squadre La, Campionato del Mondo, Squadre, Round Robin, Alfredo Ricci e, Team Manager Nicolò Gatti., Il Giappone, Nicolò Gatti Prossimo Obiettivo, Difendere, Titolo Con, Italia.
+- Nomi, circoli o luoghi da valutare: La Squadra Italiana, Finale del Campionato, Mondo, Squadre La, Campionato, Campionato del Mondo, Squadre, Round Robin, Alfredo Ricci e, Team Manager Nicolò Gatti., Il Giappone, Nicolò Gatti Prossimo Obiettivo, Difendere, Titolo Con.
 - Numeri/date utili da verificare: 2023, 26, 21.00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

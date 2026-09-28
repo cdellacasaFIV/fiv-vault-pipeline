@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: INVERNALE TIGULLIO, PARTENZA NEL SEGNO DI, SEASE, SPIRIT OF NERINA, Campionato Invernale del Golfo, Tigullio. Dopo, Tigulllio Race, Padawan, Farr, Donald Hart, Comitato Circoli Velici, Tigullio. Due, Franco Noceti, Campionato.
+- Nomi, circoli o luoghi da valutare: INVERNALE TIGULLIO, PARTENZA NEL SEGNO DI, SEASE, SPIRIT OF NERINA, Campionato Invernale del Golfo, Tigullio. Dopo, Tigulllio, Tigulllio Race, Padawan, Farr, Donald Hart, Comitato Circoli Velici, Tigullio. Due, Franco Noceti.
 - Numeri/date utili da verificare: 50, 9, 30, 12, 15, 6, 8, 22, 23, 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

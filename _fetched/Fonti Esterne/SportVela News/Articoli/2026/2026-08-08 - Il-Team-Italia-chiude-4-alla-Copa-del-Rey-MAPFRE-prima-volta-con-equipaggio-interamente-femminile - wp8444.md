@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Il Team Italia, Copa del Rey MAPFRE, Baleària Women’s Cup, Palma di Maiorca, Federazione Italiana Vela, Lucille Frascari, Giulia Fava, Livia Tarabella, Martina Giusti e Arianna, Lanzetta, Blue Sail, La Women’s Cup, Dopo, Medal Series.
+- Nomi, circoli o luoghi da valutare: Il Team Italia, Copa del Rey MAPFRE, Baleària Women’s Cup, Copa del Rey, Palma di Maiorca, Federazione Italiana Vela, Lucille Frascari, Giulia Fava, Livia Tarabella, Martina Giusti e Arianna, Lanzetta, Blue Sail, La Women’s Cup, Dopo.
 - Numeri/date utili da verificare: 4, 8, 24, 15 equipaggi, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

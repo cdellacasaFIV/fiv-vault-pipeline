@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: IL VILLAGGIO NASTRO ROSA, APRE, GENOVA Due, Porto Antico, Mancano, Porto Antico Locandina, Download, Villaggio Nastro Rosa, Porto Antico di Genova., Venerdì, Comitato, Zona FIV, L’iniziativa, Giovani.
+- Nomi, circoli o luoghi da valutare: IL VILLAGGIO NASTRO ROSA, APRE, GENOVA Due, Porto Antico, Mancano, Villaggio Nastro, Porto Antico Locandina, Download, Villaggio Nastro Rosa, Porto Antico di Genova., Venerdì, Comitato, Zona FIV, L’iniziativa.
 - Numeri/date utili da verificare: 8, 10, 10.00, 11, 9.00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

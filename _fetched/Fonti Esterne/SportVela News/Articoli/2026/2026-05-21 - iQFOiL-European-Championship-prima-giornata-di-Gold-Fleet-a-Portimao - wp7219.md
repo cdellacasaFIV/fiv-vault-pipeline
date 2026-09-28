@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: European Championship, Gold Fleet, Portimão Maggetti, Steinberg, Maggetti, Steinberg e Van Opzeeland, Giornata, Portimão, Gold, Medal Series, Italia, Luuc, Opzeeland, Grae Morris.
+- Nomi, circoli o luoghi da valutare: European Championship, Gold Fleet, Portimão Maggetti, Steinberg e Van Opzeeland, Giornata, Maggetti, Portimão, Gold, Medal Series, Italia, Luuc, Opzeeland, Grae Morris, Johan Søe..
 - Numeri/date utili da verificare: 10, 22, 00, 12, 23.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

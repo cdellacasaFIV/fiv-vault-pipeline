@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: Conclusi, Campionati Europei Windsurfer Nove, Nove, Nonostante, Italia, Garda Trentino, Campionati Europei, WIndsurfer, Al Circolo Surf Torbole, Sudafrica, Australia, Nuova Zelanda, Stati Uniti, Giappone e Singapore.
+- Nomi, circoli o luoghi da valutare: Conclusi, Campionati Europei Windsurfer Nove, Nonostante, Nove, Italia, Garda Trentino, Campionati Europei, WIndsurfer, Al Circolo Surf Torbole, Sudafrica, Australia, Nuova Zelanda, Stati Uniti, Giappone e Singapore.
 - Numeri/date utili da verificare: 200, 15, 9, 2019, 300, 5, 1984, 71 anni, 1957, 1.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

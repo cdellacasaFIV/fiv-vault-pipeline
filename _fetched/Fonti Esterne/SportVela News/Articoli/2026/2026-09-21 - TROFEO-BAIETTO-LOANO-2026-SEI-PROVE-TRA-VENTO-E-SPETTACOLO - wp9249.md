@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: TROFEO BAIETTO LOANO, SEI PROVE TRA VENTO, SPETTACOLO, Loano, Trofeo, Trofeo Baietto, Circolo Nautico Loano, Optimist, Particolarmente, Domenica, Juniores, Divisione, Matteo Vigo del CNAM, Alassio. Seconda.
+- Nomi, circoli o luoghi da valutare: TROFEO BAIETTO LOANO, SEI PROVE TRA VENTO, SPETTACOLO, Loano, Trofeo Baietto, Circolo Nautico Loano, Optimist, Particolarmente, Domenica, Juniores, Divisione, Matteo Vigo del CNAM, Alassio. Seconda, Flavio Dalmasso.
 - Numeri/date utili da verificare: 2026, 21, 20, 5, 6, 15, 17, 7, 10, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

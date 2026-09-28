@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4.
-- Nomi, circoli o luoghi da valutare: Giulia Marella, Campionessa Italiana ILCA, Compagnia, Vela Venezia, Ravenna, Campionati, Campionati Italiani Giovanili, Singolo, ILCA, Campionessa Italiana, Giulia, Mattia Pagani Accanto, Mattia Pagani, Giulia e Mattia.
+- Nomi, circoli o luoghi da valutare: Giulia Marella, Campionessa Italiana ILCA, Compagnia, Vela Venezia, Ravenna, Campionati Italiani Giovanili, Singolo, ILCA, Campionessa Italiana, Giulia, Mattia Pagani Accanto, Mattia Pagani, Giulia e Mattia, Vela Venezia Questa.
 - Numeri/date utili da verificare: 6, 2026, 4, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

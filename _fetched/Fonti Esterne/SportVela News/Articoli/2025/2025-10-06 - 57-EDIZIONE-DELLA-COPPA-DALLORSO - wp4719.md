@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: EDIZIONE DELLA COPPA DALLORSO, Famiglia Dallorso e, Assessore, Assessore del Comune, Chiavari Alessandra Ferrara, Coppa Dallorso. La, Comuni di Chiavari, Porto Venere, Famiglia Dallorso. Le, Classi ORC, IRC e Libera, Chiavari, PortoVenere e PortoVenere, Chiavari. Sessantadue.
+- Nomi, circoli o luoghi da valutare: EDIZIONE DELLA COPPA DALLORSO, Famiglia Dallorso e, Assessore del Comune, Chiavari Alessandra Ferrara, Coppa Dallorso. La, Comuni di Chiavari, Porto Venere, Famiglia Dallorso. Le, Classi ORC, IRC e Libera, Chiavari, PortoVenere e PortoVenere, Chiavari. Sessantadue, Prima.
 - Numeri/date utili da verificare: 57, 5, 4, 6, 7, 60, 28, 16, 13, 9.00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

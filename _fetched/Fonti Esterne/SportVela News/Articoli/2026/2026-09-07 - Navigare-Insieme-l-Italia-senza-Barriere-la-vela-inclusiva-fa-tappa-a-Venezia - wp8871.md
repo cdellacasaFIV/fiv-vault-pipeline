@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Navigare Insieme, Italia, Barriere, Venezia Dal, Venezia, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Comitato XII Zona FIV, Polo Nautico Punta San, Giuliano, Circolo, Vela Mestre, Workshop.
+- Nomi, circoli o luoghi da valutare: Navigare Insieme, Italia, Barriere, Venezia Dal, Venezia, Federazione Italiana, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Comitato XII Zona FIV, Polo Nautico Punta San, Giuliano, Circolo, Vela Mestre.
 - Numeri/date utili da verificare: 17, 19, 2026, 10.00, 18, 13.00, 14.30, 17.30, 303, 2023.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

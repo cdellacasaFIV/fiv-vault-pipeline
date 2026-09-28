@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: Dinghy 12.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO ITALIANO DINGHY, DE GASPARI CAMPIONE, Marina di Loano, Classifica, Marcello De Gaspari, Italia e, Bretagna. La, Il Campionato, Circolo Nautico Loano, Federazione Italiana Vela, Coppa Italia, Lega Navale Italiana, Genova, Dinghy Team Tigullio.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO ITALIANO DINGHY, DE GASPARI CAMPIONE, Marina di Loano, Marcello De Gaspari, Classifica, Italia e, Bretagna. La, Il Campionato, Circolo Nautico Loano, Federazione Italiana Vela, Coppa Italia, Lega Navale Italiana, Genova, Dinghy Team Tigullio.
 - Numeri/date utili da verificare: 12, 2026, 65 equipaggi, 8, 4, 5, 3652.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: La XIII Zona FIV, Gaeta, Optimist Alla, Coppa Primavela, Coppa Cadetti, Coppa del Presidente, Alla, Friuli Venezia Giulia, Alberto Fiorella, Alla Coppa Primavela Kinder, Moving, Federazione Italiana Vela, Optimist, Zona.
+- Nomi, circoli o luoghi da valutare: La XIII Zona FIV, Gaeta, Optimist Alla, Coppa Primavela, Coppa Cadetti, Coppa del Presidente, Friuli Venezia Giulia, Alla, Alberto Fiorella, Alla Coppa Primavela Kinder, Moving, Federazione Italiana Vela, Optimist, Zona.
 - Numeri/date utili da verificare: 2026, 400, 2017, 2016, 2015, 75, 6, 11, 14, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

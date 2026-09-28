@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Il Porto, Fast, Fourius Sailing Team, Nell’ambito, Loro Piana Giraglia, Arca Fondi, NH Marina, Ogni, Gloria Camurati Leonardi, Porto, SportAbility.
+- Nomi, circoli o luoghi da valutare: Il Porto, Fast, Fourius Sailing Team, Nell’ambito, Loro Piana Giraglia, Fourius, Arca Fondi, NH Marina, Ogni, Gloria Camurati Leonardi, Porto, SportAbility.
 - Numeri/date utili da verificare: 5, 6, 9, 30, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

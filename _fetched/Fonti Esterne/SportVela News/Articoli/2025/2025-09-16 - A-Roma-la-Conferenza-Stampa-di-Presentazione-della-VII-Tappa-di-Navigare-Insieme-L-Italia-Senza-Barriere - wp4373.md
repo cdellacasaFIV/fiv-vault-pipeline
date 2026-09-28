@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: Roma, Conferenza Stampa di Presentazione, VII Tappa, Navigare Insieme, L’Italia Senza Barriere, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, L’evento, Alla, Giuseppe D’Amico, Vice Presidente FIV, Roberto Fiorini, Regional Manager Region Centro.
+- Nomi, circoli o luoghi da valutare: Roma, Conferenza Stampa di Presentazione, VII Tappa, Navigare Insieme, L’Italia Senza Barriere, L’Italia Senza, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, L’evento, Alla, Giuseppe D’Amico, Vice Presidente FIV, Roberto Fiorini.
 - Numeri/date utili da verificare: 15, 2, 2005, 44, 1.500, 303.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

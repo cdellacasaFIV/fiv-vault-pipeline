@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: RYCC Savoia, Mulino Caputo e Louis, Vuitton, America’s Cup Presentato, Reale Yacht Club Canottieri, Savoia, Louis Vuitton, Presentato, America’s Cup e Mulino, Caputo. Due, L’affinità, America’s Cup, Fabrizio Cattaneo, Volta.
+- Nomi, circoli o luoghi da valutare: RYCC Savoia, Mulino Caputo e Louis, Vuitton, America’s Cup Presentato, Reale Yacht Club Canottieri, Savoia, Louis Vuitton, America’s Cup e Mulino, Caputo. Due, Presentato, L’affinità, America’s Cup, Fabrizio Cattaneo, Volta.
 - Numeri/date utili da verificare: 18, 1960, 1900, 2027.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

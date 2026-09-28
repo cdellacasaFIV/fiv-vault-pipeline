@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Cervia. Il, Jorè, Errani, Campionato Invernale XX Memorial, Stefano Pirini. Sul, Joanna e Tuoni, Fulmini. Conclusa, Circolo Nautico Amici, Vela di Cervia. Cervia., Stefano Pirini, Circolo Nautico Cervia Amici, Milano Marittima, Vincitore, Alessandro e Alberto Errani.
+- Nomi, circoli o luoghi da valutare: Cervia. Il, Jorè, Errani, Campionato Invernale XX Memorial, Stefano Pirini. Sul, Joanna e Tuoni, Fulmini. Conclusa, Circolo, Circolo Nautico Amici, Vela di Cervia. Cervia., Stefano Pirini, Circolo Nautico Cervia Amici, Milano Marittima, Vincitore.
 - Numeri/date utili da verificare: 25, 2025, 29, 2026, 505, 31, 8, 1, 18, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

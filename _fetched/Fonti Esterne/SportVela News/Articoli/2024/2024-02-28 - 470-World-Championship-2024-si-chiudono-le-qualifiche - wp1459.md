@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: World Championship, Mallorca, Spagna, Spagna. Come da Notice, Race, Oggi, Isozaki-Seki, Okada-Yoshioka, Diesch-Markfort. Gli, Ferrari-Dubbini, Berta-Festo, Gold Fleet, Di Salle-Bellico, Silver Fleet.
+- Nomi, circoli o luoghi da valutare: World Championship, Mallorca, Spagna. Come da Notice, Race, Oggi, Isozaki-Seki, Okada-Yoshioka, Diesch-Markfort. Gli, Ferrari-Dubbini, Berta-Festo, Gold Fleet, Di Salle-Bellico, Silver Fleet, Medal Race.
 - Numeri/date utili da verificare: 470, 2024, 10, 18, 1, 2, 3, 12, 14, 39.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -1,7 +1,7 @@
 # Registro fonti Federvela
 
 Stato fonte: **ufficiale FIV / Federvela**.
-Aggiornato: 2026-09-27.
+Aggiornato: 2026-09-28.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |

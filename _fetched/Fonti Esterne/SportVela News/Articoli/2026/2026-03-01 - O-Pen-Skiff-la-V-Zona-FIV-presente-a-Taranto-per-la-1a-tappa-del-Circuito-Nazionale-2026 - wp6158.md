@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: O’Pen Skiff, Zona FIV, Taranto, Circuito Nazionale, Zona, Federazione Italiana Vela, Circuito, Francesco De Boni, Enrico Catignani, Circolo Nautico Posillipo, Presente, Circolo Nautico Sapri, Alessio Zino e Gabriele, Vita.
+- Nomi, circoli o luoghi da valutare: O’Pen Skiff, Zona FIV, Taranto, Circuito Nazionale, Zona, Federazione Italiana Vela, Francesco De Boni, Enrico Catignani, Circolo Nautico Posillipo, Presente, Circolo Nautico Sapri, Alessio Zino e Gabriele, Vita, Marco Flavio Tosello.
 - Numeri/date utili da verificare: 2026, 14, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: COPPA BERGAMASCHI, BARCHE IN MARE PER, LA VELEGGIATA DELLA LNI, GENOVA, Ancora, Lega Navale Italiana, Sezione di Genova, Roberta Bergamaschi, Circolo. La, Scirocco, Alessio Corrao, ABBI DUBBI XL, Armatore, Giudici Marco.
+- Nomi, circoli o luoghi da valutare: COPPA BERGAMASCHI, BARCHE IN MARE PER, LA VELEGGIATA DELLA LNI, GENOVA, Ancora, Lega Navale Italiana, Sezione, Sezione di Genova, Roberta Bergamaschi, Circolo. La, Scirocco, Alessio Corrao, ABBI DUBBI XL, Armatore.
 - Numeri/date utili da verificare: 36, 29, 2025, 10, 40, 28, 3, 11, 00, 31.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

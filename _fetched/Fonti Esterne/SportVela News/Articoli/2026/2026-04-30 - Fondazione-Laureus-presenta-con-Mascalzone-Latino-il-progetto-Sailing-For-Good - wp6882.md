@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Fondazione Laureus, Mascalzone Latino, Sailing For Good Sailing, Good, Fondazione Laureus Italia, Scuola, Sailing, Scuola Vela Mascalzone Latino, Arca Fondi SGR. Il, Napoli, STEM. Per, Antonietta De Falco, Consigliere Nazionale FIV, Diamo.
+- Nomi, circoli o luoghi da valutare: Fondazione Laureus, Mascalzone Latino, Sailing For Good Sailing, Good, Fondazione Laureus Italia, Scuola Vela Mascalzone Latino, Sailing, Arca Fondi SGR. Il, Napoli, STEM. Per, Antonietta De Falco, Consigliere Nazionale FIV, Diamo, STEM.
 - Numeri/date utili da verificare: 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

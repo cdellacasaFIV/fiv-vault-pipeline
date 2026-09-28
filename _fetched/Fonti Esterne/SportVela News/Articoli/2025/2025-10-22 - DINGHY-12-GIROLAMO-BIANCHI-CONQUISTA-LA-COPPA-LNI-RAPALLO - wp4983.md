@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: Dinghy 12.
-- Nomi, circoli o luoghi da valutare: DINGHY, GIROLAMO BIANCHI CONQUISTA LA, COPPA LNI RAPALLO, Golfo del Tigullio, Foto, Trofeo Siad, Photo, Roberta Roccati, Blue Passion Photo, Copyright., Classe Dinghy, Lega Navale Italiana, Sezione di Rapallo., Diversa.
+- Nomi, circoli o luoghi da valutare: DINGHY, GIROLAMO BIANCHI CONQUISTA LA, COPPA LNI RAPALLO, Golfo del Tigullio, Classe Dinghy, Foto, Trofeo Siad, Photo, Roberta Roccati, Blue Passion Photo, Copyright., Lega Navale Italiana, Sezione di Rapallo., Diversa.
 - Numeri/date utili da verificare: 12, 21, 2025, 18, 19, 27, 7, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

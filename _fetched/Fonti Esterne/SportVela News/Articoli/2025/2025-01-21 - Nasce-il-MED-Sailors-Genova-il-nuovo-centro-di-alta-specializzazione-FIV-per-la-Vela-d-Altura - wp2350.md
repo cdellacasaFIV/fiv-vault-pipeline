@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Nasce, MED Sailors Genova, Altura La Federazione Italiana, Altura, La Federazione Italiana Vela, Mediterranean Experience Dome Sailors, Genova, Galata Museo del Mare, Altura Dopo, Mini, Academy, Questa, Gran Largo, Casa Vela.
+- Nomi, circoli o luoghi da valutare: Nasce, MED Sailors Genova, Altura La Federazione Italiana, Altura, Mediterranean Experience, La Federazione Italiana Vela, Mediterranean Experience Dome Sailors, Genova, Galata Museo del Mare, Altura Dopo, Mini, Academy, Questa, Gran Largo.
 - Numeri/date utili da verificare: 1, 14, 30, 650, 50, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

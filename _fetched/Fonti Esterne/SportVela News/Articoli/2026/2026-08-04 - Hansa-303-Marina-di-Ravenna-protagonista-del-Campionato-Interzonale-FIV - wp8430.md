@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: Hansa, Marina di Ravenna, Campionato Interzonale FIV Marina, Ravenna, Campionato Interzonale Hansa, XIII e XIV Zona, Marinando, APS-ASD. Due, Comitato di Regata, La XI Zona FIV, Emilia-Romagna, Sante Ghirardi, Lorenzo Giardini e Nina, Corbetta.
+- Nomi, circoli o luoghi da valutare: Hansa, Marina di Ravenna, Campionato Interzonale FIV Marina, Ravenna, Campionato Interzonale Hansa, XIII, XIII e XIV Zona, Marinando, APS-ASD. Due, Comitato di Regata, La XI Zona FIV, Emilia-Romagna, Sante Ghirardi, Lorenzo Giardini e Nina.
 - Numeri/date utili da verificare: 303, 1, 2, 2.0, 10 equipaggi, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

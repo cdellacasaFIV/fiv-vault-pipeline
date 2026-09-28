@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: 420, Dinghy 12.
-- Nomi, circoli o luoghi da valutare: Topcat, Cesenatico, Campionato Mondiale. Cesenatico, Dadomenica, Circolo Vela Cesenatico, Topcat Worlds, Campionato Mondiale, Sono, Germania, Austria e Polonia, Circolo, Anche, Il Topcat Worlds, Coppa Uniqua.
+- Nomi, circoli o luoghi da valutare: Topcat, Cesenatico, Campionato Mondiale. Cesenatico, Dadomenica, Circolo Vela, Circolo Vela Cesenatico, Topcat Worlds, Campionato Mondiale, Sono, Germania, Austria e Polonia, Circolo, Anche, Il Topcat Worlds.
 - Numeri/date utili da verificare: 6, 9, 12, 50, 18, 17, 16, 5, 420, 45 anni.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: Sferracavallo, Nacra, Europeo, Campionato Europeo Junior Nacra, Circolo Velico Sferracavallo, Campionato Europeo, Palermo, Attività, Regione, Golfo di Sferracavallo. Il, Open. In, Aruba, Algeria, Australia.
+- Nomi, circoli o luoghi da valutare: Sferracavallo, Nacra, Europeo, Campionato, Campionato Europeo Junior Nacra, Circolo Velico Sferracavallo, Campionato Europeo, Palermo, Attività, Regione, Golfo di Sferracavallo. Il, Open. In, Aruba, Algeria.
 - Numeri/date utili da verificare: 17, 9, 22, 29, 36, 142, 87, 55, 79, 23.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

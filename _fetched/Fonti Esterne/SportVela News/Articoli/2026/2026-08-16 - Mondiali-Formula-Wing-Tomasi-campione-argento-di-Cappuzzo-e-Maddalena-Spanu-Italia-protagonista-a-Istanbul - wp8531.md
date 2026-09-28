@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL, Techno 293, WingFoil.
-- Nomi, circoli o luoghi da valutare: Mondiali Formula Wing, Tomasi, Cappuzzo e Maddalena Spanu., Italia, Istanbul Tre, Grand Final, Gregorio Pugliese, Mattia Camboni, Alessandra Sensini Istanbul, Turchia, L’Italia, Campionato del Mondo Formula, Wing di Istanbul, Alessandro José Tomasi.
+- Nomi, circoli o luoghi da valutare: Mondiali Formula Wing, Tomasi, Cappuzzo e Maddalena Spanu., Italia, Istanbul Tre, Grand Final, Gregorio Pugliese, Mattia, Mattia Camboni, Alessandra Sensini Istanbul, Turchia, L’Italia, Campionato del Mondo Formula, Wing di Istanbul.
 - Numeri/date utili da verificare: 15, 2026, 21, 23, 5,5, 2025, 4, 11, 293, 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

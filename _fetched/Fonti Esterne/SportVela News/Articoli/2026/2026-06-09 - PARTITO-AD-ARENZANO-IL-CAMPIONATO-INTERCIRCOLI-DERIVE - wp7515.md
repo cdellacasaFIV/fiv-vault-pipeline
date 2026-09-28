@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: PARTITO AD ARENZANO IL, CAMPIONATO INTERCIRCOLI DERIVE, Domenica, Campionato Intercircoli Tutte, Derive, Arenzano, Circolo Velico Arenzano, Luigi Sirombra, Bella, Il Club Nautico U., Costaguta di Voltri, Club Velico Cogoleto, Circolo Velico di Arenzano., Pochi.
+- Nomi, circoli o luoghi da valutare: PARTITO AD ARENZANO IL, CAMPIONATO INTERCIRCOLI DERIVE, Domenica, Campionato Intercircoli Tutte, Derive, Arenzano, Circolo, Circolo Velico Arenzano, Luigi Sirombra, Bella, Il Club Nautico U., Costaguta di Voltri, Club Velico Cogoleto, Circolo Velico di Arenzano..
 - Numeri/date utili da verificare: 8, 7, 555, 470, 40, 13.15, 50, 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

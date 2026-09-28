@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Mondiale Formula Kite, Sardegna, Maeder e Pianosi, Al Sardinia Grand Slam, Campionato del Mondo, Formula Kite, Quartu, Quartu Sant’Elena, Dopo, Maximilian Maeder, Riccardo Pianosi, Singapore, Flotta Gialla, Alle.
+- Nomi, circoli o luoghi da valutare: Mondiale Formula Kite, Sardegna, Maeder e Pianosi, Al Sardinia Grand Slam, Campionato del Mondo, Formula Kite, Quartu Sant’Elena, Dopo, Maximilian Maeder, Riccardo Pianosi, Singapore, Flotta Gialla, Alle, Gian Andrea Stragiotti.
 - Numeri/date utili da verificare: 6.0, 23, 26, 34, 52.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

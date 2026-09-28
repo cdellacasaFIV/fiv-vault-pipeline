@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Techno 293.
-- Nomi, circoli o luoghi da valutare: Coppa Primavela Kinder Joy, Moving, Sicilia, Crotone Splendido, Splendido, Crotone, Il Club Velico Crotone, Coppa Primavela, Federazione Italiana Vela Francesco, Ettorre, Club Velico Crotone Gianluca, Ruperto e, Crotone Enzo Voce. Un, Numerosi.
+- Nomi, circoli o luoghi da valutare: Coppa Primavela Kinder Joy, Moving, Sicilia, Crotone Splendido, Crotone, Splendido, Il Club Velico Crotone, Coppa Primavela, Federazione Italiana Vela Francesco, Ettorre, Club Velico Crotone Gianluca, Ruperto e, Crotone Enzo Voce. Un, Numerosi.
 - Numeri/date utili da verificare: 2025, 24, 293, 2, 1, 3, 13, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

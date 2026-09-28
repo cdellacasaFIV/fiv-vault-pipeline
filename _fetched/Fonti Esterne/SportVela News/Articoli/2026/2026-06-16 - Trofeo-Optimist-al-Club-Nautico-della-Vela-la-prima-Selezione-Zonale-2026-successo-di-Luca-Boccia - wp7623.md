@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Trofeo Optimist, Club Nautico, Selezione Zonale, Luca Boccia Luca Boccia, Circolo del Remo, Vela Italia, Barbara, Luca Boccia del Circolo, Remo e, Barbara Noviello, Optimist, Napoli, Teoresi Group. Tre, Selezione Zonale Optimist.
+- Nomi, circoli o luoghi da valutare: Trofeo Optimist, Club Nautico, Selezione Zonale, Luca Boccia Luca Boccia, Circolo del Remo, Vela Italia, Barbara Noviello, Optimist, Napoli, Luca Boccia del Circolo, Remo e, Teoresi Group. Tre, Selezione Zonale Optimist, Zona FIV Campania.
 - Numeri/date utili da verificare: 2026, 9, 15 anni, 10, 2016, 2017, 2015, 27, 1.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

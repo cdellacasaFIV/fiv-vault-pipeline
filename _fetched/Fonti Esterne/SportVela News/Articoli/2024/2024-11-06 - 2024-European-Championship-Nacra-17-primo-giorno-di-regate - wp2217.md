@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 17.
-- Nomi, circoli o luoghi da valutare: European Championship Nacra, Sferracavallo, Palermo, L’equipaggio, Gianluigi Ugolini e Maria, Giubilei, Aeronautica Militare.
+- Nomi, circoli o luoghi da valutare: European Championship Nacra, Sferracavallo, Palermo, L’equipaggio, Gianluigi, Gianluigi Ugolini e Maria, Giubilei, Aeronautica Militare.
 - Numeri/date utili da verificare: 2024, 17, 11, 10, 8, 18.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

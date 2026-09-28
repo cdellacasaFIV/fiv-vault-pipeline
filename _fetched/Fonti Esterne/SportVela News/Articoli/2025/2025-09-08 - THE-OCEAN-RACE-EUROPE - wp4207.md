@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: THE OCEAN RACE EUROPE, Azione, Genova, Team Malizia, Boris Herrmann, Italy, September, Photo, Lloyd Images, Mediterraneo, Adriatico, Boka, Montenegro. La, Ambrogio Beccaria.
+- Nomi, circoli o luoghi da valutare: THE OCEAN RACE EUROPE, Azione, Genova, The Ocean, Team Malizia, Boris Herrmann, Italy, September, Photo, Lloyd Images, Mediterraneo, Adriatico, Boka, Montenegro. La.
 - Numeri/date utili da verificare: 7, 5, 2025, 07, 1600, 4, 15, 00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

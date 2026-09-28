@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: IL TROFEO CONI, GENOVA, IN LIGURIA Il Coni, Regione Liguria, Durante, Il Coni, Giunta del Coni, Trofeo CONI Estivo, Coni, Olimpiadi di Los Angeles, Liguria, Lignano Sabbiadoro, Giunta, Luciano Buonfiglio.
+- Nomi, circoli o luoghi da valutare: IL TROFEO CONI, GENOVA, IN LIGURIA Il Coni, Regione Liguria, Durante, Giunta del Coni, Il Coni, Trofeo CONI Estivo, Coni, Olimpiadi di Los Angeles, Liguria, Lignano Sabbiadoro, Giunta, Luciano Buonfiglio.
 - Numeri/date utili da verificare: 2028, 29, 26, 2025, 4.600 atleti, 44, 5 giorni.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

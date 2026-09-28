@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: 420, 470.
-- Nomi, circoli o luoghi da valutare: Europei, Napolitano e Allodi Varriale, Buonissimo, Campionati, Nida, Lituania. L’equipaggio del Reale, Yacht Club Canottieri Savoia, Emanuele Napolitano e Riccardo, Allodi Varriale, Under, Un’altra, Campionato, Biscarrosse.
+- Nomi, circoli o luoghi da valutare: Europei, Napolitano e Allodi Varriale, Buonissimo, Campionati, Nida, Lituania. L’equipaggio, Lituania. L’equipaggio del Reale, Yacht Club Canottieri Savoia, Emanuele Napolitano e Riccardo, Allodi Varriale, Under, Un’altra, Campionato, Biscarrosse.
 - Numeri/date utili da verificare: 420, 470, 24, 21, 19, 14, 150 equipaggi.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

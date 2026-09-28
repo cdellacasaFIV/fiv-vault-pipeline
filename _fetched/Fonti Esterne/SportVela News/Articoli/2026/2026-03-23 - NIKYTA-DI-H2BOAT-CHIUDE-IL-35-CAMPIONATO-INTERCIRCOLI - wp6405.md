@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: NIKYTA DI, CHIUDE IL, CAMPIONATO INTERCIRCOLI Un, L’imbarcazione, L’imbarcazione Nikyta, Proof, Concept, Campionato Intercircoli di Genova, ORC Light. Per, Italia, Campionato Invernale di Altura, Durante, Questa, Sailing.
+- Nomi, circoli o luoghi da valutare: NIKYTA DI, CHIUDE IL, CAMPIONATO INTERCIRCOLI Un, L’imbarcazione Nikyta, Proof, Concept, Campionato Intercircoli di Genova, ORC Light. Per, Italia, Campionato Invernale di Altura, Durante, Questa, Sailing, Analisi di Impatto.
 - Numeri/date utili da verificare: 35, 23.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

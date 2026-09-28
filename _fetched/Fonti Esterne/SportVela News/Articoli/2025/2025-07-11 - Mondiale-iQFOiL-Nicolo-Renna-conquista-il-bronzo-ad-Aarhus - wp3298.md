@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: Mondiale, Nicolò Renna, Aarhus Cala, Campionato del Mondo, Aarhus, Medal Series, Cala, Emma Wilson, Andy Brown, Donne, Wilson, Grand Final, L’israeliana Tamar Steinberg, Theresa Marie Steinlein.
+- Nomi, circoli o luoghi da valutare: Mondiale, Nicolò Renna, Aarhus Cala, Campionato del Mondo, Aarhus, Medal Series, Emma Wilson, Cala, Andy Brown, Donne, Wilson, Grand Final, L’israeliana Tamar Steinberg, Theresa Marie Steinlein.
 - Numeri/date utili da verificare: 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

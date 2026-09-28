@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Techno 293.
-- Nomi, circoli o luoghi da valutare: Porto Corsini, Memorial Ballanti-Saiani, III Tappa Coppa Italia, Techno, Dopo, Memorial, Coppa Italia Techno, Adriatico Wind Club, Federazione Italiana Vela, David Mihajlovski Koloffon, Centro Surf Bracciano, Elisa Rei, Planet Sail Bracciano, Federico Samonà.
+- Nomi, circoli o luoghi da valutare: Porto Corsini, Memorial Ballanti-Saiani, III Tappa Coppa Italia, Techno, Dopo, Coppa Italia Techno, Adriatico Wind Club, Federazione Italiana Vela, David Mihajlovski Koloffon, Centro Surf Bracciano, Elisa Rei, Planet Sail Bracciano, Federico Samonà, Circolo Velico Sferracavallo.
 - Numeri/date utili da verificare: 293, 27, 1, 2, 4, 3, 13, 7, 12, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: SCHERIACUP, TORNA LA GRANDE VELA, ISCHIA Ischia, Ischia, Lega Navale Italiana, Sezione di Ischia. Un, Il Programma Sabato, Piazzale del Soccorso, Forio, Domenica, Banchina Marina di Forio, Festa, Vela LNI Ischia, Benvenuta Primavera.
+- Nomi, circoli o luoghi da valutare: SCHERIACUP, TORNA LA GRANDE VELA, ISCHIA Ischia, Lega, Ischia, Lega Navale Italiana, Sezione di Ischia. Un, Il Programma Sabato, Piazzale del Soccorso, Forio, Domenica, Banchina Marina di Forio, Festa, Vela LNI Ischia.
 - Numeri/date utili da verificare: 2026, 24, 25, 12, 00, 26, 11, 16, 30, 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

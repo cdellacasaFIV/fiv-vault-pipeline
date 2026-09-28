@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Palermo, Campionato Italiano ORC Double, Handed Prende, Campionato Italiano Open ORC, Prende, Double Handed, Centro Velico Siciliano, Federazione Italiana Vela. La, Domani, Tirreno, Golfo di Palermo, Mondello, Sferracavallo, Castellammare.
+- Nomi, circoli o luoghi da valutare: Palermo, Campionato Italiano ORC Double, Handed Prende, Campionato Italiano Open ORC, Double Handed, Centro Velico Siciliano, Prende, Federazione Italiana Vela. La, Domani, Tirreno, Golfo di Palermo, Mondello, Sferracavallo, Castellammare.
 - Numeri/date utili da verificare: 3, 2, 5, 10.00, 25, 6, 8, 4, 70, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

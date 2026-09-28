@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Dinghy 12.
-- Nomi, circoli o luoghi da valutare: DINGHY, GIORNATA DEL CAMPIONATO DEL, TIGULLIO, LA ZAMPATA DEI NOBILI, FELINI, Erano Leoni e Gattopardi, Tomasi di Lampedusa, Giornata del Campionato, Tigullio-Trofeo Renato Lombardi-Coppa Pinne, Circolo Velico Santa Margherita, Ligure del Presidente Gianni, Castellaro. Una, Parliamo di Filippo Jannello, Cicci.
+- Nomi, circoli o luoghi da valutare: DINGHY, GIORNATA DEL CAMPIONATO DEL, TIGULLIO, LA ZAMPATA DEI NOBILI, FELINI, Erano Leoni e Gattopardi, Tomasi di Lampedusa, Giornata, Giornata del Campionato, Tigullio-Trofeo Renato Lombardi-Coppa Pinne, Circolo Velico Santa Margherita, Ligure del Presidente Gianni, Castellaro. Una, Parliamo di Filippo Jannello.
 - Numeri/date utili da verificare: 12, 5, 3, 2000, 2006, 70, 60 anni, 10, 4, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

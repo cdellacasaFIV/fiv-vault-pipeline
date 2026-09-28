@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Marzo 2026 | Europeo 470 a Vilamoura: Berta-Calabrò secondi dopo il primo giorno di finali | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-11 - Europeo-470-a-Vilamoura-Berta-Calabro-secondi-dopo-il-primo-giorno-di-finali - wp6277|nota]] |
+| 10 Marzo 2026 | Europeo 470 a Vilamoura: Ferrari-Dubbini mantengono la testa, tre equipaggi azzurri in Gold Fleet | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-10 - Europeo-470-a-Vilamoura-Ferrari-Dubbini-mantengono-la-testa-tre-equipaggi-azzurri-in-Gold-Fleet - wp6262|nota]] |
 | 8 Marzo 2026 | FEDERICO BERGAMASCO: “STELLE NELLO SPORT STIMOLA LA PASSIONE SPORTIVA” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-08 - FEDERICO-BERGAMASCO-STELLE-NELLO-SPORT-STIMOLA-LA-PASSIONE-SPORTIVA - wp6242|nota]] |
 | 6 Marzo 2026 | Europeo 470 a Vilamoura: primo appuntamento della stagione olimpica 2026 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-06 - Europeo-470-a-Vilamoura-primo-appuntamento-della-stagione-olimpica-2026 - wp6229|nota]] |
 | 4 Marzo 2026 | Yacht Club Rimini. Gli Optimist animano la stagione agonistica di Rimini. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-04 - Yacht-Club-Rimini-Gli-Optimist-animano-la-stagione-agonistica-di-Rimini - wp6221|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 13 Agosto 2025 | Campionato Europeo ILCA 2025: day 3, si sono concluse oggi le qualifiche | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Campionato-Europeo-ILCA-2025-day-3-si-sono-concluse-oggi-le-qualifiche - wp3899|nota]] |
 | 12 Agosto 2025 | Campionato Europeo ILCA 2025: day 2 bene gli azzurri | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - Campionato-Europeo-ILCA-2025-day-2-bene-gli-azzurri - wp3890|nota]] |
 | 11 Agosto 2025 | Marsala ospita il primo raduno promozionale di Wing Foil in Sicilia: un successo per la nuova classe Foil | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Marsala-ospita-il-primo-raduno-promozionale-di-Wing-Foil-in-Sicilia-un-successo-per-la-nuova-classe-Foil - wp3882|nota]] |
-| 11 Agosto 2025 | Tris di medaglie al mondiale RS 500 di Follonica | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Tris-di-medaglie-al-mondiale-RS-500-di-Follonica - wp3878|nota]] |
-| 11 Agosto 2025 | Al via il Campionato Europeo ILCA 2025 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Al-via-il-Campionato-Europeo-ILCA-2025 - wp3874|nota]] |

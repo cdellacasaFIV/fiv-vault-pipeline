@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 7.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dublin Bay, Attilio Borio, Inizia, Italia, ILCA, Men’s World Championship, Irlanda. Dopo, Il Mondiale, Royal St George Yacht, Club e, National Yacht Club, Fiamme Oro, Rossa.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dublin Bay, Attilio Borio, Inizia, Italia, ILCA, Men’s World Championship, Irlanda, Irlanda. Dopo, Il Mondiale, Royal St George Yacht, Club e, National Yacht Club, Fiamme Oro.
 - Numeri/date utili da verificare: 7, 2026, 141, 45, 2, 1, 3, 4, 5, 30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

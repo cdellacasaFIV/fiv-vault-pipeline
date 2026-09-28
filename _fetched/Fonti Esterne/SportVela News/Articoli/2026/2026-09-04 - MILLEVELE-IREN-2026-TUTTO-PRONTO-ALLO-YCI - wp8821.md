@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MILLEVELE IREN, TUTTO PRONTO ALLO YCI, Carlo Cameli, Yacht Club Italiano, Millevele, Circoli Velici, Regione Liguria e Comune, Genova. Presidente, Entra, Spero, Abbiamo, Genova, Siamo, Presidente.
+- Nomi, circoli o luoghi da valutare: MILLEVELE IREN, TUTTO PRONTO ALLO YCI, Carlo Cameli, Yacht Club Italiano, Circoli Velici, Regione Liguria e Comune, Genova. Presidente, Entra, Spero, Millevele, Abbiamo, Genova, Siamo, Presidente.
 - Numeri/date utili da verificare: 2026, 3, 12, 09, 03.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

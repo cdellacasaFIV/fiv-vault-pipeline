@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Consegna, Vela e STEM, Club Nautico, Vela Sabato, Sabato, STEM, Istituto Comprensivo, Miraglia-Sogliano. Il, Filippo D’Arrigo e Giorgio, Rollin e, Prof. Lidia Cascella. Grande, Durante, Presidente del Club Nautico, Vela Sergio Pelella.
+- Nomi, circoli o luoghi da valutare: Consegna, Vela e STEM, Club Nautico, Vela Sabato, STEM, Sabato, Istituto Comprensivo, Miraglia-Sogliano. Il, Filippo D’Arrigo e Giorgio, Rollin e, Prof. Lidia Cascella. Grande, Durante, Presidente del Club Nautico, Vela Sergio Pelella.
 - Numeri/date utili da verificare: 21, 29.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

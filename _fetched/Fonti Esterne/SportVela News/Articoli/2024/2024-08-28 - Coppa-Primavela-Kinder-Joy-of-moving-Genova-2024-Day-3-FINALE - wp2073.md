@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Waszp.
-- Nomi, circoli o luoghi da valutare: Coppa Primavela Kinder Joy, Genova, FINALE Giornata, Classifiche, Giornata, FIVillage, Arrivederci, Primavela, Regata FIV, Italia. Il Comitato, Regata, Tramontana, Fiera di Genova, Race Director Carlo Tosi.
+- Nomi, circoli o luoghi da valutare: Coppa Primavela Kinder Joy, Genova, FINALE Giornata, Classifiche, FIVillage, Giornata, Arrivederci, Primavela, Regata FIV, Italia. Il Comitato, Regata, Tramontana, Fiera di Genova, Race Director Carlo Tosi.
 - Numeri/date utili da verificare: 2024, 3, 2025, 404, 10, 00, 13, 16, 30, 244.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

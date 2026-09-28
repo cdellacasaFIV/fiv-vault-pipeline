@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 420.
-- Nomi, circoli o luoghi da valutare: Storica, Sirena e Dessy, Vilamoura VILAMOURA, VILAMOURA, Yacht Club Cagliari, Lorenzo Sirena e Alice, Dessy, Nacra, Youth Sailing World Championships, Portogallo. Dopo, Lorenzo e Alice, Gigi Picciau, Campionato Europeo, ILCA.
+- Nomi, circoli o luoghi da valutare: Storica, Sirena e Dessy, Vilamoura VILAMOURA, Yacht Club, VILAMOURA, Yacht Club Cagliari, Lorenzo Sirena e Alice, Dessy, Nacra, Youth Sailing World Championships, Portogallo. Dopo, Lorenzo e Alice, Gigi Picciau, Campionato Europeo.
 - Numeri/date utili da verificare: 20, 2025, 15, 29, 14, 13, 400, 67, 420, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

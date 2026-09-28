@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470.
-- Nomi, circoli o luoghi da valutare: Semaine Olympique Française, Tita e Banti, Nacra, Renna, Giunchiglia e Schio, FX Terza, Gold Fleet, Terza, Vento, Hyères. Giornata, Formula Kite Men, Maeder, Pianosi, Maximilian Maeder.
+- Nomi, circoli o luoghi da valutare: Semaine Olympique Française, Tita e Banti, Nacra, Renna, Giunchiglia e Schio, FX Terza, Gold Fleet, Vento, Terza, Hyères. Giornata, Formula Kite Men, Maeder, Pianosi, Maximilian Maeder.
 - Numeri/date utili da verificare: 2026, 17, 470, 6, 7, 25.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

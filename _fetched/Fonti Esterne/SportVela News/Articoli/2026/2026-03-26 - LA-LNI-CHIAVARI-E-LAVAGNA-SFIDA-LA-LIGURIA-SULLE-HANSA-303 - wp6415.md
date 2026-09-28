@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: LA LNI CHIAVARI, LAVAGNA SFIDA LA LIGURIA, SULLE HANSA, Parte, LNI di Chiavari, LNI di Chiavari Lavagna, Hansa, Chiavari, Vela Sociale. Si, Campionato Regionale Ligure, Regione Liguria. Un, Andora, Savona, La Spezia.
+- Nomi, circoli o luoghi da valutare: LA LNI CHIAVARI, LAVAGNA SFIDA LA LIGURIA, SULLE HANSA, Parte, LNI di Chiavari Lavagna, Hansa, Chiavari, Vela Sociale. Si, Campionato Regionale Ligure, Regione Liguria. Un, Andora, Savona, La Spezia, Genova.
 - Numeri/date utili da verificare: 303, 25, 5, 28, 2026, 29.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

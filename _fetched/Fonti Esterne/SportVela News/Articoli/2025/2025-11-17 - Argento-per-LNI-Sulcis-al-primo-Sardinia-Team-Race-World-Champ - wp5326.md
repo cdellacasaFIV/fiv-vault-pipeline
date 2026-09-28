@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Argento, LNI Sulcis, Sardinia Team Race World, Champ Cresce, Sardegna, Cresce, RS Aero e O’pen, Skiff. TEAM FRANCIA, RED TEAM ITA SULCIS, ORANGE Si, Cagliari, Su Siccu, Championship RS Aero, O’pen Skiff.
+- Nomi, circoli o luoghi da valutare: Argento, LNI Sulcis, Sardinia Team Race World, Champ Cresce, Sardegna, RS Aero e O’pen, Skiff. Si, Cresce, Skiff. TEAM FRANCIA, RED TEAM ITA SULCIS, ORANGE Si, Cagliari, Su Siccu, Championship RS Aero.
 - Numeri/date utili da verificare: 2026, 14, 16, 100, 2022.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

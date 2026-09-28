@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Para, Marina di Ravenna, Campionati Nazionali, Navigare Insieme. Un, Marina, Campionati Nazionali di Para, Navigare Insieme, Italia, Marinando, Circolo Velico Ravennate, Parasailing. Tutto, Federazione Italiana Vela, UniCredit, Fondo Carta Etica.
+- Nomi, circoli o luoghi da valutare: Para, Marina di Ravenna, Campionati Nazionali, Navigare Insieme. Un, Campionati Nazionali di Para, Navigare Insieme, Italia, Marinando, Circolo Velico Ravennate, Parasailing. Tutto, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Campionati Nazionali di Parasailing.
 - Numeri/date utili da verificare: 2025, 2.0, 10, 12, 13, 303, 1, 2, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

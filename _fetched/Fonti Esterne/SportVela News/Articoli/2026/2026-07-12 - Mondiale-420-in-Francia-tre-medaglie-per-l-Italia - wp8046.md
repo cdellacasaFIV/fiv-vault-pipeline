@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: Mondiale, Francia, Italia Argento Mixed, Panicucci-Simoni, Margaria- Cavero, Under, Osti-Itocchi, Argento Mixed, Osti-Itocchi Tre, Italia, Biscarrosse. Tre, Quinto, Emanule Ciavatta-Marco Rolle Biscarrosse, L’Italia.
+- Nomi, circoli o luoghi da valutare: Mondiale, Francia, Italia Argento Mixed, Panicucci-Simoni, Margaria- Cavero, Under, Osti-Itocchi Tre, Italia, Biscarrosse. Tre, Argento Mixed, Quinto, Emanule Ciavatta-Marco Rolle Biscarrosse, L’Italia, Campionato del Mondo.
 - Numeri/date utili da verificare: 420, 17, 64, 2022, 2024, 2025, 2026, 14 equipaggi, 300.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

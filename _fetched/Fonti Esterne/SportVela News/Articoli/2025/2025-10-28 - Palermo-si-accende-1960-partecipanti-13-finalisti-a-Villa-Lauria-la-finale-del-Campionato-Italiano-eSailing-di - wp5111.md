@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Palermo, Villa Lauria, Campionato Italiano, Flotta, All’interno, CICO Edison Next, Lorenzo Sorrenti, Varrazze CN Amos Di, Benedetto, CC Roggero Lauria Carlo, Sbacchi, CC Roggero Lauria Alberto, Carraro, CC Roggero Lauria Filippo.
+- Nomi, circoli o luoghi da valutare: Palermo, Villa Lauria, Campionato Italiano, Flotta, All’interno, CICO Edison, CICO Edison Next, Lorenzo Sorrenti, Varrazze CN Amos Di, Benedetto, CC Roggero Lauria Carlo, Sbacchi, CC Roggero Lauria Alberto, Carraro.
 - Numeri/date utili da verificare: 1960, 13, 2025, 15, 00, 17, 30, 6, 10, 90.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

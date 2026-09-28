@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL, Waszp, WingFoil.
-- Nomi, circoli o luoghi da valutare: Cagliari, Golfo degli Angeli, Sardinia Sailing Cup Concluso, Sardinia Grand Slam, WingFoil Racing, Concluso, WingFoil Racing World Cup, FIV. In, Paesi, Ghio, Wylde, Franchi, Capuzzo, Spanu. Al Poetto.
+- Nomi, circoli o luoghi da valutare: Cagliari, Golfo degli Angeli, Sardinia Sailing Cup Concluso, Sardinia Grand Slam, WingFoil Racing World Cup, FIV. In, Concluso, Paesi, Ghio, Wylde, Franchi, Capuzzo, Spanu. Al Poetto, Next Generation Foil Academy.
 - Numeri/date utili da verificare: 60 atleti, 17, 18, 22, 60, 19, 20, 21, 2023, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

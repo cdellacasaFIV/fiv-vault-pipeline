@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Nacra 15, 420.
-- Nomi, circoli o luoghi da valutare: MERCOLEDI POMERIGGIO, PESCARA LA CERIMONIA DI, APERTURA DELL’ITALIANO GIOVANILE DELLE, CLASSI IN DOPPIO Oltre, Pescara, Stadio del Mare, Oltre, Stadio del Mare Dal, RSFeva, Nacra, Hobie Cat, Spi e Hobie Dragoon, Regate FIV, Junior.
+- Nomi, circoli o luoghi da valutare: MERCOLEDI POMERIGGIO, PESCARA LA CERIMONIA DI, APERTURA DELL’ITALIANO GIOVANILE DELLE, CLASSI IN DOPPIO Oltre, Pescara, Stadio del Mare Dal, Oltre, RSFeva, Nacra, Hobie Cat, Spi e Hobie Dragoon, Regate FIV, Junior, Adriatico.
 - Numeri/date utili da verificare: 700, 4, 18, 5, 8, 420, 15, 16, 6, 350.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

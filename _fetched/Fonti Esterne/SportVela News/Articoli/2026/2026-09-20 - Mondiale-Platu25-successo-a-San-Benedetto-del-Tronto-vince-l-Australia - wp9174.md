@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Mondiale Platu, San Benedetto del Tronto, Australia Il Campionato Mondiale, Platu, Il Campionato Mondiale Platu, Aftershock di Mark Griffith, Alle, Fandango, Associazione Velica Senigallia, Marco Angiolini, Keturi Vejai, Radvilas Janulonis. La, Flash Cube del C.V., Ventoforte. Il.
+- Nomi, circoli o luoghi da valutare: Mondiale Platu, San Benedetto del Tronto, Australia Il Campionato Mondiale, Platu, Aftershock di Mark Griffith, Il Campionato Mondiale Platu, Alle, Fandango, Associazione Velica Senigallia, Marco Angiolini, Keturi Vejai, Radvilas Janulonis. La, Flash Cube del C.V., Ventoforte. Il.
 - Numeri/date utili da verificare: 18.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

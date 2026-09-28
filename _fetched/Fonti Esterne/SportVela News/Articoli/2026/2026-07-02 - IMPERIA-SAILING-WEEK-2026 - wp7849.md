@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, america's cup/napoli.
 - Angoli editoriali: territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: IMPERIA SAILING WEEK, Metri S.I., Quarant’anni, Le Vele, Epoca di Imperia, Campionato del Mondo, Classe, Metri Stazza Internazionale, America’s Cup. Dal, Calata Anselmi, Comune di Imperia, Assonautica Imperia, Yacht Club Imperia, Yacht Club Sanremo. Non.
+- Nomi, circoli o luoghi da valutare: IMPERIA SAILING WEEK, Metri S.I., Quarant’anni, Le Vele, Epoca, Epoca di Imperia, Campionato del Mondo, Classe, Metri Stazza Internazionale, America’s Cup. Dal, Calata Anselmi, Comune di Imperia, Assonautica Imperia, Yacht Club Imperia.
 - Numeri/date utili da verificare: 2026, 12, 40, 30, 28, 6, 1958, 1987, 06.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

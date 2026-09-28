@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, Hansa.
-- Nomi, circoli o luoghi da valutare: Italia, Mussanah. World Sailing, Classification Sub-Committee, World Sailing Inclusion Championships, L’Italia, Paesi, Mussanah, Oman., World Sailing, Para. Le, Campionato, Davide Di Maria, Società Canottieri Garda Salò, Yacht Club Punta Ala.
+- Nomi, circoli o luoghi da valutare: Italia, Mussanah. World Sailing, Classification Sub-Committee, World Sailing Inclusion Championships, Paesi, L’Italia, Mussanah, Oman., World Sailing, Para. Le, Campionato, Davide Di Maria, Società Canottieri Garda Salò, Yacht Club Punta Ala.
 - Numeri/date utili da verificare: 2025, 150 atleti, 37, 30, 8, 154, 303, 6, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

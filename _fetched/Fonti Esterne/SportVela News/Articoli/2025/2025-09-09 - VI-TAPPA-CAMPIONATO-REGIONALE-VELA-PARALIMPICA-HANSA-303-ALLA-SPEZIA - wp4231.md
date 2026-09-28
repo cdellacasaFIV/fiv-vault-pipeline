@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: VI TAPPA CAMPIONATO REGIONALE, VELA PARALIMPICA HANSA, ALLA SPEZIA La Lega, Navale Italiana, La Lega Navale Italiana, Campionato Regionale Ligure, Hansa, Comitato Paralimpico Italiano, PRYSMIAN, Liguria, Raramente, Dopo Andora e Chiavari, Santa Margherita, Savona e Genova Sestri.
+- Nomi, circoli o luoghi da valutare: VI TAPPA CAMPIONATO REGIONALE, VELA PARALIMPICA HANSA, ALLA SPEZIA La Lega, Navale Italiana, Campionato Regionale, La Lega Navale Italiana, Campionato Regionale Ligure, Hansa, Comitato Paralimpico Italiano, PRYSMIAN, Liguria, Raramente, Dopo Andora e Chiavari, Santa Margherita.
 - Numeri/date utili da verificare: 303, 8, 2025, 11, 19, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

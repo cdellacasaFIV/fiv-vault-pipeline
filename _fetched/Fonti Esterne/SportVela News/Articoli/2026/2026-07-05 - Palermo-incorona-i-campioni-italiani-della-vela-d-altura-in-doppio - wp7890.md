@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Palermo, Campionato, Campionato Italiano Open ORC, Double Handed, Golfo di Palermo, San Vito Lo Capo, Italia, Organizzato, Centro Velico Siciliano, Federazione Italiana Vela, Dopo, Joy del Centro Velico, Siciliano, Giuseppe Cascino e Manfredi.
+- Nomi, circoli o luoghi da valutare: Palermo, Campionato Italiano Open ORC, Double Handed, Golfo di Palermo, San Vito Lo Capo, Italia, Organizzato, Centro Velico Siciliano, Federazione Italiana Vela, Dopo, Joy del Centro Velico, Siciliano, Giuseppe Cascino e Manfredi, Rizzuto.
 - Numeri/date utili da verificare: 2, 22 equipaggi, 70, 1, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

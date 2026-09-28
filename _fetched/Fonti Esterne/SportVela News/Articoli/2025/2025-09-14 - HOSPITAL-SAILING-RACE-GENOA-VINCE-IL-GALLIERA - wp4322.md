@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: J70.
-- Nomi, circoli o luoghi da valutare: HOSPITAL SAILING RACE GENOA, VINCE IL GALLIERA, Hospital Sailing Race, Ospedali, Regata di Flotta’. Regate, Lido, Albaro, Genova, Ospedali Galliera, Ottima, Yacht Club Italiano., Paolo Pasquini.
+- Nomi, circoli o luoghi da valutare: HOSPITAL SAILING RACE GENOA, VINCE IL GALLIERA, Ospedali, Regata di Flotta’. Regate, Lido, Albaro, Genova, Ospedali Galliera, Ottima, Yacht Club Italiano., Paolo Pasquini.
 - Numeri/date utili da verificare: 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

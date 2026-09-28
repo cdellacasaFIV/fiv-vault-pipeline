@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: C.N. MARINA GENOVA AEROPORTO, Dopo, Ernesto Moresino, Monica, Monica Alterisio, Continua, Campionato, Lanterna, Circolo Nautico Mandraccio, La Veleggiata di Natale, Lega Navale Sestri Ponente, Ponentino, Grande, Molto.
+- Nomi, circoli o luoghi da valutare: C.N. MARINA GENOVA AEROPORTO, Dopo, Ernesto Moresino, Monica Alterisio, Continua, Campionato, Lanterna, Circolo Nautico Mandraccio, La Veleggiata di Natale, Lega Navale Sestri Ponente, Ponentino, Grande, Molto, Dall’autunno.
 - Numeri/date utili da verificare: 4, 12 anni, 2023, 70, 2025, 6.50, 650, 10, 2019, 40.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

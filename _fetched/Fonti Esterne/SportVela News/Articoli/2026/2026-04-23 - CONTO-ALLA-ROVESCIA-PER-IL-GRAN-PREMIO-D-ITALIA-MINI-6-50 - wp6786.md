@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CONTO ALLA ROVESCIA PER, IL GRAN PREMIO D’ITALIA, MINI, L’impegno del Waterfront Sailing, Club Genova, Grazie, Waterfront Sailing, Waterfront Sailing Club Genova, Genova Capitale dei Mini, Il Gran Premio, Italia Mini, Genova, Corsica, Arcipelago.
+- Nomi, circoli o luoghi da valutare: CONTO ALLA ROVESCIA PER, IL GRAN PREMIO D’ITALIA, MINI, L’impegno del Waterfront Sailing, Club Genova, Grazie, Waterfront Sailing Club Genova, Genova Capitale dei Mini, Il Gran Premio, Italia Mini, Genova, Corsica, Arcipelago, Maddalena.
 - Numeri/date utili da verificare: 6.50, 22, 17, 540, 1977, 2027, 4.500.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

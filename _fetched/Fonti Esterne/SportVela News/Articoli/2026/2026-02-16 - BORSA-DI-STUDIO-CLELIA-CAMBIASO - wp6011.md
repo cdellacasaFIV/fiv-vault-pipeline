@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: BORSA DI STUDIO CLELIA, CAMBIASO, Anche, Presidente Antonio Viretti, Zona, Borsa di Studio, Clelia Cambiaso. Non, Presto, Circoli, Zona., Luisa Franza.
+- Nomi, circoli o luoghi da valutare: BORSA DI STUDIO CLELIA, CAMBIASO, Anche, Presidente Antonio Viretti, Zona, Borsa, Borsa di Studio, Clelia Cambiaso. Non, Presto, Circoli, Zona., Luisa Franza.
 - Numeri/date utili da verificare: 11, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

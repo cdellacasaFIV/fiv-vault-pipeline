@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: Campionato del Mondo, Italia, Izmir, Turchia, Emanuele Collia e Gianmaria, Biason, Anastasia Mutti e Lorenzo, Centuori, Mixed, Sara Anzellotti e Alberto, Nardocci, Leonardo Zaggia, Torniamo, Dopo.
+- Nomi, circoli o luoghi da valutare: Campionato del Mondo, Italia, Izmir, Turchia, Campionato, Emanuele Collia e Gianmaria, Biason, Anastasia Mutti e Lorenzo, Centuori, Mixed, Sara Anzellotti e Alberto, Nardocci, Leonardo Zaggia, Torniamo.
 - Numeri/date utili da verificare: 420, 9, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

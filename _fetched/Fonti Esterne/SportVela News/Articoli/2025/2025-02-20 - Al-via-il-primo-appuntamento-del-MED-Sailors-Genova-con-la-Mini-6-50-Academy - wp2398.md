@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: MED Sailors Genova, Mini, Academy Genova, Genova, Federazione Italiana Vela, Academy, Bando, Questo, Form.
+- Nomi, circoli o luoghi da valutare: MED Sailors Genova, Mini, Academy Genova, Federazione Italiana Vela, Genova, Academy, Bando, Questo, Form.
 - Numeri/date utili da verificare: 6.50.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

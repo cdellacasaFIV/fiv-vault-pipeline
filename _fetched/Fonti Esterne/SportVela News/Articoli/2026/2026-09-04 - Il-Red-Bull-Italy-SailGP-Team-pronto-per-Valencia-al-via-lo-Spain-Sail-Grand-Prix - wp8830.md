@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Il Red Bull Italy, SailGP Team, Valencia, Spain Sail Grand Prix, Il Rolex SailGP Championship, Sail, Sail Grand Prix, Dopo, Cadice, Spagna, America’s Cup, Un’identità, L’appuntamento, Red Bull Italy SailGP.
+- Nomi, circoli o luoghi da valutare: Il Red Bull Italy, SailGP Team, Valencia, Spain Sail Grand Prix, Il Rolex SailGP Championship, Sail Grand Prix, Dopo, Cadice, Spagna, America’s Cup, Un’identità, L’appuntamento, Red Bull Italy SailGP, Team.
 - Numeri/date utili da verificare: 5, 6, 2007, 2010, 30 anni, 2026, 2, 1, 13, 30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

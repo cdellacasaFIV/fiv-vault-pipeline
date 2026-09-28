@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Il Circolo Vela Cesenatico, CESENATICO, Circolo Vela Cesenatico, Vicepresidente, Regione Emilia-Romagna Vincenzo Colla, Presidente, Federazione Italiana Vela Francesco, Ettorre, Circolo. Presenti, Assessora, Sport del Comune, Cesenatico Gaia Morara, Assessora del Comune, Forlì Paola Casara.
+- Nomi, circoli o luoghi da valutare: Il Circolo Vela Cesenatico, CESENATICO, Circolo Vela, Circolo Vela Cesenatico, Vicepresidente, Regione Emilia-Romagna Vincenzo Colla, Presidente, Federazione Italiana Vela Francesco, Ettorre, Circolo. Presenti, Assessora, Sport del Comune, Cesenatico Gaia Morara, Assessora del Comune.
 - Numeri/date utili da verificare: 45 anni, 45.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

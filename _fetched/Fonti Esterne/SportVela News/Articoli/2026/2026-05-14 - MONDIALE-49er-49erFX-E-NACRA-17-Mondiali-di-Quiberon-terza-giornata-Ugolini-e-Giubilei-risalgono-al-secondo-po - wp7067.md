@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49erFX, 49er, Nacra 17.
-- Nomi, circoli o luoghi da valutare: MONDIALE, NACRA, Mondiali di Quiberon, Ugolini e Giubilei, Germani e Bertuzzi, Tutte, Baia di Quiberon. Si, Qualifying, Qualifying Series, Finals. Terza, Campionato del Mondo, Baia di Quiberon., Keanu Prettner e Jakob, Flachberger.
+- Nomi, circoli o luoghi da valutare: MONDIALE, NACRA, Mondiali di Quiberon, Ugolini e Giubilei, Germani e Bertuzzi, Tutte, Baia di Quiberon. Si, Qualifying Series, Finals. Terza, Campionato del Mondo, Baia di Quiberon., Keanu Prettner e Jakob, Flachberger, Austria.
 - Numeri/date utili da verificare: 17, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

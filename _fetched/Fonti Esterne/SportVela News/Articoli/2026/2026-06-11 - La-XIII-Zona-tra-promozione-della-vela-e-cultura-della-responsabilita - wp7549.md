@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: La XIII Zona, Comitato di Zona, Vela Day, Marina Julia, PromoMare Monfalcone, Federazione Italiana Vela, Friuli Venezia Giulia., Zona, Comune di Monfalcone, Regione Autonoma Friuli Venezia, Giulia. Per, Windsurfing Club Marina Julia, Kite Life FVG, Comitato di Zona FIV..
+- Nomi, circoli o luoghi da valutare: La XIII Zona, Comitato di Zona, Vela Day, Marina Julia, PromoMare, PromoMare Monfalcone, Federazione Italiana Vela, Friuli Venezia Giulia., Zona, Comune di Monfalcone, Regione Autonoma Friuli Venezia, Giulia. Per, Windsurfing Club Marina Julia, Kite Life FVG.
 - Numeri/date utili da verificare: 5.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

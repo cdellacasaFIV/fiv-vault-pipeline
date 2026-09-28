@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite, Mondiali, Viana, Castelo Vento, Vento, Seconda, Campionato del Mondo, Praia, Cabedelo di Viana, Castelo, Portogallo. Il, Maximilian Maeder di Singapore, Alle, Gian Stragiotti.
+- Nomi, circoli o luoghi da valutare: Formula Kite, Mondiali, Viana, Castelo Vento, Seconda, Campionato, Vento, Campionato del Mondo, Praia, Cabedelo di Viana, Castelo, Portogallo. Il, Maximilian Maeder di Singapore, Alle.
 - Numeri/date utili da verificare: 2026, 24, 10, 16.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, ILCA 7, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 470, Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: CONCLUSO IL CAMPIONATO ITALIANO, CLASSI OLIMPICHE EDISON NEXT, DI CAGLIARI, TUTTI, NEO-CAMPIONI ITALIANI Sole, Maestrale, Sole e Maestrale, Italiano, Sailing, Trofeo Carlo Rolandi, Club La, Para Sailing Hansa, Singoli e Doppi, Assegnati.
+- Nomi, circoli o luoghi da valutare: CONCLUSO IL CAMPIONATO ITALIANO, CLASSI OLIMPICHE EDISON NEXT, DI CAGLIARI, TUTTI, NEO-CAMPIONI ITALIANI Sole, Maestrale, Italiano, Sailing, Sole e Maestrale, Trofeo Carlo Rolandi, Club La, Para Sailing Hansa, Singoli e Doppi, Assegnati.
 - Numeri/date utili da verificare: 2024, 12, 15, 303, 2.4, 6, 2025, 10, 16, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

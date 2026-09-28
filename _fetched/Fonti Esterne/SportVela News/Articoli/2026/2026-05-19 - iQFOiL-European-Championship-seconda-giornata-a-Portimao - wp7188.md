@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: European Championship, Portimão Quattro, Maggetti, Quattro, Van Opzeeland e Steinberg, Seconda, Portimão. La, Italia, Luuc, Opzeeland, Johan Søe, Grae Morris., Federico Pilloni, Yacht Club Costa Smeralda.
+- Nomi, circoli o luoghi da valutare: European Championship, Portimão Quattro, Maggetti, Van Opzeeland e Steinberg, Seconda, Quattro, Portimão. La, Italia, Luuc, Opzeeland, Johan Søe, Grae Morris., Federico Pilloni, Yacht Club Costa Smeralda.
 - Numeri/date utili da verificare: 10, 2026, 20, 00, 12, 23.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

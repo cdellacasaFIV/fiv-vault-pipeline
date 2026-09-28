@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Mondiale, Mixed, Salvatore-Rizzi, Demurtas-Beretta, Kiel, Quarto, Bianca Marchesini, Bianca Marchesini e Lucia, Finato., GERMANIA, L’Italia, Campionato del Mondo, Emilia Salvatore e Pietro, Rizzi.
+- Nomi, circoli o luoghi da valutare: Mondiale, Mixed, Salvatore-Rizzi, Demurtas-Beretta, Kiel, Quarto, Bianca Marchesini e Lucia, Finato., GERMANIA, L’Italia, Campionato del Mondo, Emilia Salvatore e Pietro, Rizzi, Società Canottieri Garda Salò.
 - Numeri/date utili da verificare: 25, 276, 30, 35, 2025, 2024, 280, 19, 6, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

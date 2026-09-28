@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Trofeo OptiSud, Zona, Nugnes e Allodi Varriale, CRV Italia, Circolo, Zona FIV, Raffaele Nugnes, Lega, Lega Navale Italiana, Napoli, Divisione, Caterina Allodi Varriale, Circolo del Remo, Vela Italia.
+- Nomi, circoli o luoghi da valutare: Trofeo OptiSud, Zona, Nugnes e Allodi Varriale, CRV Italia, Circolo, Zona FIV, Raffaele Nugnes, Lega Navale Italiana, Napoli, Divisione, Caterina Allodi Varriale, Circolo del Remo, Vela Italia, Optimist.
 - Numeri/date utili da verificare: 2026, 7, 8, 6, 11, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite, World Championships, Medal Series, Pianosi e Boschetti Quinto, Hyères, Campionati del Mondo, Quinto, Gold Fleet. La, Riccardo Pianosi, Giornata, Lorenzo Boschetti, Maeder., Maggie Pescetto, Nolot. Questo.
+- Nomi, circoli o luoghi da valutare: Formula Kite, World Championships, Medal Series, Pianosi e Boschetti Quinto, Hyères, Campionati del Mondo, Gold Fleet. La, Quinto, Riccardo Pianosi, Giornata, Lorenzo Boschetti, Maeder., Maggie Pescetto, Nolot. Questo.
 - Numeri/date utili da verificare: 2024, 12, 18, 19.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

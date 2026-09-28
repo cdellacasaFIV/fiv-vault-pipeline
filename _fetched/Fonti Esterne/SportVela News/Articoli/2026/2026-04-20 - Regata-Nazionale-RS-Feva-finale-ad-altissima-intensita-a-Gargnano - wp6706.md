@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Regata Nazionale RS Feva, Gargnano Oro, Ravaioli-Neri, Cesare Imbroglini e Pietro, Bertaccini, Bertaccini del Circolo Nautico, Savio Podio, Garda La, Circolo Vela Gargnano, Vela Club Campione, Kiran e Tyc, Bastini e Bardelli, Ravaioli e Neri, Lara Petrovic e Anna.
+- Nomi, circoli o luoghi da valutare: Regata Nazionale RS Feva, Gargnano Oro, Ravaioli-Neri, Cesare Imbroglini e Pietro, Bertaccini del Circolo Nautico, Savio Podio, Garda La, Circolo Vela Gargnano, Vela Club Campione, Kiran e Tyc, Bastini e Bardelli, Ravaioli e Neri, Lara Petrovic e Anna, Arlotta.
 - Numeri/date utili da verificare: 14, 2026, 1, 39 equipaggi, 8, 10, 19, 16, 22, 7.50.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

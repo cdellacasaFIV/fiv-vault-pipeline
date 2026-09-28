@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: INVERNALE DEL TIGULLIO, SECONDO WEEK END ALLE, PORTE, Dopo, Tigullio Race, Campionato Invernale del Tigullio., Comitato Circoli Velici Tigullio, Sabato, Dalle, Google Meet, Ripetizione, Campionato, Marco Callai, Liguria Sport.
+- Nomi, circoli o luoghi da valutare: INVERNALE DEL TIGULLIO, SECONDO WEEK END ALLE, PORTE, Dopo, Tigullio Race, Campionato Invernale, Campionato Invernale del Tigullio., Comitato Circoli Velici Tigullio, Sabato, Dalle, Google Meet, Ripetizione, Campionato, Marco Callai.
 - Numeri/date utili da verificare: 50, 18, 9, 8, 30, 3, 5, 10, 2025, 11.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

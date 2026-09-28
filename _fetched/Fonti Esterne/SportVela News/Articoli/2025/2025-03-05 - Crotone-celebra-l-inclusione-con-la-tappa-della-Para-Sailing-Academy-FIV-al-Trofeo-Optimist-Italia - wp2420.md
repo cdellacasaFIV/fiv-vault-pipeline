@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Crotone, Para Sailing Academy FIV, Trofeo Optimist Italia Grazie, Para Sailing Academy, Optimist Italia Kinder, Grazie, Optimist Italia Kinder Joy, Moving, BPER Banca Crotone International, Carnival Race, Italia, Questa di Crotone, Academy, Consigliere FIV Fabio Colella.
+- Nomi, circoli o luoghi da valutare: Crotone, Para Sailing Academy FIV, Trofeo Optimist Italia Grazie, Para Sailing Academy, Optimist Italia Kinder Joy, Moving, BPER Banca Crotone, Grazie, BPER Banca Crotone International, Carnival Race, Italia, Questa di Crotone, Academy, Consigliere FIV Fabio Colella.
 - Numeri/date utili da verificare: 2025, 700, 303, 23, 30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: ASPETTANDO L’AMERICA’S CUP, Alla Marina Genova, Parterre, SeaYou, SeaYou Pavilion di Marina, Genova. Nell’ambito, Classic, Show, Napoli, Coppa America, Genova, L’evento, Giuseppe Pappalardo, Marina Genova.
+- Nomi, circoli o luoghi da valutare: ASPETTANDO L’AMERICA’S CUP, Alla Marina Genova, Parterre, SeaYou Pavilion di Marina, Genova. Nell’ambito, Classic, Show, Napoli, Coppa America, Genova, L’evento, Giuseppe Pappalardo, Marina Genova, Sono.
 - Numeri/date utili da verificare: 2027, 17, 2026, 05.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

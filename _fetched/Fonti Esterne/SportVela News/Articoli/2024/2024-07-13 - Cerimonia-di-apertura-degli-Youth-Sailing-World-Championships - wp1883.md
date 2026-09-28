@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, IQFOiL, iQFOiL, 420, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Cerimonia, Youth Sailing World Championships, Youth, Mondiali, Vela Giovanile, Garda, Dopo, Riva del Garda, World Sailing Il, Casa Italia, CONI, Regate, Mondiale Una, Youth Sailing World Championship.
+- Nomi, circoli o luoghi da valutare: Cerimonia, Youth Sailing World Championships, Youth Sailing World Championship, Campionato, Mondiali, Vela Giovanile, Garda, Dopo, Riva del Garda, World Sailing Il, Casa Italia, CONI, Regate, Mondiale Una.
 - Numeri/date utili da verificare: 2024, 418, 70, 15, 19, 13, 1971, 313 equipaggi, 11, 418 atleti.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

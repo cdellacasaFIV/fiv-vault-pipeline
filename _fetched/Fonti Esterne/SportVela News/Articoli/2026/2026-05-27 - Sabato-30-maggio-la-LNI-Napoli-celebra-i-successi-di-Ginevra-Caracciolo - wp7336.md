@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, giovanile, zone/circoli, america's cup/napoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: ILCA 6, ILCA 4.
-- Nomi, circoli o luoghi da valutare: Sabato, LNI Napoli, Ginevra Caracciolo La Lega, Navale Italiana, Sezione di Napoli, La Lega Navale Italiana, Ginevra Caracciolo di Brienza, Sezione, Napoli e, Ginevra, Molosiglio., Michele Sorrenti, Lega Navale di Napoli., Sarà.
+- Nomi, circoli o luoghi da valutare: Sabato, LNI Napoli, Ginevra Caracciolo La Lega, Navale Italiana, Sezione di Napoli, Ginevra Caracciolo di Brienza, La Lega Navale Italiana, Sezione, Napoli e, Ginevra, Molosiglio., Michele Sorrenti, Lega Navale di Napoli., Sarà.
 - Numeri/date utili da verificare: 30, 17, 4, 6, 2019, 2021, 2022, 21, 2025, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

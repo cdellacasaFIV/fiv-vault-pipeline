@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, Nacra 17, IQFOiL, iQFOiL, Formula Kite, Hansa, Para Sailing, WingFoil.
-- Nomi, circoli o luoghi da valutare: Sardinia Sailing Cup, Inclusive Development Programme, Trionfo, Su Siccu, Hansa, Francia, Brill, Brill Gauthier, Italia, Andrea Quarta e Davide, Di Maria. Il, Nina Corbetta, Alessandra Franchi e Alessandra, Cappellu.
+- Nomi, circoli o luoghi da valutare: Sardinia Sailing Cup, Inclusive Development Programme, Trionfo, Su Siccu, Hansa, Francia, Brill Gauthier, Italia, Andrea Quarta e Davide, Di Maria. Il, Nina Corbetta, Alessandra Franchi e Alessandra, Cappellu, Austria.
 - Numeri/date utili da verificare: 2024, 303, 24, 26, 2025, 2032, 23, 18, 17, 2023.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

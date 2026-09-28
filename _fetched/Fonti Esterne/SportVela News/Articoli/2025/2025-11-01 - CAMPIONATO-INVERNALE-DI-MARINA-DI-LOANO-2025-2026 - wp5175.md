@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO INVERNALE DI MARINA, DI LOANO, Il Campionato, Marina di Loano, Circolo Nautico Loano, Yacht Club Marina, Loano, Comune di Loano. Il, Il Campionato Invernale, Gianluigi Soro Presidente, Circolo Nautico Loano-, Federazione Italiana Vela, Campionato Invernale, Liguria.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO INVERNALE DI MARINA, DI LOANO, Il Campionato, Marina, Marina di Loano, Circolo Nautico Loano, Yacht Club Marina, Loano, Comune di Loano. Il, Il Campionato Invernale, Gianluigi Soro Presidente, Circolo Nautico Loano-, Federazione Italiana Vela, Campionato Invernale.
 - Numeri/date utili da verificare: 2025, 2026, 15, 16, 31, 29, 30, 6, 7, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Ultimo, Saint-Tropez, Giraglia, Genova SAINT-TROPEZ, FRANCIA, L’ultima, Loro Piana, Loro Piana Giraglia, Costa Azzurra, Genova. Una, Maxi, Baia di Pampelonne, Golfo di Saint-Tropez. Con, Loro Piana Lounge.
+- Nomi, circoli o luoghi da valutare: Ultimo, Saint-Tropez, Giraglia, Genova SAINT-TROPEZ, FRANCIA, L’ultima, Loro Piana Giraglia, Costa Azzurra, Genova. Una, Maxi, Baia di Pampelonne, Golfo di Saint-Tropez. Con, Loro Piana Lounge, Mediterraneo. La Loro Piana.
 - Numeri/date utili da verificare: 16, 2026, 10, 145, 0, 11,10, 87, 5, 30, 1.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

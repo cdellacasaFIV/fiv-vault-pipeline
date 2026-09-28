@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: CAMPIONATO ITALIANO ASSOLUTO VELA, D’ALTURA, EDISON NEXT Conto, Campionato Italiano Assoluto, Altura Edison Next, Capo, Conto, Orlando, Cresce, Sicilia, Palermo. La, Marina di Capo, Altura, Yacht Club Capo.
+- Nomi, circoli o luoghi da valutare: CAMPIONATO ITALIANO ASSOLUTO VELA, D’ALTURA, EDISON NEXT Conto, Campionato Italiano Assoluto, Altura Edison Next, Capo, Orlando, Conto, Cresce, Sicilia, Palermo. La, Marina di Capo, Altura, Yacht Club Capo.
 - Numeri/date utili da verificare: 2025, 23, 28, 40, 24, 10 anni, 2015, 30, 3, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

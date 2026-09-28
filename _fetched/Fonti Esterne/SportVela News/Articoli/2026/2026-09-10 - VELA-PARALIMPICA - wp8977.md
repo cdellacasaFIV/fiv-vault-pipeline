@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, zone/circoli, america's cup/napoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA Rotta, Campionato Europeo Hansa Grazie, Zona, Rotta, Campionato Europeo Hans, Grazie, Europeo di Barcellona, Hansa, Hansa Liberty. Ogni, MARCO POGGI, Loredana, Marco, Prima, Avevo.
+- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA Rotta, Campionato Europeo Hansa Grazie, Zona, Europeo di Barcellona, Rotta, Campionato Europeo Hans, Grazie, Hansa, Hansa Liberty. Ogni, MARCO POGGI, Loredana, Marco, Prima, Avevo.
 - Numeri/date utili da verificare: 10, 20, 303, 1961, 2025, 2026.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

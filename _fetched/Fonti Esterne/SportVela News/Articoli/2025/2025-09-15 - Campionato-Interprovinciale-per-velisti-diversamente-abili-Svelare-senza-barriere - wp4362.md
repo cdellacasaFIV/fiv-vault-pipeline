@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Interprovinciale, Svelare, Campioni Interprovinciali Sara Rizzini, Alessandro Tuterti e Valentino, Boschetto, Memorial, Memorial Cino Anelli. Alla, Cooperativa C.D.D. Collaboriamo, Leno, VIII Trofeo Luigina Al, Gruppo Nautico Dielleffe, Barriere, Desenzano del Garda. Con, Squadra.
+- Nomi, circoli o luoghi da valutare: Campionato Interprovinciale, Svelare, Campioni Interprovinciali Sara Rizzini, Alessandro Tuterti e Valentino, Boschetto, Memorial Cino Anelli. Alla, Cooperativa C.D.D. Collaboriamo, Leno, VIII Trofeo Luigina Al, Gruppo Nautico Dielleffe, Barriere, Desenzano del Garda. Con, Squadra, Fondazione Anffas di Desenzano-Rivoltella.
 - Numeri/date utili da verificare: 1, 2, 2008, 5, 11, 14, 17, 19, 2023, 2010.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

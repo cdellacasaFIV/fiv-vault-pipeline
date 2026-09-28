@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite, Europei di Akyaka, Pianosi, Marx, Turchia, Campionati Europei di Formula, Kite, Italia, Riccardo Pianosi, Gruppo Sportivo Marina Militare, Valentin Bontus. Flavio Marx, Circolo Surf Torbole, Akyaka Kite Beach, Kite. Nell’ultima.
+- Nomi, circoli o luoghi da valutare: Formula Kite, Europei di Akyaka, Pianosi, Marx, Turchia, Campionati Europei di Formula, Kite, Italia, Riccardo Pianosi, Gruppo, Gruppo Sportivo Marina Militare, Valentin Bontus. Flavio Marx, Circolo Surf Torbole, Akyaka Kite Beach.
 - Numeri/date utili da verificare: 5, 12, 2026, 2024, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

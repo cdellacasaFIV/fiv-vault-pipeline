@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: IL TROFEO ELVIO BOTTO, DA’ INIZIO AL CAMPIONATO, VELA D’AUTUNNO, Anche, Campionato, Campionato Vela, Autunno Yacht Club Chiavari., Trofeo Elvio Botto., Presidente Yacht Club Chiavari, Roberto Bosé, Stefano e Fabio, Yacht Club Chiavari, Elvio Botto, Socio Fondatore.
+- Nomi, circoli o luoghi da valutare: IL TROFEO ELVIO BOTTO, DA’ INIZIO AL CAMPIONATO, VELA D’AUTUNNO, Anche, Campionato Vela, Autunno Yacht Club Chiavari., Trofeo Elvio Botto., Presidente Yacht Club Chiavari, Roberto Bosé, Stefano e Fabio, Yacht Club Chiavari, Elvio Botto, Socio Fondatore, Club. Elvio.
 - Numeri/date utili da verificare: 2026, 18, 26, 27.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

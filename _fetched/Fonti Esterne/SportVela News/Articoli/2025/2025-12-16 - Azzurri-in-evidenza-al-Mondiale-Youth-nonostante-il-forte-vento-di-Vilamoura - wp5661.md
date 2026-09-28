@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, IQFOiL, iQFOiL, 420.
-- Nomi, circoli o luoghi da valutare: Azzurri, Mondiale Youth, Vilamoura Vento, Vilamoura, Youth World Sailing Championships., Portogallo, Vento, Il Mondiale Youth, Nonostante, Programma, ILCA, Nacra, Ancora, Kite.
+- Nomi, circoli o luoghi da valutare: Azzurri, Mondiale Youth, Vilamoura Vento, Vilamoura, Youth World Sailing Championships., Portogallo, Il Mondiale Youth, Vento, Nonostante, Programma, ILCA, Nacra, Ancora, Kite.
 - Numeri/date utili da verificare: 30, 420, 15, 18, 22, 32, 2025, 3405.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

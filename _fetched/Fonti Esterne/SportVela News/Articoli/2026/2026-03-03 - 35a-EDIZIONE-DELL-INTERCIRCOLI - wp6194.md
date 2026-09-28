@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: EDIZIONE DELL’INTERCIRCOLI Avvio, Melgina, Dea Gitana, Miolo, My Dream e Tittimea, Avvio, Buon, Campionato Intercircoli, Comitato di Regata, Stefano Carattino, Regata Crociera, Melges, Paolo Brescia, Yacht Club Italiano.
+- Nomi, circoli o luoghi da valutare: EDIZIONE DELL’INTERCIRCOLI Avvio, Melgina, Dea Gitana, Miolo, My Dream e Tittimea, Buon, Campionato, Avvio, Campionato Intercircoli, Comitato di Regata, Stefano Carattino, Regata Crociera, Melges, Paolo Brescia.
 - Numeri/date utili da verificare: 2, 35, 24, 340, 28, 8, 10, 850, 7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

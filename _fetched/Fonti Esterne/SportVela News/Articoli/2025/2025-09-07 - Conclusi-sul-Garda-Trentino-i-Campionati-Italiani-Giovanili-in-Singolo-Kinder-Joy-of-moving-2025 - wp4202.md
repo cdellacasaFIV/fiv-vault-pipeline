@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: ILCA 6, ILCA 4, IQFOiL, iQFOiL, Techno 293, Waszp.
-- Nomi, circoli o luoghi da valutare: Conclusi, Garda Trentino, Campionati Italiani Giovanili, Singolo Kinder Joy, Singolo Kinder, Regate, Federazione Italiana Vela, Italia. Le, Optimist, ILCA, Techno, Waszp. Con, Consorzio Garda Trentino Vela, Circolo Vela Torbole.
+- Nomi, circoli o luoghi da valutare: Conclusi, Garda Trentino, Campionati Italiani Giovanili, Singolo Kinder Joy, Regate, Federazione Italiana Vela, Italia. Le, Optimist, ILCA, Techno, Waszp. Con, Consorzio Garda Trentino Vela, Circolo Vela Torbole, Circolo Vela Arco.
 - Numeri/date utili da verificare: 2025, 500, 4, 6, 293, 5, 50, 8, 11, 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

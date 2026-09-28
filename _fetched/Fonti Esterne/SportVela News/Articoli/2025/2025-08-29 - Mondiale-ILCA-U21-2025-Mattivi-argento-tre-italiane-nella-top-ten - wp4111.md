@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, america's cup/napoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: ILCA 7, ILCA 6.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Mattivi, Dún Laoghaire, Irlanda, Dublino, Campionato, Campionato del Mondo ILCA, Under, ILCA, Women, Classifica, Roos Wind, Emma Mattivi, Fiamme Gialle.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Mattivi, Dún Laoghaire, Irlanda, Dublino, Campionato del Mondo ILCA, Under, ILCA, Women, Classifica, Roos Wind, Emma Mattivi, Fiamme Gialle, Frances Beebe.
 - Numeri/date utili da verificare: 2025, 29, 21, 200 atleti, 38, 6, 1, 2, 3, 4.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

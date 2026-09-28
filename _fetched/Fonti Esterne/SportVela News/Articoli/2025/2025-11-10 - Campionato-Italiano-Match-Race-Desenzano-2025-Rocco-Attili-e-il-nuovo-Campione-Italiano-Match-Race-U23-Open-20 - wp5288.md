@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano Match Race, Desenzano, Rocco Attili, Campione Italiano Match Race, Open, La Fraglia Vela Desenzano, Femminile Desenzano del Garda, Fraglia Vela Desenzano, Federazione Italiana Vela, Italia, Garda, Dolphin, Under, Femminile.
+- Nomi, circoli o luoghi da valutare: Campionato Italiano Match Race, Desenzano, Rocco Attili, Campione Italiano Match Race, Open, La Fraglia Vela Desenzano, Femminile Desenzano del Garda, Campionato, Fraglia Vela Desenzano, Federazione Italiana Vela, Italia, Garda, Dolphin, Under.
 - Numeri/date utili da verificare: 2025, 10, 11, 14, 81, 23, 16, 70.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

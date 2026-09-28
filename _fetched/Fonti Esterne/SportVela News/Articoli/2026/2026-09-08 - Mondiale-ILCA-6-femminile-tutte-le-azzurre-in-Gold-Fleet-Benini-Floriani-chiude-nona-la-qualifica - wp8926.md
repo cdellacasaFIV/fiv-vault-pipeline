@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Gold Fleet. Benini Floriani, Dún Laoghaire, Cinque, Charlotte Rose Le, Campionato Mondiale ILCA, Dublino, Italia, Gold Fleet, Giornata, Chiara Benini Floriani, Fiamme Gialle, Alle, Emma Mattivi.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Gold Fleet. Benini Floriani, Dún Laoghaire, Cinque, Charlotte Rose, Charlotte Rose Le, Campionato Mondiale ILCA, Dublino, Italia, Gold Fleet, Giornata, Chiara Benini Floriani, Fiamme Gialle, Alle.
 - Numeri/date utili da verificare: 6, 108, 44, 280, 20, 25, 24, 5, 7, 10.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

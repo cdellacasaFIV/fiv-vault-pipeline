@@ -6,6 +6,8 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 17 Novembre 2025 | INTENSA ATTIVITÀ PER LA DIREZIONE TECNICA ZONALE DELLA I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - INTENSA-ATTIVITA-PER-LA-DIREZIONE-TECNICA-ZONALE-DELLA-I-ZONA-FIV - wp5333|nota]] |
+| 17 Novembre 2025 | Napoli, la Coppa Knight a Raffica di Pasquale Orofino | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - Napoli-la-Coppa-Knight-a-Raffica-di-Pasquale-Orofino - wp5330|nota]] |
 | 17 Novembre 2025 | Argento per LNI Sulcis al primo Sardinia Team Race World Champ | III Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - Argento-per-LNI-Sulcis-al-primo-Sardinia-Team-Race-World-Champ - wp5326|nota]] |
 | 15 Novembre 2025 | E’ MANCATO ARMANDO (MARIO) PLATONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-15 - E-MANCATO-ARMANDO-MARIO-PLATONE - wp5322|nota]] |
 | 12 Novembre 2025 | Golfo di Napoli, in quaranta al via per il Campionato Invernale | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-12 - Golfo-di-Napoli-in-quaranta-al-via-per-il-Campionato-Invernale - wp5318|nota]] |
@@ -254,5 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 11 Agosto 2025 | Marsala ospita il primo raduno promozionale di Wing Foil in Sicilia: un successo per la nuova classe Foil | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Marsala-ospita-il-primo-raduno-promozionale-di-Wing-Foil-in-Sicilia-un-successo-per-la-nuova-classe-Foil - wp3882|nota]] |
 | 11 Agosto 2025 | Tris di medaglie al mondiale RS 500 di Follonica | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Tris-di-medaglie-al-mondiale-RS-500-di-Follonica - wp3878|nota]] |
 | 11 Agosto 2025 | Al via il Campionato Europeo ILCA 2025 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Al-via-il-Campionato-Europeo-ILCA-2025 - wp3874|nota]] |
-| 10 Agosto 2025 | Open Day Vela e Canottaggio: sul Lago di Santa Croce (BL) | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-10 - Open-Day-Vela-e-Canottaggio-sul-Lago-di-Santa-Croce-BL - wp3871|nota]] |
-| 9 Agosto 2025 | XIV Zona FIV: Successo per il Raduno Settore Altura | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - XIV-Zona-FIV-Successo-per-il-Raduno-Settore-Altura - wp3861|nota]] |

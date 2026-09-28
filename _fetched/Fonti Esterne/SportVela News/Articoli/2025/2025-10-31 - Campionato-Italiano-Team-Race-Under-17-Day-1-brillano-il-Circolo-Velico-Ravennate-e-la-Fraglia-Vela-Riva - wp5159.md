@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano Team Race, Under, Circolo Velico Ravennate, Fraglia Vela Riva Marina, Ravenna, Marina di Ravenna, Campionato Italiano, Federazione Italiana Vela. Disputata, RS Feva, Federvela, Capitaneria di Porto, Autorità di Sistema Portuale, Ufficiali di Regata, Comitato di Regata.
+- Nomi, circoli o luoghi da valutare: Campionato Italiano Team Race, Under, Circolo Velico Ravennate, Fraglia Vela Riva Marina, Ravenna, Marina di Ravenna, Federazione Italiana Vela. Disputata, RS Feva, Federvela, Capitaneria di Porto, Autorità di Sistema Portuale, Ufficiali di Regata, Comitato di Regata, Riccardo Incerti.
 - Numeri/date utili da verificare: 17, 1, 31, 2025, 2.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

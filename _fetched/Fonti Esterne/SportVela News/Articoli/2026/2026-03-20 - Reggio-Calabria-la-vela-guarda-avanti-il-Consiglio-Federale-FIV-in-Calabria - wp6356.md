@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Reggio Calabria, Consiglio Federale FIV, Calabria La, Consiglio Federale, Federazione Italiana, Federazione Italiana Vela, Francesco Ettorre, La Calabria, Molta, Consigliere, Centro, Fabio Colella, Allo, Calabria.
+- Nomi, circoli o luoghi da valutare: Reggio Calabria, Consiglio Federale FIV, Calabria La, Consiglio Federale, Federazione Italiana Vela, Francesco Ettorre, La Calabria, Molta, Consigliere, Centro, Fabio Colella, Allo, Calabria, L’impressione.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

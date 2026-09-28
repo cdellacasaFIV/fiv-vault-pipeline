@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: IL COMITATO, ZONA FIV LANCIA IL, CORSO AVANZATO SULLO SPINNAKER, Navigare, Zona, Federazione Italiana, Federazione Italiana Vela, Attività M.A.R.E. Spinnaker, Circolo Nautico Rapallo, L’iniziativa, ILCA, Andrea Boscolo, Referente A.C.A.D.E.M.Y. del Comitato, Zona FIV.
+- Nomi, circoli o luoghi da valutare: IL COMITATO, ZONA FIV LANCIA IL, CORSO AVANZATO SULLO SPINNAKER, Navigare, Zona, Federazione Italiana Vela, Attività M.A.R.E. Spinnaker, Circolo Nautico Rapallo, L’iniziativa, ILCA, Andrea Boscolo, Referente A.C.A.D.E.M.Y. del Comitato, Zona FIV, Questo.
 - Numeri/date utili da verificare: 20, 21, 22, 2026, 12, 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

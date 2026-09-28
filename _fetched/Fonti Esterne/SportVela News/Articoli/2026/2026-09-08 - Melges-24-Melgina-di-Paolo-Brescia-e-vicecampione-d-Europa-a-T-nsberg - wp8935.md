@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Melges, Melgina, Paolo Brescia, Europa, Tønsberg L’equipaggio, Europeo Melges, Norvegia. Quinto, L’equipaggio, Corinthian, Taki, Niccolò Bertola. Si, Campionato Europeo Melges, Tønsberg, Norvegia.
+- Nomi, circoli o luoghi da valutare: Melges, Melgina, Paolo Brescia, Europa, Tønsberg L’equipaggio, Europeo Melges, Norvegia. Quinto, Corinthian, Taki, Niccolò Bertola, L’equipaggio, Niccolò Bertola. Si, Campionato Europeo Melges, Tønsberg.
 - Numeri/date utili da verificare: 24, 5, 29, 4, 42 equipaggi, 12, 36.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

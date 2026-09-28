@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Al Liceo Basile, Cattedra Non, Liceo Scientifico, Liceo Scientifico Ernesto Basile, Palermo. Grazie, Vela Scuola FIV, L’iniziativa, Lega Navale Italiana, Palermo, Carmelo Forastieri, Campione, Forastieri, Andrea Calascibetta, Biologo.
+- Nomi, circoli o luoghi da valutare: Al Liceo Basile, Cattedra Non, Liceo Scientifico Ernesto Basile, Palermo. Grazie, Vela Scuola FIV, L’iniziativa, Lega Navale Italiana, Palermo, Carmelo Forastieri, Campione, Forastieri, Andrea Calascibetta, Biologo, Basile.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

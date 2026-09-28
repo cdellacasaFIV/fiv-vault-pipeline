@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, ILCA 4.
-- Nomi, circoli o luoghi da valutare: Campionato Zonale ILCA, Circolo, Vela Sicilia Levante, Levante, Vela Sicilia, Il Comitato di Regata, ILCA, Regate, Successo, Manfredi Burruano, CCRL, Lucrezia Micieli, CV Kaucana, Giulio Genna.
+- Nomi, circoli o luoghi da valutare: Campionato Zonale ILCA, Circolo, Vela Sicilia Levante, Vela Sicilia, Levante, Il Comitato di Regata, ILCA, Regate, Successo, Manfredi Burruano, CCRL, Lucrezia Micieli, CV Kaucana, Giulio Genna.
 - Numeri/date utili da verificare: 61, 61 atleti, 4, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

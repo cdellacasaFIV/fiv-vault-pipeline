@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: EUROSAF MATCH RACING EUROPEAN, CHAMPIONSHIP, MARINA DI RAVENNA VINCE, IL FRANCESE IAN GARRETA, ROCCO ATTILI SECONDO Dopo, Ian Garreta, EUROSAF Match, Dopo, Championship di Marina, Ravenna, Bedanne. E’, Circolo Velico Ravennate, EUROSAF e Federazione Italiana, Bando di Regata. Onore.
+- Nomi, circoli o luoghi da valutare: EUROSAF MATCH RACING EUROPEAN, CHAMPIONSHIP, MARINA DI RAVENNA VINCE, IL FRANCESE IAN GARRETA, ROCCO ATTILI SECONDO Dopo, Ian Garreta, Championship di Marina, Ravenna, Dopo, Bedanne. E’, Circolo Velico Ravennate, EUROSAF e Federazione Italiana, Bando di Regata. Onore, Comitato di Regate.
 - Numeri/date utili da verificare: 2024, 28.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

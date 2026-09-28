@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Mondiale OpenSkiff, Zona FIV, Calasetta Otto, Zona FIV Campania, Circolo Nautico Posillipo, Otto, Campionato del Mondo OpenSkiff, Calasetta, Sardegna. Sono, Under, Anna Ruggiero, Matilde Paino, Gianmaria Iannuzzi, Raffaele Guadagno.
+- Nomi, circoli o luoghi da valutare: Mondiale OpenSkiff, Zona FIV, Calasetta Otto, Zona FIV Campania, Circolo Nautico Posillipo, Campionato del Mondo OpenSkiff, Otto, Calasetta, Sardegna. Sono, Under, Anna Ruggiero, Matilde Paino, Gianmaria Iannuzzi, Raffaele Guadagno.
 - Numeri/date utili da verificare: 2026, 13, 17, 166, 7, 10, 31.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

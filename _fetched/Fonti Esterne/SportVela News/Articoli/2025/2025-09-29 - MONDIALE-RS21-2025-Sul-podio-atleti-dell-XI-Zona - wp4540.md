@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, 470, RS21.
-- Nomi, circoli o luoghi da valutare: MONDIALE RS, XI Zona BRONZO PER, GIACOMO MUSONE, MARCO FRANCHINI.SOFIA GIONDI CON, Magique, Terrible Sailing Team SONO, BRONZO PER GIACOMO MUSONE, MARCO FRANCHINI. SOFIA GIONDI, CON Magique, CAMPIONESSE NELLA CATEGORIA WOMEN., Porto Rotondo, Sardegna, Andrea Musone, Ivaldi.
+- Nomi, circoli o luoghi da valutare: MONDIALE RS, XI Zona BRONZO PER, GIACOMO MUSONE, MARCO FRANCHINI.SOFIA GIONDI CON, Magique, Terrible Sailing Team SONO, CAMPIONESSE NELLA CATEGORIA WOMEN., Porto Rotondo, BRONZO PER GIACOMO MUSONE, MARCO FRANCHINI. SOFIA GIONDI, CON Magique, Sardegna, Andrea Musone, Ivaldi.
 - Numeri/date utili da verificare: 2025, 28, 470, 2000, 239, 30, 5, 7.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

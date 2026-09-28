@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Palermo, Federazione Italiana, Federazione Italiana Vela, Sede, CV Sferracavallo, Ernesto Martinez, Emanuele Sosio, Walter Lo Giudice, Fabio Aiovalasit, Beppe Tisci, Elisabetta Vassallo.
+- Nomi, circoli o luoghi da valutare: Palermo, Federazione Italiana Vela, Sede, CV Sferracavallo, Ernesto Martinez, Emanuele Sosio, Walter Lo Giudice, Fabio Aiovalasit, Beppe Tisci, Elisabetta Vassallo.
 - Numeri/date utili da verificare: nessun numero isolato automaticamente.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

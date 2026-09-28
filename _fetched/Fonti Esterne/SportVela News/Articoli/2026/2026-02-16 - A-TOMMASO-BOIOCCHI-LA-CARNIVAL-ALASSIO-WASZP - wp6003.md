@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: Waszp.
-- Nomi, circoli o luoghi da valutare: TOMMASO BOIOCCHI LA CARNIVAL, ALASSIO WASZP, Tommaso Boiocchi, Velico Orza, Carnival Alassio WASZP, WASZP. Boiocchi, Giulio Siracusa, Martino Zambelli. Il, Orza, Nord Italia, Dervio, Lago di Como, Monza, Porto Pollo.
+- Nomi, circoli o luoghi da valutare: TOMMASO BOIOCCHI LA CARNIVAL, ALASSIO WASZP, Tommaso Boiocchi, Velico Orza, Carnival Alassio, Carnival Alassio WASZP, WASZP. Boiocchi, Giulio Siracusa, Martino Zambelli. Il, Orza, Nord Italia, Dervio, Lago di Como, Monza.
 - Numeri/date utili da verificare: 15.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

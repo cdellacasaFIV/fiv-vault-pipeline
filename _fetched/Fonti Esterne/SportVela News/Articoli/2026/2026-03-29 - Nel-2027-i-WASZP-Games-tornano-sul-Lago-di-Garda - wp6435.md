@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: giovanile, media/storytelling.
 - Angoli editoriali: sviluppo giovanile e vivaio.
 - Classi/discipline citate: Waszp.
-- Nomi, circoli o luoghi da valutare: WASZP Games, Lago di Garda La, Federazione Italiana Vela, Classe WASZP, La Federazione Italiana Vela, Lago di Garda, Previsti, WASZP, Per WASZP, Sempre, Risultato, Classe Italiana WASZP, La FIV, Progetti.
+- Nomi, circoli o luoghi da valutare: WASZP Games, Lago di Garda La, Federazione Italiana Vela, Classe WASZP, Lago di Garda, La Federazione Italiana Vela, Previsti, WASZP, Per WASZP, Sempre, Risultato, Classe Italiana WASZP, La FIV, Progetti.
 - Numeri/date utili da verificare: 2027, 300, 2017, 2015, 1927.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

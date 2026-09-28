@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Navigare Insieme, Italia, Ravenna, Inizia, Circolo Velico Ravennate, Navigare, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Hansa, Comitato XI Zona, Marinando APS ASD, Alle, Fabio Colella.
+- Nomi, circoli o luoghi da valutare: Navigare Insieme, Italia, Ravenna, Inizia, Circolo Velico Ravennate, Federazione, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Hansa, Comitato XI Zona, Marinando APS ASD, Alle, Fabio Colella.
 - Numeri/date utili da verificare: 11, 10, 303, 12.00, 2.0, 2005, 44, 1.500.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

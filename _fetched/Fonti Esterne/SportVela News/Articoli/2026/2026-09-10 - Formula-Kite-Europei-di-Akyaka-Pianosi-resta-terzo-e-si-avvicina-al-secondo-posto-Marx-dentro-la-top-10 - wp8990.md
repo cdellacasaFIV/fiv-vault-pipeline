@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Formula Kite.
-- Nomi, circoli o luoghi da valutare: Formula Kite, Europei di Akyaka, Pianosi, Marx, Primo, In Gold, In Gold Fleet, Riccardo Pianosi, Gruppo Sportivo Marina Militare, Flavio Marx, Gold. Giornata, Ad Akyaka, Campionati Europei di Formula, Kite.
+- Nomi, circoli o luoghi da valutare: Formula Kite, Europei di Akyaka, Pianosi, Marx, Primo, In Gold Fleet, Riccardo Pianosi, Gruppo Sportivo Marina, Gruppo Sportivo Marina Militare, Flavio Marx, Gold. Giornata, Ad Akyaka, Campionati Europei di Formula, Kite.
 - Numeri/date utili da verificare: 10, 12, 18, 3, 1, 2, 4, 8, 5, 22.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

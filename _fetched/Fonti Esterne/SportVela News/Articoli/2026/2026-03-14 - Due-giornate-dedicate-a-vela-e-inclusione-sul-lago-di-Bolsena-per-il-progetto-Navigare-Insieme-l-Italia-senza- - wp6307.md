@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Para Sailing.
-- Nomi, circoli o luoghi da valutare: Bolsena, Navigare Insieme, Italia, Barriere Dal, Club Nautico Capodimonte, Navigare, Barriere, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Alessandra Franchi e Gianluca, Raggi, Team Nazionale Para Sailing, Alessandra.
+- Nomi, circoli o luoghi da valutare: Bolsena, Navigare Insieme, Italia, Barriere Dal, Club Nautico Capodimonte, Barriere. Il, Barriere, Federazione Italiana Vela, UniCredit, Fondo Carta Etica, Alessandra Franchi e Gianluca, Raggi, Team Nazionale Para Sailing, Alessandra.
 - Numeri/date utili da verificare: 19, 21, 18.00.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

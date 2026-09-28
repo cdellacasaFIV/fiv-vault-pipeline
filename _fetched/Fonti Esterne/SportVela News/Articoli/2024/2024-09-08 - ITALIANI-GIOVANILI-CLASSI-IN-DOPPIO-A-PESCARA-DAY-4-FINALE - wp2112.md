@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Nacra 15, 420.
-- Nomi, circoli o luoghi da valutare: ITALIANI GIOVANILI CLASSI IN, DOPPIO, PESCARA, FINALE Gran, Campionati Italiani Giovanili, Finale, Scirocco Quattro, RSFeva, Nacra, Hobie Cat, Spi e Hobie Dragoon., Assegnati, Alla, Presidente FIV Francesco Ettorre.
+- Nomi, circoli o luoghi da valutare: ITALIANI GIOVANILI CLASSI IN, DOPPIO, PESCARA, FINALE Gran, Campionati Italiani Giovanili, Regata FIV, Finale, Scirocco Quattro, RSFeva, Nacra, Hobie Cat, Spi e Hobie Dragoon., Assegnati, Alla.
 - Numeri/date utili da verificare: 4, 15, 20, 16, 420, 11 titoli, 2018, 12, 13, 100.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

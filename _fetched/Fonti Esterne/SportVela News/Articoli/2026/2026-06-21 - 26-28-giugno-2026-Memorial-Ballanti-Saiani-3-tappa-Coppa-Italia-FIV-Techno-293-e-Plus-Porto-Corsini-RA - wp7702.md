@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL, Techno 293.
-- Nomi, circoli o luoghi da valutare: Memorial Ballanti-Saiani, Coppa Italia FIV Techno, Plus, Porto Corsini, L’Adriatico Wind Club Ravenna, Coppa Italia Techno, Techno, Lorenza Ballanti e Dalia, Saiani Dal, Adriatico Wind Club, Coppa Italia FIV, Ravenna, Italia. Saranno, Saiani.
+- Nomi, circoli o luoghi da valutare: Memorial Ballanti-Saiani, Coppa Italia FIV Techno, Plus, Porto Corsini, L’Adriatico Wind Club Ravenna, Coppa Italia Techno, Techno, Lorenza Ballanti e Dalia, Saiani, Saiani Dal, Adriatico Wind Club, Coppa Italia FIV, Ravenna, Italia. Saranno.
 - Numeri/date utili da verificare: 26, 28, 2026, 3, 293, 40 anni.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

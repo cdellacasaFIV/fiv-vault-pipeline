@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: Franchi, Inclusive One Person World, Championship Women, Italia, Mussanah Finale, World Sailing Inclusion Championships, Mussanah, Finale, Alessandra Franchi, Inclusive One Person Championship, Women, Hansa, Davide Di Maria, Raggi.
+- Nomi, circoli o luoghi da valutare: Franchi, Inclusive One Person World, Championship Women, Italia, Mussanah Finale, World Sailing Inclusion Championships, Mussanah, Alessandra Franchi, Inclusive One, Finale, Inclusive One Person Championship, Women, Hansa, Davide Di Maria.
 - Numeri/date utili da verificare: 2025, 303.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

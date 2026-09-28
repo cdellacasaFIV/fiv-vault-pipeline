@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Anemos II, Cinque Fari. Caccia, Palermo. La Regata, Cinque, Cinque Fari, Ustica, Farr, Marco Bono, Palermo, Tommaso Chieffi e Mauro, Pelaschier. Quest’ultimo, Ustica. L’obiettivo, Per Palermo, Resta.
+- Nomi, circoli o luoghi da valutare: Anemos II, Cinque Fari. Caccia, Palermo. La Regata, Cinque Fari, Ustica, Farr, Marco Bono, Palermo, Tommaso Chieffi e Mauro, Pelaschier. Quest’ultimo, Ustica. L’obiettivo, Per Palermo, Resta, Porcelli. La.
 - Numeri/date utili da verificare: 22, 80.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

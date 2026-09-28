@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Gaeta, Navigare, Italia, Navigare Insieme, Federazione, Federazione Italiana Vela, UniCredit, Fondo Carta Etica. Dal, Yacht Club Gaeta, Hansa, Ieri, Durante, Fabio Colella, Delegato Attività Para Sailing.
+- Nomi, circoli o luoghi da valutare: Gaeta, Navigare, Italia, Navigare Insieme, Federazione Italiana Vela, UniCredit, Fondo Carta Etica. Dal, Yacht Club Gaeta, Hansa, Ieri, Durante, Fabio Colella, Delegato Attività Para Sailing, Luca Rosati.
 - Numeri/date utili da verificare: 25, 27, 303, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

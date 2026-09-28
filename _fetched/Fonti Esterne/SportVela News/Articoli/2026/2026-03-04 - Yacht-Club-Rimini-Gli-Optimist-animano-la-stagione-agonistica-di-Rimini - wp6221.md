@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Yacht Club Rimini. Gli, Optimist, Rimini. Rimini, Regata Zonale ILCA, Rimini, Yacht Club Rimini, Zonale, Optmist. Appuntamento, Nonostante, Juniores e, Cadetti, Leon Rollini del Centro, Velico Punta Marina, Elettra Valieri del Circolo.
+- Nomi, circoli o luoghi da valutare: Yacht Club Rimini. Gli, Optimist, Rimini. Rimini, Regata Zonale ILCA, Yacht Club, Rimini, Yacht Club Rimini, Zonale, Optmist. Appuntamento, Nonostante, Juniores e, Cadetti, Leon Rollini del Centro, Velico Punta Marina.
 - Numeri/date utili da verificare: 4, 2026, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

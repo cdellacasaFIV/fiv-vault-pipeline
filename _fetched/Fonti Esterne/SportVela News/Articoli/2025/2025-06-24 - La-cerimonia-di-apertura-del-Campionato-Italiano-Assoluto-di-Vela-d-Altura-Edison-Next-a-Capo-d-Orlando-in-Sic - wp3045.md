@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano Assoluto, Altura Edison Next, Capo, Orlando, Sicilia Iniziati, Marina di Capo, Campionati, Iniziati, Campionati Italiani Assoluti, FIVillage, Eolie, Sono, Giovanni Brianza, CEO di Edison Next.
+- Nomi, circoli o luoghi da valutare: Campionato Italiano Assoluto, Altura Edison Next, Capo, Orlando, Sicilia Iniziati, Marina di Capo, Campionati Italiani Assoluti, Iniziati, FIVillage, Eolie, Sono, Giovanni Brianza, CEO di Edison Next, Gruppo Edison.
 - Numeri/date utili da verificare: 2025, 25, 28, 33, 12, 0, 1, 30 giorni, 2, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

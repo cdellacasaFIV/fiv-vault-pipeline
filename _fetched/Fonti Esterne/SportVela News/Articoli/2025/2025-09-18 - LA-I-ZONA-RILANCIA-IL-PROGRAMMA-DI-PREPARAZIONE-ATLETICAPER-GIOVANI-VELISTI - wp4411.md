@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: ZONA RILANCIA IL PROGRAMMA, DI PREPARAZIONE ATLETICAPER GIOVANI, VELISTI LA, VELISTI, La Direzione, DI PREPARAZIONE ATLETICA PER, GIOVAN, La Direzione Tecnica Zonale, Comitato, Zona, Federazione Italiana Vela, Professor Claudio Scotton. Parallelamente, Direttore Tecnico Zonale Marco, Iazzetta e.
+- Nomi, circoli o luoghi da valutare: ZONA RILANCIA IL PROGRAMMA, DI PREPARAZIONE ATLETICAPER GIOVANI, VELISTI LA, VELISTI, La Direzione Tecnica Zonale, Comitato, Zona, DI PREPARAZIONE ATLETICA PER, GIOVAN, Federazione Italiana Vela, Professor Claudio Scotton. Parallelamente, Direttore Tecnico Zonale Marco, Iazzetta e, A.C.A.D.E.M.Y. Andrea Boscolo.
 - Numeri/date utili da verificare: 18, 11, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

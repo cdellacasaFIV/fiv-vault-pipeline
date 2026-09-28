@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: L’ESTATE DELL’INFINITO DIEGO NEGRI, TRA IL REGNO UNITO, L’OLANDA, Diego Negri, Edimburgh, Edimburgh Cup. Nemmeno, Mondiale Star, Olanda, Tutte, Liguria Sport, Video, Simone Fargnoli.
+- Nomi, circoli o luoghi da valutare: L’ESTATE DELL’INFINITO DIEGO NEGRI, TRA IL REGNO UNITO, L’OLANDA, Diego Negri, Edimburgh Cup. Nemmeno, Mondiale Star, Olanda, Tutte, Liguria Sport, Video, Simone Fargnoli.
 - Numeri/date utili da verificare: 25, 2026, 08.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

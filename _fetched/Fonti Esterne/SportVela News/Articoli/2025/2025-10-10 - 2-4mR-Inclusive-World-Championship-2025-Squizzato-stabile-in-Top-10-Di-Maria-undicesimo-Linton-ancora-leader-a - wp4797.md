@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Inclusive World Championship, Squizzato, Di Maria, Linton, Malcesine Seconda, Seconda, Garda, Jeffrey Linton, Dietro, Megan Pascoe, Frank Huth, Open. Ottima, Antonio Squizzato, Società Canottieri Garda Salò.
+- Nomi, circoli o luoghi da valutare: Inclusive World Championship, Squizzato, Di Maria, Linton, Malcesine Seconda, Garda, Seconda, Jeffrey Linton, Dietro, Megan Pascoe, Frank Huth, Open. Ottima, Antonio Squizzato, Società Canottieri Garda Salò.
 - Numeri/date utili da verificare: 2, 2025, 10, 9, 17, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

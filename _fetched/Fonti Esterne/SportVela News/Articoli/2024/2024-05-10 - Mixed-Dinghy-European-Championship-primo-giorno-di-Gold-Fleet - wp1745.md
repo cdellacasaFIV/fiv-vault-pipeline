@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 470.
-- Nomi, circoli o luoghi da valutare: Mixed Dinghy European Championship, Gold Fleet Quarto, Campionato Europeo Mixed Dinghy, Yacht Club de Cannes, Quarto, Yacht Club de Cannes., L’evento, Giochi Olimpici di Parigi, Giornata, Gold Fleet, Silver Fleet, Classifica, Xammar-Brugman, Lecointre-Mion. Al.
+- Nomi, circoli o luoghi da valutare: Mixed Dinghy European Championship, Gold Fleet Quarto, Campionato Europeo Mixed Dinghy, Yacht Club de Cannes., L’evento, Quarto, Giochi Olimpici di Parigi, Giornata, Gold Fleet, Silver Fleet, Classifica, Xammar-Brugman, Lecointre-Mion. Al, Wrigley-Harris.
 - Numeri/date utili da verificare: 470, 12, 2024, 80 giorni.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

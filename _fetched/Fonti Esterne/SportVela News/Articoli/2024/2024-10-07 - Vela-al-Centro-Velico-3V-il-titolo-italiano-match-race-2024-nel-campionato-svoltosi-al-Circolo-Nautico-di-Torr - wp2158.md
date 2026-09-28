@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Centro Velico, Circolo Nautico di Torre, Greco Il, Italia, Greco, Rocco Attili, Gianluca Perasole, Circolo Nautico Torre, Giulio Tamburini e Mattia, Panigoni. Le, Il Centro Velico, Circolo Velico Ravennate, Luca Valentino, Andrea Abruzzese.
+- Nomi, circoli o luoghi da valutare: Centro Velico, Circolo Nautico di Torre, Greco Il, Italia, Circolo Nautico, Greco, Rocco Attili, Gianluca Perasole, Circolo Nautico Torre, Giulio Tamburini e Mattia, Panigoni. Le, Il Centro Velico, Circolo Velico Ravennate, Luca Valentino.
 - Numeri/date utili da verificare: 2024, 4, 6, 23, 3, 1.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

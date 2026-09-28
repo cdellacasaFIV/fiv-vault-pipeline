@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Benini Floriani, Mattivi, Dún Laoghaire, Gold Fleet, Gold Fleet. Emma Mattivi, Emma Plasschaert Il Campionato, Gold Fleet., Emma Mattivi, Fiamme Gialle, Chiara Benini Floriani, Dopo, Continua, Matilda Talluri.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Benini Floriani, Mattivi, Dún Laoghaire, Gold Fleet. Emma Mattivi, Emma Plasschaert Il Campionato, Gold Fleet., Emma Mattivi, Fiamme Gialle, Chiara Benini Floriani, Dopo, Continua, Matilda Talluri, Circolo Nautico Livorno.
 - Numeri/date utili da verificare: 6, 10, 280, 4, 44, 41, 68, 20, 9, 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

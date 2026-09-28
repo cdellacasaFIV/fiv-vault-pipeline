@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa, Para Sailing.
-- Nomi, circoli o luoghi da valutare: Trieste, Navigare, Italia, Prosegue, Navigare Insieme, Federazione Italiana, Federazione Italiana Vela, UniCredit, Fondo Carta Etica. La, Barcolana, Durante, Hansa, Oltre, Triestina.
+- Nomi, circoli o luoghi da valutare: Trieste, Navigare, Italia, Prosegue, Navigare Insieme, Federazione Italiana Vela, UniCredit, Fondo Carta Etica. La, Barcolana, Durante, Hansa, Oltre, Triestina, Pontile Istria.
 - Numeri/date utili da verificare: 6, 7, 303, 8, 45, 2025.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Nacra 15, ILCA 6, IQFOiL, iQFOiL, Formula Kite, 420.
-- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Vilamoura La Federazione Italiana, Italia, Youth Sailing World, La Federazione Italiana Vela, Vilamoura, Portogallo, Il Mondiale Giovanile, World Sailing, Ogni, La Direzione Tecnica Giovanile, Come, DT Giovanile Alessandra Sensini, Abbiamo.
+- Nomi, circoli o luoghi da valutare: Youth Sailing World Championships, Vilamoura La Federazione Italiana, Italia, Vilamoura, Portogallo, La Federazione Italiana Vela, Il Mondiale Giovanile, World Sailing, Ogni, La Direzione Tecnica Giovanile, Come, DT Giovanile Alessandra Sensini, Abbiamo, MIONI MATTEO.
 - Numeri/date utili da verificare: 2025, 12, 20, 17 anni, 13 giorni, 420, 15, 6, 19, 9.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6.
-- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dún Laoghaire Chiara Benini, Floriani, Dún Laoghaire, Charlotte Rose, Emma Plasschaert, Dublino, Campionato Mondiale ILCA, Chiara Benini Floriani, Fiamme Gialle, Alle, Emma Mattivi, Ginevra Caracciolo di Brienza, Matilda Talluri.
+- Nomi, circoli o luoghi da valutare: Mondiale ILCA, Dún Laoghaire Chiara Benini, Floriani, Dún Laoghaire, Charlotte Rose, Emma, Emma Plasschaert, Dublino, Campionato Mondiale ILCA, Chiara Benini Floriani, Fiamme Gialle, Alle, Emma Mattivi, Ginevra Caracciolo di Brienza.
 - Numeri/date utili da verificare: 6, 10, 20, 108, 44, 230, 13, 3, 12.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

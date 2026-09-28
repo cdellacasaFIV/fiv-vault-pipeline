@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA IN, ZONA, E’ TEMPO DI BILANCI, DI PROGETTARE IL, Hansa, Lega Navale di Chiavari, Lavagna. Si, LNI Genova Sestri Ponente, Campionato Italiano Classi Olimpiche, LNI Varazze, LNI Chiavari e Lavagna., Questo, Vela Paralimpica, Tutte.
+- Nomi, circoli o luoghi da valutare: VELA PARALIMPICA IN, ZONA, E’ TEMPO DI BILANCI, DI PROGETTARE IL, Hansa, Lega Navale, Lega Navale di Chiavari, Lavagna. Si, LNI Genova Sestri Ponente, Campionato Italiano Classi Olimpiche, LNI Varazze, LNI Chiavari e Lavagna., Questo, Vela Paralimpica.
 - Numeri/date utili da verificare: 2026, 15, 303, 5, 20 anni, 18, 3, 4, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

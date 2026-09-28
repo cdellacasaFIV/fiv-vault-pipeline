@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: INVERNALE DEL TIGULLIO, SABATO SCATTA LA, MANCHE CON, BARCHE, Campionato Invernale, Campionato Invernale del Tigullio., Comitato Circoli Velici Tigullio, Tigullio, Race, Dopo, Invernale, Comitato Organizzatore, Franco Noceti, Spirit.
+- Nomi, circoli o luoghi da valutare: INVERNALE DEL TIGULLIO, SABATO SCATTA LA, MANCHE CON, BARCHE, Campionato Invernale del Tigullio., Comitato Circoli Velici Tigullio, Tigullio, Race, Dopo, Invernale, Comitato Organizzatore, Franco Noceti, Spirit, Nerina.
 - Numeri/date utili da verificare: 50, 30, 14, 2026, 01.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

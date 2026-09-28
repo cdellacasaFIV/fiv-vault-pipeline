@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Europeo RS Feva, Riva del Garda Riva, Garda, Garda Trentino, Europeo, Riva del Garda, Circolo Vela Riva, Oliver Brestovsky, L’Italia, Giulio Mattanini e Leonardo, Scarpellini, Edoardo Bastini e Samuele, Bardelli, Junior.
+- Nomi, circoli o luoghi da valutare: Europeo RS Feva, Riva del Garda Riva, Garda, Garda Trentino, Circolo Vela, Riva del Garda, Circolo Vela Riva, Oliver Brestovsky, L’Italia, Europeo, Giulio Mattanini e Leonardo, Scarpellini, Edoardo Bastini e Samuele, Bardelli.
 - Numeri/date utili da verificare: 4, 2025, 1, 104 equipaggi.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

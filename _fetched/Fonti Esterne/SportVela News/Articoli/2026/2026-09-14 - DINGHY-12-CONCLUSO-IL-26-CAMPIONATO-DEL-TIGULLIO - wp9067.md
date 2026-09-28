@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Dinghy 12.
-- Nomi, circoli o luoghi da valutare: DINGHY, CONCLUSO IL, CAMPIONATO DEL TIGULLIO Vince, Filippo Jannello, Marcello De Gaspari, Federico Pilo PaisA Vinz, Penagini, Vince Filippo Jannello, Federico Pilo Pais, Vinz Penagini, Trofeo Renato Lombardi, Gin Gazzolo e Paolo, Cappa, Coppa Pinne.
+- Nomi, circoli o luoghi da valutare: DINGHY, CONCLUSO IL, CAMPIONATO DEL TIGULLIO Vince, Filippo Jannello, Marcello De Gaspari, Federico Pilo PaisA Vinz, Penagini, Trofeo Renato LombardiA Gin, Gazzolo e Paolo, Vince Filippo Jannello, Federico Pilo Pais, Vinz Penagini, Trofeo Renato Lombardi, Gin Gazzolo e Paolo.
 - Numeri/date utili da verificare: 12, 26, 14, 38, 9, 18, 4, 7, 10, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

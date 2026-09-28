@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli, media/storytelling.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: SARA VALENTE, NEL SEGNO DEL TRICOLORE, Sara Valente e Alessio, Cindolo, Yacht Club Italiano, Sara Valent e, Alessio Cindolo, Yacht Club Italian, Tutte, Liguria Spor, Video, Simone Fargnoli, Liguria Sport.
+- Nomi, circoli o luoghi da valutare: SARA VALENTE, NEL SEGNO DEL TRICOLORE, Sara Valente e Alessio, Cindolo, Yacht Club Italiano, Sara, Sara Valent e, Alessio Cindolo, Yacht Club Italian, Tutte, Liguria Spor, Video, Simone Fargnoli, Liguria Sport.
 - Numeri/date utili da verificare: 2025, 10, 420.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

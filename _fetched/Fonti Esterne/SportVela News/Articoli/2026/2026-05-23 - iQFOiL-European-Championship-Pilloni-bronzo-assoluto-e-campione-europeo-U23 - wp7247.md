@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: IQFOiL, iQFOiL.
-- Nomi, circoli o luoghi da valutare: European Championship, Pilloni, Yacht Club Costa Smeralda, Medal Series di Portimão, Medal Series di Portimão., Van Opzeeland e Steinberg, Portimão. Federico Pilloni, Under, Medal Series, Open, Luuc, Opzeeland, Johan Søe., Conquistare.
+- Nomi, circoli o luoghi da valutare: European Championship, Pilloni, Yacht Club Costa Smeralda, Medal Series di Portimão., Van Opzeeland e Steinberg, Portimão. Federico Pilloni, Under, Medal Series, Open, Luuc, Opzeeland, Johan Søe., Conquistare, Campionato Europeo Senior.
 - Numeri/date utili da verificare: 2026, 23.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

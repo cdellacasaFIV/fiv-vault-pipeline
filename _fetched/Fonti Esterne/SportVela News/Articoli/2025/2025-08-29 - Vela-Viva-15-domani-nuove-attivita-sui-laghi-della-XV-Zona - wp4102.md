@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: zone/circoli.
 - Angoli editoriali: territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Vela Viva, XV Zona Dopo, Lago di Ceresio, Dopo, Domani, XV Zona FIV, SICS, Circolo Velico Ceresio, Sul Lago di Viverone, Circolo AVNO, Circolo Nautico Torino, Il Lago, Orta, Imolo.
+- Nomi, circoli o luoghi da valutare: Vela Viva, XV Zona Dopo, Lago di Ceresio, Domani, Dopo, XV Zona FIV, SICS, Circolo Velico Ceresio, Sul Lago di Viverone, Circolo AVNO, Circolo Nautico Torino, Il Lago, Orta, Imolo.
 - Numeri/date utili da verificare: 15, 30, 23, 12, 29, 08, 10, 00, 11, 13.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

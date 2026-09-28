@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, para/inclusione, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale.
 - Classi/discipline citate: 420.
-- Nomi, circoli o luoghi da valutare: Izmir, Campionato del Mondo, GIUGNO, Prende, Campionato, TURCHIA. L’evento, Leonardo Zaggia, Federazione Italiana Vela. La, Practice Race e, Calendario, Registrazione, Practice Race, Cerimonia, Qualificazioni.
+- Nomi, circoli o luoghi da valutare: Izmir, Campionato del Mondo, GIUGNO, Prende, TURCHIA. L’evento, Leonardo Zaggia, Federazione Italiana Vela. La, Practice Race e, Calendario, Registrazione, Practice Race, Cerimonia, Qualificazioni, Finali.
 - Numeri/date utili da verificare: 420, 30, 2025, 1, 9, 4, 3, 2, 5, 6.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

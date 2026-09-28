@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 49er, ILCA 7, 420, 470.
-- Nomi, circoli o luoghi da valutare: IMPERIA WINTER REGATTA, L’EVENTO, GIOVANE’ TORNA, INIZIO DICEMBRE, Yacht Club Imperia, Imperia Winter, Femminile, Mixed, L’elenco, ILCA, Calata Anselmi, Marina di Imperia, Europa Cup ILCA, Biagio Parlatore.
+- Nomi, circoli o luoghi da valutare: IMPERIA WINTER REGATTA, L’EVENTO, GIOVANE’ TORNA, INIZIO DICEMBRE, Yacht Club Imperia, Femminile, Mixed, L’elenco, ILCA, Calata Anselmi, Marina di Imperia, Europa Cup ILCA, Biagio Parlatore, Alessandro Oddone. Grazie.
 - Numeri/date utili da verificare: 2025, 1, 420, 470, 5, 8, 7, 9.30.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

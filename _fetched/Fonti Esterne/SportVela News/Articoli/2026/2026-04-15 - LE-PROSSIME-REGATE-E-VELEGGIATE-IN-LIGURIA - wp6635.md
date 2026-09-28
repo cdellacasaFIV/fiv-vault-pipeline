@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: para/inclusione, zone/circoli.
 - Angoli editoriali: inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: J70, Hansa.
-- Nomi, circoli o luoghi da valutare: LE PROSSIME REGATE, VELEGGIATE IN LIGURIA, Sanremo, International Italian Dragon Cup, Italian Open, Italian Open Championshipper, Dragone, YC Sanremo, Genova, The Gentlemen Challengeper, YC Italiano, Chiavari, Trofeo Boletto, Regata dei Due Parchi.
+- Nomi, circoli o luoghi da valutare: LE PROSSIME REGATE, VELEGGIATE IN LIGURIA, Sanremo, International Italian Dragon Cup, Italian Open Championshipper, Dragone, YC Sanremo, Genova, The Gentlemen Challengeper, YC Italiano, Chiavari, Trofeo Boletto, Regata dei Due Parchi, Libera.
 - Numeri/date utili da verificare: 15, 18, 17, 19, 1973, 303, 2026, 24.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

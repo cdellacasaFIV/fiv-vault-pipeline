@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Giovani, Foil Academy, Cup di Malcesine Malcesine, La Federazione Italiana Vela, Malcesine, Cup di Malcesine, Foil Academy Team, Foil Academy. L’obiettivo, Federazione, Il Foil Academy Team, Zeno Marchesini Federico Bergamasco, Emma Mattivi Giovanni Santi, Joseph Culicchia, Tecnico Federale Leonardo Zaggia.
+- Nomi, circoli o luoghi da valutare: Giovani, Foil Academy, Cup di Malcesine Malcesine, La Federazione Italiana Vela, Cup di Malcesine, Malcesine, Foil Academy Team, Foil Academy. L’obiettivo, Federazione, Il Foil Academy Team, Zeno Marchesini Federico Bergamasco, Emma Mattivi Giovanni Santi, Joseph Culicchia, Tecnico Federale Leonardo Zaggia.
 - Numeri/date utili da verificare: 6, 2025, 3.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

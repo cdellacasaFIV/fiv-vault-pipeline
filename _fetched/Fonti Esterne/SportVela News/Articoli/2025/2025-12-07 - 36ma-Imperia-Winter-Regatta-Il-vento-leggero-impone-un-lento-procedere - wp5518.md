@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: 420, 470.
-- Nomi, circoli o luoghi da valutare: Imperia Winter Regatta, Mario Lupinelli e Roberto, Goinavi, Certo, OK Corrall, Lisa Vucetti e Vittorio, Bonifacio, Società Velica Barcola, Grignano, Sarah Jannin e Iban, Cornic, ASN Perros-Guirec, Emma Maltese e Marcello, Miliardi.
+- Nomi, circoli o luoghi da valutare: Imperia Winter Regatta, Mario Lupinelli, Mario Lupinelli e Roberto, Goinavi, Certo, OK Corrall, Lisa Vucetti e Vittorio, Bonifacio, Società Velica Barcola, Grignano, Sarah Jannin e Iban, Cornic, ASN Perros-Guirec, Emma Maltese e Marcello.
 - Numeri/date utili da verificare: 6, 2025, 420, 470.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

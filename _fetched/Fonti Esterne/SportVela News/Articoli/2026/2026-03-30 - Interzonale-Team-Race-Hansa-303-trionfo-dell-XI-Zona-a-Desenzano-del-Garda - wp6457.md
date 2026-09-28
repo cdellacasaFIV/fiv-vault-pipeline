@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: Hansa.
-- Nomi, circoli o luoghi da valutare: Interzonale Team Race Hansa, XI Zona, Desenzano del Garda Si, Desenzano del Garda, Lega Navale Italiana, Sezione Brescia Desenzano, Interzonale Team Race Classe, Hansa, Zone FIV XI, XIII e XIV. Tre, Hansa. Avvio, L’apertura, Comitato di Regata, Team Race.
+- Nomi, circoli o luoghi da valutare: Interzonale Team Race Hansa, XI Zona, Desenzano del Garda Si, Desenzano del Garda, Lega Navale Italiana, Sezione Brescia Desenzano, Interzonale Team, Interzonale Team Race Classe, Hansa, Zone FIV XI, XIII e XIV. Tre, Hansa. Avvio, L’apertura, Comitato di Regata.
 - Numeri/date utili da verificare: 303, 27, 20, 28, 4, 6, 7, 9, 12, 29.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

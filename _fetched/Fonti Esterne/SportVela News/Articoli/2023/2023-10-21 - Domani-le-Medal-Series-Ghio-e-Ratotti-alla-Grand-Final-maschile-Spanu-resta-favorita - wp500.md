@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, territori, circoli e zone.
 - Classi/discipline citate: WingFoil.
-- Nomi, circoli o luoghi da valutare: Domani, Medal Series, Ghio e Ratotti, Grand Final, Spanu, Gold Fleet, Cappuzzo, Cappuzzo e Armit, Nicolò Spanu, Maddalena Spanu, Sono Mathis Ghio, Julien Ratotti, Sardinia Sailing Cup, Coppa del Mondo.
+- Nomi, circoli o luoghi da valutare: Domani, Medal Series, Ghio e Ratotti, Grand Final, Spanu, Gold Fleet, Cappuzzo e Armit, Nicolò Spanu, Maddalena Spanu, Sono Mathis Ghio, Julien Ratotti, Sardinia Sailing Cup, Coppa del Mondo, Wingfoil Racing.
 - Numeri/date utili da verificare: 22, 10, 13, 14, 2, 1, 12, 00, 16, 17.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

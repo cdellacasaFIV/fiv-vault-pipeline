@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, giovanile, zone/circoli.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
 - Classi/discipline citate: Dinghy 12.
-- Nomi, circoli o luoghi da valutare: TROFEO SIAD, BOMBOLA D’ORO, IL DINGHY, PROTAGONISTA NEL TIGULLIO, Golfo del Tigullio, Trofeo, Bombola, Coppa Roberto Sestini, Dinghy, Tra Portofino, Santa Margherita Ligure, Rapallo, Italia, Montecarlo.
+- Nomi, circoli o luoghi da valutare: TROFEO SIAD, BOMBOLA D’ORO, IL DINGHY, PROTAGONISTA NEL TIGULLIO, Golfo del Tigullio, Bombola, Coppa Roberto, Coppa Roberto Sestini, Dinghy, Tra Portofino, Santa Margherita Ligure, Rapallo, Italia, Montecarlo.
 - Numeri/date utili da verificare: 12, 25, 2026, 53, 65, 75, 80, 40.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
