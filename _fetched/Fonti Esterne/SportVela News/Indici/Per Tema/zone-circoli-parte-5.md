@@ -6,6 +6,11 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Agosto 2025 | Campionato Europeo ILCA 2025: day 2 bene gli azzurri | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - Campionato-Europeo-ILCA-2025-day-2-bene-gli-azzurri - wp3890|nota]] |
+| 12 Agosto 2025 | La XIII Zona FIV lancia “Altura U25 e Attività Melges 24” | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - La-XIII-Zona-FIV-lancia-Altura-U25-e-Attivita-Melges-24 - wp3887|nota]] |
+| 11 Agosto 2025 | Marsala ospita il primo raduno promozionale di Wing Foil in Sicilia: un successo per la nuova classe Foil | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Marsala-ospita-il-primo-raduno-promozionale-di-Wing-Foil-in-Sicilia-un-successo-per-la-nuova-classe-Foil - wp3882|nota]] |
+| 11 Agosto 2025 | Tris di medaglie al mondiale RS 500 di Follonica | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Tris-di-medaglie-al-mondiale-RS-500-di-Follonica - wp3878|nota]] |
+| 11 Agosto 2025 | Al via il Campionato Europeo ILCA 2025 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Al-via-il-Campionato-Europeo-ILCA-2025 - wp3874|nota]] |
 | 10 Agosto 2025 | Open Day Vela e Canottaggio: sul Lago di Santa Croce (BL) | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-10 - Open-Day-Vela-e-Canottaggio-sul-Lago-di-Santa-Croce-BL - wp3871|nota]] |
 | 9 Agosto 2025 | XIV Zona FIV: Successo per il Raduno Settore Altura | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-09 - XIV-Zona-FIV-Successo-per-il-Raduno-Settore-Altura - wp3861|nota]] |
 | 8 Agosto 2025 | Da La spezia al Solent: massimo Gherarducci con team Jolt | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-08 - Da-La-spezia-al-Solent-massimo-Gherarducci-con-team-Jolt - wp3842|nota]] |

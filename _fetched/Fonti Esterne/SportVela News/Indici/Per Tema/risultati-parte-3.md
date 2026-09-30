@@ -6,6 +6,11 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 17 Marzo 2026 | Quasi 1000 ragazzi allo stand FIV di SportExpo | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - Quasi-1000-ragazzi-allo-stand-FIV-di-SportExpo - wp6334|nota]] |
+| 17 Marzo 2026 | INVERNALE WEST LIGURIA 25/26 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - INVERNALE-WEST-LIGURIA-25-26 - wp6332|nota]] |
+| 17 Marzo 2026 | Regata Interzonale OpenSkiff: doppietta per il Club Nautico Rimini | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - Regata-Interzonale-OpenSkiff-doppietta-per-il-Club-Nautico-Rimini - wp6323|nota]] |
+| 17 Marzo 2026 | CRESCERE CON LA VELA: OPEN DAY PER I GIOVANI DI SANREMO 21 MARZO ORE 18 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - CRESCERE-CON-LA-VELA-OPEN-DAY-PER-I-GIOVANI-DI-SANREMO-21-MARZO-ORE-18 - wp6318|nota]] |
+| 16 Marzo 2026 | UN WEEKEND DI LAVORO INTENSO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-16 - UN-WEEKEND-DI-LAVORO-INTENSO - wp6316|nota]] |
 | 15 Marzo 2026 | NEL RICORDO DI BERTO CARATTINO: GRANDE VELA A VARAZZE CON 46 ILCA IN REGATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-15 - NEL-RICORDO-DI-BERTO-CARATTINO-GRANDE-VELA-A-VARAZZE-CON-46-ILCA-IN-REGATA - wp6312|nota]] |
 | 14 Marzo 2026 | Due giornate dedicate a vela e inclusione sul lago di Bolsena per il progetto Navigare Insieme: l’Italia senza Barriere | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-14 - Due-giornate-dedicate-a-vela-e-inclusione-sul-lago-di-Bolsena-per-il-progetto-Navigare-Insieme-l-Italia-senza- - wp6307|nota]] |
 | 14 Marzo 2026 | Europeo 470 a Vilamoura: Ferrari-Dubbini d’argento | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-14 - Europeo-470-a-Vilamoura-Ferrari-Dubbini-d-argento - wp6302|nota]] |
@@ -251,8 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 14 Ottobre 2025 | Kuka del Circolo Vela Cesenatico firma un grande risultato allaBarcolana 2025. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - Kuka-del-Circolo-Vela-Cesenatico-firma-un-grande-risultato-allaBarcolana-2025 - wp4832|nota]] |
 | 14 Ottobre 2025 | WEEKEND DI FORMAZIONE: DUE GIORNATE DI TIROCINIO TRA MARINERIA E WING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - WEEKEND-DI-FORMAZIONE-DUE-GIORNATE-DI-TIROCINIO-TRA-MARINERIA-E-WING - wp4863|nota]] |
 | 14 Ottobre 2025 | TEAM RACE OPTIMIST: TROFEO CHALLENGE CITTÀ DI CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - TEAM-RACE-OPTIMIST-TROFEO-CHALLENGE-CITTA-DI-CHIAVARI - wp4861|nota]] |
-| 13 Ottobre 2025 | CONCLUSO IL CAMPIONATO MONDIALE L30 ALLO YACHT CLUB SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - CONCLUSO-IL-CAMPIONATO-MONDIALE-L30-ALLO-YACHT-CLUB-SANREMO - wp4848|nota]] |
-| 13 Ottobre 2025 | GRANDE SUCCESSO PER IL RADUNO DI PREPARAZIONE FISICA DELLA I ZONA FIV A LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - GRANDE-SUCCESSO-PER-IL-RADUNO-DI-PREPARAZIONE-FISICA-DELLA-I-ZONA-FIV-A-LOANO - wp4845|nota]] |
-| 13 Ottobre 2025 | A SANREMO IL CAMPIONATO ITALIANO RS21, ATTO FINALE DELLA RS21 CUP YAMAMA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - A-SANREMO-IL-CAMPIONATO-ITALIANO-RS21-ATTO-FINALE-DELLA-RS21-CUP-YAMAMA - wp4842|nota]] |
-| 13 Ottobre 2025 | Regata Nazionale Dinghy 12’ Classico – Trofeo Angelo Randazzo | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - Regata-Nazionale-Dinghy-12-Classico-Trofeo-Angelo-Randazzo - wp4837|nota]] |
-| 13 Ottobre 2025 | WEEK END QUASI ESTIVO DI REGATE NEL TIGULLIO PER LA CLASSE DINGHY 12’ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - WEEK-END-QUASI-ESTIVO-DI-REGATE-NEL-TIGULLIO-PER-LA-CLASSE-DINGHY-12 - wp4829|nota]] |

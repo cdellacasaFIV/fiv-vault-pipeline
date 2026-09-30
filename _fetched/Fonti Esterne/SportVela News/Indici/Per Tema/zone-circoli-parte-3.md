@@ -6,6 +6,11 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Aprile 2026 | VENTO LEGGERO, GRANDI TALENTI: IL TIGULLIO CELEBRA LA VELA GIOVANILE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - VENTO-LEGGERO-GRANDI-TALENTI-IL-TIGULLIO-CELEBRA-LA-VELA-GIOVANILE - wp6608|nota]] |
+| 12 Aprile 2026 | Europei Formula Wing: De Amicis e Spanu d’argento, l’Italia conquista due podi assoluti a Napoli | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-12 - Europei-Formula-Wing-De-Amicis-e-Spanu-d-argento-l-Italia-conquista-due-podi-assoluti-a-Napoli - wp6605|nota]] |
+| 12 Aprile 2026 | Salerno: la cerimonia di premiazione del 44° Campionato Invernale di vela d’altura | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-12 - Salerno-la-cerimonia-di-premiazione-del-44-Campionato-Invernale-di-vela-d-altura - wp6593|nota]] |
+| 11 Aprile 2026 | NEL TIGULLIO TORNA IL TROFEO BOLETTO – REGATA DEI DUE PARCHI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-11 - NEL-TIGULLIO-TORNA-IL-TROFEO-BOLETTO-REGATA-DEI-DUE-PARCHI - wp6590|nota]] |
+| 10 Aprile 2026 | Banchi a vela: il progetto della XI Zona tra formazione e cultura del mare. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-10 - Banchi-a-vela-il-progetto-della-XI-Zona-tra-formazione-e-cultura-del-mare - wp6585|nota]] |
 | 10 Aprile 2026 | TECHNO 293 WORLD CHAMPIONSHIPS – DUE MEDAGLIE PER L’ITALIA A FOÇA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-10 - TECHNO-293-WORLD-CHAMPIONSHIPS-DUE-MEDAGLIE-PER-L-ITALIA-A-FOCA - wp6567|nota]] |
 | 9 Aprile 2026 | A VARAZZE LE VELEGGIATE “EASY SAILING SERIES” 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-09 - A-VARAZZE-LE-VELEGGIATE-EASY-SAILING-SERIES-2026 - wp6558|nota]] |
 | 8 Aprile 2026 | Al via a Napoli il Campionato Europeo Formula Wing | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-08 - Al-via-a-Napoli-il-Campionato-Europeo-Formula-Wing - wp6554|nota]] |
@@ -251,8 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 20 Novembre 2025 | PARASAILING, I ZONA NO STOP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - PARASAILING-I-ZONA-NO-STOP - wp5363|nota]] |
 | 20 Novembre 2025 | FEDERICO BERGAMASCO: UN 2025 “IN VOLO” CON IL WATERFRONT SAILING GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - FEDERICO-BERGAMASCO-UN-2025-IN-VOLO-CON-IL-WATERFRONT-SAILING-GENOVA - wp5360|nota]] |
 | 19 Novembre 2025 | Le attività presenti e future del Comitato di Zona | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Le-attivita-presenti-e-future-del-Comitato-di-Zona - wp5357|nota]] |
-| 19 Novembre 2025 | Davide Foti trionfa al Marina Militare Nastro Rosa – Il Veloce 2025 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Davide-Foti-trionfa-al-Marina-Militare-Nastro-Rosa-Il-Veloce-2025 - wp5353|nota]] |
-| 19 Novembre 2025 | CASA DELLA VELA A GENOVA: NEL 2026 L’INAUGURAZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - CASA-DELLA-VELA-A-GENOVA-NEL-2026-L-INAUGURAZIONE - wp5348|nota]] |
-| 19 Novembre 2025 | DUE BARCHE SUL PODIO PER IL REVEL SAILING TEAM ALLA 1001VELACUP 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - DUE-BARCHE-SUL-PODIO-PER-IL-REVEL-SAILING-TEAM-ALLA-1001VELACUP-2025 - wp5345|nota]] |
-| 19 Novembre 2025 | 50° INVERNALE DEL TIGULLIO: SECONDO WEEK END ALLE PORTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - 50-INVERNALE-DEL-TIGULLIO-SECONDO-WEEK-END-ALLE-PORTE - wp5342|nota]] |
-| 19 Novembre 2025 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp5340|nota]] |

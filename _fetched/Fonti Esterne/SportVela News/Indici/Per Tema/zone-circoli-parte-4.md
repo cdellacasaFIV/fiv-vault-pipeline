@@ -6,6 +6,11 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Novembre 2025 | Davide Foti trionfa al Marina Militare Nastro Rosa – Il Veloce 2025 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Davide-Foti-trionfa-al-Marina-Militare-Nastro-Rosa-Il-Veloce-2025 - wp5353|nota]] |
+| 19 Novembre 2025 | CASA DELLA VELA A GENOVA: NEL 2026 L’INAUGURAZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - CASA-DELLA-VELA-A-GENOVA-NEL-2026-L-INAUGURAZIONE - wp5348|nota]] |
+| 19 Novembre 2025 | DUE BARCHE SUL PODIO PER IL REVEL SAILING TEAM ALLA 1001VELACUP 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - DUE-BARCHE-SUL-PODIO-PER-IL-REVEL-SAILING-TEAM-ALLA-1001VELACUP-2025 - wp5345|nota]] |
+| 19 Novembre 2025 | 50° INVERNALE DEL TIGULLIO: SECONDO WEEK END ALLE PORTE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - 50-INVERNALE-DEL-TIGULLIO-SECONDO-WEEK-END-ALLE-PORTE - wp5342|nota]] |
+| 19 Novembre 2025 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp5340|nota]] |
 | 17 Novembre 2025 | INTENSA ATTIVITÀ PER LA DIREZIONE TECNICA ZONALE DELLA I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - INTENSA-ATTIVITA-PER-LA-DIREZIONE-TECNICA-ZONALE-DELLA-I-ZONA-FIV - wp5333|nota]] |
 | 17 Novembre 2025 | Napoli, la Coppa Knight a Raffica di Pasquale Orofino | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - Napoli-la-Coppa-Knight-a-Raffica-di-Pasquale-Orofino - wp5330|nota]] |
 | 17 Novembre 2025 | Argento per LNI Sulcis al primo Sardinia Team Race World Champ | III Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-17 - Argento-per-LNI-Sulcis-al-primo-Sardinia-Team-Race-World-Champ - wp5326|nota]] |
@@ -251,8 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 14 Agosto 2025 | Campionato Europeo ILCA 2025: day 4, rinviate le prove per mancanza di vento | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-14 - Campionato-Europeo-ILCA-2025-day-4-rinviate-le-prove-per-mancanza-di-vento - wp3908|nota]] |
 | 13 Agosto 2025 | Due giovani premiati dal Tabo Surf Center: prime borse di studio per il windsurf giovanile | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Due-giovani-premiati-dal-Tabo-Surf-Center-prime-borse-di-studio-per-il-windsurf-giovanile - wp3905|nota]] |
 | 13 Agosto 2025 | Campionato Europeo ILCA 2025: day 3, si sono concluse oggi le qualifiche | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Campionato-Europeo-ILCA-2025-day-3-si-sono-concluse-oggi-le-qualifiche - wp3899|nota]] |
-| 12 Agosto 2025 | Campionato Europeo ILCA 2025: day 2 bene gli azzurri | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - Campionato-Europeo-ILCA-2025-day-2-bene-gli-azzurri - wp3890|nota]] |
-| 12 Agosto 2025 | La XIII Zona FIV lancia “Altura U25 e Attività Melges 24” | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - La-XIII-Zona-FIV-lancia-Altura-U25-e-Attivita-Melges-24 - wp3887|nota]] |
-| 11 Agosto 2025 | Marsala ospita il primo raduno promozionale di Wing Foil in Sicilia: un successo per la nuova classe Foil | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Marsala-ospita-il-primo-raduno-promozionale-di-Wing-Foil-in-Sicilia-un-successo-per-la-nuova-classe-Foil - wp3882|nota]] |
-| 11 Agosto 2025 | Tris di medaglie al mondiale RS 500 di Follonica | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Tris-di-medaglie-al-mondiale-RS-500-di-Follonica - wp3878|nota]] |
-| 11 Agosto 2025 | Al via il Campionato Europeo ILCA 2025 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Al-via-il-Campionato-Europeo-ILCA-2025 - wp3874|nota]] |

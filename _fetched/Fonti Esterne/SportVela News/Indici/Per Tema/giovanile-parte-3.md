@@ -6,6 +6,9 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Settembre 2025 | Youth Sailing World Championships 2025: la squadra italiana per Vilamoura | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Youth-Sailing-World-Championships-2025-la-squadra-italiana-per-Vilamoura - wp4595|nota]] |
+| 30 Settembre 2025 | Trofeo CONI 2025 – Lignano Sabbiadoro | News, Vetrina, XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Trofeo-CONI-2025-Lignano-Sabbiadoro - wp4576|nota]] |
+| 30 Settembre 2025 | 10° TROFEO CONI: PER LA VELA VINCE IL TRENTINO | Copertina, News, Vela Giovanile, XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - 10-TROFEO-CONI-PER-LA-VELA-VINCE-IL-TRENTINO - wp4573|nota]] |
 | 29 Settembre 2025 | Trofeo CONI 2025 – Ottimo avvio per la vela veneta a Lignano Sabbiadoro | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-29 - Trofeo-CONI-2025-Ottimo-avvio-per-la-vela-veneta-a-Lignano-Sabbiadoro - wp4558|nota]] |
 | 29 Settembre 2025 | Veleziana Optimist 2025: giovani protagonisti in Laguna | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-29 - Veleziana-Optimist-2025-giovani-protagonisti-in-Laguna - wp4555|nota]] |
 | 29 Settembre 2025 | Campionato del Mondo ILCA Master – Formia 2025 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-29 - Campionato-del-Mondo-ILCA-Master-Formia-2025 - wp4551|nota]] |
@@ -253,6 +256,3 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 16 Dicembre 2023 | Youth Sailing World Championships day5: Buzios si tinge d’Azzurro. 6 medaglie! | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-16 - Youth-Sailing-World-Championships-day5-Buzios-si-tinge-d-Azzurro-6-medaglie - wp1204|nota]] |
 | 15 Dicembre 2023 | Youth Sailing World Championships day4: Cardi – Tognocchi già oro nel 420 M/Mix | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-15 - Youth-Sailing-World-Championships-day4-Cardi-Tognocchi-gia-oro-nel-420-M-Mix - wp1198|nota]] |
 | 14 Dicembre 2023 | Youth Sailing World Championships day3: si entra nel vivo con gli italiani in grande evidenza | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-14 - Youth-Sailing-World-Championships-day3-si-entra-nel-vivo-con-gli-italiani-in-grande-evidenza - wp1195|nota]] |
-| 13 Dicembre 2023 | Youth Sailing World Championships day2: bene gli azzurrini | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-13 - Youth-Sailing-World-Championships-day2-bene-gli-azzurrini - wp1096|nota]] |
-| 12 Dicembre 2023 | Iniziati oggi gli Youth Sailing World Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-12 - Iniziati-oggi-gli-Youth-Sailing-World-Championships - wp1093|nota]] |
-| 8 Dicembre 2023 | Domani al via gli Youth Sailing World Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-08 - Domani-al-via-gli-Youth-Sailing-World-Championships - wp1078|nota]] |

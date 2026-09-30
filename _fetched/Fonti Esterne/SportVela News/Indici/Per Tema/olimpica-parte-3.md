@@ -6,6 +6,8 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Maggio 2024 | Formula Kite 2024 World Championships: domani le Medal Series con Pianosi e Boschetti | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-18 - Formula-Kite-2024-World-Championships-domani-le-Medal-Series-con-Pianosi-e-Boschetti - wp1783|nota]] |
+| 17 Maggio 2024 | Formula Kite 2024 World Championships: primo giorno di Gold Fleet | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-17 - Formula-Kite-2024-World-Championships-primo-giorno-di-Gold-Fleet - wp1780|nota]] |
 | 16 Maggio 2024 | Formula Kite 2024 World Championships: tre italiani in Gold Fleet | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-16 - Formula-Kite-2024-World-Championships-tre-italiani-in-Gold-Fleet - wp1777|nota]] |
 | 15 Maggio 2024 | Formula Kite 2024 World Championships: seconda giornata con italiani in evidenza | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-15 - Formula-Kite-2024-World-Championships-seconda-giornata-con-italiani-in-evidenza - wp1774|nota]] |
 | 14 Maggio 2024 | Formula Kite 2024 World Championships: inizio con buon vento oggi a Hyères | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-14 - Formula-Kite-2024-World-Championships-inizio-con-buon-vento-oggi-a-Hyeres - wp1768|nota]] |

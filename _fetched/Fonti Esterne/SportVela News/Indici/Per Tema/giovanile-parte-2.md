@@ -6,6 +6,9 @@ Parte 2 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Maggio 2026 | Formula Kite, al via i Mondiali 2026: Pianosi difende il titolo a Viana do Castelo | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-11 - Formula-Kite-al-via-i-Mondiali-2026-Pianosi-difende-il-titolo-a-Viana-do-Castelo - wp7025|nota]] |
+| 11 Maggio 2026 | Antonio Squizzato Velista dell’Anno FIV con SCGarda Salò | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-11 - Antonio-Squizzato-Velista-dell-Anno-FIV-con-SCGarda-Salo - wp7020|nota]] |
+| 11 Maggio 2026 | Optimist, Nugnes (LNI Napoli) e Vanzanella (RYCC Savoia) qualificati all’Europeo 2026! | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-11 - Optimist-Nugnes-LNI-Napoli-e-Vanzanella-RYCC-Savoia-qualificati-all-Europeo-2026 - wp7016|nota]] |
 | 11 Maggio 2026 | LA I ZONA FIV PROTAGONISTA AL PORTO ANTICO TRA TRIONFI SPORTIVI E NUOVI PROGETTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-11 - LA-I-ZONA-FIV-PROTAGONISTA-AL-PORTO-ANTICO-TRA-TRIONFI-SPORTIVI-E-NUOVI-PROGETTI - wp7009|nota]] |
 | 11 Maggio 2026 | RESOLUTE SALMON RACCONTA LA REGATA LUNGA dell’ORC World Championship Napoli-Sorrento 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-11 - RESOLUTE-SALMON-RACCONTA-LA-REGATA-LUNGA-dell-ORC-World-Championship-Napoli-Sorrento-2026 - wp7005|nota]] |
 | 11 Maggio 2026 | 58ª Coppa Tamburini Classe Snipe: al Club Nautico Rimini vincono Lambertenghi-Cabrini | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-11 - 58a-Coppa-Tamburini-Classe-Snipe-al-Club-Nautico-Rimini-vincono-Lambertenghi-Cabrini - wp6983|nota]] |
@@ -253,6 +256,3 @@ Parte 2 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 1 Ottobre 2025 | Mondiale Formula Kite, show in Sardegna: Maeder e Pianosi pari merito dopo la seconda giornata | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-01 - Mondiale-Formula-Kite-show-in-Sardegna-Maeder-e-Pianosi-pari-merito-dopo-la-seconda-giornata - wp4630|nota]] |
 | 1 Ottobre 2025 | TROFEO CAPIZZI A CHIAVARI: SELEZIONE COPPA ITALIA CLASSE ILCA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-01 - TROFEO-CAPIZZI-A-CHIAVARI-SELEZIONE-COPPA-ITALIA-CLASSE-ILCA - wp4621|nota]] |
 | 1 Ottobre 2025 | GIOVANNI GALLEGO DEL CN ANDORA QUINTO AI MONDIALI MASTER | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-01 - GIOVANNI-GALLEGO-DEL-CN-ANDORA-QUINTO-AI-MONDIALI-MASTER - wp4618|nota]] |
-| 30 Settembre 2025 | Youth Sailing World Championships 2025: la squadra italiana per Vilamoura | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Youth-Sailing-World-Championships-2025-la-squadra-italiana-per-Vilamoura - wp4595|nota]] |
-| 30 Settembre 2025 | Trofeo CONI 2025 – Lignano Sabbiadoro | News, Vetrina, XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Trofeo-CONI-2025-Lignano-Sabbiadoro - wp4576|nota]] |
-| 30 Settembre 2025 | 10° TROFEO CONI: PER LA VELA VINCE IL TRENTINO | Copertina, News, Vela Giovanile, XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - 10-TROFEO-CONI-PER-LA-VELA-VINCE-IL-TRENTINO - wp4573|nota]] |
