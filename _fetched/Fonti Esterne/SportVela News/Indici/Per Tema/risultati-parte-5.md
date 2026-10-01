@@ -6,6 +6,8 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Maggio 2025 | Formula Kite Europeo 2025: Riccardo Pianosi è campione d’Europa! Oro continentale per l’Italia | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-19 - Formula-Kite-Europeo-2025-Riccardo-Pianosi-e-campione-d-Europa-Oro-continentale-per-l-Italia - wp2850|nota]] |
+| 19 Maggio 2025 | Settimana di intensa attività per il settore para sailing della Federazione Italiana Vela | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-19 - Settimana-di-intensa-attivita-per-il-settore-para-sailing-della-Federazione-Italiana-Vela - wp2840|nota]] |
 | 18 Maggio 2025 | Formula Kite Europeo 2025: Pianosi in finale, domani le Medal Series a Urla | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-18 - Formula-Kite-Europeo-2025-Pianosi-in-finale-domani-le-Medal-Series-a-Urla - wp2831|nota]] |
 | 17 Maggio 2025 | Formula Kite Europeo 2025: dopo lo stop di ieri, Pianosi e Young tengono la vetta a Urla | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-17 - Formula-Kite-Europeo-2025-dopo-lo-stop-di-ieri-Pianosi-e-Young-tengono-la-vetta-a-Urla - wp2826|nota]] |
 | 17 Maggio 2025 | Europeo 470 a Spalato: titolo a Xammar–Cardona, Ferrari–Dubbini chiudono noni | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-05-17 - Europeo-470-a-Spalato-titolo-a-Xammar-Cardona-Ferrari-Dubbini-chiudono-noni - wp2823|nota]] |

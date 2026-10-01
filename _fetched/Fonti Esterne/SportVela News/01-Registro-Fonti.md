@@ -1,10 +1,12 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-09-30.
+Aggiornato: 2026-10-01.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 30 Settembre 2026 | Cervia. J24 pronti per l’ottava tappa del Circuito Nazionale J24 -la Regata Nazionale-Trofeo Antonio Antonelli 2026. | XI Zona | risultati, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-30 - Cervia-J24-pronti-per-l-ottava-tappa-del-Circuito-Nazionale-J24-la-Regata-Nazionale-Trofeo-Antonio-Antonelli-2 - wp9578|nota]] | https://sportvela.net/blog/2026/09/30/cervia-j24-pronti-per-lottava-tappa-del-circuito-nazionale-j24-la-regata-nazionale-trofeo-antonio-antonelli-2026/ |
+| 30 Settembre 2026 | BORSE DI STUDIO CLELIA CAMBIASO 2026 | I Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-30 - BORSE-DI-STUDIO-CLELIA-CAMBIASO-2026 - wp9580|nota]] | https://sportvela.net/blog/2026/09/30/borse-di-studio-clelia-cambiaso-2026/ |
 | 30 Settembre 2026 | Adriatico Wind Club, weekend di successi: Casadei vince nel contender, giovini campione italiano legend e terzo assoluto nello slalom foil. | XI Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-30 - Adriatico-Wind-Club-weekend-di-successi-Casadei-vince-nel-contender-giovini-campione-italiano-legend-e-terzo-a - wp9568|nota]] | https://sportvela.net/blog/2026/09/30/adriatico-wind-club-weekend-di-successi-casadei-vince-nel-contender-giovini-campione-italiano-legend-e-terzo-assoluto-nello-slalom-foil/ |
 | 29 Settembre 2026 | Effetto America’s Cup: in Campania 1.294 nuovi tesserati FIV in una settimana | V Zona | risultati, olimpica, zone/circoli, america's cup/napoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-29 - Effetto-America-s-Cup-in-Campania-1-294-nuovi-tesserati-FIV-in-una-settimana - wp9564|nota]] | https://sportvela.net/blog/2026/09/29/effetto-americas-cup-in-campania-1-294-nuovi-tesserati-fiv-in-una-settimana/ |
 | 29 Settembre 2026 | Club Nautico Rimini: concluso nel week end il gran finale della classe OpenSkiff e il Campionato Italiano RS Aero | XI Zona | risultati, giovanile, zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-29 - Club-Nautico-Rimini-concluso-nel-week-end-il-gran-finale-della-classe-OpenSkiff-e-il-Campionato-Italiano-RS-Ae - wp9561|nota]] | https://sportvela.net/blog/2026/09/29/club-nautico-rimini-concluso-nel-week-end-il-gran-finale-della-classe-openskiff-e-il-campionato-italiano-rs-aero/ |

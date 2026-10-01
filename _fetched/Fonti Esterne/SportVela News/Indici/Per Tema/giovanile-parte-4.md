@@ -6,6 +6,7 @@ Parte 4 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Dicembre 2023 | Youth Sailing World Championships day3: si entra nel vivo con gli italiani in grande evidenza | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-14 - Youth-Sailing-World-Championships-day3-si-entra-nel-vivo-con-gli-italiani-in-grande-evidenza - wp1195|nota]] |
 | 13 Dicembre 2023 | Youth Sailing World Championships day2: bene gli azzurrini | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-13 - Youth-Sailing-World-Championships-day2-bene-gli-azzurrini - wp1096|nota]] |
 | 12 Dicembre 2023 | Iniziati oggi gli Youth Sailing World Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-12 - Iniziati-oggi-gli-Youth-Sailing-World-Championships - wp1093|nota]] |
 | 8 Dicembre 2023 | Domani al via gli Youth Sailing World Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-08 - Domani-al-via-gli-Youth-Sailing-World-Championships - wp1078|nota]] |

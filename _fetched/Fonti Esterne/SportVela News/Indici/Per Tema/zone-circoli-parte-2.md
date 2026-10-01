@@ -6,6 +6,8 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 7 Luglio 2026 | Mondiale 2.4mR: dal 7 al 12 luglio l’Italia a Sneek con Squizzato e Di Maria | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-07 - Mondiale-2-4mR-dal-7-al-12-luglio-l-Italia-a-Sneek-con-Squizzato-e-Di-Maria - wp7937|nota]] |
+| 6 Luglio 2026 | Alla Coppa Primavela di Gaeta trionfano i palermitani Luca Ferrer Cuccia nell’Optimist e Federico Samonà nel Techno 293 CH4 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-06 - Alla-Coppa-Primavela-di-Gaeta-trionfano-i-palermitani-Luca-Ferrer-Cuccia-nell-Optimist-e-Federico-Samona-nel-T - wp7934|nota]] |
 | 6 Luglio 2026 | La vela inclusiva approda a La Spezia: continua il viaggio di “Navigare Insieme: l’Italia senza barriere” | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-06 - La-vela-inclusiva-approda-a-La-Spezia-continua-il-viaggio-di-Navigare-Insieme-l-Italia-senza-barriere - wp7929|nota]] |
 | 6 Luglio 2026 | TROFEO CHALLENGE EPAMINONDA CECCARELLI | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-06 - TROFEO-CHALLENGE-EPAMINONDA-CECCARELLI - wp7903|nota]] |
 | 6 Luglio 2026 | Palermo, Joy e Melagodo campioni italiani ORC Double Handed | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-06 - Palermo-Joy-e-Melagodo-campioni-italiani-ORC-Double-Handed - wp7899|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 14 Aprile 2026 | Big Air, titolo italiano Under 17 per Daniele Pio Sgroia | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - Big-Air-titolo-italiano-Under-17-per-Daniele-Pio-Sgroia - wp6625|nota]] |
 | 14 Aprile 2026 | WINDSURFER: 2° PROVA CAMPIONATO ZONALE “TROFEO CITTÀ DI COGOLETO” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - WINDSURFER-2-PROVA-CAMPIONATO-ZONALE-TROFEO-CITTA-DI-COGOLETO - wp6620|nota]] |
 | 14 Aprile 2026 | MARTEDÌ 14 APRILE A “PEOPLE” SU PRIMOCANALE UNO SPECIALE DEDICATO A SPORTABILITY | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - MARTEDI-14-APRILE-A-PEOPLE-SU-PRIMOCANALE-UNO-SPECIALE-DEDICATO-A-SPORTABILITY - wp6617|nota]] |
-| 13 Aprile 2026 | IL PRINCIPE DI BORBONE DOMA AD ALASSIO LA FLOTTA SMERALDA 888 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - IL-PRINCIPE-DI-BORBONE-DOMA-AD-ALASSIO-LA-FLOTTA-SMERALDA-888 - wp6614|nota]] |
-| 13 Aprile 2026 | IMXTINENTE DI ADELIO FRIXIONE È IL VINCITORE DEL TROFEO PORTO CARLO RIVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - IMXTINENTE-DI-ADELIO-FRIXIONE-E-IL-VINCITORE-DEL-TROFEO-PORTO-CARLO-RIVA - wp6611|nota]] |

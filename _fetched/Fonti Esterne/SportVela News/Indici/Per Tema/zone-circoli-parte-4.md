@@ -6,6 +6,8 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 20 Novembre 2025 | FEDERICO BERGAMASCO: UN 2025 “IN VOLO” CON IL WATERFRONT SAILING GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - FEDERICO-BERGAMASCO-UN-2025-IN-VOLO-CON-IL-WATERFRONT-SAILING-GENOVA - wp5360|nota]] |
+| 19 Novembre 2025 | Le attività presenti e future del Comitato di Zona | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Le-attivita-presenti-e-future-del-Comitato-di-Zona - wp5357|nota]] |
 | 19 Novembre 2025 | Davide Foti trionfa al Marina Militare Nastro Rosa – Il Veloce 2025 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Davide-Foti-trionfa-al-Marina-Militare-Nastro-Rosa-Il-Veloce-2025 - wp5353|nota]] |
 | 19 Novembre 2025 | CASA DELLA VELA A GENOVA: NEL 2026 L’INAUGURAZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - CASA-DELLA-VELA-A-GENOVA-NEL-2026-L-INAUGURAZIONE - wp5348|nota]] |
 | 19 Novembre 2025 | DUE BARCHE SUL PODIO PER IL REVEL SAILING TEAM ALLA 1001VELACUP 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - DUE-BARCHE-SUL-PODIO-PER-IL-REVEL-SAILING-TEAM-ALLA-1001VELACUP-2025 - wp5345|nota]] |
@@ -254,5 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 16 Agosto 2025 | Campionato Europeo ILCA 2025: arriva l’argento U23 di Borio | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-16 - Campionato-Europeo-ILCA-2025-arriva-l-argento-U23-di-Borio - wp3915|nota]] |
 | 15 Agosto 2025 | Campionato Europeo ILCA 2025: day 5, primo giorno di finali | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-15 - Campionato-Europeo-ILCA-2025-day-5-primo-giorno-di-finali - wp3912|nota]] |
 | 14 Agosto 2025 | Campionato Europeo ILCA 2025: day 4, rinviate le prove per mancanza di vento | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-14 - Campionato-Europeo-ILCA-2025-day-4-rinviate-le-prove-per-mancanza-di-vento - wp3908|nota]] |
-| 13 Agosto 2025 | Due giovani premiati dal Tabo Surf Center: prime borse di studio per il windsurf giovanile | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Due-giovani-premiati-dal-Tabo-Surf-Center-prime-borse-di-studio-per-il-windsurf-giovanile - wp3905|nota]] |
-| 13 Agosto 2025 | Campionato Europeo ILCA 2025: day 3, si sono concluse oggi le qualifiche | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Campionato-Europeo-ILCA-2025-day-3-si-sono-concluse-oggi-le-qualifiche - wp3899|nota]] |

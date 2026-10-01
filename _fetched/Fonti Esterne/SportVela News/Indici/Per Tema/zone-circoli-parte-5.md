@@ -6,6 +6,8 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Agosto 2025 | Due giovani premiati dal Tabo Surf Center: prime borse di studio per il windsurf giovanile | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Due-giovani-premiati-dal-Tabo-Surf-Center-prime-borse-di-studio-per-il-windsurf-giovanile - wp3905|nota]] |
+| 13 Agosto 2025 | Campionato Europeo ILCA 2025: day 3, si sono concluse oggi le qualifiche | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Campionato-Europeo-ILCA-2025-day-3-si-sono-concluse-oggi-le-qualifiche - wp3899|nota]] |
 | 12 Agosto 2025 | Campionato Europeo ILCA 2025: day 2 bene gli azzurri | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - Campionato-Europeo-ILCA-2025-day-2-bene-gli-azzurri - wp3890|nota]] |
 | 12 Agosto 2025 | La XIII Zona FIV lancia “Altura U25 e Attività Melges 24” | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - La-XIII-Zona-FIV-lancia-Altura-U25-e-Attivita-Melges-24 - wp3887|nota]] |
 | 11 Agosto 2025 | Marsala ospita il primo raduno promozionale di Wing Foil in Sicilia: un successo per la nuova classe Foil | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-11 - Marsala-ospita-il-primo-raduno-promozionale-di-Wing-Foil-in-Sicilia-un-successo-per-la-nuova-classe-Foil - wp3882|nota]] |

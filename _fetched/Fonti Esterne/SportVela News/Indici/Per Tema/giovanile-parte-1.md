@@ -6,6 +6,7 @@ Parte 1 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Settembre 2026 | BORSE DI STUDIO CLELIA CAMBIASO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-30 - BORSE-DI-STUDIO-CLELIA-CAMBIASO-2026 - wp9580|nota]] |
 | 30 Settembre 2026 | Adriatico Wind Club, weekend di successi: Casadei vince nel contender, giovini campione italiano legend e terzo assoluto nello slalom foil. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-30 - Adriatico-Wind-Club-weekend-di-successi-Casadei-vince-nel-contender-giovini-campione-italiano-legend-e-terzo-a - wp9568|nota]] |
 | 29 Settembre 2026 | Club Nautico Rimini: concluso nel week end il gran finale della classe OpenSkiff e il Campionato Italiano RS Aero | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-29 - Club-Nautico-Rimini-concluso-nel-week-end-il-gran-finale-della-classe-OpenSkiff-e-il-Campionato-Italiano-RS-Ae - wp9561|nota]] |
 | 29 Settembre 2026 | Mondiale iQFOiL Under 23: Pilloni leader a Puck, due azzurri nei primi tre | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-29 - Mondiale-iQFOiL-Under-23-Pilloni-leader-a-Puck-due-azzurri-nei-primi-tre - wp9558|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 14 Maggio 2026 | Torre Annunziata, Baia di Oplonti sempre più Città della Vela e del Mare | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-14 - Torre-Annunziata-Baia-di-Oplonti-sempre-piu-Citta-della-Vela-e-del-Mare - wp7028|nota]] |
 | 13 Maggio 2026 | La XV Zona alla Giornata Giovani Lombardia: la vela incontra le nuove generazioni | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-13 - La-XV-Zona-alla-Giornata-Giovani-Lombardia-la-vela-incontra-le-nuove-generazioni - wp7060|nota]] |
 | 12 Maggio 2026 | Sport. 63 Federazioni e 3mila studenti lombardi a S. Siro per la prima giornata giovani, con Arianna Fontana, Daniele Cassioli, Don Patriciello e Federica Picchi | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-12 - Sport-63-Federazioni-e-3mila-studenti-lombardi-a-S-Siro-per-la-prima-giornata-giovani-con-Arianna-Fontana-Dani - wp7047|nota]] |
-| 12 Maggio 2026 | Vela Day FIV 2026: la XV Zona apre le porte alla vela | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-12 - Vela-Day-FIV-2026-la-XV-Zona-apre-le-porte-alla-vela - wp7044|nota]] |

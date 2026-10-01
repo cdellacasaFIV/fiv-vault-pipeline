@@ -6,6 +6,8 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 19 Marzo 2026 | FOILING AWARDS: A GENOVA IL MEGLIO DEL MONDO FOILING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-19 - FOILING-AWARDS-A-GENOVA-IL-MEGLIO-DEL-MONDO-FOILING - wp6348|nota]] |
+| 18 Marzo 2026 | Tita e Banti tornano in equipaggio: obiettivo Los Angeles 2028 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-18 - Tita-e-Banti-tornano-in-equipaggio-obiettivo-Los-Angeles-2028 - wp6341|nota]] |
 | 17 Marzo 2026 | Quasi 1000 ragazzi allo stand FIV di SportExpo | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - Quasi-1000-ragazzi-allo-stand-FIV-di-SportExpo - wp6334|nota]] |
 | 17 Marzo 2026 | INVERNALE WEST LIGURIA 25/26 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - INVERNALE-WEST-LIGURIA-25-26 - wp6332|nota]] |
 | 17 Marzo 2026 | Regata Interzonale OpenSkiff: doppietta per il Club Nautico Rimini | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - Regata-Interzonale-OpenSkiff-doppietta-per-il-Club-Nautico-Rimini - wp6323|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 15 Ottobre 2025 | Guido Lembo, a Capri un trofeo O’open Skiff per ricordare il marinaio | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-15 - Guido-Lembo-a-Capri-un-trofeo-O-open-Skiff-per-ricordare-il-marinaio - wp4874|nota]] |
 | 14 Ottobre 2025 | Next Generation Foil Academy International Trophy powered by Luna Rossa: talento e inclusione protagonisti a Cagliari | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - Next-Generation-Foil-Academy-International-Trophy-powered-by-Luna-Rossa-talento-e-inclusione-protagonisti-a-Ca - wp4870|nota]] |
 | 14 Ottobre 2025 | Kuka del Circolo Vela Cesenatico firma un grande risultato allaBarcolana 2025. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - Kuka-del-Circolo-Vela-Cesenatico-firma-un-grande-risultato-allaBarcolana-2025 - wp4832|nota]] |
-| 14 Ottobre 2025 | WEEKEND DI FORMAZIONE: DUE GIORNATE DI TIROCINIO TRA MARINERIA E WING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - WEEKEND-DI-FORMAZIONE-DUE-GIORNATE-DI-TIROCINIO-TRA-MARINERIA-E-WING - wp4863|nota]] |
-| 14 Ottobre 2025 | TEAM RACE OPTIMIST: TROFEO CHALLENGE CITTÀ DI CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - TEAM-RACE-OPTIMIST-TROFEO-CHALLENGE-CITTA-DI-CHIAVARI - wp4861|nota]] |

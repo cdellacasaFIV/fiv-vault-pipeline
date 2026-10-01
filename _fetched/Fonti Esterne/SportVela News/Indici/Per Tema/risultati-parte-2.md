@@ -6,6 +6,8 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Luglio 2026 | AL WORKSHOP “IL MARE CHE CAMBIA” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-03 - AL-WORKSHOP-IL-MARE-CHE-CAMBIA - wp7865|nota]] |
+| 2 Luglio 2026 | Palermo ospita il Campionato Italiano ORC Double Handed: 22 barche in regata per il titolo tricolore, equipaggi da tutta Italia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-02 - Palermo-ospita-il-Campionato-Italiano-ORC-Double-Handed-22-barche-in-regata-per-il-titolo-tricolore-equipaggi- - wp7862|nota]] |
 | 2 Luglio 2026 | Primo giorno senza regate per la Coppa Primavela Kinder Joy of moving 2026 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-02 - Primo-giorno-senza-regate-per-la-Coppa-Primavela-Kinder-Joy-of-moving-2026 - wp7855|nota]] |
 | 2 Luglio 2026 | Rimini. La vela inclusiva protagonista con l’Interzonale Hansa 303. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-02 - Rimini-La-vela-inclusiva-protagonista-con-l-Interzonale-Hansa-303 - wp7852|nota]] |
 | 1 Luglio 2026 | Aperta con una festosa cerimonia a Gaeta la Coppa Primavela Kinder Joy of moving 2026: la grande festa della vela giovanile italiana | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-01 - Aperta-con-una-festosa-cerimonia-a-Gaeta-la-Coppa-Primavela-Kinder-Joy-of-moving-2026-la-grande-festa-della-ve - wp7845|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 22 Marzo 2026 | TROFEO DURAND DE LA PENNE: 84 OPTIMIST IN GARA A STURLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-22 - TROFEO-DURAND-DE-LA-PENNE-84-OPTIMIST-IN-GARA-A-STURLA - wp6362|nota]] |
 | 20 Marzo 2026 | Reggio Calabria, la vela guarda avanti: il Consiglio Federale FIV in Calabria | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-20 - Reggio-Calabria-la-vela-guarda-avanti-il-Consiglio-Federale-FIV-in-Calabria - wp6356|nota]] |
 | 19 Marzo 2026 | Italia Cup ILCA Crotone: trionfo siciliano con Giulio Genna, podi per Nasti e Noto | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-19 - Italia-Cup-ILCA-Crotone-trionfo-siciliano-con-Giulio-Genna-podi-per-Nasti-e-Noto - wp6351|nota]] |
-| 19 Marzo 2026 | FOILING AWARDS: A GENOVA IL MEGLIO DEL MONDO FOILING | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-19 - FOILING-AWARDS-A-GENOVA-IL-MEGLIO-DEL-MONDO-FOILING - wp6348|nota]] |
-| 18 Marzo 2026 | Tita e Banti tornano in equipaggio: obiettivo Los Angeles 2028 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-18 - Tita-e-Banti-tornano-in-equipaggio-obiettivo-Los-Angeles-2028 - wp6341|nota]] |

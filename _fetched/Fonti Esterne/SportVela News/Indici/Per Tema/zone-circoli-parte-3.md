@@ -6,6 +6,8 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Aprile 2026 | IL PRINCIPE DI BORBONE DOMA AD ALASSIO LA FLOTTA SMERALDA 888 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - IL-PRINCIPE-DI-BORBONE-DOMA-AD-ALASSIO-LA-FLOTTA-SMERALDA-888 - wp6614|nota]] |
+| 13 Aprile 2026 | IMXTINENTE DI ADELIO FRIXIONE È IL VINCITORE DEL TROFEO PORTO CARLO RIVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - IMXTINENTE-DI-ADELIO-FRIXIONE-E-IL-VINCITORE-DEL-TROFEO-PORTO-CARLO-RIVA - wp6611|nota]] |
 | 13 Aprile 2026 | VENTO LEGGERO, GRANDI TALENTI: IL TIGULLIO CELEBRA LA VELA GIOVANILE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - VENTO-LEGGERO-GRANDI-TALENTI-IL-TIGULLIO-CELEBRA-LA-VELA-GIOVANILE - wp6608|nota]] |
 | 12 Aprile 2026 | Europei Formula Wing: De Amicis e Spanu d’argento, l’Italia conquista due podi assoluti a Napoli | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-12 - Europei-Formula-Wing-De-Amicis-e-Spanu-d-argento-l-Italia-conquista-due-podi-assoluti-a-Napoli - wp6605|nota]] |
 | 12 Aprile 2026 | Salerno: la cerimonia di premiazione del 44° Campionato Invernale di vela d’altura | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-12 - Salerno-la-cerimonia-di-premiazione-del-44-Campionato-Invernale-di-vela-d-altura - wp6593|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Novembre 2025 | CALENDARIO SPORTIVO YCI 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - CALENDARIO-SPORTIVO-YCI-2026 - wp5371|nota]] |
 | 20 Novembre 2025 | Formazione e scuola: il progetto con il Liceo Sportivo di Castelletto di Brenzone | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - Formazione-e-scuola-il-progetto-con-il-Liceo-Sportivo-di-Castelletto-di-Brenzone - wp5368|nota]] |
 | 20 Novembre 2025 | PARASAILING, I ZONA NO STOP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - PARASAILING-I-ZONA-NO-STOP - wp5363|nota]] |
-| 20 Novembre 2025 | FEDERICO BERGAMASCO: UN 2025 “IN VOLO” CON IL WATERFRONT SAILING GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - FEDERICO-BERGAMASCO-UN-2025-IN-VOLO-CON-IL-WATERFRONT-SAILING-GENOVA - wp5360|nota]] |
-| 19 Novembre 2025 | Le attività presenti e future del Comitato di Zona | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Le-attivita-presenti-e-future-del-Comitato-di-Zona - wp5357|nota]] |

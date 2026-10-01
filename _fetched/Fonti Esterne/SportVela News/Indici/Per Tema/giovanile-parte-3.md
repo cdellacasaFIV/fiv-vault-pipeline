@@ -6,6 +6,7 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 1 Ottobre 2025 | GIOVANNI GALLEGO DEL CN ANDORA QUINTO AI MONDIALI MASTER | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-01 - GIOVANNI-GALLEGO-DEL-CN-ANDORA-QUINTO-AI-MONDIALI-MASTER - wp4618|nota]] |
 | 30 Settembre 2025 | Youth Sailing World Championships 2025: la squadra italiana per Vilamoura | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Youth-Sailing-World-Championships-2025-la-squadra-italiana-per-Vilamoura - wp4595|nota]] |
 | 30 Settembre 2025 | Trofeo CONI 2025 – Lignano Sabbiadoro | News, Vetrina, XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - Trofeo-CONI-2025-Lignano-Sabbiadoro - wp4576|nota]] |
 | 30 Settembre 2025 | 10° TROFEO CONI: PER LA VELA VINCE IL TRENTINO | Copertina, News, Vela Giovanile, XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-30 - 10-TROFEO-CONI-PER-LA-VELA-VINCE-IL-TRENTINO - wp4573|nota]] |
@@ -255,4 +256,3 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 17 Dicembre 2023 | Youth Sailing World Championships: l’Italia conquista 6 medaglie e il Nations Trophy | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-17 - Youth-Sailing-World-Championships-l-Italia-conquista-6-medaglie-e-il-Nations-Trophy - wp1208|nota]] |
 | 16 Dicembre 2023 | Youth Sailing World Championships day5: Buzios si tinge d’Azzurro. 6 medaglie! | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-16 - Youth-Sailing-World-Championships-day5-Buzios-si-tinge-d-Azzurro-6-medaglie - wp1204|nota]] |
 | 15 Dicembre 2023 | Youth Sailing World Championships day4: Cardi – Tognocchi già oro nel 420 M/Mix | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-15 - Youth-Sailing-World-Championships-day4-Cardi-Tognocchi-gia-oro-nel-420-M-Mix - wp1198|nota]] |
-| 14 Dicembre 2023 | Youth Sailing World Championships day3: si entra nel vivo con gli italiani in grande evidenza | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-14 - Youth-Sailing-World-Championships-day3-si-entra-nel-vivo-con-gli-italiani-in-grande-evidenza - wp1195|nota]] |
