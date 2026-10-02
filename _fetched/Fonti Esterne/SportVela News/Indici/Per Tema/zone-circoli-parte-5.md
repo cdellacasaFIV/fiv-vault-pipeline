@@ -6,6 +6,9 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 16 Agosto 2025 | Campionato Europeo ILCA 2025: arriva l’argento U23 di Borio | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-16 - Campionato-Europeo-ILCA-2025-arriva-l-argento-U23-di-Borio - wp3915|nota]] |
+| 15 Agosto 2025 | Campionato Europeo ILCA 2025: day 5, primo giorno di finali | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-15 - Campionato-Europeo-ILCA-2025-day-5-primo-giorno-di-finali - wp3912|nota]] |
+| 14 Agosto 2025 | Campionato Europeo ILCA 2025: day 4, rinviate le prove per mancanza di vento | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-14 - Campionato-Europeo-ILCA-2025-day-4-rinviate-le-prove-per-mancanza-di-vento - wp3908|nota]] |
 | 13 Agosto 2025 | Due giovani premiati dal Tabo Surf Center: prime borse di studio per il windsurf giovanile | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Due-giovani-premiati-dal-Tabo-Surf-Center-prime-borse-di-studio-per-il-windsurf-giovanile - wp3905|nota]] |
 | 13 Agosto 2025 | Campionato Europeo ILCA 2025: day 3, si sono concluse oggi le qualifiche | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-13 - Campionato-Europeo-ILCA-2025-day-3-si-sono-concluse-oggi-le-qualifiche - wp3899|nota]] |
 | 12 Agosto 2025 | Campionato Europeo ILCA 2025: day 2 bene gli azzurri | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-12 - Campionato-Europeo-ILCA-2025-day-2-bene-gli-azzurri - wp3890|nota]] |

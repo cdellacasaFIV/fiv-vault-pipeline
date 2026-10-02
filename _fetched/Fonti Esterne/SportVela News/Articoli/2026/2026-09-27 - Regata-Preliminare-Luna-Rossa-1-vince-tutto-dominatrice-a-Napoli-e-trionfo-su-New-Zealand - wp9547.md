@@ -1,4 +1,4 @@
-# Regata Preliminare, Luna Rossa 1 vince tutto: dominatrice a Napoli e trionfo nel match race su New Zealand
+# Regata Preliminare, Luna Rossa 1 vince tutto: dominatrice a Napoli e trionfo su New Zealand
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.

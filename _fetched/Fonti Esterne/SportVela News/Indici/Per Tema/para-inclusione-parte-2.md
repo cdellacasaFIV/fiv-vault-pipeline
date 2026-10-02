@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 1 Dicembre 2025 | Concluso il Collegiale Giovanile FIV a Ostia – 44 atleti al lavoro verso la stagione internazionale | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - Concluso-il-Collegiale-Giovanile-FIV-a-Ostia-44-atleti-al-lavoro-verso-la-stagione-internazionale - wp5473|nota]] |
 | 1 Dicembre 2025 | IMPERIA WINTER REGATTA 2025: L’EVENTO ‘GIOVANE’ TORNA A INIZIO DICEMBRE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - IMPERIA-WINTER-REGATTA-2025-L-EVENTO-GIOVANE-TORNA-A-INIZIO-DICEMBRE - wp5468|nota]] |
 | 30 Novembre 2025 | Premiazioni Zonali 2025 della XII Zona FIV Veneto | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-30 - Premiazioni-Zonali-2025-della-XII-Zona-FIV-Veneto - wp5449|nota]] |
 | 28 Novembre 2025 | Vela inclusiva, l’Italia pronta per Mussanah. World Sailing crea la Classification Sub-Committee | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - Vela-inclusiva-l-Italia-pronta-per-Mussanah-World-Sailing-crea-la-Classification-Sub-Committee - wp5435|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Aprile 2024 | Iniziata oggi la 55ª Semaine Olympique Française de Hyères: tappa cruciale per molte nazioni impegnate nella Last Chance Regatta | Copertina, Mission Paris 2024, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-21 - Iniziata-oggi-la-55a-Semaine-Olympique-Francaise-de-Hyeres-tappa-cruciale-per-molte-nazioni-impegnate-nella-La - wp1666|nota]] |
 | 16 Aprile 2024 | Si è accesa la fiamma Olimpica: un ponte tra passato e presente | Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-16 - Si-e-accesa-la-fiamma-Olimpica-un-ponte-tra-passato-e-presente - wp1658|nota]] |
 | 13 Aprile 2024 | Lettera del Presidente Ettorre per i 97 anni della FIV | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-13 - Lettera-del-Presidente-Ettorre-per-i-97-anni-della-FIV - wp1636|nota]] |
-| 6 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: la squadra italiana vince il medagliere. Quattro medaglie: due ori e due argenti | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-la-squadra-italiana-vince-il-medagliere-Quattro-medaglie-due-ori-e-due-arg - wp1624|nota]] |

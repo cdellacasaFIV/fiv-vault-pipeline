@@ -6,6 +6,7 @@ Parte 2 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Maggio 2026 | Sport. 63 Federazioni e 3mila studenti lombardi a S. Siro per la prima giornata giovani, con Arianna Fontana, Daniele Cassioli, Don Patriciello e Federica Picchi | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-12 - Sport-63-Federazioni-e-3mila-studenti-lombardi-a-S-Siro-per-la-prima-giornata-giovani-con-Arianna-Fontana-Dani - wp7047|nota]] |
 | 12 Maggio 2026 | Vela Day FIV 2026: la XV Zona apre le porte alla vela | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-12 - Vela-Day-FIV-2026-la-XV-Zona-apre-le-porte-alla-vela - wp7044|nota]] |
 | 11 Maggio 2026 | Formula Kite, al via i Mondiali 2026: Pianosi difende il titolo a Viana do Castelo | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-11 - Formula-Kite-al-via-i-Mondiali-2026-Pianosi-difende-il-titolo-a-Viana-do-Castelo - wp7025|nota]] |
 | 11 Maggio 2026 | Antonio Squizzato Velista dell’Anno FIV con SCGarda Salò | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-11 - Antonio-Squizzato-Velista-dell-Anno-FIV-con-SCGarda-Salo - wp7020|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 3 Ottobre 2025 | VOLA ALTA LA SCUOLA VELA DEL CN RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-03 - VOLA-ALTA-LA-SCUOLA-VELA-DEL-CN-RAPALLO - wp4651|nota]] |
 | 2 Ottobre 2025 | La X Zona protagonista al Trofeo CONI 2025: argento alle Marche | X Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-02 - La-X-Zona-protagonista-al-Trofeo-CONI-2025-argento-alle-Marche - wp4643|nota]] |
 | 1 Ottobre 2025 | Mondiale Formula Kite, show in Sardegna: Maeder e Pianosi pari merito dopo la seconda giornata | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-01 - Mondiale-Formula-Kite-show-in-Sardegna-Maeder-e-Pianosi-pari-merito-dopo-la-seconda-giornata - wp4630|nota]] |
-| 1 Ottobre 2025 | TROFEO CAPIZZI A CHIAVARI: SELEZIONE COPPA ITALIA CLASSE ILCA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-01 - TROFEO-CAPIZZI-A-CHIAVARI-SELEZIONE-COPPA-ITALIA-CLASSE-ILCA - wp4621|nota]] |

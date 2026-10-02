@@ -6,6 +6,9 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 7 Luglio 2026 | Europei 49er, 49erFX e Nacra 17: al via a Eckernförde, Germani-Bertuzzi al comando del 49erFX | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-07 - Europei-49er-49erFX-e-Nacra-17-al-via-a-Eckernforde-Germani-Bertuzzi-al-comando-del-49erFX - wp7950|nota]] |
+| 7 Luglio 2026 | La XIII Zona FIV protagonista a Gaeta con gli Optimist | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-07 - La-XIII-Zona-FIV-protagonista-a-Gaeta-con-gli-Optimist - wp7946|nota]] |
+| 7 Luglio 2026 | Oltre 50 Optimist a Cattolica per la seconda Selezione Zonale della XI Zona FIV. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-07 - Oltre-50-Optimist-a-Cattolica-per-la-seconda-Selezione-Zonale-della-XI-Zona-FIV - wp7940|nota]] |
 | 7 Luglio 2026 | Mondiale 2.4mR: dal 7 al 12 luglio l’Italia a Sneek con Squizzato e Di Maria | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-07 - Mondiale-2-4mR-dal-7-al-12-luglio-l-Italia-a-Sneek-con-Squizzato-e-Di-Maria - wp7937|nota]] |
 | 6 Luglio 2026 | Alla Coppa Primavela di Gaeta trionfano i palermitani Luca Ferrer Cuccia nell’Optimist e Federico Samonà nel Techno 293 CH4 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-06 - Alla-Coppa-Primavela-di-Gaeta-trionfano-i-palermitani-Luca-Ferrer-Cuccia-nell-Optimist-e-Federico-Samona-nel-T - wp7934|nota]] |
 | 6 Luglio 2026 | La vela inclusiva approda a La Spezia: continua il viaggio di “Navigare Insieme: l’Italia senza barriere” | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-06 - La-vela-inclusiva-approda-a-La-Spezia-continua-il-viaggio-di-Navigare-Insieme-l-Italia-senza-barriere - wp7929|nota]] |
@@ -253,6 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 15 Aprile 2026 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-15 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp6635|nota]] |
 | 14 Aprile 2026 | NAVIGAZIONE A ZERO EMISSIONI NEL PORTO DI GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - NAVIGAZIONE-A-ZERO-EMISSIONI-NEL-PORTO-DI-GENOVA - wp6632|nota]] |
 | 14 Aprile 2026 | GRAND PRIX D’ITALIA DRAGON CUP 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - GRAND-PRIX-D-ITALIA-DRAGON-CUP-2026 - wp6629|nota]] |
-| 14 Aprile 2026 | Big Air, titolo italiano Under 17 per Daniele Pio Sgroia | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - Big-Air-titolo-italiano-Under-17-per-Daniele-Pio-Sgroia - wp6625|nota]] |
-| 14 Aprile 2026 | WINDSURFER: 2° PROVA CAMPIONATO ZONALE “TROFEO CITTÀ DI COGOLETO” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - WINDSURFER-2-PROVA-CAMPIONATO-ZONALE-TROFEO-CITTA-DI-COGOLETO - wp6620|nota]] |
-| 14 Aprile 2026 | MARTEDÌ 14 APRILE A “PEOPLE” SU PRIMOCANALE UNO SPECIALE DEDICATO A SPORTABILITY | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - MARTEDI-14-APRILE-A-PEOPLE-SU-PRIMOCANALE-UNO-SPECIALE-DEDICATO-A-SPORTABILITY - wp6617|nota]] |

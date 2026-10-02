@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: la squadra italiana vince il medagliere. Quattro medaglie: due ori e due argenti | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-la-squadra-italiana-vince-il-medagliere-Quattro-medaglie-due-ori-e-due-arg - wp1624|nota]] |
 | 6 Aprile 2024 | Corsi di Specializzazione Istruttori Para sailing 2024: date, sedi e informazioni essenziali | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - Corsi-di-Specializzazione-Istruttori-Para-sailing-2024-date-sedi-e-informazioni-essenziali - wp1621|nota]] |
 | 24 Marzo 2024 | Formula Kite Europeans 2024: Pianosi d’argento, Pescetto nona | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-24 - Formula-Kite-Europeans-2024-Pianosi-d-argento-Pescetto-nona - wp1546|nota]] |
 | 23 Marzo 2024 | Oro e bronzo italiano ai 2024 ILCA Under 21 European Championships | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-23 - Oro-e-bronzo-italiano-ai-2024-ILCA-Under-21-European-Championships - wp1543|nota]] |

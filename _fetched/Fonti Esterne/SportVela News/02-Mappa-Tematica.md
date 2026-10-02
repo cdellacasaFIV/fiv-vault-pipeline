@@ -5,7 +5,7 @@ Mappa mentale leggera: rimanda agli indici tematici invece di caricare centinaia
 ## Temi
 
 - [[Fonti Esterne/SportVela News/Indici/Per Tema/america-s-cup-napoli|america's cup/napoli]] (122 news)
-- giovanile (763 news, spezzato in 4 parti):
+- giovanile (764 news, spezzato in 4 parti):
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile-parte-1|giovanile-parte-1]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile-parte-2|giovanile-parte-2]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/giovanile-parte-3|giovanile-parte-3]]
@@ -18,17 +18,17 @@ Mappa mentale leggera: rimanda agli indici tematici invece di caricare centinaia
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica-parte-1|olimpica-parte-1]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica-parte-2|olimpica-parte-2]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/olimpica-parte-3|olimpica-parte-3]]
-- para/inclusione (524 news, spezzato in 3 parti):
+- para/inclusione (525 news, spezzato in 3 parti):
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/para-inclusione-parte-1|para-inclusione-parte-1]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/para-inclusione-parte-2|para-inclusione-parte-2]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/para-inclusione-parte-3|para-inclusione-parte-3]]
-- risultati (1247 news, spezzato in 5 parti):
+- risultati (1250 news, spezzato in 5 parti):
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-1|risultati-parte-1]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-2|risultati-parte-2]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-3|risultati-parte-3]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-4|risultati-parte-4]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/risultati-parte-5|risultati-parte-5]]
-- zone/circoli (1228 news, spezzato in 5 parti):
+- zone/circoli (1231 news, spezzato in 5 parti):
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli-parte-1|zone-circoli-parte-1]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli-parte-2|zone-circoli-parte-2]]
   - [[Fonti Esterne/SportVela News/Indici/Per Tema/zone-circoli-parte-3|zone-circoli-parte-3]]
@@ -37,7 +37,7 @@ Mappa mentale leggera: rimanda agli indici tematici invece di caricare centinaia
 
 ## Anni
 
-- 2026 (758 news, spezzato in 4 parti):
+- 2026 (761 news, spezzato in 4 parti):
   - [[Fonti Esterne/SportVela News/Indici/Per Anno/2026-parte-1|2026-parte-1]]
   - [[Fonti Esterne/SportVela News/Indici/Per Anno/2026-parte-2|2026-parte-2]]
   - [[Fonti Esterne/SportVela News/Indici/Per Anno/2026-parte-3|2026-parte-3]]

@@ -6,6 +6,9 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Novembre 2025 | CALENDARIO SPORTIVO YCI 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - CALENDARIO-SPORTIVO-YCI-2026 - wp5371|nota]] |
+| 20 Novembre 2025 | Formazione e scuola: il progetto con il Liceo Sportivo di Castelletto di Brenzone | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - Formazione-e-scuola-il-progetto-con-il-Liceo-Sportivo-di-Castelletto-di-Brenzone - wp5368|nota]] |
+| 20 Novembre 2025 | PARASAILING, I ZONA NO STOP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - PARASAILING-I-ZONA-NO-STOP - wp5363|nota]] |
 | 20 Novembre 2025 | FEDERICO BERGAMASCO: UN 2025 “IN VOLO” CON IL WATERFRONT SAILING GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - FEDERICO-BERGAMASCO-UN-2025-IN-VOLO-CON-IL-WATERFRONT-SAILING-GENOVA - wp5360|nota]] |
 | 19 Novembre 2025 | Le attività presenti e future del Comitato di Zona | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Le-attivita-presenti-e-future-del-Comitato-di-Zona - wp5357|nota]] |
 | 19 Novembre 2025 | Davide Foti trionfa al Marina Militare Nastro Rosa – Il Veloce 2025 | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-19 - Davide-Foti-trionfa-al-Marina-Militare-Nastro-Rosa-Il-Veloce-2025 - wp5353|nota]] |
@@ -253,6 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 25 Agosto 2025 | Circolo Vela Cesenatico. Cena sociale e prossimi appuntamenti sportivi. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-25 - Circolo-Vela-Cesenatico-Cena-sociale-e-prossimi-appuntamenti-sportivi - wp4047|nota]] |
 | 24 Agosto 2025 | Conclusi i primi raduni zonali | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-24 - Conclusi-i-primi-raduni-zonali - wp4038|nota]] |
 | 22 Agosto 2025 | Vela Viva 15: conto alla rovescia, domani le attività sul Lago Ceresio | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-22 - Vela-Viva-15-conto-alla-rovescia-domani-le-attivita-sul-Lago-Ceresio - wp4002|nota]] |
-| 16 Agosto 2025 | Campionato Europeo ILCA 2025: arriva l’argento U23 di Borio | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-16 - Campionato-Europeo-ILCA-2025-arriva-l-argento-U23-di-Borio - wp3915|nota]] |
-| 15 Agosto 2025 | Campionato Europeo ILCA 2025: day 5, primo giorno di finali | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-15 - Campionato-Europeo-ILCA-2025-day-5-primo-giorno-di-finali - wp3912|nota]] |
-| 14 Agosto 2025 | Campionato Europeo ILCA 2025: day 4, rinviate le prove per mancanza di vento | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-14 - Campionato-Europeo-ILCA-2025-day-4-rinviate-le-prove-per-mancanza-di-vento - wp3908|nota]] |

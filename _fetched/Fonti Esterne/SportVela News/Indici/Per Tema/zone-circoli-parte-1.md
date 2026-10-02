@@ -6,6 +6,9 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 1 Ottobre 2026 | A Rimini assegnati i titoli italiani RS Aero 5, 6 e 7 | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-01 - A-Rimini-assegnati-i-titoli-italiani-RS-Aero-5-6-e-7 - wp9627|nota]] |
+| 1 Ottobre 2026 | Round Aeolian Race, Deneb vince in ORC. Sagola firma il record | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-01 - Round-Aeolian-Race-Deneb-vince-in-ORC-Sagola-firma-il-record - wp9614|nota]] |
+| 1 Ottobre 2026 | Hansa 303, a Cefalù Forastieri e Lo Biundo-Mannina vincono la V prova | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-01 - Hansa-303-a-Cefalu-Forastieri-e-Lo-Biundo-Mannina-vincono-la-V-prova - wp9609|nota]] |
 | 30 Settembre 2026 | Cervia. J24 pronti per l’ottava tappa del Circuito Nazionale J24 -la Regata Nazionale-Trofeo Antonio Antonelli 2026. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-30 - Cervia-J24-pronti-per-l-ottava-tappa-del-Circuito-Nazionale-J24-la-Regata-Nazionale-Trofeo-Antonio-Antonelli-2 - wp9578|nota]] |
 | 30 Settembre 2026 | BORSE DI STUDIO CLELIA CAMBIASO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-30 - BORSE-DI-STUDIO-CLELIA-CAMBIASO-2026 - wp9580|nota]] |
 | 30 Settembre 2026 | Adriatico Wind Club, weekend di successi: Casadei vince nel contender, giovini campione italiano legend e terzo assoluto nello slalom foil. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-30 - Adriatico-Wind-Club-weekend-di-successi-Casadei-vince-nel-contender-giovini-campione-italiano-legend-e-terzo-a - wp9568|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 8 Luglio 2026 | Enrico Chieffi e Manlio Corsi vincono a Viareggio il LXII Trofeo Internazionale Emilio Benetti Historical Event ISCYRA. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-08 - Enrico-Chieffi-e-Manlio-Corsi-vincono-a-Viareggio-il-LXII-Trofeo-Internazionale-Emilio-Benetti-Historical-Even - wp7963|nota]] |
 | 8 Luglio 2026 | MILLEVELE 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-08 - MILLEVELE-2026 - wp7960|nota]] |
 | 8 Luglio 2026 | MELGES 24: NUOVO IMPORTANTE RISULTATO PER LA I ZONA E LO YC ITALIANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-08 - MELGES-24-NUOVO-IMPORTANTE-RISULTATO-PER-LA-I-ZONA-E-LO-YC-ITALIANO - wp7957|nota]] |
-| 7 Luglio 2026 | Europei 49er, 49erFX e Nacra 17: al via a Eckernförde, Germani-Bertuzzi al comando del 49erFX | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-07 - Europei-49er-49erFX-e-Nacra-17-al-via-a-Eckernforde-Germani-Bertuzzi-al-comando-del-49erFX - wp7950|nota]] |
-| 7 Luglio 2026 | La XIII Zona FIV protagonista a Gaeta con gli Optimist | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-07 - La-XIII-Zona-FIV-protagonista-a-Gaeta-con-gli-Optimist - wp7946|nota]] |
-| 7 Luglio 2026 | Oltre 50 Optimist a Cattolica per la seconda Selezione Zonale della XI Zona FIV. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-07 - Oltre-50-Optimist-a-Cattolica-per-la-seconda-Selezione-Zonale-della-XI-Zona-FIV - wp7940|nota]] |

@@ -6,6 +6,9 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Aprile 2026 | Big Air, titolo italiano Under 17 per Daniele Pio Sgroia | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - Big-Air-titolo-italiano-Under-17-per-Daniele-Pio-Sgroia - wp6625|nota]] |
+| 14 Aprile 2026 | WINDSURFER: 2° PROVA CAMPIONATO ZONALE “TROFEO CITTÀ DI COGOLETO” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - WINDSURFER-2-PROVA-CAMPIONATO-ZONALE-TROFEO-CITTA-DI-COGOLETO - wp6620|nota]] |
+| 14 Aprile 2026 | MARTEDÌ 14 APRILE A “PEOPLE” SU PRIMOCANALE UNO SPECIALE DEDICATO A SPORTABILITY | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-14 - MARTEDI-14-APRILE-A-PEOPLE-SU-PRIMOCANALE-UNO-SPECIALE-DEDICATO-A-SPORTABILITY - wp6617|nota]] |
 | 13 Aprile 2026 | IL PRINCIPE DI BORBONE DOMA AD ALASSIO LA FLOTTA SMERALDA 888 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - IL-PRINCIPE-DI-BORBONE-DOMA-AD-ALASSIO-LA-FLOTTA-SMERALDA-888 - wp6614|nota]] |
 | 13 Aprile 2026 | IMXTINENTE DI ADELIO FRIXIONE È IL VINCITORE DEL TROFEO PORTO CARLO RIVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - IMXTINENTE-DI-ADELIO-FRIXIONE-E-IL-VINCITORE-DEL-TROFEO-PORTO-CARLO-RIVA - wp6611|nota]] |
 | 13 Aprile 2026 | VENTO LEGGERO, GRANDI TALENTI: IL TIGULLIO CELEBRA LA VELA GIOVANILE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-13 - VENTO-LEGGERO-GRANDI-TALENTI-IL-TIGULLIO-CELEBRA-LA-VELA-GIOVANILE - wp6608|nota]] |
@@ -253,6 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 22 Novembre 2025 | Napoli, dall’8 al 10 dicembre il corso Boat Security&Sail | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-22 - Napoli-dall-8-al-10-dicembre-il-corso-Boat-SecurityandSail - wp5381|nota]] |
 | 21 Novembre 2025 | Sferracavallo, la vela non si ferma: dopo Nacra e 49er arriva l’Europeo iQFOiL | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - Sferracavallo-la-vela-non-si-ferma-dopo-Nacra-e-49er-arriva-l-Europeo-iQFOiL - wp5377|nota]] |
 | 21 Novembre 2025 | MATTEO IACHINO CAMPIONE MONDIALE PWA FOIL SLALOM 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - MATTEO-IACHINO-CAMPIONE-MONDIALE-PWA-FOIL-SLALOM-2025 - wp5374|nota]] |
-| 21 Novembre 2025 | CALENDARIO SPORTIVO YCI 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-21 - CALENDARIO-SPORTIVO-YCI-2026 - wp5371|nota]] |
-| 20 Novembre 2025 | Formazione e scuola: il progetto con il Liceo Sportivo di Castelletto di Brenzone | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - Formazione-e-scuola-il-progetto-con-il-Liceo-Sportivo-di-Castelletto-di-Brenzone - wp5368|nota]] |
-| 20 Novembre 2025 | PARASAILING, I ZONA NO STOP | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-20 - PARASAILING-I-ZONA-NO-STOP - wp5363|nota]] |
