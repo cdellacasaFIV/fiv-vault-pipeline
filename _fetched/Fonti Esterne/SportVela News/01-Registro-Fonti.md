@@ -1,7 +1,7 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-10-02.
+Aggiornato: 2026-10-03.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |

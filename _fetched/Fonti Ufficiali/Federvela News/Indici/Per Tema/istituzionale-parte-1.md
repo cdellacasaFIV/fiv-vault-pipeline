@@ -6,6 +6,9 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] |
+| 2 Ottobre 2026 | FIV E LEGA NAVALE ITALIANA: ACCORDO DI COLLABORAZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-E-LEGA-NAVALE-ITALIANA-ACCORDO-DI-COLLABORAZIONE - wp8254|nota]] |
+| 2 Ottobre 2026 | FIV e Red Bull Italy SailGP Team insieme per la tappa di Roma nel 2027 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-e-Red-Bull-Italy-SailGP-Team-insieme-per-la-tappa-di-Roma-nel-2027 - wp8251|nota]] |
 | 24 Settembre 2026 | America’s Cup a Napoli, online lo speciale di Sport Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-24 - America-s-Cup-a-Napoli-online-lo-speciale-di-Sport-Vela - wp8227|nota]] |
 | 18 Settembre 2026 | BLUE MARINA AWARDS 2026: A ROMA LA CERIMONIA CONCLUSIVA DELLA QUINTA EDIZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-18 - BLUE-MARINA-AWARDS-2026-A-ROMA-LA-CERIMONIA-CONCLUSIVA-DELLA-QUINTA-EDIZIONE - wp8219|nota]] |
 | 17 Settembre 2026 | Presentata a Malcesine la prima edizione del Campionato Italiano Classi Foil | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-17 - Presentata-a-Malcesine-la-prima-edizione-del-Campionato-Italiano-Classi-Foil - wp8216|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 20 Marzo 2023 | Progetti Speciali FIV, successo della prima fase | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-20 - Progetti-Speciali-FIV-successo-della-prima-fase - wp2927|nota]] |
 | 12 Marzo 2023 | Brindisi, 10-12 Marzo 2023, anche nell’Ottava Zona FIV si parte con il Para Sailing! | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-12 - Brindisi-10-12-Marzo-2023-anche-nell-Ottava-Zona-FIV-si-parte-con-il-Para-Sailing - wp6695|nota]] |
 | 10 Marzo 2023 | Invito ad effettuare un minuto di silenzio, in memoria della tragedia accaduta a Cutro | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-10 - Invito-ad-effettuare-un-minuto-di-silenzio-in-memoria-della-tragedia-accaduta-a-Cutro - wp2928|nota]] |
-| 1 Marzo 2023 | Stage iQFOiL Youth U17 – Follonica, 23-26 marzo 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-01 - Stage-iQFOiL-Youth-U17-Follonica-23-26-marzo-2023 - wp2930|nota]] |
-| 24 Febbraio 2023 | Stage Kite Foil – Cala Galera, 16-17 marzo 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-02-24 - Stage-Kite-Foil-Cala-Galera-16-17-marzo-2023 - wp2931|nota]] |
-| 24 Febbraio 2023 | CORSO NAZIONALE PER PREPARATORE FISICO DISCIPLINE VELICHE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-02-24 - CORSO-NAZIONALE-PER-PREPARATORE-FISICO-DISCIPLINE-VELICHE - wp2933|nota]] |

@@ -1,10 +1,13 @@
 # Registro fonti Federvela
 
 Stato fonte: **ufficiale FIV / Federvela**.
-Aggiornato: 2026-10-02.
+Aggiornato: 2026-10-03.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | risultati, olimpica, giovanile, istituzionale, formazione/scuola | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] | https://federvela.it/2026/10/03/borse-di-studio-per-studenti-atleti-98-milioni-dal-dipartimento-per-lo-sport-domande-fino-al-26-ottobre/ |
+| 2 Ottobre 2026 | FIV E LEGA NAVALE ITALIANA: ACCORDO DI COLLABORAZIONE | condivisa, Nazionale | giovanile, parasailing/inclusione, istituzionale, zone/circoli, formazione/scuola | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-E-LEGA-NAVALE-ITALIANA-ACCORDO-DI-COLLABORAZIONE - wp8254|nota]] | https://federvela.it/2026/10/02/fiv-e-lega-navale-italiana-accordo-di-collaborazione/ |
+| 2 Ottobre 2026 | FIV e Red Bull Italy SailGP Team insieme per la tappa di Roma nel 2027 | condivisa, Nazionale | risultati, giovanile, istituzionale, zone/circoli, formazione/scuola, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-e-Red-Bull-Italy-SailGP-Team-insieme-per-la-tappa-di-Roma-nel-2027 - wp8251|nota]] | https://federvela.it/2026/10/02/fiv-e-red-bull-italy-sailgp-team-insieme-per-la-tappa-di-roma-nel-2027/ |
 | 24 Settembre 2026 | America’s Cup a Napoli, online lo speciale di Sport Vela | condivisa, Nazionale | risultati, giovanile, parasailing/inclusione, istituzionale, america's cup/napoli, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-24 - America-s-Cup-a-Napoli-online-lo-speciale-di-Sport-Vela - wp8227|nota]] | https://federvela.it/2026/09/24/americas-cup-a-napoli-online-lo-speciale-di-sport-vela/ |
 | 23 Settembre 2026 | Studente-Atleta di alto livello 2026/2027: online il modulo FIV per la richiesta dell’attestazione | condivisa, Nazionale | risultati, olimpica, giovanile, formazione/scuola | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-23 - Studente-Atleta-di-alto-livello-2026-2027-online-il-modulo-FIV-per-la-richiesta-dell-attestazione - wp8234|nota]] | https://federvela.it/2026/09/23/studente-atleta-di-alto-livello-2026-2027-online-il-modulo-fiv-per-la-richiesta-dellattestazione/ |
 | 22 Settembre 2026 | Sconto riservato ai tesserati FIV sulla collezione ufficiale AC38 | condivisa, Nazionale | parasailing/inclusione, america's cup/napoli | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-22 - Sconto-riservato-ai-tesserati-FIV-sulla-collezione-ufficiale-AC38 - wp8224|nota]] | https://federvela.it/2026/09/22/sconto-riservato-ai-tesserati-fiv-sulla-collezione-ufficiale-ac38/ |

@@ -6,6 +6,8 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 15 Ottobre 2021 | 4° CAMPIONATO ITALIANO eSAILING | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-15 - 4-CAMPIONATO-ITALIANO-eSAILING - wp3071|nota]] |
+| 12 Ottobre 2021 | Mondiale Formula Kite a Torregrande (Oristano): anno zero e primo vero mondiale con obiettivo Parigi 2024 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-12 - Mondiale-Formula-Kite-a-Torregrande-Oristano-anno-zero-e-primo-vero-mondiale-con-obiettivo-Parigi-2024 - wp3072|nota]] |
 | 9 Ottobre 2021 | Vela, a Palermo conclusi i mondiali della Classe Paralimpica Hansa Il polacco Cichocki campione del mondo | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-09 - Vela-a-Palermo-conclusi-i-mondiali-della-Classe-Paralimpica-Hansa-Il-polacco-Cichocki-campione-del-mondo - wp6712|nota]] |
 | 8 Ottobre 2021 | Europeo ILCA 6 e ILCA 7 a Varna: quinto giorno, risale Chiara Benini Floriani | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-08 - Europeo-ILCA-6-e-ILCA-7-a-Varna-quinto-giorno-risale-Chiara-Benini-Floriani - wp3075|nota]] |
 | 6 Ottobre 2021 | Europeo ILCA 6 e ILCA 7 a Varna: day 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-06 - Europeo-ILCA-6-e-ILCA-7-a-Varna-day-3 - wp3079|nota]] |

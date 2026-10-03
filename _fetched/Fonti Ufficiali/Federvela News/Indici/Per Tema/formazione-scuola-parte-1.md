@@ -6,6 +6,9 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] |
+| 2 Ottobre 2026 | FIV E LEGA NAVALE ITALIANA: ACCORDO DI COLLABORAZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-E-LEGA-NAVALE-ITALIANA-ACCORDO-DI-COLLABORAZIONE - wp8254|nota]] |
+| 2 Ottobre 2026 | FIV e Red Bull Italy SailGP Team insieme per la tappa di Roma nel 2027 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-e-Red-Bull-Italy-SailGP-Team-insieme-per-la-tappa-di-Roma-nel-2027 - wp8251|nota]] |
 | 23 Settembre 2026 | Studente-Atleta di alto livello 2026/2027: online il modulo FIV per la richiesta dell’attestazione | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-23 - Studente-Atleta-di-alto-livello-2026-2027-online-il-modulo-FIV-per-la-richiesta-dell-attestazione - wp8234|nota]] |
 | 3 Settembre 2026 | Velando 2, la FIV alla giornata di formazione della seconda edizione del progetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-03 - Velando-2-la-FIV-alla-giornata-di-formazione-della-seconda-edizione-del-progetto - wp8202|nota]] |
 | 16 Luglio 2026 | Il CONI assegna il Collare d’Oro al Presidente Francesco Ettorre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-07-16 - Il-CONI-assegna-il-Collare-d-Oro-al-Presidente-Francesco-Ettorre - wp7989|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Febbraio 2020 | Corso UdR Nazionale – Tirrenia | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-21 - Corso-UdR-Nazionale-Tirrenia - wp3439|nota]] |
 | 18 Febbraio 2020 | Corso di aggiornamento Istruttori ParaSailing 2020 | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-18 - Corso-di-aggiornamento-Istruttori-ParaSailing-2020 - wp6730|nota]] |
 | 6 Febbraio 2020 | LA SURFISTA FLAVIA TARTAGLINI LASCIA L’ATTIVITA’ AGONISTICA | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-06 - LA-SURFISTA-FLAVIA-TARTAGLINI-LASCIA-L-ATTIVITA-AGONISTICA - wp3458|nota]] |
-| 4 Febbraio 2020 | Corso di aggiornamento Istruttori Tavole a Vela e Kiteboard | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-04 - Corso-di-aggiornamento-Istruttori-Tavole-a-Vela-e-Kiteboard - wp3459|nota]] |
-| 24 Gennaio 2020 | Corso Istruttori II Livello a Torbole | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-01-24 - Corso-Istruttori-II-Livello-a-Torbole - wp3470|nota]] |
-| 10 Gennaio 2020 | Corso Istruttori II Livello B – 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-01-10 - Corso-Istruttori-II-Livello-B-2020 - wp3478|nota]] |

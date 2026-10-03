@@ -6,6 +6,9 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Agosto 2020 | Comunicazione Organismi sportivi paralimpici su iniziative Scuola CIP “Avviso pubblico – Lo Sport Paralimpico va a Scuola” e “Progetto Nazionale per lo sport paralimpico a scuola” | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-05 - Comunicazione-Organismi-sportivi-paralimpici-su-iniziative-Scuola-CIP-Avviso-pubblico-Lo-Sport-Paralimpico-va- - wp6729|nota]] |
+| 4 Agosto 2020 | Lutto nel mondo della vela: è mancata la mamma del Consigliere Federale Luisa Franza | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-04 - Lutto-nel-mondo-della-vela-e-mancata-la-mamma-del-Consigliere-Federale-Luisa-Franza - wp3335|nota]] |
+| 3 Agosto 2020 | Lutto nel mondo della vela: è mancato il papà del Presidente IV Zona Giuseppe D’Amico | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-03 - Lutto-nel-mondo-della-vela-e-mancato-il-papa-del-Presidente-IV-Zona-Giuseppe-D-Amico - wp3337|nota]] |
 | 29 Luglio 2020 | Lutto nel mondo della vela: è mancato Carlo Alberto Zerboni | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-29 - Lutto-nel-mondo-della-vela-e-mancato-Carlo-Alberto-Zerboni - wp3338|nota]] |
 | 16 Luglio 2020 | Aggiornato il Protocollo di sicurezza Federazione Italiana Vela per la Fase 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-16 - Aggiornato-il-Protocollo-di-sicurezza-Federazione-Italiana-Vela-per-la-Fase-3 - wp3342|nota]] |
 | 1 Luglio 2020 | Stage KiteFoil Gizzeria 13-17 luglio | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-07-01 - Stage-KiteFoil-Gizzeria-13-17-luglio - wp3345|nota]] |

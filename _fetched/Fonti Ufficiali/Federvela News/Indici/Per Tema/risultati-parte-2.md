@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Ottobre 2022 | Concluse le qualificazioni alla finale del Campionato Mondiale eSailing 2022 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-06 - Concluse-le-qualificazioni-alla-finale-del-Campionato-Mondiale-eSailing-2022 - wp2967|nota]] |
+| 4 Ottobre 2022 | Colombre, il JPK 10.80 di Massimo Juris, si aggiudica il Campionato Italiano Offshore 2022 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-04 - Colombre-il-JPK-10-80-di-Massimo-Juris-si-aggiudica-il-Campionato-Italiano-Offshore-2022 - wp2968|nota]] |
 | 26 Settembre 2022 | La classifica delle Scuole Vela 2022 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-26 - La-classifica-delle-Scuole-Vela-2022 - wp2971|nota]] |
 | 25 Settembre 2022 | Assegnato il titolo italiano eSailing: il campione è Amos Di Benedetto | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-25 - Assegnato-il-titolo-italiano-eSailing-il-campione-e-Amos-Di-Benedetto - wp2972|nota]] |
 | 24 Settembre 2022 | Progetto Para Sailing: la nuova Academy della Federazione Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-09-24 - Progetto-Para-Sailing-la-nuova-Academy-della-Federazione-Vela - wp2973|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 12 Ottobre 2020 | Europeo Laser e Radial, il penultimo giorno | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-12 - Europeo-Laser-e-Radial-il-penultimo-giorno - wp3286|nota]] |
 | 11 Ottobre 2020 | EUROPEO LASER E RADIAL IN POLONIA-DAY 4 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-11 - EUROPEO-LASER-E-RADIAL-IN-POLONIA-DAY-4 - wp3288|nota]] |
 | 10 Ottobre 2020 | 2° Campionato Italiano e-sailing FIV @Barcolana: oggi le Finali a Trieste | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-10 - 2-Campionato-Italiano-e-sailing-FIV-Barcolana-oggi-le-Finali-a-Trieste - wp3289|nota]] |
-| 10 Ottobre 2020 | EUROPEO LASER E RADIAL IN POLONIA-DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-10 - EUROPEO-LASER-E-RADIAL-IN-POLONIA-DAY-3 - wp3290|nota]] |
-| 9 Ottobre 2020 | Europeo Laser, il giorno di Alessio Spadoni | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-09 - Europeo-Laser-il-giorno-di-Alessio-Spadoni - wp3291|nota]] |
