@@ -6,6 +6,9 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Aprile 2024 | Iniziata oggi la 55ª Semaine Olympique Française de Hyères: tappa cruciale per molte nazioni impegnate nella Last Chance Regatta | Copertina, Mission Paris 2024, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-21 - Iniziata-oggi-la-55a-Semaine-Olympique-Francaise-de-Hyeres-tappa-cruciale-per-molte-nazioni-impegnate-nella-La - wp1666|nota]] |
+| 16 Aprile 2024 | Si è accesa la fiamma Olimpica: un ponte tra passato e presente | Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-16 - Si-e-accesa-la-fiamma-Olimpica-un-ponte-tra-passato-e-presente - wp1658|nota]] |
+| 13 Aprile 2024 | Lettera del Presidente Ettorre per i 97 anni della FIV | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-13 - Lettera-del-Presidente-Ettorre-per-i-97-anni-della-FIV - wp1636|nota]] |
 | 6 Aprile 2024 | 53° Trofeo S.A.R. Princesa Sofìa 2024: la squadra italiana vince il medagliere. Quattro medaglie: due ori e due argenti | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 53-Trofeo-S-A-R-Princesa-Sofia-2024-la-squadra-italiana-vince-il-medagliere-Quattro-medaglie-due-ori-e-due-arg - wp1624|nota]] |
 | 6 Aprile 2024 | Corsi di Specializzazione Istruttori Para sailing 2024: date, sedi e informazioni essenziali | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - Corsi-di-Specializzazione-Istruttori-Para-sailing-2024-date-sedi-e-informazioni-essenziali - wp1621|nota]] |
 | 24 Marzo 2024 | Formula Kite Europeans 2024: Pianosi d’argento, Pescetto nona | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-24 - Formula-Kite-Europeans-2024-Pianosi-d-argento-Pescetto-nona - wp1546|nota]] |

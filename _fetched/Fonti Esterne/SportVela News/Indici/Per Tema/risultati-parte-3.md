@@ -2,10 +2,20 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 3 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Marzo 2026 | LA LNI CHIAVARI E LAVAGNA SFIDA LA LIGURIA SULLE HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - LA-LNI-CHIAVARI-E-LAVAGNA-SFIDA-LA-LIGURIA-SULLE-HANSA-303 - wp6415|nota]] |
+| 25 Marzo 2026 | CRESCERE CON LA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-25 - CRESCERE-CON-LA-VELA - wp6412|nota]] |
+| 23 Marzo 2026 | “200 GIORNI E 200 NOTTI CON ASPRA INTORNO AL MONDO” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - 200-GIORNI-E-200-NOTTI-CON-ASPRA-INTORNO-AL-MONDO - wp6407|nota]] |
+| 23 Marzo 2026 | Il Sailing Team Cesenatico protagonista: podio nella classe Hobie Dragoon e qualificazione alleselezioni nazionali Optimist | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - Il-Sailing-Team-Cesenatico-protagonista-podio-nella-classe-Hobie-Dragoon-e-qualificazione-alleselezioni-nazion - wp6425|nota]] |
+| 23 Marzo 2026 | Optimist, sette atleti della V Zona qualificati alle Selezioni Nazionali | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - Optimist-sette-atleti-della-V-Zona-qualificati-alle-Selezioni-Nazionali - wp6389|nota]] |
+| 23 Marzo 2026 | SPETTACOLARI REGATE ALLA SETTIMANA D’ ALTURA DI ALASSIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - SPETTACOLARI-REGATE-ALLA-SETTIMANA-D-ALTURA-DI-ALASSIO - wp6381|nota]] |
+| 23 Marzo 2026 | BORSA DI STUDIO CLELIA CAMBIASO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - BORSA-DI-STUDIO-CLELIA-CAMBIASO-2026 - wp6375|nota]] |
+| 23 Marzo 2026 | SUCCESSO A SANTA MARGHERITA LIGURE PER IL 1° TROFEO CHALLENGE PRESIDENTE LNI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - SUCCESSO-A-SANTA-MARGHERITA-LIGURE-PER-IL-1-TROFEO-CHALLENGE-PRESIDENTE-LNI - wp6373|nota]] |
+| 22 Marzo 2026 | Formazione, crescita e confronto nei raduni RS Feva e 29er | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-22 - Formazione-crescita-e-confronto-nei-raduni-RS-Feva-e-29er - wp6367|nota]] |
+| 22 Marzo 2026 | SARDINA CUP 2026 – Concluso il campionato invernale del Circolo Velico Riminese dopo sette prove disputate. I vincitori e la classifica. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-22 - SARDINA-CUP-2026-Concluso-il-campionato-invernale-del-Circolo-Velico-Riminese-dopo-sette-prove-disputate-I-vin - wp6364|nota]] |
 | 22 Marzo 2026 | TROFEO DURAND DE LA PENNE: 84 OPTIMIST IN GARA A STURLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-22 - TROFEO-DURAND-DE-LA-PENNE-84-OPTIMIST-IN-GARA-A-STURLA - wp6362|nota]] |
 | 20 Marzo 2026 | Reggio Calabria, la vela guarda avanti: il Consiglio Federale FIV in Calabria | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-20 - Reggio-Calabria-la-vela-guarda-avanti-il-Consiglio-Federale-FIV-in-Calabria - wp6356|nota]] |
 | 19 Marzo 2026 | Italia Cup ILCA Crotone: trionfo siciliano con Giulio Genna, podi per Nasti e Noto | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-19 - Italia-Cup-ILCA-Crotone-trionfo-siciliano-con-Giulio-Genna-podi-per-Nasti-e-Noto - wp6351|nota]] |
@@ -246,13 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 22 Ottobre 2025 | DINGHY 12’: GIROLAMO BIANCHI CONQUISTA LA COPPA LNI RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-22 - DINGHY-12-GIROLAMO-BIANCHI-CONQUISTA-LA-COPPA-LNI-RAPALLO - wp4983|nota]] |
 | 21 Ottobre 2025 | Mondiali Youth Formula Wing & Masters’ Wingfoil Open 2025 | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-21 - Mondiali-Youth-Formula-Wing-and-Masters-Wingfoil-Open-2025 - wp4969|nota]] |
 | 21 Ottobre 2025 | FOCUS 420, LNI SESTRI PONENTE – FORMAZIONE I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-21 - FOCUS-420-LNI-SESTRI-PONENTE-FORMAZIONE-I-ZONA-FIV - wp4966|nota]] |
-| 21 Ottobre 2025 | COMITATO I ZONA FIV: COLLABORAZIONE E ANALISI PER IL FUTURO DELLA VELA GIOVANILE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-21 - COMITATO-I-ZONA-FIV-COLLABORAZIONE-E-ANALISI-PER-IL-FUTURO-DELLA-VELA-GIOVANILE - wp4963|nota]] |
-| 20 Ottobre 2025 | Gli equipaggi italiani in gara al Nacra 15 European Championship 2025 | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - Gli-equipaggi-italiani-in-gara-al-Nacra-15-European-Championship-2025 - wp4951|nota]] |
-| 20 Ottobre 2025 | A SANREMO L’ULTIMO ACT DELLA Rs21 CUP YAMAMAY A “DIVA” DI BATTISTELLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - A-SANREMO-L-ULTIMO-ACT-DELLA-Rs21-CUP-YAMAMAY-A-DIVA-DI-BATTISTELLA - wp4948|nota]] |
-| 20 Ottobre 2025 | Veleziana. Kuka del Circolo Vela Cesenatico 13° assoluto. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - Veleziana-Kuka-del-Circolo-Vela-Cesenatico-13-assoluto - wp4923|nota]] |
-| 20 Ottobre 2025 | CONCLUSO “VELA PER TUTTI”, CORSO DI AGGIORNAMENTO PER DOCENTI SCOLASTICI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-20 - CONCLUSO-VELA-PER-TUTTI-CORSO-DI-AGGIORNAMENTO-PER-DOCENTI-SCOLASTICI - wp4919|nota]] |
-| 19 Ottobre 2025 | Gran finale per la Veleziana Sailing Week 2025: Venezia celebra vela, tradizione e successo | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-19 - Gran-finale-per-la-Veleziana-Sailing-Week-2025-Venezia-celebra-vela-tradizione-e-successo - wp4916|nota]] |
-| 19 Ottobre 2025 | Congrega Velisti Cesenatico – Migliore Scuola Vela Fiv 2025 | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-19 - Congrega-Velisti-Cesenatico-Migliore-Scuola-Vela-Fiv-2025 - wp4928|nota]] |
-| 16 Ottobre 2025 | Rotta del Cappero e della Malvasia: trionfa la vela tra Capo d’Orlando e Lipari | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-16 - Rotta-del-Cappero-e-della-Malvasia-trionfa-la-vela-tra-Capo-d-Orlando-e-Lipari - wp4883|nota]] |
-| 16 Ottobre 2025 | Italia e Norvegia trionfano al Foil Academy International Trophy. Babini: “Nel 2026 grandi novità per la Sardinia Sailing Cup” | Copertina, News, Para Sailing, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-16 - Italia-e-Norvegia-trionfano-al-Foil-Academy-International-Trophy-Babini-Nel-2026-grandi-novita-per-la-Sardinia - wp4880|nota]] |
-| 15 Ottobre 2025 | Foil Academy International Trophy e IDP Wing Foil Clinic: talento, resilienza e libertà nel secondo giorno di regate a Cagliari | Copertina, News, Para Sailing, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-15 - Foil-Academy-International-Trophy-e-IDP-Wing-Foil-Clinic-talento-resilienza-e-liberta-nel-secondo-giorno-di-re - wp4877|nota]] |
