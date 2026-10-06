@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Ottobre 2020 | 2° Campionato Italiano e-sailing FIV @Barcolana: oggi le Finali a Trieste | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-10 - 2-Campionato-Italiano-e-sailing-FIV-Barcolana-oggi-le-Finali-a-Trieste - wp3289|nota]] |
 | 10 Ottobre 2020 | EUROPEO LASER E RADIAL IN POLONIA-DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-10 - EUROPEO-LASER-E-RADIAL-IN-POLONIA-DAY-3 - wp3290|nota]] |
 | 9 Ottobre 2020 | Europeo Laser, il giorno di Alessio Spadoni | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-09 - Europeo-Laser-il-giorno-di-Alessio-Spadoni - wp3291|nota]] |
 | 8 Ottobre 2020 | LA CLASSIFICA COMPLETA DELLE SCUOLE VELA 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-08 - LA-CLASSIFICA-COMPLETA-DELLE-SCUOLE-VELA-2020 - wp3292|nota]] |

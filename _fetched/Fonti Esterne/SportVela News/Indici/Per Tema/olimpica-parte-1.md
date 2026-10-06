@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Ottobre 2026 | Dal 21 al 24 ottobre il CICO a Napoli: 400 velisti e il Villaggio FIV alla Rotonda Diaz | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Dal-21-al-24-ottobre-il-CICO-a-Napoli-400-velisti-e-il-Villaggio-FIV-alla-Rotonda-Diaz - wp9743|nota]] |
 | 5 Ottobre 2026 | LA PALERMITANA LAURA GRASSO CASTAGNETTA CONVOCATA PER I GIOCHI OLIMPICI GIOVANILI DI DAKAR 2026 | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - LA-PALERMITANA-LAURA-GRASSO-CASTAGNETTA-CONVOCATA-PER-I-GIOCHI-OLIMPICI-GIOVANILI-DI-DAKAR-2026 - wp9734|nota]] |
 | 3 Ottobre 2026 | MONDIALE ILCA 6, LORENZO GHIROTTI CHIUDE QUARTO A SOLI TRE PUNTI DAL PODIO | News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-03 - MONDIALE-ILCA-6-LORENZO-GHIROTTI-CHIUDE-QUARTO-A-SOLI-TRE-PUNTI-DAL-PODIO - wp9699|nota]] |
 | 3 Ottobre 2026 | iQFOiL U23, Tomasini campione del mondo. Pilloni argento, Colasanto quinta | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-03 - iQFOiL-U23-Tomasini-campione-del-mondo-Pilloni-argento-Colasanto-quinta - wp9694|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 1 Dicembre 2025 | TROFEO SOGGIU: EMOZIONI E SPETTACOLO ALLA 39ª EDIZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - TROFEO-SOGGIU-EMOZIONI-E-SPETTACOLO-ALLA-39a-EDIZIONE - wp5457|nota]] |
 | 30 Novembre 2025 | Premiazioni Zonali 2025 della XII Zona FIV Veneto | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-30 - Premiazioni-Zonali-2025-della-XII-Zona-FIV-Veneto - wp5449|nota]] |
 | 29 Novembre 2025 | Al Circolo Velico Sferracavallo i Campioni Europei iQFOiL Trionfano Daniela Peleg (ISR) e Luuc Van Opzeeland (NED) | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-29 - Al-Circolo-Velico-Sferracavallo-i-Campioni-Europei-iQFOiL-Trionfano-Daniela-Peleg-ISR-e-Luuc-Van-Opzeeland-NED - wp5446|nota]] |
-| 29 Novembre 2025 | iQFOiL Europeans – Peleg e Van Opzeeland campioni d’Europa. Italia d’oro e di bronzo nell’U23 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-29 - iQFOiL-Europeans-Peleg-e-Van-Opzeeland-campioni-d-Europa-Italia-d-oro-e-di-bronzo-nell-U23 - wp5442|nota]] |

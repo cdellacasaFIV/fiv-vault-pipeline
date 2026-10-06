@@ -6,6 +6,9 @@ Parte 3 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 27 Marzo 2026 | Trofeo Princesa Sofía 2026, da lunedì le classi olimpiche. La Baia di Palma apre il Grand Slam 2026 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-27 - Trofeo-Princesa-Sofia-2026-da-lunedi-le-classi-olimpiche-La-Baia-di-Palma-apre-il-Grand-Slam-2026 - wp6432|nota]] |
+| 27 Marzo 2026 | Fine settimana all’insegna della formazione per la V Zona FIV | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-27 - Fine-settimana-all-insegna-della-formazione-per-la-V-Zona-FIV - wp6428|nota]] |
+| 26 Marzo 2026 | Selezione Interzonale Optimist di Ancona: la XI Zona protagonista. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - Selezione-Interzonale-Optimist-di-Ancona-la-XI-Zona-protagonista - wp6420|nota]] |
 | 26 Marzo 2026 | LA LNI CHIAVARI E LAVAGNA SFIDA LA LIGURIA SULLE HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - LA-LNI-CHIAVARI-E-LAVAGNA-SFIDA-LA-LIGURIA-SULLE-HANSA-303 - wp6415|nota]] |
 | 25 Marzo 2026 | CRESCERE CON LA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-25 - CRESCERE-CON-LA-VELA - wp6412|nota]] |
 | 23 Marzo 2026 | “200 GIORNI E 200 NOTTI CON ASPRA INTORNO AL MONDO” | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - 200-GIORNI-E-200-NOTTI-CON-ASPRA-INTORNO-AL-MONDO - wp6407|nota]] |
@@ -253,6 +256,3 @@ Parte 3 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 23 Ottobre 2025 | RS-21 mela vince il Titolo Tricolore | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-23 - RS-21-mela-vince-il-Titolo-Tricolore - wp5000|nota]] |
 | 22 Ottobre 2025 | CAMPIONATO DELLA LANTERNA: VINCONO PADAWAN, DEA GITANA, JBES E AUFFA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-22 - CAMPIONATO-DELLA-LANTERNA-VINCONO-PADAWAN-DEA-GITANA-JBES-E-AUFFA - wp4994|nota]] |
 | 22 Ottobre 2025 | VELA OLIMPICA: A PALERMO E’ BOOM PER I CAMPIONATI ITALIANI CLASSI OLIMPICHE EDISON NEXT 2025, INVASIONE DI EQUIPAGGI INTERNAZIONALI | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-22 - VELA-OLIMPICA-A-PALERMO-E-BOOM-PER-I-CAMPIONATI-ITALIANI-CLASSI-OLIMPICHE-EDISON-NEXT-2025-INVASIONE-DI-EQUIPA - wp4986|nota]] |
-| 22 Ottobre 2025 | DINGHY 12’: GIROLAMO BIANCHI CONQUISTA LA COPPA LNI RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-22 - DINGHY-12-GIROLAMO-BIANCHI-CONQUISTA-LA-COPPA-LNI-RAPALLO - wp4983|nota]] |
-| 21 Ottobre 2025 | Mondiali Youth Formula Wing & Masters’ Wingfoil Open 2025 | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-21 - Mondiali-Youth-Formula-Wing-and-Masters-Wingfoil-Open-2025 - wp4969|nota]] |
-| 21 Ottobre 2025 | FOCUS 420, LNI SESTRI PONENTE – FORMAZIONE I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-21 - FOCUS-420-LNI-SESTRI-PONENTE-FORMAZIONE-I-ZONA-FIV - wp4966|nota]] |

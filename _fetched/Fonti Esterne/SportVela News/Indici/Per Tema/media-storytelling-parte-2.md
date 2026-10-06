@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 22 Marzo 2026 | TROFEO DURAND DE LA PENNE: 84 OPTIMIST IN GARA A STURLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-22 - TROFEO-DURAND-DE-LA-PENNE-84-OPTIMIST-IN-GARA-A-STURLA - wp6362|nota]] |
+| 17 Marzo 2026 | Quasi 1000 ragazzi allo stand FIV di SportExpo | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - Quasi-1000-ragazzi-allo-stand-FIV-di-SportExpo - wp6334|nota]] |
 | 17 Marzo 2026 | INVERNALE WEST LIGURIA 25/26 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - INVERNALE-WEST-LIGURIA-25-26 - wp6332|nota]] |
 | 17 Marzo 2026 | 35° CAMPIONATO INTERCIRCOLI: NEL WEEK END L’ATTO FINALE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - 35-CAMPIONATO-INTERCIRCOLI-NEL-WEEK-END-L-ATTO-FINALE - wp6320|nota]] |
 | 17 Marzo 2026 | CRESCERE CON LA VELA: OPEN DAY PER I GIOVANI DI SANREMO 21 MARZO ORE 18 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - CRESCERE-CON-LA-VELA-OPEN-DAY-PER-I-GIOVANI-DI-SANREMO-21-MARZO-ORE-18 - wp6318|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Agosto 2025 | Conclusione spettacolosa per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Conclusione-spettacolosa-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4121|nota]] |
 | 29 Agosto 2025 | Mondiale ILCA U21 2025: Mattivi argento, tre italiane nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Mondiale-ILCA-U21-2025-Mattivi-argento-tre-italiane-nella-top-ten - wp4111|nota]] |
 | 29 Agosto 2025 | Terzo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Terzo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4108|nota]] |
-| 29 Agosto 2025 | Palermo-Montecarlo: la Giovane altura dalla II zona | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Palermo-Montecarlo-la-Giovane-altura-dalla-II-zona - wp4105|nota]] |
-| 28 Agosto 2025 | Secondo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-28 - Secondo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4099|nota]] |

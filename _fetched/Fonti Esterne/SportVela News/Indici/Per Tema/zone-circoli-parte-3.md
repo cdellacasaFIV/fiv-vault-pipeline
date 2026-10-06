@@ -6,6 +6,9 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 20 Aprile 2026 | Regata Nazionale RS Feva, finale ad altissima intensità a Gargnano | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Regata-Nazionale-RS-Feva-finale-ad-altissima-intensita-a-Gargnano - wp6706|nota]] |
+| 19 Aprile 2026 | CAPITANI CORAGGIOSI SI AGGIUDICA IL TROFEO BOLETTO – CARAVELLA D’ARGENTO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-19 - CAPITANI-CORAGGIOSI-SI-AGGIUDICA-IL-TROFEO-BOLETTO-CARAVELLA-D-ARGENTO-2026 - wp6686|nota]] |
+| 19 Aprile 2026 | CAPITANI CORAGGIOSI SI AGGIUDICA IL TROFEO LUIGI BOLETTO 1973 – CARAVELLA D’ARGENTO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-19 - CAPITANI-CORAGGIOSI-SI-AGGIUDICA-IL-TROFEO-LUIGI-BOLETTO-1973-CARAVELLA-D-ARGENTO-2026 - wp6683|nota]] |
 | 18 Aprile 2026 | La vela come strumento educativo: a Roma il confronto sui progetti FIV | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-18 - La-vela-come-strumento-educativo-a-Roma-il-confronto-sui-progetti-FIV - wp6679|nota]] |
 | 17 Aprile 2026 | FRANCO MANZOLI, LO SPIRITO INFINITO DELL’ALTURA: TRIONFO ALLA RIVA X 2 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-17 - FRANCO-MANZOLI-LO-SPIRITO-INFINITO-DELL-ALTURA-TRIONFO-ALLA-RIVA-X-2 - wp6663|nota]] |
 | 16 Aprile 2026 | MELAGODO PROTAGONISTA NELL’INIZIO DI STAGIONE ORC 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-16 - MELAGODO-PROTAGONISTA-NELL-INIZIO-DI-STAGIONE-ORC-2026 - wp6657|nota]] |
@@ -253,6 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 29 Novembre 2025 | Al Circolo Velico Sferracavallo i Campioni Europei iQFOiL Trionfano Daniela Peleg (ISR) e Luuc Van Opzeeland (NED) | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-29 - Al-Circolo-Velico-Sferracavallo-i-Campioni-Europei-iQFOiL-Trionfano-Daniela-Peleg-ISR-e-Luuc-Van-Opzeeland-NED - wp5446|nota]] |
 | 28 Novembre 2025 | Vela inclusiva, l’Italia pronta per Mussanah. World Sailing crea la Classification Sub-Committee | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - Vela-inclusiva-l-Italia-pronta-per-Mussanah-World-Sailing-crea-la-Classification-Sub-Committee - wp5435|nota]] |
 | 28 Novembre 2025 | A SANREMO LE GRANDI REGATE INTERNAZIONALI E RADUNO SANGERMANI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - A-SANREMO-LE-GRANDI-REGATE-INTERNAZIONALI-E-RADUNO-SANGERMANI - wp5429|nota]] |
-| 28 Novembre 2025 | THE OCEAN RACE: | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - THE-OCEAN-RACE - wp5426|nota]] |
-| 27 Novembre 2025 | iQFOiL Europeans – Wilson e Goyard restano davanti. Maggetti terza, Tomasini e Pilloni entrano in Top 10 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-27 - iQFOiL-Europeans-Wilson-e-Goyard-restano-davanti-Maggetti-terza-Tomasini-e-Pilloni-entrano-in-Top-10 - wp5423|nota]] |
-| 26 Novembre 2025 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-26 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp5418|nota]] |

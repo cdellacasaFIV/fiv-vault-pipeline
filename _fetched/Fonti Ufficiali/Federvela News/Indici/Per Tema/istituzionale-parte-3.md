@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Agosto 2020 | Dal 25 al 29 agosto l’Italiano Altura a Gaeta | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-05 - Dal-25-al-29-agosto-l-Italiano-Altura-a-Gaeta - wp3334|nota]] |
 | 5 Agosto 2020 | Comunicazione Organismi sportivi paralimpici su iniziative Scuola CIP “Avviso pubblico – Lo Sport Paralimpico va a Scuola” e “Progetto Nazionale per lo sport paralimpico a scuola” | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-05 - Comunicazione-Organismi-sportivi-paralimpici-su-iniziative-Scuola-CIP-Avviso-pubblico-Lo-Sport-Paralimpico-va- - wp6729|nota]] |
 | 4 Agosto 2020 | Lutto nel mondo della vela: è mancata la mamma del Consigliere Federale Luisa Franza | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-04 - Lutto-nel-mondo-della-vela-e-mancata-la-mamma-del-Consigliere-Federale-Luisa-Franza - wp3335|nota]] |
 | 3 Agosto 2020 | Lutto nel mondo della vela: è mancato il papà del Presidente IV Zona Giuseppe D’Amico | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-03 - Lutto-nel-mondo-della-vela-e-mancato-il-papa-del-Presidente-IV-Zona-Giuseppe-D-Amico - wp3337|nota]] |

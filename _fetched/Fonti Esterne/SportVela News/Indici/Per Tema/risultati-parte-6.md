@@ -6,6 +6,9 @@ Parte 6 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Dicembre 2023 | Domani al via gli Youth Sailing World Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2023/2023-12-08 - Domani-al-via-gli-Youth-Sailing-World-Championships - wp1078|nota]] |
+| 21 Novembre 2023 | Tutto pronto per il Campionato del Mondo a Squadra di eSailing | e-sailing, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-11-21 - Tutto-pronto-per-il-Campionato-del-Mondo-a-Squadra-di-eSailing - wp822|nota]] |
+| 13 Novembre 2023 | Campionato Europeo Nacra 17, 49er e 49erFX 2023: tre medaglie, una qualificazione olimpica. Il DT Marchesini: “un anno di successi dedicato a Mankin” | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2023/2023-11-13 - Campionato-Europeo-Nacra-17-49er-e-49erFX-2023-tre-medaglie-una-qualificazione-olimpica-Il-DT-Marchesini-un-an - wp819|nota]] |
 | 12 Novembre 2023 | Campionato Europeo Nacra 17, 49er e 49erFX 2023: domani ultima regata e a seguire le medal race | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2023/2023-11-12 - Campionato-Europeo-Nacra-17-49er-e-49erFX-2023-domani-ultima-regata-e-a-seguire-le-medal-race - wp816|nota]] |
 | 11 Novembre 2023 | Campionato Europeo Nacra 17, 49er e 49erFX 2023: azzurri in evidenza | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2023/2023-11-11 - Campionato-Europeo-Nacra-17-49er-e-49erFX-2023-azzurri-in-evidenza - wp812|nota]] |
 | 10 Novembre 2023 | Campionato Europeo Nacra 17, 49er e 49erFX 2023: bene 49erFX e Nacra 17 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2023/2023-11-10 - Campionato-Europeo-Nacra-17-49er-e-49erFX-2023-bene-49erFX-e-Nacra-17 - wp809|nota]] |

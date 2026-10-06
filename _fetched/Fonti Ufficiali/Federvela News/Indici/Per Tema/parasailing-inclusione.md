@@ -4,6 +4,7 @@ Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] |
 | 2 Ottobre 2026 | FIV E LEGA NAVALE ITALIANA: ACCORDO DI COLLABORAZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-E-LEGA-NAVALE-ITALIANA-ACCORDO-DI-COLLABORAZIONE - wp8254|nota]] |
 | 24 Settembre 2026 | America’s Cup a Napoli, online lo speciale di Sport Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-24 - America-s-Cup-a-Napoli-online-lo-speciale-di-Sport-Vela - wp8227|nota]] |
 | 22 Settembre 2026 | Sconto riservato ai tesserati FIV sulla collezione ufficiale AC38 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-22 - Sconto-riservato-ai-tesserati-FIV-sulla-collezione-ufficiale-AC38 - wp8224|nota]] |

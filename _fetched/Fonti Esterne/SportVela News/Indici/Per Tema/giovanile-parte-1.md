@@ -6,6 +6,7 @@ Parte 1 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Ottobre 2026 | Dal 21 al 24 ottobre il CICO a Napoli: 400 velisti e il Villaggio FIV alla Rotonda Diaz | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Dal-21-al-24-ottobre-il-CICO-a-Napoli-400-velisti-e-il-Villaggio-FIV-alla-Rotonda-Diaz - wp9743|nota]] |
 | 5 Ottobre 2026 | Campionato Italiano delle Zone FIV, argento per la Sicilia | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Campionato-Italiano-delle-Zone-FIV-argento-per-la-Sicilia - wp9740|nota]] |
 | 5 Ottobre 2026 | LA PALERMITANA LAURA GRASSO CASTAGNETTA CONVOCATA PER I GIOCHI OLIMPICI GIOVANILI DI DAKAR 2026 | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - LA-PALERMITANA-LAURA-GRASSO-CASTAGNETTA-CONVOCATA-PER-I-GIOCHI-OLIMPICI-GIOVANILI-DI-DAKAR-2026 - wp9734|nota]] |
 | 5 Ottobre 2026 | AL VIA A CHIAVARI LA 58° DELLA COPPA DALLORSO, SABATO 10 E DOMENICA 11 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - AL-VIA-A-CHIAVARI-LA-58-DELLA-COPPA-DALLORSO-SABATO-10-E-DOMENICA-11 - wp9728|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Maggio 2026 | Europei ILCA 2026, Kaštela: prima giornata di regate, tre azzurri in top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-18 - Europei-ILCA-2026-Kastela-prima-giornata-di-regate-tre-azzurri-in-top-ten - wp7157|nota]] |
 | 18 Maggio 2026 | iQFOiL European Championship: prima giornata a Portimão | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-18 - iQFOiL-European-Championship-prima-giornata-a-Portimao - wp7154|nota]] |
 | 18 Maggio 2026 | RS FEVA: IL SANBÀRT BRILLA A ROMA E CONQUISTA SISTIANA CON UNA PIOGGIA DI MEDAGLIE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-18 - RS-FEVA-IL-SANBART-BRILLA-A-ROMA-E-CONQUISTA-SISTIANA-CON-UNA-PIOGGIA-DI-MEDAGLIE - wp7146|nota]] |
-| 18 Maggio 2026 | A MARCELLO DE GASPARI IL 28° TROFEO CITTÀ DI S. MARGHERITA LIGURE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-18 - A-MARCELLO-DE-GASPARI-IL-28-TROFEO-CITTA-DI-S-MARGHERITA-LIGURE - wp7131|nota]] |

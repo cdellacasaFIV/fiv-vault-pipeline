@@ -6,6 +6,8 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 29 Agosto 2025 | Palermo-Montecarlo: la Giovane altura dalla II zona | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Palermo-Montecarlo-la-Giovane-altura-dalla-II-zona - wp4105|nota]] |
+| 28 Agosto 2025 | Secondo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-28 - Secondo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4099|nota]] |
 | 27 Agosto 2025 | Primo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-27 - Primo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4093|nota]] |
 | 26 Agosto 2025 | La cerimonia di apertura lancia il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-26 - La-cerimonia-di-apertura-lancia-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4082|nota]] |
 | 22 Agosto 2025 | L’Italia vince il Campionato Europeo a Squadre Optimist 2025 a Istanbul | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-22 - L-Italia-vince-il-Campionato-Europeo-a-Squadre-Optimist-2025-a-Istanbul - wp4006|nota]] |

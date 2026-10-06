@@ -6,6 +6,9 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 28 Novembre 2025 | THE OCEAN RACE: | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - THE-OCEAN-RACE - wp5426|nota]] |
+| 27 Novembre 2025 | iQFOiL Europeans – Wilson e Goyard restano davanti. Maggetti terza, Tomasini e Pilloni entrano in Top 10 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-27 - iQFOiL-Europeans-Wilson-e-Goyard-restano-davanti-Maggetti-terza-Tomasini-e-Pilloni-entrano-in-Top-10 - wp5423|nota]] |
+| 26 Novembre 2025 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-26 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp5418|nota]] |
 | 26 Novembre 2025 | A SANREMO CINQUE SPETTACOLARI REGATE INAUGURANO L’INVERNALE DRAGONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-26 - A-SANREMO-CINQUE-SPETTACOLARI-REGATE-INAUGURANO-L-INVERNALE-DRAGONE - wp5414|nota]] |
 | 25 Novembre 2025 | Meteor, a Portici una nuova sfida all’ ombra del Vesuvio | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-25 - Meteor-a-Portici-una-nuova-sfida-all-ombra-del-Vesuvio - wp5408|nota]] |
 | 24 Novembre 2025 | WEEKEND DI ATTIVITA’ DEDICATO AGLI ASPIRANTI YEM PER L’AREA FORMAZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-24 - WEEKEND-DI-ATTIVITA-DEDICATO-AGLI-ASPIRANTI-YEM-PER-L-AREA-FORMAZIONE - wp5402|nota]] |
@@ -253,6 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Agosto 2025 | Raduno Tecnico Zonale Classe ILCA | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Raduno-Tecnico-Zonale-Classe-ILCA - wp4127|nota]] |
 | 30 Agosto 2025 | Corso di Formazione Docenti | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Corso-di-Formazione-Docenti - wp4124|nota]] |
 | 30 Agosto 2025 | Conclusione spettacolosa per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Conclusione-spettacolosa-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4121|nota]] |
-| 30 Agosto 2025 | CORSO DI MANAGEMENT SPORTIVO PER DIRIGENTI E SEGRETERIE DEI CIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - CORSO-DI-MANAGEMENT-SPORTIVO-PER-DIRIGENTI-E-SEGRETERIE-DEI-CIRCOLI - wp4116|nota]] |
-| 29 Agosto 2025 | Mondiale ILCA U21 2025: Mattivi argento, tre italiane nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Mondiale-ILCA-U21-2025-Mattivi-argento-tre-italiane-nella-top-ten - wp4111|nota]] |
-| 29 Agosto 2025 | Terzo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Terzo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4108|nota]] |

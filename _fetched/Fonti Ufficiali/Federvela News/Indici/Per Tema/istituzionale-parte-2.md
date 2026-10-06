@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Marzo 2023 | Invito ad effettuare un minuto di silenzio, in memoria della tragedia accaduta a Cutro | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-10 - Invito-ad-effettuare-un-minuto-di-silenzio-in-memoria-della-tragedia-accaduta-a-Cutro - wp2928|nota]] |
 | 1 Marzo 2023 | Stage iQFOiL Youth U17 – Follonica, 23-26 marzo 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-01 - Stage-iQFOiL-Youth-U17-Follonica-23-26-marzo-2023 - wp2930|nota]] |
 | 24 Febbraio 2023 | Stage Kite Foil – Cala Galera, 16-17 marzo 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-02-24 - Stage-Kite-Foil-Cala-Galera-16-17-marzo-2023 - wp2931|nota]] |
 | 24 Febbraio 2023 | CORSO NAZIONALE PER PREPARATORE FISICO DISCIPLINE VELICHE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-02-24 - CORSO-NAZIONALE-PER-PREPARATORE-FISICO-DISCIPLINE-VELICHE - wp2933|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Agosto 2020 | Il Presidente della FIV Francesco Ettorre, l’A.D. Eugenio Michelino e l’Assessore Valerio Vesprini da Liberi nel Vento per parlare di presente e futuro | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-21 - Il-Presidente-della-FIV-Francesco-Ettorre-l-A-D-Eugenio-Michelino-e-l-Assessore-Valerio-Vesprini-da-Liberi-nel - wp6728|nota]] |
 | 10 Agosto 2020 | La Federazione Italiana Vela indice l’Assemblea elettiva per il 19 dicembre 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-10 - La-Federazione-Italiana-Vela-indice-l-Assemblea-elettiva-per-il-19-dicembre-2020 - wp3330|nota]] |
 | 8 Agosto 2020 | Addio a Carlo Rolandi, Presidente Onorario FIV | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-08 - Addio-a-Carlo-Rolandi-Presidente-Onorario-FIV - wp3332|nota]] |
-| 5 Agosto 2020 | Dal 25 al 29 agosto l’Italiano Altura a Gaeta | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-05 - Dal-25-al-29-agosto-l-Italiano-Altura-a-Gaeta - wp3334|nota]] |

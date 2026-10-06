@@ -6,6 +6,7 @@ Parte 2 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Maggio 2026 | A MARCELLO DE GASPARI IL 28° TROFEO CITTÀ DI S. MARGHERITA LIGURE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-18 - A-MARCELLO-DE-GASPARI-IL-28-TROFEO-CITTA-DI-S-MARGHERITA-LIGURE - wp7131|nota]] |
 | 18 Maggio 2026 | Cagliari apre la Road to Naples 2027: al via la Louis Vuitton 38ª America’s Cup Preliminary Regatta | III Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-18 - Cagliari-apre-la-Road-to-Naples-2027-al-via-la-Louis-Vuitton-38a-America-s-Cup-Preliminary-Regatta - wp7125|nota]] |
 | 18 Maggio 2026 | La XIII Zona FIV celebra i protagonisti della stagione 2025 | XIII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-18 - La-XIII-Zona-FIV-celebra-i-protagonisti-della-stagione-2025 - wp7121|nota]] |
 | 18 Maggio 2026 | Trofeo Marco Rizzotti 2026: Palma de Mallorca conquista la 38ª edizione | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-18 - Trofeo-Marco-Rizzotti-2026-Palma-de-Mallorca-conquista-la-38a-edizione - wp7118|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 9 Ottobre 2025 | AL VIA IL CAMPIONATO DEL MONDO DELLA CLASSE L30 ALLO YACHT CLUB SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-09 - AL-VIA-IL-CAMPIONATO-DEL-MONDO-DELLA-CLASSE-L30-ALLO-YACHT-CLUB-SANREMO - wp4743|nota]] |
 | 7 Ottobre 2025 | EUROPEI RSFEVA: ARGENTO E BRONZO PER IL SANBÀRT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-07 - EUROPEI-RSFEVA-ARGENTO-E-BRONZO-PER-IL-SANBART - wp4725|nota]] |
 | 6 Ottobre 2025 | Nazionale OpenSkiff e RS Aero a Rimini. I vincitori | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-06 - Nazionale-OpenSkiff-e-RS-Aero-a-Rimini-I-vincitori - wp4711|nota]] |
-| 5 Ottobre 2025 | Al Club Nautico Rimini al via la VI Nazionale OpenSkiff e la V Nazionale e Campionato Italiano RS Aero | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-05 - Al-Club-Nautico-Rimini-al-via-la-VI-Nazionale-OpenSkiff-e-la-V-Nazionale-e-Campionato-Italiano-RS-Aero - wp4699|nota]] |

@@ -6,6 +6,9 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Luglio 2026 | MEETING PROVINCIALE SCUOLA VELA – LA FESTA DELLA VELA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-10 - MEETING-PROVINCIALE-SCUOLA-VELA-LA-FESTA-DELLA-VELA - wp8007|nota]] |
+| 10 Luglio 2026 | Mondiale 29er, doppietta azzurra nel Mixed: argento Salvatore-Rizzi, bronzo Demurtas-Beretta | News, Vela Giovanile, XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-10 - Mondiale-29er-doppietta-azzurra-nel-Mixed-argento-Salvatore-Rizzi-bronzo-Demurtas-Beretta - wp7998|nota]] |
+| 9 Luglio 2026 | Europei 49er, 49erFX e Nacra 17: tre equipaggi azzurri del 49er volano in Gold Fleet, Pezzilli-Torroni entrano in top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-09 - Europei-49er-49erFX-e-Nacra-17-tre-equipaggi-azzurri-del-49er-volano-in-Gold-Fleet-Pezzilli-Torroni-entrano-in - wp7994|nota]] |
 | 9 Luglio 2026 | Marina di Ravenna. Moretto vince Profumo di Legno 2026 | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-09 - Marina-di-Ravenna-Moretto-vince-Profumo-di-Legno-2026 - wp7988|nota]] |
 | 9 Luglio 2026 | Campionato Primaverile, alla Lni Napoli la premiazione della 46esima edizione | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-09 - Campionato-Primaverile-alla-Lni-Napoli-la-premiazione-della-46esima-edizione - wp7981|nota]] |
 | 9 Luglio 2026 | IL VILLAGGIO NASTRO ROSA APRE A GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-09 - IL-VILLAGGIO-NASTRO-ROSA-APRE-A-GENOVA - wp7977|nota]] |
@@ -253,6 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 20 Aprile 2026 | Semaine Olympique Française 2026, prima giornata: italiani in evidenza | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Semaine-Olympique-Francaise-2026-prima-giornata-italiani-in-evidenza - wp6721|nota]] |
 | 20 Aprile 2026 | Il Campionato Primaverile ORC è di Django WR | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Il-Campionato-Primaverile-ORC-e-di-Django-WR - wp6714|nota]] |
 | 20 Aprile 2026 | Dominio della II Zona a Marsala: Pioggia di Podi alla Prima Tappa Kinder! | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Dominio-della-II-Zona-a-Marsala-Pioggia-di-Podi-alla-Prima-Tappa-Kinder - wp6688|nota]] |
-| 20 Aprile 2026 | Regata Nazionale RS Feva, finale ad altissima intensità a Gargnano | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Regata-Nazionale-RS-Feva-finale-ad-altissima-intensita-a-Gargnano - wp6706|nota]] |
-| 19 Aprile 2026 | CAPITANI CORAGGIOSI SI AGGIUDICA IL TROFEO BOLETTO – CARAVELLA D’ARGENTO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-19 - CAPITANI-CORAGGIOSI-SI-AGGIUDICA-IL-TROFEO-BOLETTO-CARAVELLA-D-ARGENTO-2026 - wp6686|nota]] |
-| 19 Aprile 2026 | CAPITANI CORAGGIOSI SI AGGIUDICA IL TROFEO LUIGI BOLETTO 1973 – CARAVELLA D’ARGENTO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-19 - CAPITANI-CORAGGIOSI-SI-AGGIUDICA-IL-TROFEO-LUIGI-BOLETTO-1973-CARAVELLA-D-ARGENTO-2026 - wp6683|nota]] |

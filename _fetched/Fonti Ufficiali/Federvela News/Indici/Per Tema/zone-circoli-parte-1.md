@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] |
 | 2 Ottobre 2026 | FIV E LEGA NAVALE ITALIANA: ACCORDO DI COLLABORAZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-E-LEGA-NAVALE-ITALIANA-ACCORDO-DI-COLLABORAZIONE - wp8254|nota]] |
 | 2 Ottobre 2026 | FIV e Red Bull Italy SailGP Team insieme per la tappa di Roma nel 2027 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-e-Red-Bull-Italy-SailGP-Team-insieme-per-la-tappa-di-Roma-nel-2027 - wp8251|nota]] |
 | 18 Settembre 2026 | BLUE MARINA AWARDS 2026: A ROMA LA CERIMONIA CONCLUSIVA DELLA QUINTA EDIZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-18 - BLUE-MARINA-AWARDS-2026-A-ROMA-LA-CERIMONIA-CONCLUSIVA-DELLA-QUINTA-EDIZIONE - wp8219|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 28 Ottobre 2021 | Fabio Colella: “FIV insieme a World Sailing per riammettere la Vela alle Paralimpiadi” | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-28 - Fabio-Colella-FIV-insieme-a-World-Sailing-per-riammettere-la-Vela-alle-Paralimpiadi - wp6711|nota]] |
 | 26 Ottobre 2021 | LA FEDERAZIONE ITALIANA VELA PRESENTA IL NUOVO PIANO SPORTIVO 2022-2024 PER CLASSI OLIMPICHE, GIOVANILI E PARA SAILING | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-26 - LA-FEDERAZIONE-ITALIANA-VELA-PRESENTA-IL-NUOVO-PIANO-SPORTIVO-2022-2024-PER-CLASSI-OLIMPICHE-GIOVANILI-E-PARA- - wp3066|nota]] |
 | 22 Ottobre 2021 | Rinnovo Convenzione FIV / Yamaha e Cantieri Capelli: la tecnologia Yamaha e l’eccellenza Cantieri Capelli a fianco della FIV | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-22 - Rinnovo-Convenzione-FIV-Yamaha-e-Cantieri-Capelli-la-tecnologia-Yamaha-e-l-eccellenza-Cantieri-Capelli-a-fianc - wp3068|nota]] |
-| 18 Ottobre 2021 | Ci ha lasciati Sergio Allievi, storico Presidente della XV Zona | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-18 - Ci-ha-lasciati-Sergio-Allievi-storico-Presidente-della-XV-Zona - wp3069|nota]] |

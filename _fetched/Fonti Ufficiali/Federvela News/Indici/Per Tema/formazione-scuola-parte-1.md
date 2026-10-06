@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] |
 | 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] |
 | 2 Ottobre 2026 | FIV E LEGA NAVALE ITALIANA: ACCORDO DI COLLABORAZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-E-LEGA-NAVALE-ITALIANA-ACCORDO-DI-COLLABORAZIONE - wp8254|nota]] |
 | 2 Ottobre 2026 | FIV e Red Bull Italy SailGP Team insieme per la tappa di Roma nel 2027 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-e-Red-Bull-Italy-SailGP-Team-insieme-per-la-tappa-di-Roma-nel-2027 - wp8251|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Febbraio 2020 | Raduno federale Mach Race a Torre del Greco | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-21 - Raduno-federale-Mach-Race-a-Torre-del-Greco - wp3438|nota]] |
 | 21 Febbraio 2020 | Corso UdR Nazionale – Tirrenia | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-21 - Corso-UdR-Nazionale-Tirrenia - wp3439|nota]] |
 | 18 Febbraio 2020 | Corso di aggiornamento Istruttori ParaSailing 2020 | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-18 - Corso-di-aggiornamento-Istruttori-ParaSailing-2020 - wp6730|nota]] |
-| 6 Febbraio 2020 | LA SURFISTA FLAVIA TARTAGLINI LASCIA L’ATTIVITA’ AGONISTICA | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-02-06 - LA-SURFISTA-FLAVIA-TARTAGLINI-LASCIA-L-ATTIVITA-AGONISTICA - wp3458|nota]] |

@@ -3,13 +3,6 @@
 Fonte: World Sailing `Results > Overall Results`.
 Uso: accesso rapido a classifiche finali complete di classi giovanili, RS, Wing/Kite e Para Sailing.
 
-## 2.4 Metre
-
-| Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |
-| --- | --- | --- | --- | --- | --- |
-| 2026 | Para World Sailing Competition | Para Inclusive One Person Keelboat (2.4 Metre) - Para Men | 2 | [[Dati CSV/24-Metre__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-2-4-Metre-Para-Men__Sneekweek-Hansa-Liberty-2-4-Metre__f9c05f04.csv|CSV]] | https://sailing.org/regatta/sneekweek-hansa-liberty-2-4-metre?ref=NED202607RTS |
-| 2026 | Para World Sailing Competition | Para Inclusive One Person Keelboat (2.4 Metre) - Inclusive | 13 | [[Dati CSV/24-Metre__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-2-4-Metre-Inclusive__Sneekweek-Hansa-Liberty-2-4-Metre__ca936851.csv|CSV]] | https://sailing.org/regatta/sneekweek-hansa-liberty-2-4-metre?ref=NED202607RTS |
-
 ## IKA - Formula Kite
 
 | Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |

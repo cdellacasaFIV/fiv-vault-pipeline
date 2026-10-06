@@ -6,6 +6,8 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Ottobre 2026 | TRIONFO A PORTO CERVO: A “CAIM JENIALE” IL TITOLO ITALIANO CORINTHIAN J/70 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - TRIONFO-A-PORTO-CERVO-A-CAIM-JENIALE-IL-TITOLO-ITALIANO-CORINTHIAN-J-70 - wp9754|nota]] |
+| 5 Ottobre 2026 | Dal 21 al 24 ottobre il CICO a Napoli: 400 velisti e il Villaggio FIV alla Rotonda Diaz | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Dal-21-al-24-ottobre-il-CICO-a-Napoli-400-velisti-e-il-Villaggio-FIV-alla-Rotonda-Diaz - wp9743|nota]] |
 | 4 Ottobre 2026 | Online sul canale YouTube della XV Zona il video ufficiale di Vela Viva 15 2026 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-04 - Online-sul-canale-YouTube-della-XV-Zona-il-video-ufficiale-di-Vela-Viva-15-2026 - wp9722|nota]] |
 | 4 Ottobre 2026 | Campionato delle Zone FIV 2026: l’Emilia-Romagna campione a Gaeta | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-04 - Campionato-delle-Zone-FIV-2026-l-Emilia-Romagna-campione-a-Gaeta - wp9718|nota]] |
 | 3 Ottobre 2026 | EUROPEI RS FEVA, ITALIA D’ORO A RIVA DEL GARDA CON BASTINI E BARDELLI | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-03 - EUROPEI-RS-FEVA-ITALIA-D-ORO-A-RIVA-DEL-GARDA-CON-BASTINI-E-BARDELLI - wp9703|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 24 Marzo 2026 | Regate nella Baia di Oplonti, successo per la terza prova delle “Vele di Levante” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-24 - Regate-nella-Baia-di-Oplonti-successo-per-la-terza-prova-delle-Vele-di-Levante - wp6393|nota]] |
 | 23 Marzo 2026 | NIKYTA DI H2BOAT CHIUDE IL 35° CAMPIONATO INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - NIKYTA-DI-H2BOAT-CHIUDE-IL-35-CAMPIONATO-INTERCIRCOLI - wp6405|nota]] |
 | 23 Marzo 2026 | SUCCESSO A SANTA MARGHERITA LIGURE PER IL 1° TROFEO CHALLENGE PRESIDENTE LNI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - SUCCESSO-A-SANTA-MARGHERITA-LIGURE-PER-IL-1-TROFEO-CHALLENGE-PRESIDENTE-LNI - wp6373|nota]] |
-| 22 Marzo 2026 | TROFEO DURAND DE LA PENNE: 84 OPTIMIST IN GARA A STURLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-22 - TROFEO-DURAND-DE-LA-PENNE-84-OPTIMIST-IN-GARA-A-STURLA - wp6362|nota]] |
-| 17 Marzo 2026 | Quasi 1000 ragazzi allo stand FIV di SportExpo | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - Quasi-1000-ragazzi-allo-stand-FIV-di-SportExpo - wp6334|nota]] |

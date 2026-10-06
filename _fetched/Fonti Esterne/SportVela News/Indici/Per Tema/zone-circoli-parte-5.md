@@ -6,6 +6,9 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Agosto 2025 | CORSO DI MANAGEMENT SPORTIVO PER DIRIGENTI E SEGRETERIE DEI CIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - CORSO-DI-MANAGEMENT-SPORTIVO-PER-DIRIGENTI-E-SEGRETERIE-DEI-CIRCOLI - wp4116|nota]] |
+| 29 Agosto 2025 | Mondiale ILCA U21 2025: Mattivi argento, tre italiane nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Mondiale-ILCA-U21-2025-Mattivi-argento-tre-italiane-nella-top-ten - wp4111|nota]] |
+| 29 Agosto 2025 | Terzo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Terzo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4108|nota]] |
 | 29 Agosto 2025 | Palermo-Montecarlo: la Giovane altura dalla II zona | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Palermo-Montecarlo-la-Giovane-altura-dalla-II-zona - wp4105|nota]] |
 | 29 Agosto 2025 | Vela Viva 15: domani nuove attività sui laghi della XV Zona | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Vela-Viva-15-domani-nuove-attivita-sui-laghi-della-XV-Zona - wp4102|nota]] |
 | 28 Agosto 2025 | Secondo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-28 - Secondo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4099|nota]] |

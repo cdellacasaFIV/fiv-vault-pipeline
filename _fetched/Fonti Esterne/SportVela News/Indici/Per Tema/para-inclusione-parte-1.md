@@ -6,6 +6,9 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Ottobre 2026 | TRIONFO A PORTO CERVO: A “CAIM JENIALE” IL TITOLO ITALIANO CORINTHIAN J/70 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - TRIONFO-A-PORTO-CERVO-A-CAIM-JENIALE-IL-TITOLO-ITALIANO-CORINTHIAN-J-70 - wp9754|nota]] |
+| 6 Ottobre 2026 | AL SALONE NAUTICO PREMIATI I VINCITORI DEL V CAMPIONATO REGIONALE LIGURE DI VELA PARALIMPICA CLASSE HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - AL-SALONE-NAUTICO-PREMIATI-I-VINCITORI-DEL-V-CAMPIONATO-REGIONALE-LIGURE-DI-VELA-PARALIMPICA-CLASSE-HANSA-303 - wp9747|nota]] |
+| 5 Ottobre 2026 | Dal 21 al 24 ottobre il CICO a Napoli: 400 velisti e il Villaggio FIV alla Rotonda Diaz | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Dal-21-al-24-ottobre-il-CICO-a-Napoli-400-velisti-e-il-Villaggio-FIV-alla-Rotonda-Diaz - wp9743|nota]] |
 | 5 Ottobre 2026 | BORSA DI STUDIO CLELIA CAMBIASO 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - BORSA-DI-STUDIO-CLELIA-CAMBIASO-2026 - wp9737|nota]] |
 | 4 Ottobre 2026 | Online sul canale YouTube della XV Zona il video ufficiale di Vela Viva 15 2026 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-04 - Online-sul-canale-YouTube-della-XV-Zona-il-video-ufficiale-di-Vela-Viva-15-2026 - wp9722|nota]] |
 | 3 Ottobre 2026 | MONDIALI UNIVERSITARI: A SPALATO L’ITALIA CAMPIONE DEL MONDO | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-03 - MONDIALI-UNIVERSITARI-A-SPALATO-L-ITALIA-CAMPIONE-DEL-MONDO - wp9682|nota]] |
@@ -253,6 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 16 Dicembre 2025 | LNI GENOVA: UN 2025 DI SPORT E ATTIVITÀ SOCIALI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-16 - LNI-GENOVA-UN-2025-DI-SPORT-E-ATTIVITA-SOCIALI - wp5650|nota]] |
 | 15 Dicembre 2025 | VELA PARALIMPICA IN I ZONA: E’ TEMPO DI BILANCI E DI PROGETTARE IL 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-15 - VELA-PARALIMPICA-IN-I-ZONA-E-TEMPO-DI-BILANCI-E-DI-PROGETTARE-IL-2026 - wp5634|nota]] |
 | 13 Dicembre 2025 | 75 anni di Diporto Velico Veneziano: una storia che continua a scrivere futuro | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-13 - 75-anni-di-Diporto-Velico-Veneziano-una-storia-che-continua-a-scrivere-futuro - wp5625|nota]] |
-| 13 Dicembre 2025 | Mario Benzi, nuovo presidente alla guida del Circolo Velico Riminese | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-13 - Mario-Benzi-nuovo-presidente-alla-guida-del-Circolo-Velico-Riminese - wp5617|nota]] |
-| 11 Dicembre 2025 | Youth Sailing World Championships 2025: a Vilamoura i futuri protagonisti della vela mondiale giovanile. | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-11 - Youth-Sailing-World-Championships-2025-a-Vilamoura-i-futuri-protagonisti-della-vela-mondiale-giovanile - wp5584|nota]] |
-| 11 Dicembre 2025 | CORSO NODI MARINARI A RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-11 - CORSO-NODI-MARINARI-A-RAPALLO - wp5577|nota]] |

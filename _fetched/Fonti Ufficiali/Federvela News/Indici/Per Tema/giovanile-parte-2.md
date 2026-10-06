@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Ottobre 2021 | Domani la cerimonia di consegna dei Collari d’Oro a Milano | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-11 - Domani-la-cerimonia-di-consegna-dei-Collari-d-Oro-a-Milano - wp3073|nota]] |
 | 8 Ottobre 2021 | Europeo ILCA 6 e ILCA 7 a Varna: quinto giorno, risale Chiara Benini Floriani | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-08 - Europeo-ILCA-6-e-ILCA-7-a-Varna-quinto-giorno-risale-Chiara-Benini-Floriani - wp3075|nota]] |
 | 6 Ottobre 2021 | Europeo ILCA 6 e ILCA 7 a Varna: day 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-06 - Europeo-ILCA-6-e-ILCA-7-a-Varna-day-3 - wp3079|nota]] |
 | 5 Ottobre 2021 | Secondo interminabile giorno per l’Europeo ILCA 6 e ILCA 7 a Varna | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-05 - Secondo-interminabile-giorno-per-l-Europeo-ILCA-6-e-ILCA-7-a-Varna - wp3080|nota]] |

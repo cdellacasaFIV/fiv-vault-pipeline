@@ -4,6 +4,7 @@ Indice tematico delle news ufficiali Federvela collegate alla memoria FIV.
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] |
 | 2 Ottobre 2026 | FIV e Red Bull Italy SailGP Team insieme per la tappa di Roma nel 2027 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-e-Red-Bull-Italy-SailGP-Team-insieme-per-la-tappa-di-Roma-nel-2027 - wp8251|nota]] |
 | 24 Settembre 2026 | America’s Cup a Napoli, online lo speciale di Sport Vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-24 - America-s-Cup-a-Napoli-online-lo-speciale-di-Sport-Vela - wp8227|nota]] |
 | 17 Settembre 2026 | Presentata a Malcesine la prima edizione del Campionato Italiano Classi Foil | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-17 - Presentata-a-Malcesine-la-prima-edizione-del-Campionato-Italiano-Classi-Foil - wp8216|nota]] |

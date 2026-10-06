@@ -6,6 +6,7 @@ Parte 4 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 7 Marzo 2024 | 2024 49er e 49er:FX World Championships: finite le qualifiche, tre equipaggi italiani nelle Gold Fleet | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-07 - 2024-49er-e-49er-FX-World-Championships-finite-le-qualifiche-tre-equipaggi-italiani-nelle-Gold-Fleet - wp1487|nota]] |
 | 6 Marzo 2024 | 2024 49er e 49er:FX World Championships: secondo giorno, 4° Germani Bertuzzi | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-06 - 2024-49er-e-49er-FX-World-Championships-secondo-giorno-4-Germani-Bertuzzi - wp1484|nota]] |
 | 5 Marzo 2024 | 2024 49er e 49er:FX World Championships: primo giorno di qualifiche | Copertina, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-05 - 2024-49er-e-49er-FX-World-Championships-primo-giorno-di-qualifiche - wp1476|nota]] |
 | 20 Febbraio 2024 | Riparte la stagione Competitiva della Vela Virtuale primo evento dell’anno:“Il Campionato Italiano a Squadre di E-Sailing FIV “ | e-sailing, News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-02-20 - Riparte-la-stagione-Competitiva-della-Vela-Virtuale-primo-evento-dell-anno-Il-Campionato-Italiano-a-Squadre-di - wp1444|nota]] |

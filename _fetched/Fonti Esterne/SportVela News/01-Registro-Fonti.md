@@ -1,10 +1,13 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-10-05.
+Aggiornato: 2026-10-06.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 6 Ottobre 2026 | TRIONFO A PORTO CERVO: A “CAIM JENIALE” IL TITOLO ITALIANO CORINTHIAN J/70 | I Zona | risultati, para/inclusione, zone/circoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - TRIONFO-A-PORTO-CERVO-A-CAIM-JENIALE-IL-TITOLO-ITALIANO-CORINTHIAN-J-70 - wp9754|nota]] | https://sportvela.net/blog/2026/10/06/trionfo-a-porto-cervo-a-caim-jeniale-il-titolo-italiano-corinthian-j-70/ |
+| 6 Ottobre 2026 | AL SALONE NAUTICO PREMIATI I VINCITORI DEL V CAMPIONATO REGIONALE LIGURE DI VELA PARALIMPICA CLASSE HANSA 303 | I Zona | risultati, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - AL-SALONE-NAUTICO-PREMIATI-I-VINCITORI-DEL-V-CAMPIONATO-REGIONALE-LIGURE-DI-VELA-PARALIMPICA-CLASSE-HANSA-303 - wp9747|nota]] | https://sportvela.net/blog/2026/10/06/al-salone-nautico-premiati-i-vincitori-del-v-campionato-regionale-ligure-di-vela-paralimpica-classe-hansa-303/ |
+| 5 Ottobre 2026 | Dal 21 al 24 ottobre il CICO a Napoli: 400 velisti e il Villaggio FIV alla Rotonda Diaz | V Zona | risultati, olimpica, giovanile, para/inclusione, zone/circoli, america's cup/napoli, media/storytelling | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Dal-21-al-24-ottobre-il-CICO-a-Napoli-400-velisti-e-il-Villaggio-FIV-alla-Rotonda-Diaz - wp9743|nota]] | https://sportvela.net/blog/2026/10/05/dal-21-al-24-ottobre-il-cico-a-napoli-400-velisti-e-il-villaggio-fiv-alla-rotonda-diaz/ |
 | 5 Ottobre 2026 | Campionato Italiano delle Zone FIV, argento per la Sicilia | VII Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Campionato-Italiano-delle-Zone-FIV-argento-per-la-Sicilia - wp9740|nota]] | https://sportvela.net/blog/2026/10/05/campionato-italiano-delle-zone-fiv-argento-per-la-sicilia/ |
 | 5 Ottobre 2026 | BORSA DI STUDIO CLELIA CAMBIASO 2026 | I Zona | risultati, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - BORSA-DI-STUDIO-CLELIA-CAMBIASO-2026 - wp9737|nota]] | https://sportvela.net/blog/2026/10/05/borsa-di-studio-clelia-cambiaso-2026-2/ |
 | 5 Ottobre 2026 | LA PALERMITANA LAURA GRASSO CASTAGNETTA CONVOCATA PER I GIOCHI OLIMPICI GIOVANILI DI DAKAR 2026 | Copertina, News, Vela Giovanile, Vetrina | risultati, olimpica, giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - LA-PALERMITANA-LAURA-GRASSO-CASTAGNETTA-CONVOCATA-PER-I-GIOCHI-OLIMPICI-GIOVANILI-DI-DAKAR-2026 - wp9734|nota]] | https://sportvela.net/blog/2026/10/05/la-palermitana-laura-grasso-castagnetta-convocata-per-i-giochi-olimpici-giovanili-di-dakar-2026/ |

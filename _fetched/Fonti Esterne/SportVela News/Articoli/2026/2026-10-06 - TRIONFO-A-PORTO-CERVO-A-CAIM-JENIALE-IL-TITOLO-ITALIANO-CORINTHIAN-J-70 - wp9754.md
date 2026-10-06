@@ -1,32 +1,32 @@
-# Campionato Italiano delle Zone FIV, argento per la Sicilia
+# TRIONFO A PORTO CERVO: A “CAIM JENIALE” IL TITOLO ITALIANO CORINTHIAN J/70
 
 Stato fonte: **fonte esterna SportVela**.
 Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World Sailing prima di usare come storico ufficiale risultati.
 
 ## Fonte
 
-- Data SportVela: 5 Ottobre 2026
-- Link: https://sportvela.net/blog/2026/10/05/campionato-italiano-delle-zone-fiv-argento-per-la-sicilia/
-- Categorie: VII Zona
+- Data SportVela: 6 Ottobre 2026
+- Link: https://sportvela.net/blog/2026/10/06/trionfo-a-porto-cervo-a-caim-jeniale-il-titolo-italiano-corinthian-j-70/
+- Categorie: I Zona
 
 ## Perche' tenerla
 
-- Filoni: risultati, giovanile, zone/circoli
+- Filoni: risultati, para/inclusione, zone/circoli, media/storytelling
 - Valore: aiuta a ricostruire contesto, narrativa, territori/circoli, risultati o iniziative collegate alla memoria FIV.
 
 ## Sintesi operativa
 
-- Temi operativi: risultati, giovanile, zone/circoli.
-- Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, territori, circoli e zone.
+- Temi operativi: risultati, para/inclusione, zone/circoli, media/storytelling.
+- Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone.
 - Classi/discipline citate: non isolate automaticamente.
-- Nomi, circoli o luoghi da valutare: Campionato Italiano, Zone FIV, Sicilia La VII Zona, FIV Sicilia, Zone, Gaeta, La VII Zona FIV, Sicilia, Emilia Romagna, Lazio., Cecilia Bollo, CN NIC Catania, Alfredo Salerno e Federico, Benfante.
-- Numeri/date utili da verificare: 25.
+- Nomi, circoli o luoghi da valutare: TRIONFO, PORTO CERVO, CAIM JENIALE, IL TITOLO ITALIANO CORINTHIAN, Dopo, Costa Smeralda, Campionato Italiano, Classe, CAIM Jeniale. L’imbarcazione, Massimo Rama, Yacht Club Italiano, Campione Italiano, Corinthian, Curve. L’evento.
+- Numeri/date utili da verificare: 70, 5, 2, 18, 13, 15, 2026, 10, 05.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 
 ## Collegamenti utili
 
 - [[World Sailing - Mappa Atleti e Classifiche]]
-- [[World Sailing Youth Para Results/02-Indice-Classifiche-Finali|Youth & Para Results]]
+- [[Istituzionale FIV/00-Overview|Istituzionale FIV]]
 - [[comunicati stampa sportivi/_Indice-Atleti-Circoli|Atleti e circoli]]
 - [[Modelli/Modello-News-Evento|Modello news evento]]
 
