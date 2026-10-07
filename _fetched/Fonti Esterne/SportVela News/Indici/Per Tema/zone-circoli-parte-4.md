@@ -6,6 +6,10 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Novembre 2025 | Premiazioni Zonali 2025 della XII Zona FIV Veneto | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-30 - Premiazioni-Zonali-2025-della-XII-Zona-FIV-Veneto - wp5449|nota]] |
+| 29 Novembre 2025 | Al Circolo Velico Sferracavallo i Campioni Europei iQFOiL Trionfano Daniela Peleg (ISR) e Luuc Van Opzeeland (NED) | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-29 - Al-Circolo-Velico-Sferracavallo-i-Campioni-Europei-iQFOiL-Trionfano-Daniela-Peleg-ISR-e-Luuc-Van-Opzeeland-NED - wp5446|nota]] |
+| 28 Novembre 2025 | Vela inclusiva, l’Italia pronta per Mussanah. World Sailing crea la Classification Sub-Committee | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - Vela-inclusiva-l-Italia-pronta-per-Mussanah-World-Sailing-crea-la-Classification-Sub-Committee - wp5435|nota]] |
+| 28 Novembre 2025 | A SANREMO LE GRANDI REGATE INTERNAZIONALI E RADUNO SANGERMANI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - A-SANREMO-LE-GRANDI-REGATE-INTERNAZIONALI-E-RADUNO-SANGERMANI - wp5429|nota]] |
 | 28 Novembre 2025 | THE OCEAN RACE: | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - THE-OCEAN-RACE - wp5426|nota]] |
 | 27 Novembre 2025 | iQFOiL Europeans – Wilson e Goyard restano davanti. Maggetti terza, Tomasini e Pilloni entrano in Top 10 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-27 - iQFOiL-Europeans-Wilson-e-Goyard-restano-davanti-Maggetti-terza-Tomasini-e-Pilloni-entrano-in-Top-10 - wp5423|nota]] |
 | 26 Novembre 2025 | LE PROSSIME REGATE E VELEGGIATE IN LIGURIA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-26 - LE-PROSSIME-REGATE-E-VELEGGIATE-IN-LIGURIA - wp5418|nota]] |
@@ -252,7 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 1 Settembre 2025 | THE OCEAN RACE EUROPE: PASSAGGIO DI BANDIERA NIZZA-GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - THE-OCEAN-RACE-EUROPE-PASSAGGIO-DI-BANDIERA-NIZZA-GENOVA - wp4135|nota]] |
 | 1 Settembre 2025 | TROFEO TUA-ORLANDO DEL CV CAPO VERDE: ALL’INSEGNA DELLA SOLIDARIETÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - TROFEO-TUA-ORLANDO-DEL-CV-CAPO-VERDE-ALL-INSEGNA-DELLA-SOLIDARIETA - wp4132|nota]] |
 | 31 Agosto 2025 | Campionato Italiano Giovanile delle Classi In Doppio 2025. I risultati dell’XI Zona | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-2025-I-risultati-dell-XI-Zona - wp4150|nota]] |
-| 31 Agosto 2025 | GLI ATLETI DELLA I ZONA SUL PODIO DEI CAMPIONATI ITALIANI CLASSI IN DOPPIO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - GLI-ATLETI-DELLA-I-ZONA-SUL-PODIO-DEI-CAMPIONATI-ITALIANI-CLASSI-IN-DOPPIO-2025 - wp4130|nota]] |
-| 30 Agosto 2025 | Raduno Tecnico Zonale Classe ILCA | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Raduno-Tecnico-Zonale-Classe-ILCA - wp4127|nota]] |
-| 30 Agosto 2025 | Corso di Formazione Docenti | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Corso-di-Formazione-Docenti - wp4124|nota]] |
-| 30 Agosto 2025 | Conclusione spettacolosa per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Conclusione-spettacolosa-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4121|nota]] |

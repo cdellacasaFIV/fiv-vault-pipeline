@@ -6,6 +6,9 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 22 Giugno 2024 | Selezione Team U19 per Youth World Sailing Championships sul Lago di Garda, 12-20 luglio 2024 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-22 - Selezione-Team-U19-per-Youth-World-Sailing-Championships-sul-Lago-di-Garda-12-20-luglio-2024 - wp1844|nota]] |
+| 18 Giugno 2024 | Conclusi i Campionati Europei Windsurfer | News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-18 - Conclusi-i-Campionati-Europei-Windsurfer - wp1837|nota]] |
+| 10 Giugno 2024 | Pezzilli-Torroni trionfano ai Campionati Europei 49er 2024 U23 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-10 - Pezzilli-Torroni-trionfano-ai-Campionati-Europei-49er-2024-U23 - wp1816|nota]] |
 | 3 Giugno 2024 | Nacra 17 European Championship 2024 a Sferracavallo | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-03 - Nacra-17-European-Championship-2024-a-Sferracavallo - wp1813|nota]] |
 | 30 Maggio 2024 | L’Italia della Vela si prepara per le Olimpiadi di Parigi 2024: squadra al completo a meno di sessanta giorni dall’evento | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-30 - L-Italia-della-Vela-si-prepara-per-le-Olimpiadi-di-Parigi-2024-squadra-al-completo-a-meno-di-sessanta-giorni-d - wp1810|nota]] |
 | 30 Maggio 2024 | A Cagliari il Nacra 17, 49er and FX World Championship 2025 | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-30 - A-Cagliari-il-Nacra-17-49er-and-FX-World-Championship-2025 - wp1798|nota]] |

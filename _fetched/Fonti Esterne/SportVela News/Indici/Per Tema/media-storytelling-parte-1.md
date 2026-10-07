@@ -6,6 +6,8 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Ottobre 2026 | I ZONA FIV: QUINTO POSTO A GAETA NEL CAMPIONATO ITALIANO DELLE ZONE, A UN SOFFIO DAL PODIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - I-ZONA-FIV-QUINTO-POSTO-A-GAETA-NEL-CAMPIONATO-ITALIANO-DELLE-ZONE-A-UN-SOFFIO-DAL-PODIO - wp9781|nota]] |
+| 6 Ottobre 2026 | Portimão capitale della vela inclusiva: 222 atleti da 40 nazioni e la sfida di Brisbane 2032 | News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - Portimao-capitale-della-vela-inclusiva-222-atleti-da-40-nazioni-e-la-sfida-di-Brisbane-2032 - wp9758|nota]] |
 | 6 Ottobre 2026 | TRIONFO A PORTO CERVO: A “CAIM JENIALE” IL TITOLO ITALIANO CORINTHIAN J/70 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - TRIONFO-A-PORTO-CERVO-A-CAIM-JENIALE-IL-TITOLO-ITALIANO-CORINTHIAN-J-70 - wp9754|nota]] |
 | 5 Ottobre 2026 | Dal 21 al 24 ottobre il CICO a Napoli: 400 velisti e il Villaggio FIV alla Rotonda Diaz | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Dal-21-al-24-ottobre-il-CICO-a-Napoli-400-velisti-e-il-Villaggio-FIV-alla-Rotonda-Diaz - wp9743|nota]] |
 | 4 Ottobre 2026 | Online sul canale YouTube della XV Zona il video ufficiale di Vela Viva 15 2026 | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-04 - Online-sul-canale-YouTube-della-XV-Zona-il-video-ufficiale-di-Vela-Viva-15-2026 - wp9722|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Marzo 2026 | Selezione Interzonale Optimist di Ancona: la XI Zona protagonista. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - Selezione-Interzonale-Optimist-di-Ancona-la-XI-Zona-protagonista - wp6420|nota]] |
 | 26 Marzo 2026 | IL COMITATO I ZONA FIV PROMUOVE IL CORSO OSR CON UMBERTO VERNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - IL-COMITATO-I-ZONA-FIV-PROMUOVE-IL-CORSO-OSR-CON-UMBERTO-VERNA - wp6418|nota]] |
 | 24 Marzo 2026 | Regate nella Baia di Oplonti, successo per la terza prova delle “Vele di Levante” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-24 - Regate-nella-Baia-di-Oplonti-successo-per-la-terza-prova-delle-Vele-di-Levante - wp6393|nota]] |
-| 23 Marzo 2026 | NIKYTA DI H2BOAT CHIUDE IL 35° CAMPIONATO INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - NIKYTA-DI-H2BOAT-CHIUDE-IL-35-CAMPIONATO-INTERCIRCOLI - wp6405|nota]] |
-| 23 Marzo 2026 | SUCCESSO A SANTA MARGHERITA LIGURE PER IL 1° TROFEO CHALLENGE PRESIDENTE LNI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - SUCCESSO-A-SANTA-MARGHERITA-LIGURE-PER-IL-1-TROFEO-CHALLENGE-PRESIDENTE-LNI - wp6373|nota]] |

@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Marzo 2026 | NIKYTA DI H2BOAT CHIUDE IL 35° CAMPIONATO INTERCIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - NIKYTA-DI-H2BOAT-CHIUDE-IL-35-CAMPIONATO-INTERCIRCOLI - wp6405|nota]] |
+| 23 Marzo 2026 | SUCCESSO A SANTA MARGHERITA LIGURE PER IL 1° TROFEO CHALLENGE PRESIDENTE LNI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-23 - SUCCESSO-A-SANTA-MARGHERITA-LIGURE-PER-IL-1-TROFEO-CHALLENGE-PRESIDENTE-LNI - wp6373|nota]] |
 | 22 Marzo 2026 | TROFEO DURAND DE LA PENNE: 84 OPTIMIST IN GARA A STURLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-22 - TROFEO-DURAND-DE-LA-PENNE-84-OPTIMIST-IN-GARA-A-STURLA - wp6362|nota]] |
 | 17 Marzo 2026 | Quasi 1000 ragazzi allo stand FIV di SportExpo | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - Quasi-1000-ragazzi-allo-stand-FIV-di-SportExpo - wp6334|nota]] |
 | 17 Marzo 2026 | INVERNALE WEST LIGURIA 25/26 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-17 - INVERNALE-WEST-LIGURIA-25-26 - wp6332|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Agosto 2025 | Raduno Tecnico Zonale Classe ILCA | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Raduno-Tecnico-Zonale-Classe-ILCA - wp4127|nota]] |
 | 30 Agosto 2025 | Corso di Formazione Docenti | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Corso-di-Formazione-Docenti - wp4124|nota]] |
 | 30 Agosto 2025 | Conclusione spettacolosa per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Conclusione-spettacolosa-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4121|nota]] |
-| 29 Agosto 2025 | Mondiale ILCA U21 2025: Mattivi argento, tre italiane nella top ten | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Mondiale-ILCA-U21-2025-Mattivi-argento-tre-italiane-nella-top-ten - wp4111|nota]] |
-| 29 Agosto 2025 | Terzo giorno di regate per il Campionato Italiano Giovanile delle Classi In Doppio di Formia 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-29 - Terzo-giorno-di-regate-per-il-Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-di-Formia-2025 - wp4108|nota]] |

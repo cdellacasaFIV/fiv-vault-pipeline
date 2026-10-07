@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Aprile 2024 | Sesto giorno alla 55ª Semaine Olympique Française di Hyères: Ferrari-Dubbini primi, Berta-Festo secondi nel Mixed Dinghy; Ferrarese-Chistè sesti e Crivelli Visconti-Calabrò ottavi nello skiff | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-26 - Sesto-giorno-alla-55a-Semaine-Olympique-Francaise-di-Hyeres-Ferrari-Dubbini-primi-Berta-Festo-secondi-nel-Mixe - wp1688|nota]] |
 | 25 Aprile 2024 | Quinto giorno alla 55ª Semaine Olympique Française di Hyères: domani Medal Race per il Mixed Dinghy qualificato senza patemi | Copertina, Mission Paris 2024, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-25 - Quinto-giorno-alla-55a-Semaine-Olympique-Francaise-di-Hyeres-domani-Medal-Race-per-il-Mixed-Dinghy-qualificato - wp1685|nota]] |
 | 24 Aprile 2024 | Quarto giorno alla 55ª Semaine Olympique Française di Hyères: da domani si iniziano a chiudere alcune discipline | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-24 - Quarto-giorno-alla-55a-Semaine-Olympique-Francaise-di-Hyeres-da-domani-si-iniziano-a-chiudere-alcune-disciplin - wp1682|nota]] |
 | 22 Aprile 2024 | Un mare di inclusione – La vela abbraccia tutti | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-22 - Un-mare-di-inclusione-La-vela-abbraccia-tutti - wp1669|nota]] |
