@@ -6,6 +6,10 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Luglio 2024 | Youth Sailing World Championships: domani le prime regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-14 - Youth-Sailing-World-Championships-domani-le-prime-regate - wp1893|nota]] |
+| 13 Luglio 2024 | Cerimonia di apertura degli Youth Sailing World Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-13 - Cerimonia-di-apertura-degli-Youth-Sailing-World-Championships - wp1883|nota]] |
+| 12 Luglio 2024 | Youth Sailing World Championships: domani la cerimonia di apertura | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-12 - Youth-Sailing-World-Championships-domani-la-cerimonia-di-apertura - wp1880|nota]] |
+| 24 Giugno 2024 | CAMPIONATO ITALIANO VELA D’ALTURA EDISON NEXT BRINDISI 2024 | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-24 - CAMPIONATO-ITALIANO-VELA-D-ALTURA-EDISON-NEXT-BRINDISI-2024 - wp1847|nota]] |
 | 22 Giugno 2024 | Selezione Team U19 per Youth World Sailing Championships sul Lago di Garda, 12-20 luglio 2024 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-22 - Selezione-Team-U19-per-Youth-World-Sailing-Championships-sul-Lago-di-Garda-12-20-luglio-2024 - wp1844|nota]] |
 | 18 Giugno 2024 | Conclusi i Campionati Europei Windsurfer | News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-18 - Conclusi-i-Campionati-Europei-Windsurfer - wp1837|nota]] |
 | 10 Giugno 2024 | Pezzilli-Torroni trionfano ai Campionati Europei 49er 2024 U23 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-10 - Pezzilli-Torroni-trionfano-ai-Campionati-Europei-49er-2024-U23 - wp1816|nota]] |

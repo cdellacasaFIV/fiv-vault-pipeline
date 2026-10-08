@@ -6,6 +6,10 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Ottobre 2026 | Brisbane 2032 presenta l’emblema: un cacatua tra fiamma e Queensland | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Brisbane-2032-presenta-l-emblema-un-cacatua-tra-fiamma-e-Queensland - wp9822|nota]] |
+| 8 Ottobre 2026 | iQFOiL: LEONARDO TOMASINI, UNA CRESCITA CONTINUA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - iQFOiL-LEONARDO-TOMASINI-UNA-CRESCITA-CONTINUA - wp9803|nota]] |
+| 8 Ottobre 2026 | Primazona NEWS n. 81 di giovedì 8 ottobre 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Primazona-NEWS-n-81-di-giovedi-8-ottobre-2026 - wp9814|nota]] |
+| 8 Ottobre 2026 | SPORTABILITY SU PEOPLE: LE STORIE DELLO SPORT DI TUTTE LE ABILITÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - SPORTABILITY-SU-PEOPLE-LE-STORIE-DELLO-SPORT-DI-TUTTE-LE-ABILITA - wp9807|nota]] |
 | 6 Ottobre 2026 | I ZONA FIV: QUINTO POSTO A GAETA NEL CAMPIONATO ITALIANO DELLE ZONE, A UN SOFFIO DAL PODIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - I-ZONA-FIV-QUINTO-POSTO-A-GAETA-NEL-CAMPIONATO-ITALIANO-DELLE-ZONE-A-UN-SOFFIO-DAL-PODIO - wp9781|nota]] |
 | 6 Ottobre 2026 | Portimão capitale della vela inclusiva: 222 atleti da 40 nazioni e la sfida di Brisbane 2032 | News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - Portimao-capitale-della-vela-inclusiva-222-atleti-da-40-nazioni-e-la-sfida-di-Brisbane-2032 - wp9758|nota]] |
 | 6 Ottobre 2026 | TRIONFO A PORTO CERVO: A “CAIM JENIALE” IL TITOLO ITALIANO CORINTHIAN J/70 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - TRIONFO-A-PORTO-CERVO-A-CAIM-JENIALE-IL-TITOLO-ITALIANO-CORINTHIAN-J-70 - wp9754|nota]] |
@@ -252,7 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Marzo 2026 | WASZP GAMES 2026: DE SANTIS BRILLA A PENSACOLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - WASZP-GAMES-2026-DE-SANTIS-BRILLA-A-PENSACOLA - wp6449|nota]] |
 | 29 Marzo 2026 | Nel 2027 i WASZP Games tornano sul Lago di Garda | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-29 - Nel-2027-i-WASZP-Games-tornano-sul-Lago-di-Garda - wp6435|nota]] |
 | 28 Marzo 2026 | LA STORIA DI AMBROGIO BECCARIA RACCONTATA AL CIRCOLO VELE VERNAZZOLESI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-28 - LA-STORIA-DI-AMBROGIO-BECCARIA-RACCONTATA-AL-CIRCOLO-VELE-VERNAZZOLESI - wp6441|nota]] |
-| 27 Marzo 2026 | Trofeo Princesa Sofía 2026, da lunedì le classi olimpiche. La Baia di Palma apre il Grand Slam 2026 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-27 - Trofeo-Princesa-Sofia-2026-da-lunedi-le-classi-olimpiche-La-Baia-di-Palma-apre-il-Grand-Slam-2026 - wp6432|nota]] |
-| 26 Marzo 2026 | Selezione Interzonale Optimist di Ancona: la XI Zona protagonista. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - Selezione-Interzonale-Optimist-di-Ancona-la-XI-Zona-protagonista - wp6420|nota]] |
-| 26 Marzo 2026 | IL COMITATO I ZONA FIV PROMUOVE IL CORSO OSR CON UMBERTO VERNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-26 - IL-COMITATO-I-ZONA-FIV-PROMUOVE-IL-CORSO-OSR-CON-UMBERTO-VERNA - wp6418|nota]] |
-| 24 Marzo 2026 | Regate nella Baia di Oplonti, successo per la terza prova delle “Vele di Levante” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-24 - Regate-nella-Baia-di-Oplonti-successo-per-la-terza-prova-delle-Vele-di-Levante - wp6393|nota]] |

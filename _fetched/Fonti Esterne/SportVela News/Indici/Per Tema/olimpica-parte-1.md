@@ -6,6 +6,10 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Ottobre 2026 | ILCA U21 Europei 2026: a Bodrum 191 velisti da 40 nazioni | News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - ILCA-U21-Europei-2026-a-Bodrum-191-velisti-da-40-nazioni - wp9826|nota]] |
+| 8 Ottobre 2026 | Brisbane 2032 presenta l’emblema: un cacatua tra fiamma e Queensland | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Brisbane-2032-presenta-l-emblema-un-cacatua-tra-fiamma-e-Queensland - wp9822|nota]] |
+| 8 Ottobre 2026 | iQFOiL: LEONARDO TOMASINI, UNA CRESCITA CONTINUA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - iQFOiL-LEONARDO-TOMASINI-UNA-CRESCITA-CONTINUA - wp9803|nota]] |
+| 8 Ottobre 2026 | Primazona NEWS n. 81 di giovedì 8 ottobre 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Primazona-NEWS-n-81-di-giovedi-8-ottobre-2026 - wp9814|nota]] |
 | 6 Ottobre 2026 | I ZONA FIV: QUINTO POSTO A GAETA NEL CAMPIONATO ITALIANO DELLE ZONE, A UN SOFFIO DAL PODIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - I-ZONA-FIV-QUINTO-POSTO-A-GAETA-NEL-CAMPIONATO-ITALIANO-DELLE-ZONE-A-UN-SOFFIO-DAL-PODIO - wp9781|nota]] |
 | 6 Ottobre 2026 | CAMPIONATO ITALIANO DELLE ZONE FIV A GAETA | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - CAMPIONATO-ITALIANO-DELLE-ZONE-FIV-A-GAETA - wp9769|nota]] |
 | 6 Ottobre 2026 | Portimão capitale della vela inclusiva: 222 atleti da 40 nazioni e la sfida di Brisbane 2032 | News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - Portimao-capitale-della-vela-inclusiva-222-atleti-da-40-nazioni-e-la-sfida-di-Brisbane-2032 - wp9758|nota]] |
@@ -252,7 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 9 Dicembre 2025 | IMPERIA WINTER REGATTA: VENTO E TANTE REGATE CHIUDONO L’EDIZIONE NUMERO 36 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-09 - IMPERIA-WINTER-REGATTA-VENTO-E-TANTE-REGATE-CHIUDONO-L-EDIZIONE-NUMERO-36 - wp5548|nota]] |
 | 8 Dicembre 2025 | 36ma IMPERIA WINTER REGATTA: TERZA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - 36ma-IMPERIA-WINTER-REGATTA-TERZA-GIORNATA - wp5533|nota]] |
 | 8 Dicembre 2025 | L’Italia vince il primo storico Europeo Team Racing ILCA ad Atene | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - L-Italia-vince-il-primo-storico-Europeo-Team-Racing-ILCA-ad-Atene - wp5527|nota]] |
-| 7 Dicembre 2025 | 36ma Imperia Winter Regatta: Il vento leggero impone un lento procedere | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-07 - 36ma-Imperia-Winter-Regatta-Il-vento-leggero-impone-un-lento-procedere - wp5518|nota]] |
-| 3 Dicembre 2025 | NAZIONALE SWITCH: SECONDO POSTO ASSOLUTO PER FEDERICO BERGAMASCO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-03 - NAZIONALE-SWITCH-SECONDO-POSTO-ASSOLUTO-PER-FEDERICO-BERGAMASCO - wp5498|nota]] |
-| 1 Dicembre 2025 | Concluso il Collegiale Giovanile FIV a Ostia – 44 atleti al lavoro verso la stagione internazionale | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - Concluso-il-Collegiale-Giovanile-FIV-a-Ostia-44-atleti-al-lavoro-verso-la-stagione-internazionale - wp5473|nota]] |
-| 1 Dicembre 2025 | IMPERIA WINTER REGATTA 2025: L’EVENTO ‘GIOVANE’ TORNA A INIZIO DICEMBRE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - IMPERIA-WINTER-REGATTA-2025-L-EVENTO-GIOVANE-TORNA-A-INIZIO-DICEMBRE - wp5468|nota]] |

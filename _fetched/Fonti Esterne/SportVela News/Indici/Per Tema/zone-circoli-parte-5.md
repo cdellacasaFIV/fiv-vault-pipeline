@@ -2,10 +2,15 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 5 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 2 Settembre 2025 | SPORTABILITY DAY: LA VELA IL 4 OTTOBRE AL MY SPORT VILLAGE SCIORBA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-02 - SPORTABILITY-DAY-LA-VELA-IL-4-OTTOBRE-AL-MY-SPORT-VILLAGE-SCIORBA - wp4143|nota]] |
+| 1 Settembre 2025 | Vela Viva 15: una festa di vela che ha unito i laghi del Nord-Ovest | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - Vela-Viva-15-una-festa-di-vela-che-ha-unito-i-laghi-del-Nord-Ovest - wp4139|nota]] |
+| 1 Settembre 2025 | THE OCEAN RACE EUROPE: PASSAGGIO DI BANDIERA NIZZA-GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - THE-OCEAN-RACE-EUROPE-PASSAGGIO-DI-BANDIERA-NIZZA-GENOVA - wp4135|nota]] |
+| 1 Settembre 2025 | TROFEO TUA-ORLANDO DEL CV CAPO VERDE: ALL’INSEGNA DELLA SOLIDARIETÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - TROFEO-TUA-ORLANDO-DEL-CV-CAPO-VERDE-ALL-INSEGNA-DELLA-SOLIDARIETA - wp4132|nota]] |
+| 31 Agosto 2025 | Campionato Italiano Giovanile delle Classi In Doppio 2025. I risultati dell’XI Zona | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-2025-I-risultati-dell-XI-Zona - wp4150|nota]] |
 | 31 Agosto 2025 | GLI ATLETI DELLA I ZONA SUL PODIO DEI CAMPIONATI ITALIANI CLASSI IN DOPPIO 2025 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - GLI-ATLETI-DELLA-I-ZONA-SUL-PODIO-DEI-CAMPIONATI-ITALIANI-CLASSI-IN-DOPPIO-2025 - wp4130|nota]] |
 | 30 Agosto 2025 | Raduno Tecnico Zonale Classe ILCA | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Raduno-Tecnico-Zonale-Classe-ILCA - wp4127|nota]] |
 | 30 Agosto 2025 | Corso di Formazione Docenti | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Corso-di-Formazione-Docenti - wp4124|nota]] |
@@ -251,5 +256,3 @@ Parte 5 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 8 Novembre 2023 | Un’innovativa iniziativa: World Sailing e Federazione Vela insieme a Cagliari per l’Inclusive Development Programme all’interno della Sardinia Sailing Cup | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-11-08 - Un-innovativa-iniziativa-World-Sailing-e-Federazione-Vela-insieme-a-Cagliari-per-l-Inclusive-Development-Progr - wp795|nota]] |
 | 22 Ottobre 2023 | Ghio e Spanu brindano al primo match point: sono loro i vincitori della Sardinia Sailing Cup | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2023/2023-10-22 - Ghio-e-Spanu-brindano-al-primo-match-point-sono-loro-i-vincitori-della-Sardinia-Sailing-Cup - wp506|nota]] |
 | 21 Ottobre 2023 | PIANO SVILUPPO TERRITORIO 2023 | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2023/2023-10-21 - PIANO-SVILUPPO-TERRITORIO-2023 - wp509|nota]] |
-| 21 Ottobre 2023 | Domani le Medal Series: Ghio e Ratotti alla Grand Final maschile, Spanu resta favorita | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-10-21 - Domani-le-Medal-Series-Ghio-e-Ratotti-alla-Grand-Final-maschile-Spanu-resta-favorita - wp500|nota]] |
-| 18 Ottobre 2023 | Cagliari, autunno a gonfie vele: al via nel Golfo degli Angeli la Sardinia Sailing Cup | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2023/2023-10-18 - Cagliari-autunno-a-gonfie-vele-al-via-nel-Golfo-degli-Angeli-la-Sardinia-Sailing-Cup - wp434|nota]] |

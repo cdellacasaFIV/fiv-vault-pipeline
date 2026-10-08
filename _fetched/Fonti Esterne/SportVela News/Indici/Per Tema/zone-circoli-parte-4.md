@@ -2,10 +2,15 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 4 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 1 Dicembre 2025 | Regate a squadre e Giocovela protagonisti del weekend al Circolo Velico Torre del Lago | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - Regate-a-squadre-e-Giocovela-protagonisti-del-weekend-al-Circolo-Velico-Torre-del-Lago - wp5484|nota]] |
+| 1 Dicembre 2025 | IMPERIA WINTER REGATTA 2025: L’EVENTO ‘GIOVANE’ TORNA A INIZIO DICEMBRE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - IMPERIA-WINTER-REGATTA-2025-L-EVENTO-GIOVANE-TORNA-A-INIZIO-DICEMBRE - wp5468|nota]] |
+| 1 Dicembre 2025 | Trofeo Terre delle Sirene, al via anche gli amici di “Agorà del mare” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - Trofeo-Terre-delle-Sirene-al-via-anche-gli-amici-di-Agora-del-mare - wp5465|nota]] |
+| 1 Dicembre 2025 | TROFEO SOGGIU: EMOZIONI E SPETTACOLO ALLA 39ª EDIZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - TROFEO-SOGGIU-EMOZIONI-E-SPETTACOLO-ALLA-39a-EDIZIONE - wp5457|nota]] |
+| 30 Novembre 2025 | Velaclub Palermo: un raduno Optimist che chiude l’anno all’insegna della crescita | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-30 - Velaclub-Palermo-un-raduno-Optimist-che-chiude-l-anno-all-insegna-della-crescita - wp5452|nota]] |
 | 30 Novembre 2025 | Premiazioni Zonali 2025 della XII Zona FIV Veneto | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-30 - Premiazioni-Zonali-2025-della-XII-Zona-FIV-Veneto - wp5449|nota]] |
 | 29 Novembre 2025 | Al Circolo Velico Sferracavallo i Campioni Europei iQFOiL Trionfano Daniela Peleg (ISR) e Luuc Van Opzeeland (NED) | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-29 - Al-Circolo-Velico-Sferracavallo-i-Campioni-Europei-iQFOiL-Trionfano-Daniela-Peleg-ISR-e-Luuc-Van-Opzeeland-NED - wp5446|nota]] |
 | 28 Novembre 2025 | Vela inclusiva, l’Italia pronta per Mussanah. World Sailing crea la Classification Sub-Committee | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-28 - Vela-inclusiva-l-Italia-pronta-per-Mussanah-World-Sailing-crea-la-Classification-Sub-Committee - wp5435|nota]] |
@@ -251,8 +256,3 @@ Parte 4 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 3 Settembre 2025 | La XIV Zona FIV: crescita, formazione e futuro della vela tra giovani e territorio | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-03 - La-XIV-Zona-FIV-crescita-formazione-e-futuro-della-vela-tra-giovani-e-territorio - wp4163|nota]] |
 | 2 Settembre 2025 | Sailing Team Cesenatico: giovani protagonisti ai Campionati Italiani di Formia | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-02 - Sailing-Team-Cesenatico-giovani-protagonisti-ai-Campionati-Italiani-di-Formia - wp4153|nota]] |
 | 2 Settembre 2025 | Bronzo tricolore Under 17 per Anna Chiara Merlo e Lorenzo Belviso (LNI Mandello) | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-02 - Bronzo-tricolore-Under-17-per-Anna-Chiara-Merlo-e-Lorenzo-Belviso-LNI-Mandello - wp4146|nota]] |
-| 2 Settembre 2025 | SPORTABILITY DAY: LA VELA IL 4 OTTOBRE AL MY SPORT VILLAGE SCIORBA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-02 - SPORTABILITY-DAY-LA-VELA-IL-4-OTTOBRE-AL-MY-SPORT-VILLAGE-SCIORBA - wp4143|nota]] |
-| 1 Settembre 2025 | Vela Viva 15: una festa di vela che ha unito i laghi del Nord-Ovest | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - Vela-Viva-15-una-festa-di-vela-che-ha-unito-i-laghi-del-Nord-Ovest - wp4139|nota]] |
-| 1 Settembre 2025 | THE OCEAN RACE EUROPE: PASSAGGIO DI BANDIERA NIZZA-GENOVA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - THE-OCEAN-RACE-EUROPE-PASSAGGIO-DI-BANDIERA-NIZZA-GENOVA - wp4135|nota]] |
-| 1 Settembre 2025 | TROFEO TUA-ORLANDO DEL CV CAPO VERDE: ALL’INSEGNA DELLA SOLIDARIETÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - TROFEO-TUA-ORLANDO-DEL-CV-CAPO-VERDE-ALL-INSEGNA-DELLA-SOLIDARIETA - wp4132|nota]] |
-| 31 Agosto 2025 | Campionato Italiano Giovanile delle Classi In Doppio 2025. I risultati dell’XI Zona | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-31 - Campionato-Italiano-Giovanile-delle-Classi-In-Doppio-2025-I-risultati-dell-XI-Zona - wp4150|nota]] |

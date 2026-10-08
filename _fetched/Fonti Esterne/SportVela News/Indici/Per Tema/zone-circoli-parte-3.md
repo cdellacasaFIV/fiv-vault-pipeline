@@ -2,10 +2,15 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 3 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 21 Aprile 2026 | SETTIMANA VELICA INTERNAZIONALE: si apre l’edizione 2026 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - SETTIMANA-VELICA-INTERNAZIONALE-si-apre-l-edizione-2026 - wp6695|nota]] |
+| 21 Aprile 2026 | Torre Annunziata ospita il VI Trofeo Oplonti Marina del Sole | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - Torre-Annunziata-ospita-il-VI-Trofeo-Oplonti-Marina-del-Sole - wp6738|nota]] |
+| 21 Aprile 2026 | LA MISSION DELLA LNI CHIAVARI E LAVAGNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - LA-MISSION-DELLA-LNI-CHIAVARI-E-LAVAGNA - wp6732|nota]] |
+| 21 Aprile 2026 | CONTO ALLA ROVESCIA PER LA LAU CUP – TROFEO MARINA DEL FEZZANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - CONTO-ALLA-ROVESCIA-PER-LA-LAU-CUP-TROFEO-MARINA-DEL-FEZZANO - wp6730|nota]] |
+| 21 Aprile 2026 | CONCLUSA A GENOVA L’EDIZIONE 2026 DI THE GENTLEMEN CHALLENGE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - CONCLUSA-A-GENOVA-L-EDIZIONE-2026-DI-THE-GENTLEMEN-CHALLENGE - wp6727|nota]] |
 | 21 Aprile 2026 | VALIA GALDI TRIONFA A S. MARGHERITA L. NELLA TAPPA REGIONALE HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - VALIA-GALDI-TRIONFA-A-S-MARGHERITA-L-NELLA-TAPPA-REGIONALE-HANSA-303 - wp6723|nota]] |
 | 20 Aprile 2026 | Semaine Olympique Française 2026, prima giornata: italiani in evidenza | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Semaine-Olympique-Francaise-2026-prima-giornata-italiani-in-evidenza - wp6721|nota]] |
 | 20 Aprile 2026 | Il Campionato Primaverile ORC è di Django WR | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-20 - Il-Campionato-Primaverile-ORC-e-di-Django-WR - wp6714|nota]] |
@@ -251,8 +256,3 @@ Parte 3 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 3 Dicembre 2025 | AUTUNNO IN REGATA E GORILLA GANG CUP A SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-03 - AUTUNNO-IN-REGATA-E-GORILLA-GANG-CUP-A-SANREMO - wp5501|nota]] |
 | 3 Dicembre 2025 | NAZIONALE SWITCH: SECONDO POSTO ASSOLUTO PER FEDERICO BERGAMASCO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-03 - NAZIONALE-SWITCH-SECONDO-POSTO-ASSOLUTO-PER-FEDERICO-BERGAMASCO - wp5498|nota]] |
 | 2 Dicembre 2025 | CONCLUSO CON SUCCESSO IL CORSO ALLENATORI DI CLUB DELLA I ZONA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-02 - CONCLUSO-CON-SUCCESSO-IL-CORSO-ALLENATORI-DI-CLUB-DELLA-I-ZONA - wp5494|nota]] |
-| 1 Dicembre 2025 | Regate a squadre e Giocovela protagonisti del weekend al Circolo Velico Torre del Lago | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - Regate-a-squadre-e-Giocovela-protagonisti-del-weekend-al-Circolo-Velico-Torre-del-Lago - wp5484|nota]] |
-| 1 Dicembre 2025 | IMPERIA WINTER REGATTA 2025: L’EVENTO ‘GIOVANE’ TORNA A INIZIO DICEMBRE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - IMPERIA-WINTER-REGATTA-2025-L-EVENTO-GIOVANE-TORNA-A-INIZIO-DICEMBRE - wp5468|nota]] |
-| 1 Dicembre 2025 | Trofeo Terre delle Sirene, al via anche gli amici di “Agorà del mare” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - Trofeo-Terre-delle-Sirene-al-via-anche-gli-amici-di-Agora-del-mare - wp5465|nota]] |
-| 1 Dicembre 2025 | TROFEO SOGGIU: EMOZIONI E SPETTACOLO ALLA 39ª EDIZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-01 - TROFEO-SOGGIU-EMOZIONI-E-SPETTACOLO-ALLA-39a-EDIZIONE - wp5457|nota]] |
-| 30 Novembre 2025 | Velaclub Palermo: un raduno Optimist che chiude l’anno all’insegna della crescita | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-11-30 - Velaclub-Palermo-un-raduno-Optimist-che-chiude-l-anno-all-insegna-della-crescita - wp5452|nota]] |

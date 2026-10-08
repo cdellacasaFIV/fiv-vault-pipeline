@@ -2,10 +2,15 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 2 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Luglio 2026 | COPPA TRE PONTI 2026: TANTI GIOVANI VELISTI PROTAGONISTI A SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - COPPA-TRE-PONTI-2026-TANTI-GIOVANI-VELISTI-PROTAGONISTI-A-SANREMO - wp8062|nota]] |
+| 12 Luglio 2026 | MONDIALE 420: BRONZO PER CAVERO E MARGARIA (CV VERNAZZOLESI) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - MONDIALE-420-BRONZO-PER-CAVERO-E-MARGARIA-CV-VERNAZZOLESI - wp8057|nota]] |
+| 12 Luglio 2026 | INCONTRO ANGSA LIGURIA ALLA LNI GENOVA SESTRI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - INCONTRO-ANGSA-LIGURIA-ALLA-LNI-GENOVA-SESTRI - wp8054|nota]] |
+| 12 Luglio 2026 | Mondiale 420 in Francia: tre medaglie per l’Italia | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - Mondiale-420-in-Francia-tre-medaglie-per-l-Italia - wp8046|nota]] |
+| 11 Luglio 2026 | Trentadue vele tra Malta e Sicilia: prende il largo la 66ª Malta Siracusa | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-11 - Trentadue-vele-tra-Malta-e-Sicilia-prende-il-largo-la-66a-Malta-Siracusa - wp8043|nota]] |
 | 11 Luglio 2026 | A palermo Anemos II lancia la sfida ai Cinque Fari. Caccia al record | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-11 - A-palermo-Anemos-II-lancia-la-sfida-ai-Cinque-Fari-Caccia-al-record - wp8036|nota]] |
 | 11 Luglio 2026 | Europei 49er, 49erFX e Nacra 17: ultima giornata di flotta, domani le serie finali a Eckernförde | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-11 - Europei-49er-49erFX-e-Nacra-17-ultima-giornata-di-flotta-domani-le-serie-finali-a-Eckernforde - wp8038|nota]] |
 | 10 Luglio 2026 | Mondiale iQFOiL Youth & Junior: oro Saoncella U19, argento Pacchiotti U17 e bronzo Under 15 Junior per Mottin | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-10 - Mondiale-iQFOiL-Youth-and-Junior-oro-Saoncella-U19-argento-Pacchiotti-U17-e-bronzo-Under-15-Junior-per-Mottin - wp8014|nota]] |
@@ -251,8 +256,3 @@ Parte 2 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Aprile 2026 | Semaine Olympique Française 2026, seconda giornata: Top 10 con tanti azzurri e da domani partono le Gold Fleet | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - Semaine-Olympique-Francaise-2026-seconda-giornata-Top-10-con-tanti-azzurri-e-da-domani-partono-le-Gold-Fleet - wp6753|nota]] |
 | 21 Aprile 2026 | IV TROFEO CITTÀ DI VENEZIA | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - IV-TROFEO-CITTA-DI-VENEZIA - wp6750|nota]] |
 | 21 Aprile 2026 | Marina di Ravenna: allenamento congiunto Hansa 303. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - Marina-di-Ravenna-allenamento-congiunto-Hansa-303 - wp6736|nota]] |
-| 21 Aprile 2026 | SETTIMANA VELICA INTERNAZIONALE: si apre l’edizione 2026 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - SETTIMANA-VELICA-INTERNAZIONALE-si-apre-l-edizione-2026 - wp6695|nota]] |
-| 21 Aprile 2026 | Torre Annunziata ospita il VI Trofeo Oplonti Marina del Sole | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - Torre-Annunziata-ospita-il-VI-Trofeo-Oplonti-Marina-del-Sole - wp6738|nota]] |
-| 21 Aprile 2026 | LA MISSION DELLA LNI CHIAVARI E LAVAGNA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - LA-MISSION-DELLA-LNI-CHIAVARI-E-LAVAGNA - wp6732|nota]] |
-| 21 Aprile 2026 | CONTO ALLA ROVESCIA PER LA LAU CUP – TROFEO MARINA DEL FEZZANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - CONTO-ALLA-ROVESCIA-PER-LA-LAU-CUP-TROFEO-MARINA-DEL-FEZZANO - wp6730|nota]] |
-| 21 Aprile 2026 | CONCLUSA A GENOVA L’EDIZIONE 2026 DI THE GENTLEMEN CHALLENGE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-21 - CONCLUSA-A-GENOVA-L-EDIZIONE-2026-DI-THE-GENTLEMEN-CHALLENGE - wp6727|nota]] |

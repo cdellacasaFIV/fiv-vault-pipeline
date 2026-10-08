@@ -2,10 +2,15 @@
 
 Indice tematico per consultare rapidamente news SportVela collegate alla memoria FIV.
 
-Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
+Parte 1 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincronizzabile).
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Ottobre 2026 | ILCA U21 Europei 2026: a Bodrum 191 velisti da 40 nazioni | News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - ILCA-U21-Europei-2026-a-Bodrum-191-velisti-da-40-nazioni - wp9826|nota]] |
+| 8 Ottobre 2026 | iQFOiL: LEONARDO TOMASINI, UNA CRESCITA CONTINUA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - iQFOiL-LEONARDO-TOMASINI-UNA-CRESCITA-CONTINUA - wp9803|nota]] |
+| 8 Ottobre 2026 | Primazona NEWS n. 81 di giovedì 8 ottobre 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Primazona-NEWS-n-81-di-giovedi-8-ottobre-2026 - wp9814|nota]] |
+| 8 Ottobre 2026 | SPORTABILITY SU PEOPLE: LE STORIE DELLO SPORT DI TUTTE LE ABILITÀ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - SPORTABILITY-SU-PEOPLE-LE-STORIE-DELLO-SPORT-DI-TUTTE-LE-ABILITA - wp9807|nota]] |
+| 7 Ottobre 2026 | A Forio d’Ischia lo spettacolo del Trofeo Dinghy Classico 2026 | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-07 - A-Forio-d-Ischia-lo-spettacolo-del-Trofeo-Dinghy-Classico-2026 - wp9794|nota]] |
 | 6 Ottobre 2026 | TROFEO CONI 2026, IL TRENTINO VINCE PER IL SECONDO ANNO CONSECUTIVO: DOPPIETTA NELLE CLASSI E SUCCESSO NELLA GENERALE PER LA XIV ZONA FIV | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - TROFEO-CONI-2026-IL-TRENTINO-VINCE-PER-IL-SECONDO-ANNO-CONSECUTIVO-DOPPIETTA-NELLE-CLASSI-E-SUCCESSO-NELLA-GEN - wp9780|nota]] |
 | 6 Ottobre 2026 | I ZONA FIV: QUINTO POSTO A GAETA NEL CAMPIONATO ITALIANO DELLE ZONE, A UN SOFFIO DAL PODIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - I-ZONA-FIV-QUINTO-POSTO-A-GAETA-NEL-CAMPIONATO-ITALIANO-DELLE-ZONE-A-UN-SOFFIO-DAL-PODIO - wp9781|nota]] |
 | 6 Ottobre 2026 | MILLEVELE IREN 2026 AL SALONE NAUTICO INTERNAZIONALE DI GENOVA LA PREMIAZIONE DELLA 38a EDIZIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - MILLEVELE-IREN-2026-AL-SALONE-NAUTICO-INTERNAZIONALE-DI-GENOVA-LA-PREMIAZIONE-DELLA-38a-EDIZIONE - wp9766|nota]] |
@@ -251,8 +256,3 @@ Parte 1 di 5 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 12 Luglio 2026 | Al via in Grecia l’Europeo Ilca 6 Youth 2026 | News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - Al-via-in-Grecia-l-Europeo-Ilca-6-Youth-2026 - wp8075|nota]] |
 | 12 Luglio 2026 | Europei 49er, 49erFX e Nacra 17: niente vento per 49er e 49erFX, il Nacra 17 completa un’ultima prova — titoli assegnati a Eckernförde | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - Europei-49er-49erFX-e-Nacra-17-niente-vento-per-49er-e-49erFX-il-Nacra-17-completa-un-ultima-prova-titoli-asse - wp8069|nota]] |
 | 12 Luglio 2026 | LNI RAPALLO E LA CULTURA DEGLI SPORT MARITTIMI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - LNI-RAPALLO-E-LA-CULTURA-DEGLI-SPORT-MARITTIMI - wp8066|nota]] |
-| 12 Luglio 2026 | COPPA TRE PONTI 2026: TANTI GIOVANI VELISTI PROTAGONISTI A SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - COPPA-TRE-PONTI-2026-TANTI-GIOVANI-VELISTI-PROTAGONISTI-A-SANREMO - wp8062|nota]] |
-| 12 Luglio 2026 | MONDIALE 420: BRONZO PER CAVERO E MARGARIA (CV VERNAZZOLESI) | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - MONDIALE-420-BRONZO-PER-CAVERO-E-MARGARIA-CV-VERNAZZOLESI - wp8057|nota]] |
-| 12 Luglio 2026 | INCONTRO ANGSA LIGURIA ALLA LNI GENOVA SESTRI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - INCONTRO-ANGSA-LIGURIA-ALLA-LNI-GENOVA-SESTRI - wp8054|nota]] |
-| 12 Luglio 2026 | Mondiale 420 in Francia: tre medaglie per l’Italia | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-12 - Mondiale-420-in-Francia-tre-medaglie-per-l-Italia - wp8046|nota]] |
-| 11 Luglio 2026 | Trentadue vele tra Malta e Sicilia: prende il largo la 66ª Malta Siracusa | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-11 - Trentadue-vele-tra-Malta-e-Sicilia-prende-il-largo-la-66a-Malta-Siracusa - wp8043|nota]] |

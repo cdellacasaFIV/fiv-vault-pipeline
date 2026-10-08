@@ -6,6 +6,8 @@ Parte 1 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Ottobre 2026 | ILCA U21 Europei 2026: a Bodrum 191 velisti da 40 nazioni | News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - ILCA-U21-Europei-2026-a-Bodrum-191-velisti-da-40-nazioni - wp9826|nota]] |
+| 8 Ottobre 2026 | iQFOiL: LEONARDO TOMASINI, UNA CRESCITA CONTINUA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - iQFOiL-LEONARDO-TOMASINI-UNA-CRESCITA-CONTINUA - wp9803|nota]] |
 | 6 Ottobre 2026 | TROFEO CONI 2026, IL TRENTINO VINCE PER IL SECONDO ANNO CONSECUTIVO: DOPPIETTA NELLE CLASSI E SUCCESSO NELLA GENERALE PER LA XIV ZONA FIV | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - TROFEO-CONI-2026-IL-TRENTINO-VINCE-PER-IL-SECONDO-ANNO-CONSECUTIVO-DOPPIETTA-NELLE-CLASSI-E-SUCCESSO-NELLA-GEN - wp9780|nota]] |
 | 6 Ottobre 2026 | I ZONA FIV: QUINTO POSTO A GAETA NEL CAMPIONATO ITALIANO DELLE ZONE, A UN SOFFIO DAL PODIO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - I-ZONA-FIV-QUINTO-POSTO-A-GAETA-NEL-CAMPIONATO-ITALIANO-DELLE-ZONE-A-UN-SOFFIO-DAL-PODIO - wp9781|nota]] |
 | 6 Ottobre 2026 | CAMPIONATO ITALIANO DELLE ZONE FIV A GAETA | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-06 - CAMPIONATO-ITALIANO-DELLE-ZONE-FIV-A-GAETA - wp9769|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Maggio 2026 | Pantelleria protagonista nella IV prova del Campionato Regionale ILCA | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-21 - Pantelleria-protagonista-nella-IV-prova-del-Campionato-Regionale-ILCA - wp7223|nota]] |
 | 21 Maggio 2026 | Compagnia della Vela, con Vela Green nasce un modello di eccellenza sportiva e ambientale | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-21 - Compagnia-della-Vela-con-Vela-Green-nasce-un-modello-di-eccellenza-sportiva-e-ambientale - wp7209|nota]] |
 | 20 Maggio 2026 | Europei ILCA 2026, Kaštela: Erdi al comando, Kontides aggancia Gautrey | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-20 - Europei-ILCA-2026-Kastela-Erdi-al-comando-Kontides-aggancia-Gautrey - wp7203|nota]] |
-| 20 Maggio 2026 | Vela Day 2026 al Salone Nautico di Venezia: la XII Zona FIV porta la vela tra il pubblico dell’Arsenale | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-20 - Vela-Day-2026-al-Salone-Nautico-di-Venezia-la-XII-Zona-FIV-porta-la-vela-tra-il-pubblico-dell-Arsenale - wp7200|nota]] |
-| 19 Maggio 2026 | Europei ILCA 2026, Kaštela: qualifiche chiuse, Final Series al via domani | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-05-19 - Europei-ILCA-2026-Kastela-qualifiche-chiuse-Final-Series-al-via-domani - wp7181|nota]] |

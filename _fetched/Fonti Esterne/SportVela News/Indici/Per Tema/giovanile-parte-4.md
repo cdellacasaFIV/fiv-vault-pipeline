@@ -6,6 +6,8 @@ Parte 4 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Marzo 2024 | 2024 ILCA Under 21 European Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-18 - 2024-ILCA-Under-21-European-Championships - wp1514|nota]] |
+| 10 Marzo 2024 | 2024 49er e 49er:FX World Championships: Bronzo per Germani Bertuzzi | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-10 - 2024-49er-e-49er-FX-World-Championships-Bronzo-per-Germani-Bertuzzi - wp1509|nota]] |
 | 9 Marzo 2024 | 2024 49er e 49er:FX World Championships: domani Medal Race con Germani Bertuzzi che chiudono oggi al terzo posto | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-09 - 2024-49er-e-49er-FX-World-Championships-domani-Medal-Race-con-Germani-Bertuzzi-che-chiudono-oggi-al-terzo-post - wp1506|nota]] |
 | 9 Marzo 2024 | Para Sailing Academy: la rivoluzione della vela inclusiva a Passignano con la prima tappa del Trofeo Optimist Kinder Joy of moving 2024 | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-09 - Para-Sailing-Academy-la-rivoluzione-della-vela-inclusiva-a-Passignano-con-la-prima-tappa-del-Trofeo-Optimist-K - wp1502|nota]] |
 | 8 Marzo 2024 | 2024 49er e 49er:FX World Championships: prima giornata di Gold Fleet con tre equipaggi impegnati | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-08 - 2024-49er-e-49er-FX-World-Championships-prima-giornata-di-Gold-Fleet-con-tre-equipaggi-impegnati - wp1498|nota]] |

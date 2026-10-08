@@ -6,6 +6,8 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 9 Ottobre 2025 | PROVA LA VELA AL FESTIVAL DELLO SPORT DI TRENTO: UN SIMULATORE E ISTRUTTORI FIV NELL’AREA KINDER JOY OF MOVING | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-09 - PROVA-LA-VELA-AL-FESTIVAL-DELLO-SPORT-DI-TRENTO-UN-SIMULATORE-E-ISTRUTTORI-FIV-NELL-AREA-KINDER-JOY-OF-MOVING - wp4769|nota]] |
+| 9 Ottobre 2025 | Presentati a Desenzano i Campionati Italiani delle Zone FIV e Match Race | Copertina, News, Vela Giovanile, XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-09 - Presentati-a-Desenzano-i-Campionati-Italiani-delle-Zone-FIV-e-Match-Race - wp4752|nota]] |
 | 9 Ottobre 2025 | AL VIA IL CAMPIONATO DEL MONDO DELLA CLASSE L30 ALLO YACHT CLUB SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-09 - AL-VIA-IL-CAMPIONATO-DEL-MONDO-DELLA-CLASSE-L30-ALLO-YACHT-CLUB-SANREMO - wp4743|nota]] |
 | 7 Ottobre 2025 | EUROPEI RSFEVA: ARGENTO E BRONZO PER IL SANBÀRT | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-07 - EUROPEI-RSFEVA-ARGENTO-E-BRONZO-PER-IL-SANBART - wp4725|nota]] |
 | 6 Ottobre 2025 | Nazionale OpenSkiff e RS Aero a Rimini. I vincitori | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-06 - Nazionale-OpenSkiff-e-RS-Aero-a-Rimini-I-vincitori - wp4711|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 6 Aprile 2024 | 2024 ILCA 4 Youth Europeans: oggi la cerimonia di apertura con 411 velisti | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-06 - 2024-ILCA-4-Youth-Europeans-oggi-la-cerimonia-di-apertura-con-411-velisti - wp1612|nota]] |
 | 23 Marzo 2024 | Oro e bronzo italiano ai 2024 ILCA Under 21 European Championships | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-23 - Oro-e-bronzo-italiano-ai-2024-ILCA-Under-21-European-Championships - wp1543|nota]] |
 | 21 Marzo 2024 | Ufficializzati i nominativi degli Italiani a Hyères | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-21 - Ufficializzati-i-nominativi-degli-Italiani-a-Hyeres - wp1531|nota]] |
-| 18 Marzo 2024 | 2024 ILCA Under 21 European Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-18 - 2024-ILCA-Under-21-European-Championships - wp1514|nota]] |
-| 10 Marzo 2024 | 2024 49er e 49er:FX World Championships: Bronzo per Germani Bertuzzi | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-03-10 - 2024-49er-e-49er-FX-World-Championships-Bronzo-per-Germani-Bertuzzi - wp1509|nota]] |
