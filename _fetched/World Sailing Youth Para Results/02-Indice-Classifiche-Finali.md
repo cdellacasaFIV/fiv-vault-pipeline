@@ -10,13 +10,6 @@ Uso: accesso rapido a classifiche finali complete di classi giovanili, RS, Wing/
 | 2026 | Continental | IKA - Formula Kite Women | 36 | [[Dati CSV/Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Women__Formula-Kite-European-Championships__fe32a759.csv|CSV]] | https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO |
 | 2026 | Continental | IKA - Formula Kite Men | 56 | [[Dati CSV/Formula-Kite-Youth__Continental__2026__IKA-Formula-Kite-Men__Formula-Kite-European-Championships__1fd55491.csv|CSV]] | https://sailing.org/regatta/formula-kite-european-championships?ref=TUR202505CKO |
 
-## ILCA 4
-
-| Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |
-| --- | --- | --- | --- | --- | --- |
-| 2026 | Class Youth World Championship | ILCA 4 Youth Male | 298 | [[Dati CSV/ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Male__ILCA-4-Youth-World-Championships__e8565226.csv|CSV]] | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
-| 2026 | Class Youth World Championship | ILCA 4 Youth Female | 150 | [[Dati CSV/ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Female__ILCA-4-Youth-World-Championships__0b0f6391.csv|CSV]] | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
-
 ## ILCA 6
 
 | Anno | Livello | Evento | Equipaggi/barche | Classifica completa | Fonte |

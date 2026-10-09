@@ -2,14 +2,12 @@
 
 Fonte: World Sailing API, risultati `Overall Results`.
 Perimetro: classi giovanili, RS, Wing/Kite e Para Sailing richieste.
-Aggiornato: 2026-10-08.
+Aggiornato: 2026-10-09.
 
 | Gruppo | Classe | Livello | Anno | Evento | Barche | CSV | Fonte |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | youth | IQFOiL | World Championships | 2026 | IQFOiL Men | 109 | IQFOiL__World-Championships__2026__IQFOiL-Men__iQFOiL-World-Championships__fc33197d.csv | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
 | youth | IQFOiL | World Championships | 2026 | IQFOiL Women | 70 | IQFOiL__World-Championships__2026__IQFOiL-Women__iQFOiL-World-Championships__fddd4aba.csv | https://sailing.org/regatta/iqfoil-world-championships?ref=DEN202507Z3C |
-| youth | ILCA 4 | Class Youth World Championship | 2026 | ILCA 4 Youth Female | 150 | ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Female__ILCA-4-Youth-World-Championships__0b0f6391.csv | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
-| youth | ILCA 4 | Class Youth World Championship | 2026 | ILCA 4 Youth Male | 298 | ILCA-4__Class-Youth-World-Championship__2026__ILCA-4-Youth-Male__ILCA-4-Youth-World-Championships__e8565226.csv | https://sailing.org/regatta/ilca-4-youth-world-championships?ref=USA202507JTY |
 | youth | ILCA 6 | World Championships | 2026 | ILCA 6 Women | 108 | ILCA-6-Youth__World-Championships__2026__ILCA-6-Women__ILCA-6-Women-s-World-Championship__225b3e33.csv | https://sailing.org/regatta/ilca-6-women-s-world-championship?ref=IRL2026096VV |
 | youth | ILCA 6 | Class Youth World Championship | 2026 | ILCA 6 Women | 122 | ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Women__ILCA-6-Youth-World-Championships__774549de.csv | https://sailing.org/regatta/ilca-6-youth-world-championships?ref=USA202507AJ8 |
 | youth | ILCA 6 | Class Youth World Championship | 2026 | ILCA 6 Men | 307 | ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Men__ILCA-6-Youth-World-Championships__f0001562.csv | https://sailing.org/regatta/ilca-6-youth-world-championships?ref=USA202507AJ8 |
