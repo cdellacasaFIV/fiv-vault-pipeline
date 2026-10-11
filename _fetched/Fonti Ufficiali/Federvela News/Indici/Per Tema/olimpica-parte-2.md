@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Aprile 2021 | Marta Maggetti scelta per le Olimpiadi nel windsurf RS:X | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-30 - Marta-Maggetti-scelta-per-le-Olimpiadi-nel-windsurf-RS-X - wp3155|nota]] |
 | 28 Aprile 2021 | Venerdì 30 il nome del sesto equipaggio per Tokyo | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-28 - Venerdi-30-il-nome-del-sesto-equipaggio-per-Tokyo - wp3156|nota]] |
 | 28 Aprile 2021 | La festa delle Fiamme Gialle per Romano Battisti, il canottiere di Luna Rossa | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-28 - La-festa-delle-Fiamme-Gialle-per-Romano-Battisti-il-canottiere-di-Luna-Rossa - wp3158|nota]] |
 | 27 Aprile 2021 | Mattia Camboni Vice campione del mondo RS:X! Maggetti e Speciale 1° e 3° nella Medal | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-27 - Mattia-Camboni-Vice-campione-del-mondo-RS-X-Maggetti-e-Speciale-1-e-3-nella-Medal - wp3160|nota]] |

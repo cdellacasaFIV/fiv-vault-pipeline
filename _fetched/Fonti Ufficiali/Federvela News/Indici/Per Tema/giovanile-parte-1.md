@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Ottobre 2026 | Collari d’Oro, il 12 ottobre la cerimonia al CPO Giulio Onesti | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-10 - Collari-d-Oro-il-12-ottobre-la-cerimonia-al-CPO-Giulio-Onesti - wp8273|nota]] |
 | 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] |
 | 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] |
 | 2 Ottobre 2026 | FIV E LEGA NAVALE ITALIANA: ACCORDO DI COLLABORAZIONE | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-E-LEGA-NAVALE-ITALIANA-ACCORDO-DI-COLLABORAZIONE - wp8254|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 3 Novembre 2021 | Campionato Italiano eSailing di Flotta 2021: vince Rocco Guerra | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-11-03 - Campionato-Italiano-eSailing-di-Flotta-2021-vince-Rocco-Guerra - wp3063|nota]] |
 | 28 Ottobre 2021 | Fabio Colella: “FIV insieme a World Sailing per riammettere la Vela alle Paralimpiadi” | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-28 - Fabio-Colella-FIV-insieme-a-World-Sailing-per-riammettere-la-Vela-alle-Paralimpiadi - wp6711|nota]] |
 | 26 Ottobre 2021 | LA FEDERAZIONE ITALIANA VELA PRESENTA IL NUOVO PIANO SPORTIVO 2022-2024 PER CLASSI OLIMPICHE, GIOVANILI E PARA SAILING | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-26 - LA-FEDERAZIONE-ITALIANA-VELA-PRESENTA-IL-NUOVO-PIANO-SPORTIVO-2022-2024-PER-CLASSI-OLIMPICHE-GIOVANILI-E-PARA- - wp3066|nota]] |
-| 22 Ottobre 2021 | Rinnovo Convenzione FIV / Yamaha e Cantieri Capelli: la tecnologia Yamaha e l’eccellenza Cantieri Capelli a fianco della FIV | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-22 - Rinnovo-Convenzione-FIV-Yamaha-e-Cantieri-Capelli-la-tecnologia-Yamaha-e-l-eccellenza-Cantieri-Capelli-a-fianc - wp3068|nota]] |

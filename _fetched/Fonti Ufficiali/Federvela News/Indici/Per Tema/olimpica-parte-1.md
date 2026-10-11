@@ -6,6 +6,7 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 10 Ottobre 2026 | Collari d’Oro, il 12 ottobre la cerimonia al CPO Giulio Onesti | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-10 - Collari-d-Oro-il-12-ottobre-la-cerimonia-al-CPO-Giulio-Onesti - wp8273|nota]] |
 | 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] |
 | 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] |
 | 23 Settembre 2026 | Studente-Atleta di alto livello 2026/2027: online il modulo FIV per la richiesta dell’attestazione | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-09-23 - Studente-Atleta-di-alto-livello-2026-2027-online-il-modulo-FIV-per-la-richiesta-dell-attestazione - wp8234|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 3 Maggio 2021 | VELA OLIMPICA, EUROPEO 470 A VILAMOURA (POR) – DAY 2 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-05-03 - VELA-OLIMPICA-EUROPEO-470-A-VILAMOURA-POR-DAY-2 - wp3152|nota]] |
 | 2 Maggio 2021 | VELA OLIMPICA, EUROPEO 470 A VILAMOURA (POR) – DAY 1 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-05-02 - VELA-OLIMPICA-EUROPEO-470-A-VILAMOURA-POR-DAY-1 - wp3153|nota]] |
 | 1 Maggio 2021 | Addio a Pippo Dalla Vecchia, la vela perde un pezzo di storia | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-05-01 - Addio-a-Pippo-Dalla-Vecchia-la-vela-perde-un-pezzo-di-storia - wp3154|nota]] |
-| 30 Aprile 2021 | Marta Maggetti scelta per le Olimpiadi nel windsurf RS:X | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-04-30 - Marta-Maggetti-scelta-per-le-Olimpiadi-nel-windsurf-RS-X - wp3155|nota]] |

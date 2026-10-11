@@ -1,10 +1,11 @@
 # Registro fonti Federvela
 
 Stato fonte: **ufficiale FIV / Federvela**.
-Aggiornato: 2026-10-10.
+Aggiornato: 2026-10-11.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 10 Ottobre 2026 | Collari d’Oro, il 12 ottobre la cerimonia al CPO Giulio Onesti | condivisa, Nazionale | risultati, olimpica, giovanile, istituzionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-10 - Collari-d-Oro-il-12-ottobre-la-cerimonia-al-CPO-Giulio-Onesti - wp8273|nota]] | https://federvela.it/2026/10/10/collari-doro-il-12-ottobre-la-cerimonia-al-cpo-giulio-onesti/ |
 | 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | risultati, olimpica, giovanile, parasailing/inclusione, istituzionale, zone/circoli, america's cup/napoli, formazione/scuola, media/comunicazione | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] | https://federvela.it/2026/10/05/presentato-a-napoli-il-campionato-italiano-classi-olimpiche-edison-next/ |
 | 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | risultati, olimpica, giovanile, istituzionale, formazione/scuola | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] | https://federvela.it/2026/10/03/borse-di-studio-per-studenti-atleti-98-milioni-dal-dipartimento-per-lo-sport-domande-fino-al-26-ottobre/ |
 | 2 Ottobre 2026 | FIV E LEGA NAVALE ITALIANA: ACCORDO DI COLLABORAZIONE | condivisa, Nazionale | giovanile, parasailing/inclusione, istituzionale, zone/circoli, formazione/scuola | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-02 - FIV-E-LEGA-NAVALE-ITALIANA-ACCORDO-DI-COLLABORAZIONE - wp8254|nota]] | https://federvela.it/2026/10/02/fiv-e-lega-navale-italiana-accordo-di-collaborazione/ |
