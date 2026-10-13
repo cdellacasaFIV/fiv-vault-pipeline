@@ -19,7 +19,7 @@ Uso nel vault: contesto editoriale e spunti news; verificare con fonte FIV/World
 - Temi operativi: risultati, olimpica, giovanile, para/inclusione, zone/circoli, media/storytelling.
 - Angoli editoriali: risultato sportivo da incrociare con fonte ufficiale prima di storicizzare, sviluppo giovanile e vivaio, inclusione/accessibilita' e valore istituzionale, territori, circoli e zone, classi olimpiche o percorso alto livello.
 - Classi/discipline citate: ILCA 6, 470.
-- Nomi, circoli o luoghi da valutare: MONDIALI UNIVERSITARI, SPALATO L’ITALIA CAMPIONE DEL, MONDO Giorgia Bonalana, Vittorio Bonifacio, Emma Maltese e Marcello, Miliardi. Quattro, Giorgia Bonalana e Vittorio, Bonifacio, Melges, Dalle, Giorgia Bonalana, Fraglia Vela Riva, Società Velica di Barcola, Grignano.
+- Nomi, circoli o luoghi da valutare: MONDIALI UNIVERSITARI, SPALATO L’ITALIA CAMPIONE DEL, MONDO Vittorio Bonifacio, Giorgia Bonalana, Emma Maltese e Marcello, Miliardi, Quattro, Vittorio Bonifacio, Melges, Dalle, Società Velica di Barcola, Grignano, Fraglia Vela Riva, Miliardi del Circolo Velico.
 - Numeri/date utili da verificare: 20, 2026, 34, 6, 470, 2002, 2004, 2014, 2024.
 - Sommario fonte presente: usarlo come controllo rapido, senza copiarlo nelle news operative.
 

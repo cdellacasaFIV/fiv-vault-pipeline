@@ -6,6 +6,10 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Ottobre 2026 | VELEZIANA OPTIMIST, AL LIDO DI VENEZIA IL VIA ALLA VELEZIANA SAILING WEEK 2026 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-11 - VELEZIANA-OPTIMIST-AL-LIDO-DI-VENEZIA-IL-VIA-ALLA-VELEZIANA-SAILING-WEEK-2026 - wp9878|nota]] |
+| 10 Ottobre 2026 | Mondiale Hansa 303, tutti gli azzurri in Gold Fleet: Andrea Quarta vince due prove su tre | News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-10 - Mondiale-Hansa-303-tutti-gli-azzurri-in-Gold-Fleet-Andrea-Quarta-vince-due-prove-su-tre - wp9852|nota]] |
+| 8 Ottobre 2026 | NASTRO ROSA VELOCE, SAMBO E POLO QUARTI A TRIESTE E PRIMO EQUIPAGGIO ITALIANO | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - NASTRO-ROSA-VELOCE-SAMBO-E-POLO-QUARTI-A-TRIESTE-E-PRIMO-EQUIPAGGIO-ITALIANO - wp9847|nota]] |
+| 8 Ottobre 2026 | WASZP Games 2027: tornano sul Lago di Garda | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - WASZP-Games-2027-tornano-sul-Lago-di-Garda - wp9820|nota]] |
 | 8 Ottobre 2026 | Brisbane 2032 presenta l’emblema: un cacatua tra fiamma e Queensland | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Brisbane-2032-presenta-l-emblema-un-cacatua-tra-fiamma-e-Queensland - wp9822|nota]] |
 | 8 Ottobre 2026 | iQFOiL: LEONARDO TOMASINI, UNA CRESCITA CONTINUA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - iQFOiL-LEONARDO-TOMASINI-UNA-CRESCITA-CONTINUA - wp9803|nota]] |
 | 8 Ottobre 2026 | Primazona NEWS n. 81 di giovedì 8 ottobre 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Primazona-NEWS-n-81-di-giovedi-8-ottobre-2026 - wp9814|nota]] |
@@ -252,7 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 2 Aprile 2026 | Modelvela. Attenti a quei 3. Ancora un altro podio tutto romagnolo al Campionato Italiano IOM | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-02 - Modelvela-Attenti-a-quei-3-Ancora-un-altro-podio-tutto-romagnolo-al-Campionato-Italiano-IOM - wp6518|nota]] |
 | 1 Aprile 2026 | STORICO DEBUTTO AD ALBISSOLA: il Golfo ospita la prima spettacolare regata zonale WingFoil | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-01 - STORICO-DEBUTTO-AD-ALBISSOLA-il-Golfo-ospita-la-prima-spettacolare-regata-zonale-WingFoil - wp6489|nota]] |
 | 30 Marzo 2026 | Minialtura U25: Concluso il primo raduno al Club Velico Trasimeno. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - Minialtura-U25-Concluso-il-primo-raduno-al-Club-Velico-Trasimeno - wp6466|nota]] |
-| 30 Marzo 2026 | Interzonale Team Race Hansa 303: trionfo dell’XI Zona a Desenzano del Garda | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - Interzonale-Team-Race-Hansa-303-trionfo-dell-XI-Zona-a-Desenzano-del-Garda - wp6457|nota]] |
-| 30 Marzo 2026 | WASZP GAMES 2026: DE SANTIS BRILLA A PENSACOLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - WASZP-GAMES-2026-DE-SANTIS-BRILLA-A-PENSACOLA - wp6449|nota]] |
-| 29 Marzo 2026 | Nel 2027 i WASZP Games tornano sul Lago di Garda | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-29 - Nel-2027-i-WASZP-Games-tornano-sul-Lago-di-Garda - wp6435|nota]] |
-| 28 Marzo 2026 | LA STORIA DI AMBROGIO BECCARIA RACCONTATA AL CIRCOLO VELE VERNAZZOLESI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-28 - LA-STORIA-DI-AMBROGIO-BECCARIA-RACCONTATA-AL-CIRCOLO-VELE-VERNAZZOLESI - wp6441|nota]] |

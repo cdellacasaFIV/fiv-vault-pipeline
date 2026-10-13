@@ -4,6 +4,7 @@ Indice tematico per consultare rapidamente news SportVela collegate alla memoria
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Ottobre 2026 | Campionato Italiano J/22: White Magic conquista il titolo 2026 a Napoli | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - Campionato-Italiano-J-22-White-Magic-conquista-il-titolo-2026-a-Napoli - wp9921|nota]] |
 | 5 Ottobre 2026 | Dal 21 al 24 ottobre il CICO a Napoli: 400 velisti e il Villaggio FIV alla Rotonda Diaz | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-05 - Dal-21-al-24-ottobre-il-CICO-a-Napoli-400-velisti-e-il-Villaggio-FIV-alla-Rotonda-Diaz - wp9743|nota]] |
 | 29 Settembre 2026 | Effetto America’s Cup: in Campania 1.294 nuovi tesserati FIV in una settimana | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-29 - Effetto-America-s-Cup-in-Campania-1-294-nuovi-tesserati-FIV-in-una-settimana - wp9564|nota]] |
 | 27 Settembre 2026 | Regata Preliminare, Luna Rossa 1 vince tutto: dominatrice a Napoli e trionfo su New Zealand | Copertina, News, Speciale America's Cup Napoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-09-27 - Regata-Preliminare-Luna-Rossa-1-vince-tutto-dominatrice-a-Napoli-e-trionfo-su-New-Zealand - wp9547|nota]] |

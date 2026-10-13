@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 26 Ottobre 2021 | LA FEDERAZIONE ITALIANA VELA PRESENTA IL NUOVO PIANO SPORTIVO 2022-2024 PER CLASSI OLIMPICHE, GIOVANILI E PARA SAILING | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-26 - LA-FEDERAZIONE-ITALIANA-VELA-PRESENTA-IL-NUOVO-PIANO-SPORTIVO-2022-2024-PER-CLASSI-OLIMPICHE-GIOVANILI-E-PARA- - wp3066|nota]] |
 | 22 Ottobre 2021 | Rinnovo Convenzione FIV / Yamaha e Cantieri Capelli: la tecnologia Yamaha e l’eccellenza Cantieri Capelli a fianco della FIV | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-22 - Rinnovo-Convenzione-FIV-Yamaha-e-Cantieri-Capelli-la-tecnologia-Yamaha-e-l-eccellenza-Cantieri-Capelli-a-fianc - wp3068|nota]] |
 | 11 Ottobre 2021 | Domani la cerimonia di consegna dei Collari d’Oro a Milano | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-11 - Domani-la-cerimonia-di-consegna-dei-Collari-d-Oro-a-Milano - wp3073|nota]] |
 | 8 Ottobre 2021 | Europeo ILCA 6 e ILCA 7 a Varna: quinto giorno, risale Chiara Benini Floriani | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-08 - Europeo-ILCA-6-e-ILCA-7-a-Varna-quinto-giorno-risale-Chiara-Benini-Floriani - wp3075|nota]] |

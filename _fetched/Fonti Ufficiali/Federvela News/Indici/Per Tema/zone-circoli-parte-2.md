@@ -6,6 +6,7 @@ Parte 2 di 2 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 22 Ottobre 2021 | Rinnovo Convenzione FIV / Yamaha e Cantieri Capelli: la tecnologia Yamaha e l’eccellenza Cantieri Capelli a fianco della FIV | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-22 - Rinnovo-Convenzione-FIV-Yamaha-e-Cantieri-Capelli-la-tecnologia-Yamaha-e-l-eccellenza-Cantieri-Capelli-a-fianc - wp3068|nota]] |
 | 18 Ottobre 2021 | Ci ha lasciati Sergio Allievi, storico Presidente della XV Zona | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-18 - Ci-ha-lasciati-Sergio-Allievi-storico-Presidente-della-XV-Zona - wp3069|nota]] |
 | 15 Ottobre 2021 | 4° CAMPIONATO ITALIANO eSAILING | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-15 - 4-CAMPIONATO-ITALIANO-eSAILING - wp3071|nota]] |
 | 12 Ottobre 2021 | Mondiale Formula Kite a Torregrande (Oristano): anno zero e primo vero mondiale con obiettivo Parigi 2024 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2021/2021-10-12 - Mondiale-Formula-Kite-a-Torregrande-Oristano-anno-zero-e-primo-vero-mondiale-con-obiettivo-Parigi-2024 - wp3072|nota]] |

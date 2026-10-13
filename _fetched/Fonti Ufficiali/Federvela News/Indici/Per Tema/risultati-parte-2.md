@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 22 Ottobre 2022 | Termina in bellezza la Wingfoil Racing World Cup a Campione del Garda: Cappuzzo d’oro | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-22 - Termina-in-bellezza-la-Wingfoil-Racing-World-Cup-a-Campione-del-Garda-Cappuzzo-d-oro - wp2963|nota]] |
 | 20 Ottobre 2022 | Rotta su Procida per lo scudetto a squadre regionale. Prima assoluta per la competizione velica con gli RS21 delle Universiadi | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-20 - Rotta-su-Procida-per-lo-scudetto-a-squadre-regionale-Prima-assoluta-per-la-competizione-velica-con-gli-RS21-de - wp2965|nota]] |
 | 8 Ottobre 2022 | BARCOLANA FUN: SI CHIUDE A TRIESTE IL PRIMO CICLO DELLA FOIL ACADEMY | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-08 - BARCOLANA-FUN-SI-CHIUDE-A-TRIESTE-IL-PRIMO-CICLO-DELLA-FOIL-ACADEMY - wp2966|nota]] |
 | 6 Ottobre 2022 | Concluse le qualificazioni alla finale del Campionato Mondiale eSailing 2022 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-06 - Concluse-le-qualificazioni-alla-finale-del-Campionato-Mondiale-eSailing-2022 - wp2967|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 14 Ottobre 2020 | “L’educazione finanziaria in campo con lo sport”, il 29 ottobre webinar di presentazione del corso | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-14 - L-educazione-finanziaria-in-campo-con-lo-sport-il-29-ottobre-webinar-di-presentazione-del-corso - wp3283|nota]] |
 | 13 Ottobre 2020 | Concluso l’Europeo dei due singoli della vela olimpica: buono il bilancio italiano | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-13 - Concluso-l-Europeo-dei-due-singoli-della-vela-olimpica-buono-il-bilancio-italiano - wp3284|nota]] |
 | 12 Ottobre 2020 | Tricolore e-sailing, un 16enne batte tutti! | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-12 - Tricolore-e-sailing-un-16enne-batte-tutti - wp3285|nota]] |
-| 12 Ottobre 2020 | Europeo Laser e Radial, il penultimo giorno | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-12 - Europeo-Laser-e-Radial-il-penultimo-giorno - wp3286|nota]] |

@@ -6,6 +6,10 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 6 Settembre 2025 | Meeting Zonale 2025 della XII Zona FIV – “La Festa delle Scuole Vela” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Meeting-Zonale-2025-della-XII-Zona-FIV-La-Festa-delle-Scuole-Vela - wp4190|nota]] |
+| 6 Settembre 2025 | Penultimo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Penultimo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Tre - wp4188|nota]] |
+| 5 Settembre 2025 | Secondo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-05 - Secondo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Trent - wp4180|nota]] |
+| 4 Settembre 2025 | Primo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-04 - Primo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Trentin - wp4175|nota]] |
 | 1 Settembre 2025 | Vela Viva 15: una festa di vela che ha unito i laghi del Nord-Ovest | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-01 - Vela-Viva-15-una-festa-di-vela-che-ha-unito-i-laghi-del-Nord-Ovest - wp4139|nota]] |
 | 30 Agosto 2025 | Raduno Tecnico Zonale Classe ILCA | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Raduno-Tecnico-Zonale-Classe-ILCA - wp4127|nota]] |
 | 30 Agosto 2025 | Corso di Formazione Docenti | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-08-30 - Corso-di-Formazione-Docenti - wp4124|nota]] |

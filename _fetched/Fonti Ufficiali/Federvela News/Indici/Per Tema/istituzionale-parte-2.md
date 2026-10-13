@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 20 Marzo 2023 | Progetti Speciali FIV, successo della prima fase | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-20 - Progetti-Speciali-FIV-successo-della-prima-fase - wp2927|nota]] |
 | 12 Marzo 2023 | Brindisi, 10-12 Marzo 2023, anche nell’Ottava Zona FIV si parte con il Para Sailing! | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-12 - Brindisi-10-12-Marzo-2023-anche-nell-Ottava-Zona-FIV-si-parte-con-il-Para-Sailing - wp6695|nota]] |
 | 10 Marzo 2023 | Invito ad effettuare un minuto di silenzio, in memoria della tragedia accaduta a Cutro | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-10 - Invito-ad-effettuare-un-minuto-di-silenzio-in-memoria-della-tragedia-accaduta-a-Cutro - wp2928|nota]] |
 | 1 Marzo 2023 | Stage iQFOiL Youth U17 – Follonica, 23-26 marzo 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-01 - Stage-iQFOiL-Youth-U17-Follonica-23-26-marzo-2023 - wp2930|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 25 Agosto 2020 | PRESENTAZIONE CAMPIONATI ITALIANI CLASSI OLIMPICHE – FOLLONICA 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-25 - PRESENTAZIONE-CAMPIONATI-ITALIANI-CLASSI-OLIMPICHE-FOLLONICA-2020 - wp3325|nota]] |
 | 25 Agosto 2020 | DAL 26 AL 29 AGOSTO A GAETA ITALIANI ASSOLUTI VELA D’ALTURA | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-25 - DAL-26-AL-29-AGOSTO-A-GAETA-ITALIANI-ASSOLUTI-VELA-D-ALTURA - wp3328|nota]] |
 | 21 Agosto 2020 | Il Presidente della FIV Francesco Ettorre, l’A.D. Eugenio Michelino e l’Assessore Valerio Vesprini da Liberi nel Vento per parlare di presente e futuro | parasailing | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-21 - Il-Presidente-della-FIV-Francesco-Ettorre-l-A-D-Eugenio-Michelino-e-l-Assessore-Valerio-Vesprini-da-Liberi-nel - wp6728|nota]] |
-| 10 Agosto 2020 | La Federazione Italiana Vela indice l’Assemblea elettiva per il 19 dicembre 2020 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-08-10 - La-Federazione-Italiana-Vela-indice-l-Assemblea-elettiva-per-il-19-dicembre-2020 - wp3330|nota]] |

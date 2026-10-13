@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Ottobre 2026 | FIV e FIPsiS insieme per il benessere psicologico nella vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-13 - FIV-e-FIPsiS-insieme-per-il-benessere-psicologico-nella-vela - wp8276|nota]] |
 | 10 Ottobre 2026 | Collari d’Oro, il 12 ottobre la cerimonia al CPO Giulio Onesti | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-10 - Collari-d-Oro-il-12-ottobre-la-cerimonia-al-CPO-Giulio-Onesti - wp8273|nota]] |
 | 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] |
 | 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 26 Ottobre 2022 | Special Presidential Award per Andrea Camin | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-26 - Special-Presidential-Award-per-Andrea-Camin - wp2959|nota]] |
 | 24 Ottobre 2022 | Campionato italiano a squadre a Procida. Vince l’Undicesima zona: Emilia Romagna | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-24 - Campionato-italiano-a-squadre-a-Procida-Vince-l-Undicesima-zona-Emilia-Romagna - wp2961|nota]] |
 | 22 Ottobre 2022 | Campionato italiano a squadre A Procida comanda l’Emilia Romagna dopo la prima giornata | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-22 - Campionato-italiano-a-squadre-A-Procida-comanda-l-Emilia-Romagna-dopo-la-prima-giornata - wp2962|nota]] |
-| 22 Ottobre 2022 | Termina in bellezza la Wingfoil Racing World Cup a Campione del Garda: Cappuzzo d’oro | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2022/2022-10-22 - Termina-in-bellezza-la-Wingfoil-Racing-World-Cup-a-Campione-del-Garda-Cappuzzo-d-oro - wp2963|nota]] |

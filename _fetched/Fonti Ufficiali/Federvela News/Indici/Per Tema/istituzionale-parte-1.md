@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Ottobre 2026 | FIV e FIPsiS insieme per il benessere psicologico nella vela | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-13 - FIV-e-FIPsiS-insieme-per-il-benessere-psicologico-nella-vela - wp8276|nota]] |
 | 10 Ottobre 2026 | Collari d’Oro, il 12 ottobre la cerimonia al CPO Giulio Onesti | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-10 - Collari-d-Oro-il-12-ottobre-la-cerimonia-al-CPO-Giulio-Onesti - wp8273|nota]] |
 | 5 Ottobre 2026 | Presentato a Napoli il Campionato Italiano Classi Olimpiche Edison Next | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-05 - Presentato-a-Napoli-il-Campionato-Italiano-Classi-Olimpiche-Edison-Next - wp8266|nota]] |
 | 3 Ottobre 2026 | Borse di studio per studenti-atleti: 9,8 milioni dal Dipartimento per lo Sport, domande fino al 26 ottobre | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2026/2026-10-03 - Borse-di-studio-per-studenti-atleti-9-8-milioni-dal-Dipartimento-per-lo-Sport-domande-fino-al-26-ottobre - wp8257|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Marzo 2023 | Piano di Sostegno e Sviluppo 2023 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-30 - Piano-di-Sostegno-e-Sviluppo-2023 - wp2924|nota]] |
 | 29 Marzo 2023 | Al via la ricerca della gloria olimpica anche per la vela virtuale | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-29 - Al-via-la-ricerca-della-gloria-olimpica-anche-per-la-vela-virtuale - wp2925|nota]] |
 | 21 Marzo 2023 | La Triestina della Vela celebra i suoi 100 anni | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-21 - La-Triestina-della-Vela-celebra-i-suoi-100-anni - wp2926|nota]] |
-| 20 Marzo 2023 | Progetti Speciali FIV, successo della prima fase | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2023/2023-03-20 - Progetti-Speciali-FIV-successo-della-prima-fase - wp2927|nota]] |

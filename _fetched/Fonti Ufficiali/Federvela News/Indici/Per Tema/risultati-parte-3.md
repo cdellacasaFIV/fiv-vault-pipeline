@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Ottobre 2020 | Europeo Laser e Radial, il penultimo giorno | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-12 - Europeo-Laser-e-Radial-il-penultimo-giorno - wp3286|nota]] |
 | 11 Ottobre 2020 | EUROPEO LASER E RADIAL IN POLONIA-DAY 4 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-11 - EUROPEO-LASER-E-RADIAL-IN-POLONIA-DAY-4 - wp3288|nota]] |
 | 10 Ottobre 2020 | 2° Campionato Italiano e-sailing FIV @Barcolana: oggi le Finali a Trieste | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-10 - 2-Campionato-Italiano-e-sailing-FIV-Barcolana-oggi-le-Finali-a-Trieste - wp3289|nota]] |
 | 10 Ottobre 2020 | EUROPEO LASER E RADIAL IN POLONIA-DAY 3 | condivisa, Nazionale | [[Fonti Ufficiali/Federvela News/Articoli/2020/2020-10-10 - EUROPEO-LASER-E-RADIAL-IN-POLONIA-DAY-3 - wp3290|nota]] |
