@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 15 Luglio 2024 | Youth Sailing World Championships: day 1 quasi trenta regate! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-15 - Youth-Sailing-World-Championships-day-1-quasi-trenta-regate - wp1900|nota]] |
 | 14 Luglio 2024 | Youth Sailing World Championships: domani le prime regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-14 - Youth-Sailing-World-Championships-domani-le-prime-regate - wp1893|nota]] |
 | 13 Luglio 2024 | Cerimonia di apertura degli Youth Sailing World Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-13 - Cerimonia-di-apertura-degli-Youth-Sailing-World-Championships - wp1883|nota]] |
 | 12 Luglio 2024 | Youth Sailing World Championships: domani la cerimonia di apertura | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-12 - Youth-Sailing-World-Championships-domani-la-cerimonia-di-apertura - wp1880|nota]] |

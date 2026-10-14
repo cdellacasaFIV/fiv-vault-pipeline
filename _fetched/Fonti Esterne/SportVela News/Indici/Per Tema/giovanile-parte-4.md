@@ -6,6 +6,9 @@ Parte 4 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 9 Maggio 2024 | Nella grande stagione della vela 2024 spiccano le cinque Regate FIV | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-09 - Nella-grande-stagione-della-vela-2024-spiccano-le-cinque-Regate-FIV - wp1726|nota]] |
+| 2 Maggio 2024 | La 30ma edizione del Velista dell’Anno FIV in programma il 27 maggio a Genova | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-02 - La-30ma-edizione-del-Velista-dell-Anno-FIV-in-programma-il-27-maggio-a-Genova - wp1701|nota]] |
+| 22 Aprile 2024 | Un mare di inclusione – La vela abbraccia tutti | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-22 - Un-mare-di-inclusione-La-vela-abbraccia-tutti - wp1669|nota]] |
 | 21 Aprile 2024 | Iniziata oggi la 55ª Semaine Olympique Française de Hyères: tappa cruciale per molte nazioni impegnate nella Last Chance Regatta | Copertina, Mission Paris 2024, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-21 - Iniziata-oggi-la-55a-Semaine-Olympique-Francaise-de-Hyeres-tappa-cruciale-per-molte-nazioni-impegnate-nella-La - wp1666|nota]] |
 | 15 Aprile 2024 | 2024 OPTIMIST EUROPEAN CHAMPIONSHIP:A CARRARA I MIGLIORI VELISTI DEL MONDO | News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-15 - 2024-OPTIMIST-EUROPEAN-CHAMPIONSHIP-A-CARRARA-I-MIGLIORI-VELISTI-DEL-MONDO - wp1633|nota]] |
 | 12 Aprile 2024 | 2024 ILCA 4 Youth European Championships: Italia oro e doppio bronzo | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-12 - 2024-ILCA-4-Youth-European-Championships-Italia-oro-e-doppio-bronzo - wp1639|nota]] |

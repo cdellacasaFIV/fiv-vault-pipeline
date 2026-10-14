@@ -6,6 +6,8 @@ Parte 3 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 23 Aprile 2026 | VELE D’EPOCA, GRANDI REGATE INTERNAZIONALI E RADUNO SANGERMANI A SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - VELE-D-EPOCA-GRANDI-REGATE-INTERNAZIONALI-E-RADUNO-SANGERMANI-A-SANREMO - wp6783|nota]] |
+| 23 Aprile 2026 | SUCCESSO STRAORDINARIO PER LA FORMAZIONE VELICA IN I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - SUCCESSO-STRAORDINARIO-PER-LA-FORMAZIONE-VELICA-IN-I-ZONA-FIV - wp6780|nota]] |
 | 22 Aprile 2026 | A Brindisi tre giornate di vela e inclusione con “Navigare Insieme: l’Italia senza Barriere” | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-22 - A-Brindisi-tre-giornate-di-vela-e-inclusione-con-Navigare-Insieme-l-Italia-senza-Barriere - wp6773|nota]] |
 | 22 Aprile 2026 | Semaine Olympique Française 2026, terza giornata: Tita e Banti volano nel Nacra 17, Renna guida l’iQFOiL Men, Giunchiglia e Schio prime nel 49er FX | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-22 - Semaine-Olympique-Francaise-2026-terza-giornata-Tita-e-Banti-volano-nel-Nacra-17-Renna-guida-l-iQFOiL-Men-Giun - wp6767|nota]] |
 | 22 Aprile 2026 | VELE D’EPOCA, GRANDI REGATE INTERNAZIONALI E RADUNO SANGERMANI A SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-22 - VELE-D-EPOCA-GRANDI-REGATE-INTERNAZIONALI-E-RADUNO-SANGERMANI-A-SANREMO - wp6765|nota]] |
@@ -254,5 +256,3 @@ Parte 3 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 9 Dicembre 2025 | IMPERIA WINTER REGATTA: VENTO E TANTE REGATE CHIUDONO L’EDIZIONE NUMERO 36 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-09 - IMPERIA-WINTER-REGATTA-VENTO-E-TANTE-REGATE-CHIUDONO-L-EDIZIONE-NUMERO-36 - wp5548|nota]] |
 | 9 Dicembre 2025 | Wonderfull domina a Torre del Greco fra i Meteor | News, V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-09 - Wonderfull-domina-a-Torre-del-Greco-fra-i-Meteor - wp5544|nota]] |
 | 8 Dicembre 2025 | 36ma IMPERIA WINTER REGATTA: TERZA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - 36ma-IMPERIA-WINTER-REGATTA-TERZA-GIORNATA - wp5533|nota]] |
-| 8 Dicembre 2025 | JAZZ E ATMOSFERA NATALIZIA AL CIRCOLO NAUTICO RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - JAZZ-E-ATMOSFERA-NATALIZIA-AL-CIRCOLO-NAUTICO-RAPALLO - wp5525|nota]] |
-| 7 Dicembre 2025 | Wingfoil Racing: Spanu domina la Coppa del Mondo, Tomasi bronzo | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-07 - Wingfoil-Racing-Spanu-domina-la-Coppa-del-Mondo-Tomasi-bronzo - wp5522|nota]] |

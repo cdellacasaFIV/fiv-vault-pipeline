@@ -5,8 +5,8 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 
 ## Fonte
 
-- Data Federvela: 24 Settembre 2026
-- Link: https://federvela.it/2026/09/24/americas-cup-a-napoli-online-lo-speciale-di-sport-vela/
+- Data Federvela: 2 Ottobre 2026
+- Link: https://federvela.it/2026/10/02/americas-cup-a-napoli-online-lo-speciale-di-sport-vela/
 - Categorie: condivisa, Nazionale
 
 ## Perche' tenerla
@@ -20,7 +20,7 @@ Uso nel vault: memoria ufficiale, contesto istituzionale, risultati e traccia ed
 - Angoli memoria: risultato/storico sportivo ufficiale da collegare a classifiche finali quando disponibili, sviluppo giovanile e vivaio FIV, inclusione, parasailing e valore istituzionale, atto, accordo, governance o policy federale, legacy America's Cup Napoli e promozione territoriale.
 - Classi/discipline citate: Para Sailing.
 - Nomi, circoli o luoghi da valutare: America’s Cup, Napoli, Sport Vela America’s Cup, Sport Vela Seguici, L’America’s Cup, Sport Vela, Federazione Italiana Vela, Speciale A’sC, Fino, Golfo, Louis Vuitton, America’s Cup Preliminary Regatta, Road, Naples.
-- Numeri/date utili: 24, 2026, 27, 2027, 300, 14, 10.
+- Numeri/date utili: 2, 2026, 27, 2027, 300, 14, 10.
 - Testo fonte ufficiale disponibile online: usare il link per verifica puntuale, senza duplicare integralmente l'articolo nel vault.
 
 ## Collegamenti utili

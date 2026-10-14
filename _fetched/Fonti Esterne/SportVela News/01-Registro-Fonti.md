@@ -1,10 +1,13 @@
 # Registro fonti SportVela
 
 Stato fonte: **fonte esterna SportVela**.
-Aggiornato: 2026-10-13.
+Aggiornato: 2026-10-14.
 
 | Data | Titolo | Categorie | Temi | Nota | Fonte |
 | --- | --- | --- | --- | --- | --- |
+| 14 Ottobre 2026 | CAMPIONATO ZONALE OPTIMIST 2026, ALESSANDRO VIANELLO E PIETRO PAVAN CAMPIONI DELLA XII ZONA FIV VENETO | XII Zona | risultati, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-14 - CAMPIONATO-ZONALE-OPTIMIST-2026-ALESSANDRO-VIANELLO-E-PIETRO-PAVAN-CAMPIONI-DELLA-XII-ZONA-FIV-VENETO - wp9944|nota]] | https://sportvela.net/blog/2026/10/14/campionato-zonale-optimist-2026-alessandro-vianello-e-pietro-pavan-campioni-della-xii-zona-fiv-veneto/ |
+| 13 Ottobre 2026 | Club Nautico Rimini: Federico Poli vince la zonale Ilca | XI Zona | risultati, olimpica, giovanile, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-13 - Club-Nautico-Rimini-Federico-Poli-vince-la-zonale-Ilca - wp9939|nota]] | https://sportvela.net/blog/2026/10/13/club-nautico-rimini-federico-poli-vince-la-zonale-ilca/ |
+| 13 Ottobre 2026 | A Campione del Garda va in scena il Campionato Europeo Optimist a Squadre 2026 | News, Vela Giovanile | risultati, giovanile, para/inclusione | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-13 - A-Campione-del-Garda-va-in-scena-il-Campionato-Europeo-Optimist-a-Squadre-2026 - wp9935|nota]] | https://sportvela.net/blog/2026/10/13/a-campione-del-garda-va-in-scena-il-campionato-europeo-optimist-a-squadre-2026/ |
 | 12 Ottobre 2026 | FORMAZIONE ISTRUTTORI I ZONA FIV: DUE WEEKEND TRA DIDATTICA, TECNOLOGIA ED INCLUSIONE | I Zona | risultati, giovanile, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - FORMAZIONE-ISTRUTTORI-I-ZONA-FIV-DUE-WEEKEND-TRA-DIDATTICA-TECNOLOGIA-ED-INCLUSIONE - wp9924|nota]] | https://sportvela.net/blog/2026/10/12/formazione-istruttori-i-zona-fiv-due-weekend-tra-didattica-tecnologia-ed-inclusione/ |
 | 12 Ottobre 2026 | Campionato Italiano J/22: White Magic conquista il titolo 2026 a Napoli | V Zona | risultati, zone/circoli, america's cup/napoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - Campionato-Italiano-J-22-White-Magic-conquista-il-titolo-2026-a-Napoli - wp9921|nota]] | https://sportvela.net/blog/2026/10/12/campionato-italiano-j-22-white-magic-conquista-il-titolo-2026-a-napoli/ |
 | 12 Ottobre 2026 | DINGHY 12′: A RICCARDO LAMPERTI CON LAMPO IL TROFEO CHALLENGE LNI S. MARGHERITA LIGURE | I Zona | risultati, giovanile, para/inclusione, zone/circoli | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - DINGHY-12-A-RICCARDO-LAMPERTI-CON-LAMPO-IL-TROFEO-CHALLENGE-LNI-S-MARGHERITA-LIGURE - wp9917|nota]] | https://sportvela.net/blog/2026/10/12/dinghy-12-a-riccardo-lamperti-con-lampo-il-trofeo-challenge-lni-s-margherita-ligure/ |

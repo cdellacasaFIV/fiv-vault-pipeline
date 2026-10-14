@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Ottobre 2026 | Club Nautico Rimini: Federico Poli vince la zonale Ilca | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-13 - Club-Nautico-Rimini-Federico-Poli-vince-la-zonale-Ilca - wp9939|nota]] |
 | 8 Ottobre 2026 | ILCA U21 Europei 2026: a Bodrum 191 velisti da 40 nazioni | News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - ILCA-U21-Europei-2026-a-Bodrum-191-velisti-da-40-nazioni - wp9826|nota]] |
 | 8 Ottobre 2026 | Brisbane 2032 presenta l’emblema: un cacatua tra fiamma e Queensland | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Brisbane-2032-presenta-l-emblema-un-cacatua-tra-fiamma-e-Queensland - wp9822|nota]] |
 | 8 Ottobre 2026 | iQFOiL: LEONARDO TOMASINI, UNA CRESCITA CONTINUA | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - iQFOiL-LEONARDO-TOMASINI-UNA-CRESCITA-CONTINUA - wp9803|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 11 Dicembre 2025 | Youth Sailing World Championships 2025: a Vilamoura i futuri protagonisti della vela mondiale giovanile. | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-11 - Youth-Sailing-World-Championships-2025-a-Vilamoura-i-futuri-protagonisti-della-vela-mondiale-giovanile - wp5584|nota]] |
 | 9 Dicembre 2025 | IMPERIA WINTER REGATTA: VENTO E TANTE REGATE CHIUDONO L’EDIZIONE NUMERO 36 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-09 - IMPERIA-WINTER-REGATTA-VENTO-E-TANTE-REGATE-CHIUDONO-L-EDIZIONE-NUMERO-36 - wp5548|nota]] |
 | 8 Dicembre 2025 | 36ma IMPERIA WINTER REGATTA: TERZA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - 36ma-IMPERIA-WINTER-REGATTA-TERZA-GIORNATA - wp5533|nota]] |
-| 8 Dicembre 2025 | L’Italia vince il primo storico Europeo Team Racing ILCA ad Atene | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - L-Italia-vince-il-primo-storico-Europeo-Team-Racing-ILCA-ad-Atene - wp5527|nota]] |

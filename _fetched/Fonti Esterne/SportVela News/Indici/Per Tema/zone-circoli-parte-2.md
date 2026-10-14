@@ -6,6 +6,8 @@ Parte 2 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 16 Luglio 2026 | LEGA NAVALE E I ZONA FIV PROTAGONISTE A LA SPEZIA NEI DOPPI CLASSE HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-16 - LEGA-NAVALE-E-I-ZONA-FIV-PROTAGONISTE-A-LA-SPEZIA-NEI-DOPPI-CLASSE-HANSA-303 - wp8121|nota]] |
+| 15 Luglio 2026 | Wingfoil: Ernesto De Amicis primo U19 in Coppa del Mondo a Gizzeria | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-15 - Wingfoil-Ernesto-De-Amicis-primo-U19-in-Coppa-del-Mondo-a-Gizzeria - wp8118|nota]] |
 | 15 Luglio 2026 | Filippo Osti e Roberto Itocchi bronzo mondiale 420 U17 a Biscarrosse | XV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-15 - Filippo-Osti-e-Roberto-Itocchi-bronzo-mondiale-420-U17-a-Biscarrosse - wp8107|nota]] |
 | 14 Luglio 2026 | Nacra 17, Figlia di Granara e Sedmak quarti al Campionato Europeo | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-14 - Nacra-17-Figlia-di-Granara-e-Sedmak-quarti-al-Campionato-Europeo - wp8114|nota]] |
 | 14 Luglio 2026 | Cinque Fari, vince Melagodo. Anemos II con Chieffi e Pelaschier conquista il trofeo Emmanuele Manuele | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-14 - Cinque-Fari-vince-Melagodo-Anemos-II-con-Chieffi-e-Pelaschier-conquista-il-trofeo-Emmanuele-Manuele - wp8102|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 23 Aprile 2026 | Semaine Olympique Française 2026, quarta giornata: domani si assegnano le prime medaglie | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - Semaine-Olympique-Francaise-2026-quarta-giornata-domani-si-assegnano-le-prime-medaglie - wp6795|nota]] |
 | 23 Aprile 2026 | La XII Zona FIV al Salone Nautico di Venezia 2026 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - La-XII-Zona-FIV-al-Salone-Nautico-di-Venezia-2026 - wp6789|nota]] |
 | 23 Aprile 2026 | CONTO ALLA ROVESCIA PER IL GRAN PREMIO D’ITALIA MINI 6.50 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - CONTO-ALLA-ROVESCIA-PER-IL-GRAN-PREMIO-D-ITALIA-MINI-6-50 - wp6786|nota]] |
-| 23 Aprile 2026 | VELE D’EPOCA, GRANDI REGATE INTERNAZIONALI E RADUNO SANGERMANI A SANREMO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - VELE-D-EPOCA-GRANDI-REGATE-INTERNAZIONALI-E-RADUNO-SANGERMANI-A-SANREMO - wp6783|nota]] |
-| 23 Aprile 2026 | SUCCESSO STRAORDINARIO PER LA FORMAZIONE VELICA IN I ZONA FIV | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-23 - SUCCESSO-STRAORDINARIO-PER-LA-FORMAZIONE-VELICA-IN-I-ZONA-FIV - wp6780|nota]] |

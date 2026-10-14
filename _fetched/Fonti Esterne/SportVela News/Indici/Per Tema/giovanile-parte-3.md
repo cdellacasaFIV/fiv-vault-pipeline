@@ -6,6 +6,9 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Ottobre 2025 | GRANDE SUCCESSO PER IL RADUNO DI PREPARAZIONE FISICA DELLA I ZONA FIV A LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - GRANDE-SUCCESSO-PER-IL-RADUNO-DI-PREPARAZIONE-FISICA-DELLA-I-ZONA-FIV-A-LOANO - wp4845|nota]] |
+| 13 Ottobre 2025 | A SANREMO IL CAMPIONATO ITALIANO RS21, ATTO FINALE DELLA RS21 CUP YAMAMA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - A-SANREMO-IL-CAMPIONATO-ITALIANO-RS21-ATTO-FINALE-DELLA-RS21-CUP-YAMAMA - wp4842|nota]] |
+| 13 Ottobre 2025 | WEEK END QUASI ESTIVO DI REGATE NEL TIGULLIO PER LA CLASSE DINGHY 12’ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - WEEK-END-QUASI-ESTIVO-DI-REGATE-NEL-TIGULLIO-PER-LA-CLASSE-DINGHY-12 - wp4829|nota]] |
 | 13 Ottobre 2025 | Sofia Giondi. La determinazione di un equipaggio rosa. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - Sofia-Giondi-La-determinazione-di-un-equipaggio-rosa - wp4793|nota]] |
 | 12 Ottobre 2025 | Mondiali 49er, 49erFX e Nacra 17: argento per Ugolini-Giubilei e bronzo Under 24 per Figlia di Granara–Sedmak. Ettorre: “Sardinia Sailing Cup è la formula vincente della vela mondiale” | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-12 - Mondiali-49er-49erFX-e-Nacra-17-argento-per-Ugolini-Giubilei-e-bronzo-Under-24-per-Figlia-di-Granara-Sedmak-Et - wp4826|nota]] |
 | 12 Ottobre 2025 | Ottimi risultati per gli equipaggi della II Zona FIV al German Open Vaurien 2025 | II Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-12 - Ottimi-risultati-per-gli-equipaggi-della-II-Zona-FIV-al-German-Open-Vaurien-2025 - wp4822|nota]] |
@@ -253,6 +256,3 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 30 Maggio 2024 | A Cagliari il Nacra 17, 49er and FX World Championship 2025 | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-30 - A-Cagliari-il-Nacra-17-49er-and-FX-World-Championship-2025 - wp1798|nota]] |
 | 20 Maggio 2024 | Ritorno all’Academy Mini 650 | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-20 - Ritorno-all-Academy-Mini-650 - wp1790|nota]] |
 | 10 Maggio 2024 | AMBROGIO BECCARIA VINCE LA THE TRANSAT CIC 2024 A BORDO DI “ALLA GRANDE – PIRELLI” | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-10 - AMBROGIO-BECCARIA-VINCE-LA-THE-TRANSAT-CIC-2024-A-BORDO-DI-ALLA-GRANDE-PIRELLI - wp1742|nota]] |
-| 9 Maggio 2024 | Nella grande stagione della vela 2024 spiccano le cinque Regate FIV | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-09 - Nella-grande-stagione-della-vela-2024-spiccano-le-cinque-Regate-FIV - wp1726|nota]] |
-| 2 Maggio 2024 | La 30ma edizione del Velista dell’Anno FIV in programma il 27 maggio a Genova | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-02 - La-30ma-edizione-del-Velista-dell-Anno-FIV-in-programma-il-27-maggio-a-Genova - wp1701|nota]] |
-| 22 Aprile 2024 | Un mare di inclusione – La vela abbraccia tutti | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-22 - Un-mare-di-inclusione-La-vela-abbraccia-tutti - wp1669|nota]] |

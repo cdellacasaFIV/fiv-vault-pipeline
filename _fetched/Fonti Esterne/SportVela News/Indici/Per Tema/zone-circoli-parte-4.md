@@ -6,6 +6,8 @@ Parte 4 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 8 Dicembre 2025 | JAZZ E ATMOSFERA NATALIZIA AL CIRCOLO NAUTICO RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - JAZZ-E-ATMOSFERA-NATALIZIA-AL-CIRCOLO-NAUTICO-RAPALLO - wp5525|nota]] |
+| 7 Dicembre 2025 | Wingfoil Racing: Spanu domina la Coppa del Mondo, Tomasi bronzo | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-07 - Wingfoil-Racing-Spanu-domina-la-Coppa-del-Mondo-Tomasi-bronzo - wp5522|nota]] |
 | 7 Dicembre 2025 | 36ma Imperia Winter Regatta: Il vento leggero impone un lento procedere | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-07 - 36ma-Imperia-Winter-Regatta-Il-vento-leggero-impone-un-lento-procedere - wp5518|nota]] |
 | 6 Dicembre 2025 | Giancarlo Moretto premiato dal Comitato Paralimpico Italiano Veneto per il suo impegno nella vela solidale | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-06 - Giancarlo-Moretto-premiato-dal-Comitato-Paralimpico-Italiano-Veneto-per-il-suo-impegno-nella-vela-solidale - wp5515|nota]] |
 | 6 Dicembre 2025 | 36ma Imperia Winter Regatta | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-06 - 36ma-Imperia-Winter-Regatta - wp5512|nota]] |
@@ -254,5 +256,3 @@ Parte 4 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 7 Settembre 2025 | Conclusi sul Garda Trentino i Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - Conclusi-sul-Garda-Trentino-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4202|nota]] |
 | 7 Settembre 2025 | VELE D’EPOCA DI IMPERIA: ARIA E CRIVIZZA TRIONFANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - VELE-D-EPOCA-DI-IMPERIA-ARIA-E-CRIVIZZA-TRIONFANO - wp4196|nota]] |
 | 6 Settembre 2025 | Giulia Marella – Un viaggio di vela e talento | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Giulia-Marella-Un-viaggio-di-vela-e-talento - wp4193|nota]] |
-| 6 Settembre 2025 | Meeting Zonale 2025 della XII Zona FIV – “La Festa delle Scuole Vela” | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Meeting-Zonale-2025-della-XII-Zona-FIV-La-Festa-delle-Scuole-Vela - wp4190|nota]] |
-| 6 Settembre 2025 | Penultimo giorno di regate ai Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 sul Garda Trentino | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Penultimo-giorno-di-regate-ai-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025-sul-Garda-Tre - wp4188|nota]] |

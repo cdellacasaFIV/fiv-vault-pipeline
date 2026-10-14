@@ -6,6 +6,9 @@ Parte 6 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 31 Gennaio 2024 | 2024 ILCA 7 World Championship: il titolo all’australiano Wearn | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-31 - 2024-ILCA-7-World-Championship-il-titolo-all-australiano-Wearn - wp1342|nota]] |
+| 30 Gennaio 2024 | 2024 iQFOiL World Championship: primo giorno di prove. Nicolò Renna quarto | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-30 - 2024-iQFOiL-World-Championship-primo-giorno-di-prove-Nicolo-Renna-quarto - wp1337|nota]] |
+| 30 Gennaio 2024 | 2024 ILCA 7 World Championship: secondo giorno di Gold Fleet | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-30 - 2024-ILCA-7-World-Championship-secondo-giorno-di-Gold-Fleet - wp1334|nota]] |
 | 29 Gennaio 2024 | 2024 ILCA 7 World Championship: primo giorno di Gold Fleet | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-29 - 2024-ILCA-7-World-Championship-primo-giorno-di-Gold-Fleet - wp1331|nota]] |
 | 28 Gennaio 2024 | 2024 ILCA 7 World Championship: terminata la fase di qualifiche. Chiavarini in Gold Fleet | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-28 - 2024-ILCA-7-World-Championship-terminata-la-fase-di-qualifiche-Chiavarini-in-Gold-Fleet - wp1328|nota]] |
 | 27 Gennaio 2024 | 2024 ILCA 7 World Championship: lungo secondo giorno di prove | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-27 - 2024-ILCA-7-World-Championship-lungo-secondo-giorno-di-prove - wp1325|nota]] |

@@ -6,6 +6,7 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 18 Giugno 2024 | Conclusi i Campionati Europei Windsurfer | News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-18 - Conclusi-i-Campionati-Europei-Windsurfer - wp1837|nota]] |
 | 11 Giugno 2024 | Consegnata la prima bandiera “La vela per tutti” | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-11 - Consegnata-la-prima-bandiera-La-vela-per-tutti - wp1829|nota]] |
 | 11 Giugno 2024 | Si è concluso il Campionato Nazionale Hansa 303: vittorie per Forastieri e Ramazzotti-Diana | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-11 - Si-e-concluso-il-Campionato-Nazionale-Hansa-303-vittorie-per-Forastieri-e-Ramazzotti-Diana - wp1826|nota]] |
 | 3 Giugno 2024 | Nacra 17 European Championship 2024 a Sferracavallo | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-03 - Nacra-17-European-Championship-2024-a-Sferracavallo - wp1813|nota]] |

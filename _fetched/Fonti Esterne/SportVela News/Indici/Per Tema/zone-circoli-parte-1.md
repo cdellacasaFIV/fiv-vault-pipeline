@@ -6,6 +6,8 @@ Parte 1 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Ottobre 2026 | CAMPIONATO ZONALE OPTIMIST 2026, ALESSANDRO VIANELLO E PIETRO PAVAN CAMPIONI DELLA XII ZONA FIV VENETO | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-14 - CAMPIONATO-ZONALE-OPTIMIST-2026-ALESSANDRO-VIANELLO-E-PIETRO-PAVAN-CAMPIONI-DELLA-XII-ZONA-FIV-VENETO - wp9944|nota]] |
+| 13 Ottobre 2026 | Club Nautico Rimini: Federico Poli vince la zonale Ilca | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-13 - Club-Nautico-Rimini-Federico-Poli-vince-la-zonale-Ilca - wp9939|nota]] |
 | 12 Ottobre 2026 | FORMAZIONE ISTRUTTORI I ZONA FIV: DUE WEEKEND TRA DIDATTICA, TECNOLOGIA ED INCLUSIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - FORMAZIONE-ISTRUTTORI-I-ZONA-FIV-DUE-WEEKEND-TRA-DIDATTICA-TECNOLOGIA-ED-INCLUSIONE - wp9924|nota]] |
 | 12 Ottobre 2026 | Campionato Italiano J/22: White Magic conquista il titolo 2026 a Napoli | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - Campionato-Italiano-J-22-White-Magic-conquista-il-titolo-2026-a-Napoli - wp9921|nota]] |
 | 12 Ottobre 2026 | DINGHY 12′: A RICCARDO LAMPERTI CON LAMPO IL TROFEO CHALLENGE LNI S. MARGHERITA LIGURE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - DINGHY-12-A-RICCARDO-LAMPERTI-CON-LAMPO-IL-TROFEO-CHALLENGE-LNI-S-MARGHERITA-LIGURE - wp9917|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 17 Luglio 2026 | Vucetti-Bonifacio campioni del mondo Junior nel 470, doppietta con il titolo Under 21 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-17 - Vucetti-Bonifacio-campioni-del-mondo-Junior-nel-470-doppietta-con-il-titolo-Under-21 - wp8141|nota]] |
 | 17 Luglio 2026 | IL CIRCOLO NAUTICO RAPALLO PROTAGONISTA DELLA XXII REGATA DELL’ISOLA DEL TINO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-17 - IL-CIRCOLO-NAUTICO-RAPALLO-PROTAGONISTA-DELLA-XXII-REGATA-DELL-ISOLA-DEL-TINO - wp8131|nota]] |
 | 16 Luglio 2026 | Il Circolo ILVA Bagnoli inaugura il Centro Velico e Cultura del Mare “Carlo Rolandi” | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-16 - Il-Circolo-ILVA-Bagnoli-inaugura-il-Centro-Velico-e-Cultura-del-Mare-Carlo-Rolandi - wp8125|nota]] |
-| 16 Luglio 2026 | LEGA NAVALE E I ZONA FIV PROTAGONISTE A LA SPEZIA NEI DOPPI CLASSE HANSA 303 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-16 - LEGA-NAVALE-E-I-ZONA-FIV-PROTAGONISTE-A-LA-SPEZIA-NEI-DOPPI-CLASSE-HANSA-303 - wp8121|nota]] |
-| 15 Luglio 2026 | Wingfoil: Ernesto De Amicis primo U19 in Coppa del Mondo a Gizzeria | V Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-07-15 - Wingfoil-Ernesto-De-Amicis-primo-U19-in-Coppa-del-Mondo-a-Gizzeria - wp8118|nota]] |

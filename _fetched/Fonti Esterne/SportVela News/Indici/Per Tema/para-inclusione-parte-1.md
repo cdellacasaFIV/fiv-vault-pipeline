@@ -6,6 +6,7 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 13 Ottobre 2026 | A Campione del Garda va in scena il Campionato Europeo Optimist a Squadre 2026 | News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-13 - A-Campione-del-Garda-va-in-scena-il-Campionato-Europeo-Optimist-a-Squadre-2026 - wp9935|nota]] |
 | 12 Ottobre 2026 | FORMAZIONE ISTRUTTORI I ZONA FIV: DUE WEEKEND TRA DIDATTICA, TECNOLOGIA ED INCLUSIONE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - FORMAZIONE-ISTRUTTORI-I-ZONA-FIV-DUE-WEEKEND-TRA-DIDATTICA-TECNOLOGIA-ED-INCLUSIONE - wp9924|nota]] |
 | 12 Ottobre 2026 | DINGHY 12′: A RICCARDO LAMPERTI CON LAMPO IL TROFEO CHALLENGE LNI S. MARGHERITA LIGURE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-12 - DINGHY-12-A-RICCARDO-LAMPERTI-CON-LAMPO-IL-TROFEO-CHALLENGE-LNI-S-MARGHERITA-LIGURE - wp9917|nota]] |
 | 11 Ottobre 2026 | VELEZIANA OPTIMIST, AL LIDO DI VENEZIA IL VIA ALLA VELEZIANA SAILING WEEK 2026 | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-11 - VELEZIANA-OPTIMIST-AL-LIDO-DI-VENEZIA-IL-VIA-ALLA-VELEZIANA-SAILING-WEEK-2026 - wp9878|nota]] |
@@ -255,4 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 10 Febbraio 2026 | Anna Cuccia nominata Chair della World Sailing eSailing Commission | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-10 - Anna-Cuccia-nominata-Chair-della-World-Sailing-eSailing-Commission - wp5945|nota]] |
 | 6 Febbraio 2026 | Il windsurf olimpico iQFoil al MUSE di Trento | XIV Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-06 - Il-windsurf-olimpico-iQFoil-al-MUSE-di-Trento - wp5938|nota]] |
 | 5 Febbraio 2026 | Due appuntamenti per rilanciare l’attività di formazione para sailing FIV e CIP | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - Due-appuntamenti-per-rilanciare-l-attivita-di-formazione-para-sailing-FIV-e-CIP - wp5928|nota]] |
-| 5 Febbraio 2026 | FORMAZIONE D’ECCELLENZA: AL VIA I FOCUS TECNICI DEL COMITATO I ZONA FIV PER ASPIRANTI E ISTRUTTORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - FORMAZIONE-D-ECCELLENZA-AL-VIA-I-FOCUS-TECNICI-DEL-COMITATO-I-ZONA-FIV-PER-ASPIRANTI-E-ISTRUTTORI - wp5921|nota]] |

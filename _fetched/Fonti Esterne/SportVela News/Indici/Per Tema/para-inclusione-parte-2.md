@@ -6,6 +6,7 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 5 Febbraio 2026 | FORMAZIONE D’ECCELLENZA: AL VIA I FOCUS TECNICI DEL COMITATO I ZONA FIV PER ASPIRANTI E ISTRUTTORI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - FORMAZIONE-D-ECCELLENZA-AL-VIA-I-FOCUS-TECNICI-DEL-COMITATO-I-ZONA-FIV-PER-ASPIRANTI-E-ISTRUTTORI - wp5921|nota]] |
 | 5 Febbraio 2026 | La vela siciliana premia i suoi campioni | VII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-02-05 - La-vela-siciliana-premia-i-suoi-campioni - wp5909|nota]] |
 | 30 Gennaio 2026 | LA I-ZONA FIV VERSO L’ASSEMBLEA DEI CIRCOLI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-30 - LA-I-ZONA-FIV-VERSO-L-ASSEMBLEA-DEI-CIRCOLI - wp5879|nota]] |
 | 22 Gennaio 2026 | FORMAZIONE D’ECCELLENZA: IL COMITATO I ZONA FIV SVELA UN PROGRAMMA ISTRUTTORI 2026 SENZA PRECEDENTI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-01-22 - FORMAZIONE-D-ECCELLENZA-IL-COMITATO-I-ZONA-FIV-SVELA-UN-PROGRAMMA-ISTRUTTORI-2026-SENZA-PRECEDENTI - wp5840|nota]] |
@@ -255,4 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 12 Luglio 2024 | Youth Sailing World Championships: domani la cerimonia di apertura | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-12 - Youth-Sailing-World-Championships-domani-la-cerimonia-di-apertura - wp1880|nota]] |
 | 27 Giugno 2024 | Kieler Woche 2024: nella classe 2.4 presenti Squizzato e Di Maria | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-27 - Kieler-Woche-2024-nella-classe-2-4-presenti-Squizzato-e-Di-Maria - wp1857|nota]] |
 | 22 Giugno 2024 | Selezione Team U19 per Youth World Sailing Championships sul Lago di Garda, 12-20 luglio 2024 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-22 - Selezione-Team-U19-per-Youth-World-Sailing-Championships-sul-Lago-di-Garda-12-20-luglio-2024 - wp1844|nota]] |
-| 18 Giugno 2024 | Conclusi i Campionati Europei Windsurfer | News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-18 - Conclusi-i-Campionati-Europei-Windsurfer - wp1837|nota]] |
