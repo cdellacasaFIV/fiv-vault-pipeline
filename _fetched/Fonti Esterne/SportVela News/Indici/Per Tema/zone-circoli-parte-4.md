@@ -6,6 +6,11 @@ Parte 4 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 11 Dicembre 2025 | 50° INVERNALE DEL TIGULLIO: NEL WEEK END SI CONCLUDE LA PRIMA MANCHE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-11 - 50-INVERNALE-DEL-TIGULLIO-NEL-WEEK-END-SI-CONCLUDE-LA-PRIMA-MANCHE - wp5571|nota]] |
+| 10 Dicembre 2025 | Tre giorni di raduno giovanile organizzato dalla Federazione Italiana Vela al Circolo Velico Reggio. Vela e mare nel mese di Dicembre questi gli ingredienti per lo sviluppo del Territorio | VI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-10 - Tre-giorni-di-raduno-giovanile-organizzato-dalla-Federazione-Italiana-Vela-al-Circolo-Velico-Reggio-Vela-e-mar - wp5567|nota]] |
+| 9 Dicembre 2025 | IMPERIA WINTER REGATTA: VENTO E TANTE REGATE CHIUDONO L’EDIZIONE NUMERO 36 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-09 - IMPERIA-WINTER-REGATTA-VENTO-E-TANTE-REGATE-CHIUDONO-L-EDIZIONE-NUMERO-36 - wp5548|nota]] |
+| 9 Dicembre 2025 | Wonderfull domina a Torre del Greco fra i Meteor | News, V Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-09 - Wonderfull-domina-a-Torre-del-Greco-fra-i-Meteor - wp5544|nota]] |
+| 8 Dicembre 2025 | 36ma IMPERIA WINTER REGATTA: TERZA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - 36ma-IMPERIA-WINTER-REGATTA-TERZA-GIORNATA - wp5533|nota]] |
 | 8 Dicembre 2025 | JAZZ E ATMOSFERA NATALIZIA AL CIRCOLO NAUTICO RAPALLO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - JAZZ-E-ATMOSFERA-NATALIZIA-AL-CIRCOLO-NAUTICO-RAPALLO - wp5525|nota]] |
 | 7 Dicembre 2025 | Wingfoil Racing: Spanu domina la Coppa del Mondo, Tomasi bronzo | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-07 - Wingfoil-Racing-Spanu-domina-la-Coppa-del-Mondo-Tomasi-bronzo - wp5522|nota]] |
 | 7 Dicembre 2025 | 36ma Imperia Winter Regatta: Il vento leggero impone un lento procedere | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-07 - 36ma-Imperia-Winter-Regatta-Il-vento-leggero-impone-un-lento-procedere - wp5518|nota]] |
@@ -251,8 +256,3 @@ Parte 4 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 8 Settembre 2025 | La Federazione Italiana Vela protagonista a The Ocean Race Europe – Genova con le attività della I Zona | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - La-Federazione-Italiana-Vela-protagonista-a-The-Ocean-Race-Europe-Genova-con-le-attivita-della-I-Zona - wp4228|nota]] |
 | 8 Settembre 2025 | Giulia Marella campionessa italiana ILCA 4 Under 18 femminile | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - Giulia-Marella-campionessa-italiana-ILCA-4-Under-18-femminile - wp4217|nota]] |
 | 8 Settembre 2025 | THE OCEAN RACE EUROPE: | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - THE-OCEAN-RACE-EUROPE - wp4214|nota]] |
-| 8 Settembre 2025 | UNIONE SPORTIVA QUARTO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - UNIONE-SPORTIVA-QUARTO - wp4210|nota]] |
-| 8 Settembre 2025 | THE OCEAN RACE EUROPE: | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-08 - THE-OCEAN-RACE-EUROPE - wp4207|nota]] |
-| 7 Settembre 2025 | Conclusi sul Garda Trentino i Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - Conclusi-sul-Garda-Trentino-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4202|nota]] |
-| 7 Settembre 2025 | VELE D’EPOCA DI IMPERIA: ARIA E CRIVIZZA TRIONFANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - VELE-D-EPOCA-DI-IMPERIA-ARIA-E-CRIVIZZA-TRIONFANO - wp4196|nota]] |
-| 6 Settembre 2025 | Giulia Marella – Un viaggio di vela e talento | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-06 - Giulia-Marella-Un-viaggio-di-vela-e-talento - wp4193|nota]] |

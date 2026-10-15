@@ -6,6 +6,9 @@ Parte 4 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 30 Maggio 2024 | A Cagliari il Nacra 17, 49er and FX World Championship 2025 | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-30 - A-Cagliari-il-Nacra-17-49er-and-FX-World-Championship-2025 - wp1798|nota]] |
+| 20 Maggio 2024 | Ritorno all’Academy Mini 650 | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-20 - Ritorno-all-Academy-Mini-650 - wp1790|nota]] |
+| 10 Maggio 2024 | AMBROGIO BECCARIA VINCE LA THE TRANSAT CIC 2024 A BORDO DI “ALLA GRANDE – PIRELLI” | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-10 - AMBROGIO-BECCARIA-VINCE-LA-THE-TRANSAT-CIC-2024-A-BORDO-DI-ALLA-GRANDE-PIRELLI - wp1742|nota]] |
 | 9 Maggio 2024 | Nella grande stagione della vela 2024 spiccano le cinque Regate FIV | Copertina, News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-09 - Nella-grande-stagione-della-vela-2024-spiccano-le-cinque-Regate-FIV - wp1726|nota]] |
 | 2 Maggio 2024 | La 30ma edizione del Velista dell’Anno FIV in programma il 27 maggio a Genova | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-02 - La-30ma-edizione-del-Velista-dell-Anno-FIV-in-programma-il-27-maggio-a-Genova - wp1701|nota]] |
 | 22 Aprile 2024 | Un mare di inclusione – La vela abbraccia tutti | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-04-22 - Un-mare-di-inclusione-La-vela-abbraccia-tutti - wp1669|nota]] |

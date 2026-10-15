@@ -9,6 +9,7 @@ Uso: memoria profonda per classi giovanili, RS e Para Sailing.
 - `ILCA-6-Youth__World-Championships__2026__ILCA-6-Women__ILCA-6-Women-s-World-Championship__225b3e33.csv`
 - `ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Women__ILCA-6-Youth-World-Championships__774549de.csv`
 - `ILCA-6-Youth__Class-Youth-World-Championship__2026__ILCA-6-Men__ILCA-6-Youth-World-Championships__f0001562.csv`
+- `ILCA-6-Youth__Para-World-Sailing-Competition__2026__Inclusive-Cognitive-Impairment-ILCA-6-Test-Category__2026-World-Sailing-Inclusion-Championships__b66f7026.csv`
 
 ## Sintesi eventi
 
@@ -113,3 +114,23 @@ Equipaggi/barche classificati: 307
 | 195 | Manfredi Burruano |  | 409 | 487 |
 | 217 | Leonardo  Grossi |  | 465 | 543 |
 | 225 | Giovanni Balestreri |  | 526 | 604 |
+
+### 2026 - Para World Sailing Competition - Inclusive Cognitive Impairment (ILCA 6) - Test Category
+
+Regata: 2026 World Sailing Inclusion Championships
+Fonte: https://sailing.org/regatta/2026-world-sailing-inclusion-championships?ref=POR202610NUS
+Date: 2026-10-04 - 2026-10-10
+Sede: Portimao, Portugal, Portugal
+Equipaggi/barche classificati: 3
+
+#### Podio
+
+| rank | country | crew | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 1 | HKG | CHEUNG  TSZ HIN | 59 | 65 |
+| 2 | SKN | Elijah Walters | 75 | 81 |
+| 3 | TTO | ivan  stollmeyer | 98 | 105 |
+
+#### Italiani
+
+Nessun italiano trovato nella classifica.

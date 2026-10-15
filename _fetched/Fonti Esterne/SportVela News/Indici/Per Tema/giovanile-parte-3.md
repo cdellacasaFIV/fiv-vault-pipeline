@@ -6,6 +6,9 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Ottobre 2025 | La decima tappa del progetto “Navigare Insieme: l’Italia senza barriere” fa tappa a Cagliari ospitata all’interno di Sardinia Sailing Cup | Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - La-decima-tappa-del-progetto-Navigare-Insieme-l-Italia-senza-barriere-fa-tappa-a-Cagliari-ospitata-all-interno - wp4866|nota]] |
+| 14 Ottobre 2025 | Kuka del Circolo Vela Cesenatico firma un grande risultato allaBarcolana 2025. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - Kuka-del-Circolo-Vela-Cesenatico-firma-un-grande-risultato-allaBarcolana-2025 - wp4832|nota]] |
+| 14 Ottobre 2025 | TEAM RACE OPTIMIST: TROFEO CHALLENGE CITTÀ DI CHIAVARI | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-14 - TEAM-RACE-OPTIMIST-TROFEO-CHALLENGE-CITTA-DI-CHIAVARI - wp4861|nota]] |
 | 13 Ottobre 2025 | GRANDE SUCCESSO PER IL RADUNO DI PREPARAZIONE FISICA DELLA I ZONA FIV A LOANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - GRANDE-SUCCESSO-PER-IL-RADUNO-DI-PREPARAZIONE-FISICA-DELLA-I-ZONA-FIV-A-LOANO - wp4845|nota]] |
 | 13 Ottobre 2025 | A SANREMO IL CAMPIONATO ITALIANO RS21, ATTO FINALE DELLA RS21 CUP YAMAMA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - A-SANREMO-IL-CAMPIONATO-ITALIANO-RS21-ATTO-FINALE-DELLA-RS21-CUP-YAMAMA - wp4842|nota]] |
 | 13 Ottobre 2025 | WEEK END QUASI ESTIVO DI REGATE NEL TIGULLIO PER LA CLASSE DINGHY 12’ | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-10-13 - WEEK-END-QUASI-ESTIVO-DI-REGATE-NEL-TIGULLIO-PER-LA-CLASSE-DINGHY-12 - wp4829|nota]] |
@@ -253,6 +256,3 @@ Parte 3 di 4 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 18 Giugno 2024 | Conclusi i Campionati Europei Windsurfer | News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-18 - Conclusi-i-Campionati-Europei-Windsurfer - wp1837|nota]] |
 | 10 Giugno 2024 | Pezzilli-Torroni trionfano ai Campionati Europei 49er 2024 U23 | Copertina, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-10 - Pezzilli-Torroni-trionfano-ai-Campionati-Europei-49er-2024-U23 - wp1816|nota]] |
 | 30 Maggio 2024 | L’Italia della Vela si prepara per le Olimpiadi di Parigi 2024: squadra al completo a meno di sessanta giorni dall’evento | Copertina, Mission Paris 2024, News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-30 - L-Italia-della-Vela-si-prepara-per-le-Olimpiadi-di-Parigi-2024-squadra-al-completo-a-meno-di-sessanta-giorni-d - wp1810|nota]] |
-| 30 Maggio 2024 | A Cagliari il Nacra 17, 49er and FX World Championship 2025 | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-30 - A-Cagliari-il-Nacra-17-49er-and-FX-World-Championship-2025 - wp1798|nota]] |
-| 20 Maggio 2024 | Ritorno all’Academy Mini 650 | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-20 - Ritorno-all-Academy-Mini-650 - wp1790|nota]] |
-| 10 Maggio 2024 | AMBROGIO BECCARIA VINCE LA THE TRANSAT CIC 2024 A BORDO DI “ALLA GRANDE – PIRELLI” | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-05-10 - AMBROGIO-BECCARIA-VINCE-LA-THE-TRANSAT-CIC-2024-A-BORDO-DI-ALLA-GRANDE-PIRELLI - wp1742|nota]] |

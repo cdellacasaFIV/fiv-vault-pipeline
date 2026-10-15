@@ -6,6 +6,11 @@ Parte 6 di 6 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 3 Febbraio 2024 | 2024 iQFOiL World Championship: Renna d’oro! | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-02-03 - 2024-iQFOiL-World-Championship-Renna-d-oro - wp1371|nota]] |
+| 2 Febbraio 2024 | 2024 iQFOiL World Championship: domani medal series con Renna e Maggetti | News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-02-02 - 2024-iQFOiL-World-Championship-domani-medal-series-con-Renna-e-Maggetti - wp1368|nota]] |
+| 1 Febbraio 2024 | 2024 iQFOiL World Championship: primo giorno di finali. Renna secondo e Maggetti quarta | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-02-01 - 2024-iQFOiL-World-Championship-primo-giorno-di-finali-Renna-secondo-e-Maggetti-quarta - wp1356|nota]] |
+| 1 Febbraio 2024 | Spirito di Stella: Il catamarano accessibile approda a Miami per il Progetto WoW | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-02-01 - Spirito-di-Stella-Il-catamarano-accessibile-approda-a-Miami-per-il-Progetto-WoW - wp1348|nota]] |
+| 31 Gennaio 2024 | 2024 iQFOiL World Championship: si concludono le qualifiche. 7 italiani in Gold Fleet | News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-31 - 2024-iQFOiL-World-Championship-si-concludono-le-qualifiche-7-italiani-in-Gold-Fleet - wp1351|nota]] |
 | 31 Gennaio 2024 | 2024 ILCA 7 World Championship: il titolo all’australiano Wearn | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-31 - 2024-ILCA-7-World-Championship-il-titolo-all-australiano-Wearn - wp1342|nota]] |
 | 30 Gennaio 2024 | 2024 iQFOiL World Championship: primo giorno di prove. Nicolò Renna quarto | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-30 - 2024-iQFOiL-World-Championship-primo-giorno-di-prove-Nicolo-Renna-quarto - wp1337|nota]] |
 | 30 Gennaio 2024 | 2024 ILCA 7 World Championship: secondo giorno di Gold Fleet | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-01-30 - 2024-ILCA-7-World-Championship-secondo-giorno-di-Gold-Fleet - wp1334|nota]] |

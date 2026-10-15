@@ -7,6 +7,8 @@ Uso: memoria profonda per classi giovanili, RS e Para Sailing.
 ## File dati completi
 
 - `Hansa-303__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-World-Championship-Hansa-303-Inclusive__2026-World-Sailing-Inclusion-Championships__294931f4.csv`
+- `Hansa-303__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-World-Championship-Hansa-303-Para-Women__2026-World-Sailing-Inclusion-Championships__3c28fde1.csv`
+- `Hansa-303__Para-World-Sailing-Competition__2026__Para-Inclusive-One-Person-Keelboat-World-Championships-Hansa-303-Para-Men__2026-World-Sailing-Inclusion-Championships__a850cf96.csv`
 
 ## Sintesi eventi
 
@@ -36,3 +38,51 @@ Equipaggi/barche classificati: 47
 | 11 | Vincenzo Gulino | ITA 3759 | 107 | 132 |
 | 17 | Alessandra Franchi | ITA 3861 | 136 | 157 |
 | 21 | Carmelo Forastieri | ITA 3756 | 157 | 182 |
+
+### 2026 - Para World Sailing Competition - Para Inclusive One Person Keelboat World Championship (Hansa 303) - Para Women
+
+Regata: 2026 World Sailing Inclusion Championships
+Fonte: https://sailing.org/regatta/2026-world-sailing-inclusion-championships?ref=POR202610NUS
+Date: 2026-10-04 - 2026-10-10
+Sede: Portimao, Portugal, Portugal
+Equipaggi/barche classificati: 8
+
+#### Podio
+
+| rank | country | crew | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 1 | TUR | Busra Nur Celik | 133 | 158 |
+| 2 | ITA | Alessandra Franchi | 136 | 157 |
+| 3 | USA | julie smith | 150 | 172 |
+
+#### Italiani
+
+| rank | crew | sail_number | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 2 | Alessandra Franchi | ITA 3861 | 136 | 157 |
+
+### 2026 - Para World Sailing Competition - Para Inclusive One Person Keelboat World Championships (Hansa 303) - Para Men
+
+Regata: 2026 World Sailing Inclusion Championships
+Fonte: https://sailing.org/regatta/2026-world-sailing-inclusion-championships?ref=POR202610NUS
+Date: 2026-10-04 - 2026-10-10
+Sede: Portimao, Portugal, Portugal
+Equipaggi/barche classificati: 25
+
+#### Podio
+
+| rank | country | crew | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 1 | POL | Piotr Cichocki | 24 | 32 |
+| 2 | GER | Jens Kroker | 33 | 48 |
+| 3 | POR | Joao Pinto | 40 | 48 |
+
+#### Italiani
+
+| rank | crew | sail_number | net_points | total_points |
+| --- | --- | --- | --- | --- |
+| 6 | Andrea Quarta | ITA 3538 | 80 | 98 |
+| 7 | Davide di Maria | ITA 3773 | 98 | 117 |
+| 8 | MASSIMILIANO RICCIO | ITA 3772 | 106 | 122 |
+| 9 | Vincenzo Gulino | ITA 3759 | 107 | 132 |
+| 18 | Carmelo Forastieri | ITA 3756 | 157 | 182 |

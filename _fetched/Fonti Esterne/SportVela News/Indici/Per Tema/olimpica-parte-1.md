@@ -6,6 +6,8 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 14 Ottobre 2026 | Switch Global Championship a Torbole: Antoniazzi bronzo assoluto, titoli di categoria per Cesana, Bertone e Di Lorenzo | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-14 - Switch-Global-Championship-a-Torbole-Antoniazzi-bronzo-assoluto-titoli-di-categoria-per-Cesana-Bertone-e-Di-Lo - wp9963|nota]] |
+| 14 Ottobre 2026 | VELEZIANA, LA VELEGGIATA HANSA 303 IN BACINO SAN MARCO: IN ACQUA IL CIRCOLO DELLA VELA MESTRE CON VELA MESTRE X TUTTI | XII Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-14 - VELEZIANA-LA-VELEGGIATA-HANSA-303-IN-BACINO-SAN-MARCO-IN-ACQUA-IL-CIRCOLO-DELLA-VELA-MESTRE-CON-VELA-MESTRE-X- - wp9957|nota]] |
 | 13 Ottobre 2026 | Club Nautico Rimini: Federico Poli vince la zonale Ilca | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-13 - Club-Nautico-Rimini-Federico-Poli-vince-la-zonale-Ilca - wp9939|nota]] |
 | 8 Ottobre 2026 | ILCA U21 Europei 2026: a Bodrum 191 velisti da 40 nazioni | News, Vela Olimpica | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - ILCA-U21-Europei-2026-a-Bodrum-191-velisti-da-40-nazioni - wp9826|nota]] |
 | 8 Ottobre 2026 | Brisbane 2032 presenta l’emblema: un cacatua tra fiamma e Queensland | News, Vela Olimpica, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-10-08 - Brisbane-2032-presenta-l-emblema-un-cacatua-tra-fiamma-e-Queensland - wp9822|nota]] |
@@ -254,5 +256,3 @@ Parte 1 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 15 Dicembre 2025 | Avvio impegnativo a Vilamoura per il Mondiale Youth | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-15 - Avvio-impegnativo-a-Vilamoura-per-il-Mondiale-Youth - wp5641|nota]] |
 | 15 Dicembre 2025 | VELA PARALIMPICA IN I ZONA: E’ TEMPO DI BILANCI E DI PROGETTARE IL 2026 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-15 - VELA-PARALIMPICA-IN-I-ZONA-E-TEMPO-DI-BILANCI-E-DI-PROGETTARE-IL-2026 - wp5634|nota]] |
 | 11 Dicembre 2025 | Youth Sailing World Championships 2025: a Vilamoura i futuri protagonisti della vela mondiale giovanile. | Copertina, News, Vela Giovanile, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-11 - Youth-Sailing-World-Championships-2025-a-Vilamoura-i-futuri-protagonisti-della-vela-mondiale-giovanile - wp5584|nota]] |
-| 9 Dicembre 2025 | IMPERIA WINTER REGATTA: VENTO E TANTE REGATE CHIUDONO L’EDIZIONE NUMERO 36 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-09 - IMPERIA-WINTER-REGATTA-VENTO-E-TANTE-REGATE-CHIUDONO-L-EDIZIONE-NUMERO-36 - wp5548|nota]] |
-| 8 Dicembre 2025 | 36ma IMPERIA WINTER REGATTA: TERZA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - 36ma-IMPERIA-WINTER-REGATTA-TERZA-GIORNATA - wp5533|nota]] |

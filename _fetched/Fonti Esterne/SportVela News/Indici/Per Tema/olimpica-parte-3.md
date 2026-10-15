@@ -6,6 +6,8 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 17 Luglio 2024 | Youth Sailing World Championships day 3: vento capriccioso | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-17 - Youth-Sailing-World-Championships-day-3-vento-capriccioso - wp1910|nota]] |
+| 16 Luglio 2024 | Youth Sailing World Championships: day 2. Garda perfetto nel secondo giorno dei Mondiali Giovanili di vela | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-16 - Youth-Sailing-World-Championships-day-2-Garda-perfetto-nel-secondo-giorno-dei-Mondiali-Giovanili-di-vela - wp1904|nota]] |
 | 15 Luglio 2024 | Youth Sailing World Championships: day 1 quasi trenta regate! | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-15 - Youth-Sailing-World-Championships-day-1-quasi-trenta-regate - wp1900|nota]] |
 | 14 Luglio 2024 | Youth Sailing World Championships: domani le prime regate | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-14 - Youth-Sailing-World-Championships-domani-le-prime-regate - wp1893|nota]] |
 | 13 Luglio 2024 | Cerimonia di apertura degli Youth Sailing World Championships | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-13 - Cerimonia-di-apertura-degli-Youth-Sailing-World-Championships - wp1883|nota]] |

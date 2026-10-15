@@ -6,6 +6,9 @@ Parte 3 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 12 Luglio 2024 | Youth Sailing World Championships: domani la cerimonia di apertura | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-12 - Youth-Sailing-World-Championships-domani-la-cerimonia-di-apertura - wp1880|nota]] |
+| 27 Giugno 2024 | Kieler Woche 2024: nella classe 2.4 presenti Squizzato e Di Maria | News, Para Sailing, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-27 - Kieler-Woche-2024-nella-classe-2-4-presenti-Squizzato-e-Di-Maria - wp1857|nota]] |
+| 22 Giugno 2024 | Selezione Team U19 per Youth World Sailing Championships sul Lago di Garda, 12-20 luglio 2024 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-22 - Selezione-Team-U19-per-Youth-World-Sailing-Championships-sul-Lago-di-Garda-12-20-luglio-2024 - wp1844|nota]] |
 | 18 Giugno 2024 | Conclusi i Campionati Europei Windsurfer | News | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-18 - Conclusi-i-Campionati-Europei-Windsurfer - wp1837|nota]] |
 | 11 Giugno 2024 | Consegnata la prima bandiera “La vela per tutti” | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-11 - Consegnata-la-prima-bandiera-La-vela-per-tutti - wp1829|nota]] |
 | 11 Giugno 2024 | Si è concluso il Campionato Nazionale Hansa 303: vittorie per Forastieri e Ramazzotti-Diana | Copertina, News, Para Sailing | [[Fonti Esterne/SportVela News/Articoli/2024/2024-06-11 - Si-e-concluso-il-Campionato-Nazionale-Hansa-303-vittorie-per-Forastieri-e-Ramazzotti-Diana - wp1826|nota]] |

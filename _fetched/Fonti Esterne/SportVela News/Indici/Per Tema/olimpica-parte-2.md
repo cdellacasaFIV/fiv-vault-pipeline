@@ -6,6 +6,8 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 9 Dicembre 2025 | IMPERIA WINTER REGATTA: VENTO E TANTE REGATE CHIUDONO L’EDIZIONE NUMERO 36 | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-09 - IMPERIA-WINTER-REGATTA-VENTO-E-TANTE-REGATE-CHIUDONO-L-EDIZIONE-NUMERO-36 - wp5548|nota]] |
+| 8 Dicembre 2025 | 36ma IMPERIA WINTER REGATTA: TERZA GIORNATA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - 36ma-IMPERIA-WINTER-REGATTA-TERZA-GIORNATA - wp5533|nota]] |
 | 8 Dicembre 2025 | L’Italia vince il primo storico Europeo Team Racing ILCA ad Atene | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-08 - L-Italia-vince-il-primo-storico-Europeo-Team-Racing-ILCA-ad-Atene - wp5527|nota]] |
 | 7 Dicembre 2025 | 36ma Imperia Winter Regatta: Il vento leggero impone un lento procedere | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-07 - 36ma-Imperia-Winter-Regatta-Il-vento-leggero-impone-un-lento-procedere - wp5518|nota]] |
 | 3 Dicembre 2025 | NAZIONALE SWITCH: SECONDO POSTO ASSOLUTO PER FEDERICO BERGAMASCO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-12-03 - NAZIONALE-SWITCH-SECONDO-POSTO-ASSOLUTO-PER-FEDERICO-BERGAMASCO - wp5498|nota]] |
@@ -254,5 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 21 Luglio 2024 | YOUTH SAILING WORLD CHAMPIONSHIPS: LE PAROLE A CALDO DEGLI AZZURRINI SUL GARDA | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-21 - YOUTH-SAILING-WORLD-CHAMPIONSHIPS-LE-PAROLE-A-CALDO-DEGLI-AZZURRINI-SUL-GARDA - wp1924|nota]] |
 | 19 Luglio 2024 | Youth Sailing World Championships: il gran finale si tinge di azzurro | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-19 - Youth-Sailing-World-Championships-il-gran-finale-si-tinge-di-azzurro - wp1918|nota]] |
 | 18 Luglio 2024 | Youth Sailing World Championships day 4: una lunga giornata | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-18 - Youth-Sailing-World-Championships-day-4-una-lunga-giornata - wp1914|nota]] |
-| 17 Luglio 2024 | Youth Sailing World Championships day 3: vento capriccioso | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-17 - Youth-Sailing-World-Championships-day-3-vento-capriccioso - wp1910|nota]] |
-| 16 Luglio 2024 | Youth Sailing World Championships: day 2. Garda perfetto nel secondo giorno dei Mondiali Giovanili di vela | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2024/2024-07-16 - Youth-Sailing-World-Championships-day-2-Garda-perfetto-nel-secondo-giorno-dei-Mondiali-Giovanili-di-vela - wp1904|nota]] |

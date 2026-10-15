@@ -6,6 +6,9 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 
 | Data | Titolo | Categorie | Nota |
 | --- | --- | --- | --- |
+| 2 Aprile 2026 | Modelvela. Attenti a quei 3. Ancora un altro podio tutto romagnolo al Campionato Italiano IOM | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-02 - Modelvela-Attenti-a-quei-3-Ancora-un-altro-podio-tutto-romagnolo-al-Campionato-Italiano-IOM - wp6518|nota]] |
+| 1 Aprile 2026 | STORICO DEBUTTO AD ALBISSOLA: il Golfo ospita la prima spettacolare regata zonale WingFoil | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-04-01 - STORICO-DEBUTTO-AD-ALBISSOLA-il-Golfo-ospita-la-prima-spettacolare-regata-zonale-WingFoil - wp6489|nota]] |
+| 30 Marzo 2026 | Minialtura U25: Concluso il primo raduno al Club Velico Trasimeno. | II Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - Minialtura-U25-Concluso-il-primo-raduno-al-Club-Velico-Trasimeno - wp6466|nota]] |
 | 30 Marzo 2026 | Interzonale Team Race Hansa 303: trionfo dell’XI Zona a Desenzano del Garda | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - Interzonale-Team-Race-Hansa-303-trionfo-dell-XI-Zona-a-Desenzano-del-Garda - wp6457|nota]] |
 | 30 Marzo 2026 | WASZP GAMES 2026: DE SANTIS BRILLA A PENSACOLA | I Zona | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-30 - WASZP-GAMES-2026-DE-SANTIS-BRILLA-A-PENSACOLA - wp6449|nota]] |
 | 29 Marzo 2026 | Nel 2027 i WASZP Games tornano sul Lago di Garda | News, Vetrina | [[Fonti Esterne/SportVela News/Articoli/2026/2026-03-29 - Nel-2027-i-WASZP-Games-tornano-sul-Lago-di-Garda - wp6435|nota]] |
@@ -253,6 +256,3 @@ Parte 2 di 3 (indice spezzato automaticamente oltre 250 righe per restare sincro
 | 12 Settembre 2025 | SI AVVICINA IL MEMORIAL SALVATORE GIUFFRIDA:VELEGGIATA DI BENEFICENZA CON UN PERCORSO SPECIALE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-12 - SI-AVVICINA-IL-MEMORIAL-SALVATORE-GIUFFRIDA-VELEGGIATA-DI-BENEFICENZA-CON-UN-PERCORSO-SPECIALE - wp4279|nota]] |
 | 11 Settembre 2025 | PRESENTATA LA MILLEVELE IREN 2025: GRANDE APPUNTAMENTO IL 20 SETTEMBRE | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-11 - PRESENTATA-LA-MILLEVELE-IREN-2025-GRANDE-APPUNTAMENTO-IL-20-SETTEMBRE - wp4270|nota]] |
 | 9 Settembre 2025 | Tanta Emilia Romagna ai Campionati Italiani Giovanili delle classi in Singolo. | XI Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - Tanta-Emilia-Romagna-ai-Campionati-Italiani-Giovanili-delle-classi-in-Singolo - wp4255|nota]] |
-| 9 Settembre 2025 | Sardinia Sailing Cup 2025 | III Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-09 - Sardinia-Sailing-Cup-2025 - wp4245|nota]] |
-| 7 Settembre 2025 | Conclusi sul Garda Trentino i Campionati Italiani Giovanili in Singolo Kinder Joy of moving 2025 | Copertina, News, Vela Giovanile | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - Conclusi-sul-Garda-Trentino-i-Campionati-Italiani-Giovanili-in-Singolo-Kinder-Joy-of-moving-2025 - wp4202|nota]] |
-| 7 Settembre 2025 | VELE D’EPOCA DI IMPERIA: ARIA E CRIVIZZA TRIONFANO | I Zona | [[Fonti Esterne/SportVela News/Articoli/2025/2025-09-07 - VELE-D-EPOCA-DI-IMPERIA-ARIA-E-CRIVIZZA-TRIONFANO - wp4196|nota]] |
